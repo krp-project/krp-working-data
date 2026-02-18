@@ -1,0 +1,1398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ÖGQ-103-2</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2026-02-16</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="7.59.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <date>2026-02-16T08:07:12Z</date>
+                    <name>ÖGQ-103-2</name>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="Title">122.</titlePart>
+                    <titlePart type="Subtitle">[Freitag] 1919-11-14</titlePart>
+                </docTitle>
+            </titlePage>
+        </front>
+        <body>
+            <div>
+                <head>Dokument-kopf</head>
+                <div>
+                    <head>Vorsitz: </head>
+                    <p>Renner</p>
+                </div>
+                <div>
+                    <head>Anwesend:</head>
+                    <p>Deutsch, Eisler, Eldersch, Glöckl, Hanusch, Löwenfeld-Ruß, Mayr, Miklas,
+                        Paul, Ramek, Reisch, Resch, Tandler, Zerdik</p>
+                </div>
+                <div>
+                    <head>Zugezogen: </head>
+                    <p>Grimm, Krasny, Pokorny (zu Punkt 6), Reich (zu Punkt 6), Richter (zu Punkt
+                        12)</p>
+                </div>
+                <div>
+                    <head>Schriftführer: </head>
+                    <p>unbekannt</p>
+                </div>
+                <div>
+                    <head>Dauer: </head>
+                    <p>15.00–18.30 Uhr</p>
+                </div>
+            </div>
+            <div>
+                <head>Formalia</head>
+                <p>
+                    <hi rend="italic">Reinschrift (39 Seiten), Konzept, stenographische Mitschrift,
+                        Entwurf der TO</hi>
+                </p>
+            </div>
+            <div>
+                <head>Inhalt</head>
+                <list rend="numbered">
+                    <item>
+                        <hi rend="Char_Style_3">Erhöhung der Zuckerpreise und der Tarifpreise für
+                            die Tabakfabrikate.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Zurückziehung des Gesetzentwurfes über die
+                            Rückstellung von Kunst- und historischen Wertgegenständen an
+                            Italien.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Verdienstentgangsentschädigung an die bei der
+                            Bekämpfung des Kriegswuchers mitwirkenden Arbeiter- und Bürgerräte.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Gesetzesbeschlüsse des niederösterreichischen
+                            Landtages über die Trennung einer Reihe von Gemeinden in
+                            Niederösterreich.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Genehmigung von Beschlüssen des
+                            niederösterreichischen Landesausschusses, beziehungsweise Landesrates,
+                            betreffend die Einhebung von Mietzinsauflagen, beziehungsweise von 100 %
+                            übersteigenden Umlagen in mehreren Gemeinden Niederösterreichs.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Gesetzentwurf, betreffend elektrische Anlagen
+                            (Elektrizitätsgesetz); Gesetzentwurf über die
+                            Elektrizitätswirtschaft.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Ausschreibung einer Plankonkurrenz für Neubauten der
+                            technischen Hochschule in Wien.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Verwertung von bisher militärischen Zwecken
+                            dienenden Liegenschaften und Gebäuden.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Entsendung von zwei Mitgliedern des Betriebsrates
+                            der Staatsfabrik Blumau in die Verwaltungskommission.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Gesetzentwurf, betreffend Abänderung einiger
+                            Bestimmungen des Volkspflegestättengesetzes.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Übertragung des Ernennungsrechtes für bestimmte
+                            Angestelltenkategorien an den Unterstaatssekretär im
+                            Volksgesundheitsamte.</hi>
+                    </item>
+                    <item>
+                        <hi rend="Char_Style_3">Kostenbedeckung für die Heimbeförderung der
+                            Kriegsgefangenen.</hi>
+                    </item>
+                </list>
+            </div>
+            <div>
+                <head>Beilagen:</head>
+                <p style="text-align: justify;">– <ref target="#1.">Zu Punkt 1</ref>: Beilage zu
+                    Punkt 1 betr. Bericht des StA. f. Finanzen zur Erhöhung des Zuckerpreises (3
+                    Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#1.">Zu Punkt 1</ref>: Bericht des
+                    StA. f. Finanzen zur Erhöhung der Tarife für Tabakfabrikate (3 Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#2.">Zu Punkt 2</ref>: Referat der
+                    Staatskanzlei Zl. 2555/46 St.K. über den Antrag auf Zurückziehung des
+                    Gesetzesentwurfs über die Rückstellung von Kunst- und historischen
+                    Wertgegenständen an Italien (1 Seite, zweifach)</p>
+                <p style="text-align: justify;">– <ref target="#4.">Zu Punkt 4</ref>: Auszug für den
+                    Vortrag des StA. des Inneren Zl. 40.961 über Gesetzesbeschlüsse des nö.
+                    Landtages zur Trennung einer Reihe von Gemeinden (1 Seite, zweifach)</p>
+                <p style="text-align: justify;">– <ref target="#5.">Zu Punkt 5</ref>: Auszug für den
+                    Vortrag des StA. des Inneren Zl. 40.971 über Beschlüsse des nö.
+                    Landesausschusses bzw. Landesrates zur Einhebung von Mietzinsauflagen bzw. 100 %
+                    übersteigenden Umlagen in mehreren Gemeinden (1 Seite, zweifach)</p>
+                <p style="text-align: justify;">– <ref target="#6.">Zu Punkt 6</ref>: Vorlage der
+                    Staatsregierung eines Gesetzesentwurfs für elektrische Anlagen
+                    (Elektrizitätsgesetz) mit Erläuterungen (56 Seiten, gedruckt)</p>
+                <p style="text-align: justify;">– <ref target="#6." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#6.">6</ref>: Notiz des StA. für Handel und Gewerbe, Industrie und
+                    Bauten zum Elektrizitätsgesetz (2 Seiten), Anschreiben und Begründung (zweifach)
+                    für das Elektrizitätsgesetz (3 Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#6." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#6.">6</ref>: Gesetzesentwurf über die Elektrizitätswirtschaft (6
+                    Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#7." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#7.">7</ref>: Begründung des StA. f. Handel und Gewerbe, Industrie
+                    und Bauten für die Ausschreibung einer Plankonkurrenz für Neubauten der
+                    Technischen Hochschule Wien (2 Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#8." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#8.">8</ref>: Antrag des StA. f. Handel und Gewerbe, Industrie und
+                    Bauten wegen der Verwertung bisher militärischen Zwecken dienenden
+                    Liegenschaften und Gebäude (4 Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#9." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#9.">9</ref>: Antrag des StA. f. Handel und Gewerbe, Industrie und
+                    Bauten wegen der Entsendung zweier Betriebsräte der Staatsfabrik Blumau in die
+                    Verwaltungskommission (4 Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#10." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#10.">10</ref>: Vorlage eines Gesetzesentwurfs über die Abänderung
+                    einiger Bestimmungen des Volkspflegestättengesetzes (des StA. f. soziale
+                    Verwaltung (6 Seiten)</p>
+                <p style="text-align: justify;">– <ref target="#11." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#11.">11</ref>: Antrag des StA. f. soziale Verwaltung auf
+                    Übertragung des Ernennungsrechtes für bestimmte Angestelltenkategorien an den
+                    UStSekr. im Volksgesundheitsamt (2 Seiten, zweifach)</p>
+                <p>– <ref target="#12." xml:space="preserve">Zu Punkt </ref>
+                    <ref target="#12.">12</ref>: Vortrag des StA. f. Heereswesen wegen der
+                    Kostendeckung für den Heimtransport der Kriegsgefangenen (3 Seiten)</p>
+            </div>
+            <div>
+                <head>Protokoll</head>
+                <div>
+                    <head>
+                        <anchor xml:id="1."/> 1.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">E</seg>
+                                <seg rend="italic">rhöhung der Zuckerpreise und der Tari</seg>
+                                <seg rend="italic">fpreise für die Tabakfabrikate.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Dr. Reisch begründet in
+                                ausführlicher Weise den Antrag auf Erhöhung der Zuckerpreise vom 1.
+                                Dezember l. J. angefangen – unter Einrechnung eines 250%igen Agios
+                                der tschechischen Krone – auf rund das Doppelte der gegenwärtigen
+                                Verschleißpreise sowie auf Erhöhung der Tarifpreise für die
+                                Tabakfabrikate um rund 220 % – gleichfalls giltig vom 1. Dezember d.
+                                J. an.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">In der sich hierüber entwickelnden Debatte
+                                machen Staatssekretär Dr. Mayr und Unterstaatssekretär Miklas ihr
+                                Einverständnis zur Tabakpreiserhöhung davon abhängig, dass
+                                gleichzeitig auch eine ausgiebigere Belieferung der Landbevölkerung
+                                mit Rauchmaterial verfügt werde; diesfalls erteilt Sektionschef Dr.
+                                Grimm befriedigende Zusicherungen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3" xml:space="preserve">Der Kabinettsrat genehmigt schließlich in Anbetracht der vom Staatssekretär für Finanzen vorgebrachten zwingenden staatsfinanziellen Gründe die beiden von ihm gestellten Anträge. </hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="2."/> 2.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">Zurückzie</seg>
+                                <seg rend="italic">hung des Gesetzentwurfes über</seg>
+                                <seg rend="italic">die Rückstellung von Kuns</seg>
+                                <seg rend="italic">t-</seg>
+                                <seg rend="italic" xml:space="preserve"> und historischen Wertgegens</seg>
+                                <seg rend="italic" xml:space="preserve">tänden an </seg>
+                                <seg rend="italic">Italien.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Protokoll</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Vorsitzende erinnert daran, dass der
+                                Kabinettsrat in seiner Sitzung am 21. Oktober 1919 die Einbringung
+                                eines Gesetzentwurfes zur Durchführung der Art. 191 und 192 des
+                                Staatsvertrages von St. Germain beschlossen habe. Hiedurch sei die
+                                in der Sitzung des Kabinettsrates vom 13. Mai 1919 genehmigte und in
+                                der Nationalversammlung eingebrachte, jedoch bisher noch nicht
+                                verabschiedete Regierungsvorlage, betreffend die Rückstellung von
+                                Kunst- und historischen Wertgegenständen an Italien gegenstandslos
+                                geworden.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Redner erbitte daher im Einvernehmen mit den
+                                beteiligten Staatsämtern die Ermächtigung zur Rückziehung des
+                                Gesetzentwurfes „betreffend die Rückstellung von Kunst- und
+                                historischen Wertgegenständen an Italien.“</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Kabinettsrat erteilt die erbetene
+                                Ermächtigung.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>3.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_19">
+                                <seg rend="italic">Verdi</seg>
+                                <seg rend="italic" xml:space="preserve">enstentgangsentschädigung an die </seg>
+                                <seg rend="italic">bei der Bekämpfung des Kriegswuchers mitwirkenden
+                                    Arbei</seg>
+                                <seg rend="italic">ter-</seg>
+                                <seg rend="italic">und Bü</seg>
+                                <seg rend="italic">rgerräte</seg>
+                                <seg rend="italic">.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_19">Staatssekretär Eldersch berichtet, dass die mit
+                                Beschluss des Kabinettsrates vom 7. November d. J. eingesetzte
+                                Kabinettskonferenz sich in der Frage der Gewährung von
+                                Verdienstentgangsentschädigungen an die bei der Bekämpfung des
+                                Kriegswuchers mitwirkenden Arbeiter- und Bürgerräte dahin geeinigt
+                                habe, dem Kabinetts</hi>
+                            <hi rend="Char_Style_25">
+                                <seg rend="normalweight">rat zu empfehlen, derartige Entschä</seg>
+                                <seg rend="normalweight" xml:space="preserve">digungen </seg>
+                                <seg rend="normalweight" xml:space="preserve">– </seg>
+                                <seg rend="normalweight">beschränkt</seg>
+                                <seg rend="normalweight" xml:space="preserve"> auf den Betrag des Normallohnes mit Ausschluss de</seg>
+                                <seg rend="normalweight" xml:space="preserve">r Vergütung für Nebenleistungen </seg>
+                                <seg rend="normalweight">(Über</seg>
+                                <seg rend="normalweight" xml:space="preserve">stunden </seg>
+                                <seg rend="normalweight">u.</seg>
+                                <seg rend="normalweight">dgl</seg>
+                                <seg rend="normalweight" xml:space="preserve">.) </seg>
+                                <seg rend="normalweight" xml:space="preserve">– </seg>
+                                <seg rend="normalweight">grundsätzlich zuzu</seg>
+                                <seg rend="normalweight">bill</seg>
+                                <seg rend="normalweight">igen; um Vergleiche mit der Ent</seg>
+                                <seg rend="normalweight">loh</seg>
+                                <seg rend="normalweight">nung der im Kriegswucheramte beschäftigten
+                                    Staatsange</seg>
+                                <seg rend="normalweight">stellten zu verm</seg>
+                                <seg rend="normalweight">eiden, wären diese Entschädigun</seg>
+                                <seg rend="normalweight">gen</seg>
+                                <seg rend="normalweight" xml:space="preserve"> jedoch in der Weise zur Auszah</seg>
+                                <seg rend="normalweight">lung zu bringen,</seg>
+                                <seg rend="normalweight" xml:space="preserve"> dass</seg>
+                                <seg rend="normalweight" xml:space="preserve"> der Arbeitslohn der betreffenden</seg>
+                                <seg rend="normalweight">,</seg>
+                                <seg rend="normalweight" xml:space="preserve"> im Kriegswucheramte derzeit beschäftigten Personen vom Arbeitsgeber voll weitergezahlt und ihm a</seg>
+                                <seg rend="normalweight">us den Mitteln des Kriegswucher</seg>
+                                <seg rend="normalweight">amtes</seg>
+                                <seg rend="normalweight" xml:space="preserve"> rückvergütet wird. Einer beson</seg>
+                                <seg rend="normalweight" xml:space="preserve">deren Regelung bedürfen nur noch die Vergütungen jener Staatsangestellten, bei denen die </seg>
+                                <seg rend="normalweight" xml:space="preserve">Nebengebühren </seg>
+                                <seg rend="normalweight">die Lohn</seg>
+                                <seg rend="normalweight" xml:space="preserve">bezüge </seg>
+                                <seg rend="normalweight" xml:space="preserve">– </seg>
+                                <seg rend="normalweight" xml:space="preserve">wie dies beispielsweise bei </seg>
+                                <seg rend="normalweight" xml:space="preserve">den Eisenbahnbediensteten (Fahrpersonal) der Fall sei </seg>
+                                <seg rend="normalweight" xml:space="preserve">– </seg>
+                                <seg rend="normalweight">erheblich über</seg>
+                                <seg rend="normalweight">steigen. In dieser Hinsicht wür</seg>
+                                <seg rend="normalweight" xml:space="preserve">den die Besprechungen im </seg>
+                                <seg rend="normalweight" xml:space="preserve">Schoße </seg>
+                                <seg rend="normalweight">der Kabinettskonferenz fortgesetzt werden.
+                                    Was die Erfordernisziff</seg>
+                                <seg rend="normalweight">er für die Entschädigungbeträge</seg>
+                                <seg rend="normalweight" xml:space="preserve"> anbelange,</seg>
+                                <seg rend="normalweight">sei die Kabinettskonferenz zur Anschauung
+                                    gelangt,</seg>
+                            </hi>
+                            <hi rend="Char_Style_26">dass</hi>
+                            <hi rend="Char_Style_25">
+                                <seg rend="normalweight" xml:space="preserve"> zunächst das Ergebnis der drei ersten Monate abgewartet werden sollte, worauf dem Kabinettsrate über</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">die Höhe des erforderlichen Kredites Bericht
+                                erstattet werden wird.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Kabinettsrat nimmt die Ausführungen des
+                                sprechenden Staatssekretärs genehmigend zur Kenntnis.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="4."/> 4.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">Ges</seg>
+                                <seg rend="italic">etzesbeschlüsse des niederöster</seg>
+                                <seg rend="italic">reic</seg>
+                                <seg rend="italic">hischen Landtages über die Tren</seg>
+                                <seg rend="italic">nung einer Reihe von Gemeinden in
+                                    Niederösterreich.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Eldersch teilt mit, dass der
+                                niederösterreichische Landtag in seiner Sitzung am 1. Oktober d. J.
+                                Gesetzentwürfe über die Teilung der Ortsgemeinden Ober-Kreuzstetten,
+                                Grafensulz, Zwentendorf, Eichenbrunn, Kronberg, Theras,
+                                Manhartsbrunn, Simonsfeld und Hauskirchen in je zwei selbständige
+                                Ortsgemeinden beschlossen habe. Gegen diese Beschlüsse obwalten
+                                keine Bedenken, da es sich durchwegs um ganze Katastralgemeinden
+                                handle, die abgetrennt werden sollen, und die Lebensfähigkeit der
+                                genannten Gemeinden gesichert erscheine. Im Einvernehmen mit den
+                                Staatssekretären für Finanzen und für Justiz erbitte der sprechende
+                                Staatssekretär vom Kabinettsrate die Ermächtigung, dass von der
+                                Erhebung einer Vorstellung gegen diese Gesetzesbeschlüsse abgesehen
+                                werde.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3" xml:space="preserve">Der Kabinettsrat erteilt die erbetene Ermächtigung. </hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="5."/> 5.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">Geneh</seg>
+                                <seg rend="italic">migung von Beschlüssen des niederösterreichischen
+                                    Landesausschusses be</seg>
+                                <seg rend="italic">ziehungsweise Landesrates,</seg>
+                                <seg rend="italic">be</seg>
+                                <seg rend="italic" xml:space="preserve">treffend die Einhebung von </seg>
+                                <seg rend="italic">Mi</seg>
+                                <seg rend="italic">e</seg>
+                                <seg rend="italic">tzinsauflagen</seg>
+                                <seg rend="italic">beziehungsweise von 100 % übersteigenden Umlagen
+                                    in mehreren Gemeinden Niederösterreichs.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Nach einer Mitteilung des Staatssekretärs
+                                Eldersch hat die niederösterreichische Landesregierung die Erwirkung
+                                der Genehmigung der Staatsregierung für den Beschluss des
+                                niederösterreichischen Landesausschusses vom 14. November 1916,
+                                beziehungsweise für die Beschlüsse des</hi>
+                            <hi rend="Char_Style_30">
+                                <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> ni</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">ederösterreichischen Landesrates vom 20.
+                                Februar, 11., 18. und 19. März, sowie 8. und 29. April 1919
+                                betreffend die Einhebung von Mietzinsauflagen, beziehungsweise von
+                                100 % übersteigenden Umlagen in den Gemeinden Spitz an der Donau,
+                                Stockerau, Mauer bei Wien, Pernitz, Mallersbach, Süssenbach,
+                                Eibenstein, Gross-Pertholz, Watzmanns, Wopfing, Walpersbach,
+                                Winzendorf, Schwallenbach, Wurmbrand, Kollnitzgraben, Amaliendorf,
+                                Kirchau, Hornstein und Altmann beantragt.</hi>
+                        </p>
+                        <p rend="Style 24" style="text-align: justify;">
+                            <hi rend="Char_Style_25">Der Kabinettsrat erteilt dem sprechenden
+                                Staatssekretär die von i</hi>
+                            <hi rend="Char_Style_3">
+                                <seg rend="normalweight">hm</seg>
+                                <seg rend="normalweight" xml:space="preserve"> gleichzeitig erbetene Ermächti</seg>
+                                <seg rend="normalweight">gun</seg>
+                                <seg rend="normalweight">g zur Genehmigung der vorgenann</seg>
+                                <seg rend="normalweight" xml:space="preserve">ten Beschlüsse durch </seg>
+                                <seg rend="normalweight">die Staatsregie</seg>
+                                <seg rend="normalweight">rung.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="6."/> 6.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 24" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic normalweight">Gesetzentwurf,</seg>
+                                <seg rend="italic normalweight" xml:space="preserve"> betreffend elektrische Anlagen (Elektrizitätsgesetz); Ge</seg>
+                                <seg rend="italic normalweight" xml:space="preserve">setzentwurf über die </seg>
+                                <seg rend="italic normalweight">Elektrizitätswirtschaft</seg>
+                                <seg rend="italic normalweight">.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Ing. Zerdik erinnert daran, dass
+                                der vom ehemaligen Staatsamte für öffentliche Arbeiten
+                                ausgearbeitete Entwurf für ein Elektrizitätsgesetz seinerzeit
+                                deshalb nicht in weitere Behandlung genommen worden sei, weil die
+                                Staatskommission für Sozialisierung damals die Vorlage eines
+                                besonderen Gesetzentwurfes über die Sozialisierung der
+                                Elektrizitätswirtschaft in Aussicht genommen habe. Bekanntlich sei
+                                es infolge des Widerspruches der Interessenten, besonders der
+                                Länder, hiezu nicht gekommen. Die Abstandnahme von der
+                                staatsgesetzlichen Regelung dieser Frage habe nun den Übelstand
+                                gezeitigt, dass mehrere Länder zwischenweilig im Wege einer
+                                Novellierung ihrer Wasserrechtsgesetze Bestimmungen über die
+                                Elektrizitätswirtschaft erlassen hätten, welche für die Zukunft eine
+                                einheitliche Regelung dieser Materie für das</hi>
+                            <hi rend="Char_Style_34">
+                                <seg rend="normalweight" xml:space="preserve"> gesamte</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Staatsgebiet erschweren. Um einer weiteren Zersplitterung in diesen Belangen entgegenzuwirken, sei es nun im Interesse einer zweckmäßigen Verwertung der Wasserkräfte unausweichlich, durch ein Staatsgesetz so rasch als möglich wenigstens über die dringendsten Fragen – hiebei kommt zunächst das Elektrizitätswegerecht und des Verfahren in Betracht – Verfügungen zu treffen. Diesfalls seien in dem dem Kabinettsrate vorliegenden Gesetzentwurfe, der auch bereits die Zustimmung der Länder gefunden habe, die entsprechenden Teile des ursprünglichen</hi>
+                            <hi rend="Char_Style_38">
+                                <seg style="font-size:12pt">Elek</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">trizitätswirtschaftsgesetzes zu einem Ganzen
+                                zusammengefasst worden. Um der endgiltigen Regelung der
+                                Elektrizitätswirtschaft nicht vorzugreifen, behalte der § 5 der
+                                Vorlage die Behandlung der Einrichtungen zur planmäßigen Versorgung
+                                des Staatsgebietes mit elektrischer Energie, die Wahrung der
+                                gemeinwirtschaftlichen Rücksichten hiebei sowie die Bestimmungen für
+                                die Errichtung und den Betrieb von Stromlieferungsunternehmungen
+                                ausdrücklich einem besonderen Gesetze vor. Der sprechende
+                                Staatssekretär erbitte sich die Zustimmung des Kabinettsrates zur
+                                Einbringung dieses Gesetzentwurfes in der Nationalversammlung.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3" xml:space="preserve">Anschließend daran unterbreitet der Präsident der Staatskommission </hi>
+                            <hi rend="Char_Style_39" xml:space="preserve">für Sozialisierung dem Kabinettsrate </hi>
+                            <hi rend="Char_Style_3">den Entwurf eines Gesetzes über die
+                                Elektrizitätswirtschaft. Dieses Gesetz habe die Aufgabe den ersten
+                                Abschnitt des Elektrizitätswirtschaftsgesetzes vom Jahre 1918 zu
+                                ersetzen, welches bekanntlich das Konzessionssystem für
+                                Elektrizitätsunternehmungen festlegte. Es beinhalte die Regelung der
+                                Rechte des Staates und der Allgemeinheit gegenüber den
+                                Elektrizitätsunternehmungen und bilde sonach eine notwendige
+                                Ergänzung der vom Staatssekretär Ing. Zerdik eingebrachten Vorlage
+                                über elektrische Anlagen, welches den Unternehmungen nur Rechte
+                                einräume, ohne ihnen korrelate Verpflichtungen aufzuerlegen. Bei den
+                                einschlägigen Beratungen dieses Entwurfes im WEWA sei eine
+                                Übereinstimmung mit den Ländervertretern erzielt worden und sei bei
+                                dessen Textierung auch auf allenfalls mögliche Befürchtungen, die im
+                                Auslande rücksichtlich der Sozialisierung unserer
+                                Elektrizitätswirtschaft gehegt werden könnten, Bedacht genommen
+                                worden. Nicht nur, dass im Titel des Gesetzes der Ausdruck
+                                „Sozialisierung“ entfallen sei, sind im § 1 an die Stelle der früher
+                                als Träger der Elektrizitätswirtschaft in Aussicht genommenen
+                                „gemeinwirtschaftlichen Anstalten“ nunmehr Landesunternehmungen also
+                                auch Gesellschaften gemeinwirtschaftlichen Charakters gesetzt
+                                worden, in denen nach dem Gesetze vom 29. Juli 1919 auch das
+                                Privatkapital Platz finden könne. Bemerkenswert sei ferner, dass der
+                                § 2 ein wichtiges Zugeständnis der Länder enthalte, indem dort die
+                                Zusammenfassung aller Angelegenheiten der Wasserkraft und
+                                Elektrizitätswirtschaft in einer der Staatsregierung unmittelbar
+                                unterstehenden Dienststelle (WEWA) gesetzlich festgelegt erscheine.
+                                Redner erbitte sich sohin die Ermächtigung, den Gesetzentwurf über
+                                die Elektrizitätswirtschaft gleichzeitig mit jenem über die
+                                elektrischen Anlagen (Elektrizitätsgesetz) in der
+                                Nationalversammlung einbringen zu dürfen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Vorsitzende macht aufmerksam, die
+                                Reparationskommission stehe auf dem Standpunkte, dass alles Eigentum
+                                auf österreichischem Gebiete, mithin auch die künftigen
+                                Wasserkraftwerke, für die Wiedergutmachung haften und dass daher zum
+                                Ausbaue der Wasserkräfte die Zustimmung der Reparationskommission
+                                erforderlich sei; letztere würde ihre Zustimmung zweifellos niemals
+                                zu Anlagen bloß für ein einzelnes Land erteilen, sondern eine
+                                einheitliche Bewirtschaftung für alle Wasserkräfte verlangen. Der
+                                Gesetzentwurf über die Elektrizitätswirtschaft müsse daher seiner
+                                Anschauung nach vor allem aus dem Gesichtspunkte beurteilt werden,
+                                ob hiebei dem Staate die Möglichkeit offenbleibe, die Errichtung der
+                                Elektrizitätswerke einheitlich für das ganze Staatsgebiet zu
+                                vergeben und ob die Vorlage nicht vielmehr ein die Entwicklung
+                                behinderndes Präjudiz im Sinne einer Verländerung der
+                                Elektrizitätswirtschaft in sich schließe. Eine derartige Festlegung
+                                würde dem Redner unmöglich erscheinen, da sie uns binnen Kurzem vor
+                                die peinliche Notwendigkeit stellen müsste, das Gesetz wieder außer
+                                Kraft zu setzen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Dr. Ellen</hi>
+                            <hi rend="Char_Style_40">bogen erwidert hierauf, dass</hi>
+                            <hi rend="Char_Style_41">
+                                <seg rend="normalweight" xml:space="preserve">die </seg>
+                            </hi>
+                            <hi rend="Char_Style_3">Landesverwaltungen ohne Rücksicht darauf, ob das
+                                Gesetz zustandekomme oder nicht, auf dem Standpunkte stünden, dass
+                                die Ausnützung der Wasserkräfte eine ihrer Kompetenz unterliegende
+                                Angelegenheit bilde. Der Gesetzentwurf sichere jedoch dem Staate
+                                insoferne den vom Vorsitzenden</hi>
+                            <hi rend="Char_Style_41">
+                                <seg rend="normalweight" xml:space="preserve"> ge</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve">wünschten Einfluss, als der § 2 der Vorlage in dem Wasserkraft- und Elektrizitätswirtschaftsamte eine von den Ländern anerkannte Zentralstelle vorsehe, welche hinsichtlich des ganzen </hi>
+                            <hi rend="Char_Style_45">Staatsgebietes kompetent sein werde. Da eine
+                                weitergehende Einschränkung der Selbständigkeit der Länder
+                                keinesfalls zu erreichen sei, bilde die notwendige Rücksichtnahme
+                                auf die Reparationskommission demnach nur einen Grund mehr, um auf
+                                das Zustandekommen dieses Gesetzes hinzuwirken.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_45" xml:space="preserve">Staatssekretär Dr. Reisch äußert die Befürchtung, dass der vorliegende Entwurf eines Gesetzes über die Elektrizitätswirtschaft und die darin enthaltene Berufung auf das Gesetz über gemeinwirtschaftliche Unternehmungen das Ausland abhalten werden, uns Kapital für den Ausbau der Wasserkräfte zur Verfügung zu stellen. Das ausländische Kapital finde bei dem jetzigen großen Geldbedarfe der Welt überall Anlagsmöglichkeiten; es werde sich daher nur dann Österreich zuwenden, wenn es hier unter günstigeren Bedingungen als anderwärts arbeiten könne. Unsere gesamte wirtschaftliche Zukunft beruhe auf dem Ausbau unserer Wasserkräfte; sie bilden gleichzeitig das wertvollste Pfandobjekt für die Erlangung jener Kredite, die wir zur Sicherstellung unserer einfachsten Lebensnotwendigkeiten bedürfen. Aus eigenen Mitteln vermögen wir aber an diesen Ausbau nicht heranzutreten, </hi>
+                            <hi rend="Char_Style_3">der Staat sei vollständig auf das ausländische
+                                Kapital angewiesen und müsse daher alles vermeiden, was dieses
+                                verscheuchen könnte.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Als weiteres Bedenken gegen den Gesetzentwurf
+                                führt der sprechende Staatssekretär an, dass darin die Verländerung
+                                der Elektrizitätswirtschaft festgelegt werde. Im WEWA vermöge er ein
+                                wirksames Gegengewicht nicht zu erblicken, weil das Gesetz über den
+                                Wirkungskreis dieses Amtes keinerlei Bestimmungen treffe, also noch
+                                ganz dahinstehe, welchen Einfluss der Staat auf die Ausnützung der
+                                Wasserkräfte werde üben können. Ausländisches Kapital werde aber nur
+                                für großzügige Unternehmungen, die sich über das ganze Staatsgebiet
+                                erstrecken, zu erlangen sein.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Von diesen beiden Gesichtspunkten aus
+                                betrachtet, scheine der vorliegende Gesetzentwurf dem Redner
+                                Hindernisse gegen ein Einströmen ausländischen Kapitals
+                                aufzurichten.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Ing. Zerdik erklärt seine
+                                grundsätzliche Zustimmung zur gleichzeitigen Einbringung beider
+                                Gesetzentwürfe. Sollte die Gewinnung des Auslandskapitals von der
+                                Zusammenfassung der Landeselektrizitätsunternehmungen zu einem
+                                einheitlichen Ganzen für das Staatsgebiet bedingt sein,</hi>
+                            <hi rend="Char_Style_52">
+                                <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> so </seg>
+                            </hi>
+                            <hi rend="Char_Style_3">würde der Abs. 2 des § 3 des Gesetzentwurfes
+                                über die Elektrizitätswirtschaft, demzufolge „die
+                                Landeselektrizitätsunternehmungen aus volkswirtschaftlich wichtigen
+                                Gründen die ihnen zustehenden Rechte an andere gemeinwirtschaftliche
+                                Unternehmungen übertragen können“, eine entsprechende Handhabe dazu
+                                bieten.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Unterstaatssekretär Eisler führt an der Hand der
+                                Bestimmungen des § 6 des Entwurfes über die Elektrizitätswirtschaft
+                                den Beweis, dass an diese Vorlage eine stichhältige Befürchtung
+                                weitgehender Sozialisierungsmaßnahmen nicht geknüpft werden könne.
+                                Der Gegensatz zwischen Staat und den Ländern betreffe übrigens auch
+                                nicht die Frage der Sozialisierung, sondern erschöpfe sich lediglich
+                                in Meinungsverschiedenheiten über zentrale oder länderweise
+                                Verwaltung. Dieser Gegensatz werde allerdings durch den Entwurf
+                                nicht vollständig ausgeglichen; die Vorlage sei aber immerhin eine
+                                wesentliche Verbesserung gegenüber dem jetzigen Zustande der
+                                Regellosigkeit, welcher von den Ländern bereits dazu ausgenützt
+                                wurde, sich durch Novellierungen der Landeswasserrechtsgesetze eine
+                                Monopolstellung für die Konzessionierung von Wasserkraftanlagen zu
+                                schaffen. Die Folge davon sei, dass die Länder Konzessionen nach
+                                ihrem Belieben ohne Rücksicht, auf gesamtstaatliche Interessen
+                                verleihen und die Wasserkräfte daher in Einzelunternehmungen
+                                zersplittert werden. Künftig soll eben ein Einfluss des Staates auf
+                                die Landeselektrizitätsunternehmungen sichergestellt und die
+                                Möglichkeit der Zusammenlegung von Einzelunternehmungen angebahnt
+                                werden. Eine straffere Organisation lasse sich bei den
+                                Landesverwaltungen derzeit wohl nicht erreichen. Immerhin könne von
+                                Landeselektrizitätsunternehmungen, in denen sachkundige Personen zur
+                                Mitwirkung berufen sein werden, eine sachlichere Behandlung der
+                                Materie erwartet werden, als von den rein bürokratisch arbeitenden
+                                Landesregierungen. Redner empfehle daher dem Kabinettsrate die
+                                Annahme des vom Präsidenten der Staatskommission für Sozialisierung
+                                eingebrachten Antrages.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Vizekanzler Fink glaubt die Angelegenheit von
+                                dem Standpunkte aus beurteilen zu sollen, dass</hi>
+                            <hi rend="Char_Style_53" xml:space="preserve"> bei</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> der Abgrenzung der Kompetenzen zwischen Staat und den Ländern neben Angelegenheiten, die dem Staate zugehören, und</hi>
+                            <hi rend="Char_Style_53">jenen,</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> die in</hi>
+                            <hi rend="Char_Style_53" xml:space="preserve"> den</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Wirkungskreis der Länder fallen, stets noch eine Gruppe von Angelegenheiten übrigbleibe, die die Interessensphären beider berühren. Zu diesen zähle auch die Frage der Wasserwirtschaft. Hier müsse der</hi>
+                            <hi rend="Char_Style_54">
+                                <seg rend="normalweight" xml:space="preserve"> Staat </seg>
+                            </hi>
+                            <hi rend="Char_Style_3">die Möglichkeit haben,</hi>
+                            <hi rend="Char_Style_54">
+                                <seg rend="normalweight" xml:space="preserve"> die</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Wasserkräfte für seine Zwecke auszunützen, doch dürfen die Länder hievon nicht völlig ausgeschlossen werden. Indem sich der Entwurf auf die Basis der Interessengemeinschaft stelle, strebe er eine gerechte Lösung an und suche von den Ländern, die gegenwärtig das gesamte Verfügungsrecht in wasserwirtschaftlichen Fragen in Händen haben, wenigstens den möglichsten Teil des Einflusses auf den Staat zurückzugewinnen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Unterstaatssekretär Dr. Ellen</hi>
+                            <hi rend="Char_Style_55" xml:space="preserve">bogen kommt auf die Einwendungen </hi>
+                            <hi rend="Char_Style_3">des Staatssekretärs Dr. Reisch zu sprechen und
+                                betont, dass gerade der vorliegende Gesetzentwurf die einzige
+                                Möglichkeit biete, die Länder in der Elektrizitätswirtschaft zu
+                                gemeinsamen großzügigen Unternehmungen zusammenzufassen. Würden die
+                                Länder durch die Zurückstellung des Gesetzes aus ihrer ihnen in
+                                langwierigen Unterhandlungen abgerungenen Zusage entlassen werden,
+                                so könnte in die Elektrizitätswirtschaft überhaupt nie mehr eine
+                                Einheitlichkeit gebracht werden. Die Länder hätten die volle
+                                Bewegungsfreiheit bei Vergebung der Wasserrechte. Diesem Übelstande
+                                werde am besten durch die gesetzliche Festlegung des WEWA abgeholfen
+                                werden. Erfahrungsgemäß seien die Länder nicht im Stande, sich
+                                selbst das erforderliche Kapital zum Ausbaue ihrer Wasserkräfte zu
+                                verschaffen, sie müssen hiezu immer die Vermittlung des WEWA in
+                                Anspruch nehmen. Dabei werde sich stets die Gelegenheit ergeben,
+                                ihre Zustimmung zur Schaffung gemeinsamer Anlagen zu erreichen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Ing. Zerdik vermeint, dass
+                                zwischen den beiden Gesetzen kein Junktim hergestellt und die
+                                Verhandlungen über das Elektrizitätsgesetz nicht aufgehalten werden
+                                dürfen, wenn das Elektrizitätswirtschaftsgesetz auf Widerspruch
+                                stoßen sollte.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3" xml:space="preserve">Staatssekretär Dr. Reisch erblickt das Hauptbedenken gegen den Gesetzentwurf darin, dass er nur gemeinwirtschaftliche Unternehmungen </hi>
+                            <hi rend="Char_Style_57">zulasse. Da sich an solchen das aus</hi>
+                            <hi rend="Char_Style_3">ländische Kapital fraglos nicht beteiligen
+                                werde, sei damit eigentlich der Verzicht auf den Ausbau der
+                                Wasserkräfte überhaupt ausgesprochen, zumal wir aus eigener Kraft
+                                bekanntlich weder die Mittel noch die erforderlichen Rohstoffe
+                                aufzubringen vermögen. Das Gesetz müsse demgemäß so gehalten sein,
+                                dass es für die Verhandlungen mit dem Auslande volle Freiheit
+                                gewähre und uns gestatte, jene Lösung zu wählen, die nach der Lage
+                                des Falles unseren Interessen am besten diene. Der Entwurf stehe
+                                übrigens auch mit den Erklärungen der Regierung im Widerspruch, dass
+                                auf neuerschlossenen Gebieten mit der Sozialisierung nicht
+                                fortgeschritten werden würde.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Dr. Ramek zergliedert das Problem
+                                nach seiner innen- und außenpolitischen Seite. In innerpolitischer
+                                Beziehung bedeute die Vorlage eine Ausgleichung der
+                                Interessengemeinschaft von Staat und Ländern auf dem Gebiete der
+                                Wasserwirtschaft auf einer mittleren Linie und stelle daher einen
+                                Gewinn dar, weil damit der jetzigen Zerfahrenheit in der Ausnützung
+                                der Wasserkräfte ein Ende gesetzt würde. Vom außenpolitischen
+                                Standpunkte jedoch käme in Betracht,</hi>
+                            <hi rend="Char_Style_58" xml:space="preserve"> dass</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> der Gesetzentwurf mit der Verländerung der Wasserwirtschaft e</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">ine</seg>
+                                <seg rend="normalweight" xml:space="preserve"> Verletzung des Friedensvertrages bedeute,</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> weil er</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> öffentliches</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Gut, </hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">das für die</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Wiedergutmachung zu</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> haften </seg>
+                            </hi>
+                            <hi rend="Char_Style_3">habe, durch Übertragung</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> an</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> die</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> Verfü</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">gungsgewalt der Länder dem</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> Zugriffe </seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve">der Entente entziehe. Nach Ansicht </hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">des</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> sprechenden Staatssekretärs</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> sollte </seg>
+                            </hi>
+                            <hi rend="Char_Style_3">daher zunächst noch eine Untersuchung darüber
+                                angestellt werden, ob der Entwurf nicht</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> mit</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> den Bestimmungen des Friedensvertrages im Widerspruche stehe.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3" xml:space="preserve">Der Vorsitzende rückt als entscheidend die Tatsache in den Vordergrund, dass wir aus eigenen Mitteln die Wasserkräfte nicht ausbauen können, sondern unbedingt Auslandskapital hiezu brauchen. Wir hätten auch gar nicht die Wahl, welches Auslandskapital herangezogen werden solle, sondern müssten uns der Entscheidung der Reparationskommission unterwerfen, welche, da aus dem Erträgnisse der Wasserkraftanlage Widergutmachung zu leisten wäre, zweifellos nur das Kapital der Ententeländer zulassen werde. Frankreich und England hätten derzeit keine freien Kapitalien, es käme daher vermutlich nur Amerika als Geldgeber in Betracht. Letzteres aber würde jedenfalls die Übertragung des Ausbaues der gesamten Wasserkräfte des Staatsgebietes nach einem einheitlichen Bauprogramm verlangen und dem dürfte der vorliegende Entwurf hinderlich im Wege stehen, da der Staat über die Wasserkräfte nicht frei verfügen könne, sondern sich erst mit den Ländern auseinandersetzen müsse. Mit Rücksicht auf diesen Zusammenhang dürfte also in der Vorlage noch ein Vorbehalt des Inhaltes nötig sein, dass dem Staate die Möglichkeit eingeräumt werde, einem etwaigen Verlangen der Reparationskommission Rechnung zu tragen, sonach der Ausbau der gesamten Elektrizitätswerke des Staatsgebietes </hi>
+                            <hi rend="Char_Style_66">
+                                <seg style="font-size:12pt">einer</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Au</hi>
+                            <hi rend="Char_Style_66">
+                                <seg style="font-size:12pt">s</seg>
+                                <seg style="font-size:12pt">landsges</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">ellschaft für eine</hi>
+                            <hi rend="Char_Style_66">
+                                <seg style="font-size:12pt" xml:space="preserve"> be</seg>
+                                <seg style="font-size:12pt">stimmte Zeit</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> als Monopol zu überlassen sei.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Dr. Reisch bezeichnet es als
+                                wesentlich, die Monopolstellung der gemeinwirtschaftlichen
+                                Elektrizitätsunternehmungen aus dem Gesetze zu entfernen; ihre
+                                Beibehaltung würde vom Auslande als Schlagwort und Beweis für den
+                                Fortbestand von Sozialisierungsbetrebungen ausgenützt werden und
+                                müsste daher die Kreditverhandlungen aller Art empfindlich stören.
+                                Der einzige Vorteil, den das Elektrizitätswirtschaftsgesetz bringt,
+                                sei der in der Errichtung des WEWA zum Ausdruck gelangende
+                                Zentra</hi>
+                            <hi rend="Char_Style_67">lisationsgedanke. Zur gesetzlichen Festlegung
+                                des</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> WEWA</hi>
+                            <hi rend="Char_Style_67" xml:space="preserve"> sei</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> aber</hi>
+                            <hi rend="Char_Style_67" xml:space="preserve"> die</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> Erlas</hi>
+                            <hi rend="Char_Style_67">sung eines eigenen</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> Elektr</hi>
+                            <hi rend="Char_Style_67" xml:space="preserve">izitätswirtschaftsgesetzes nicht erforderlich, </hi>
+                            <hi rend="Char_Style_68">dieser</hi>
+                            <hi rend="Char_Style_67" xml:space="preserve"> Zweck könnte vielmehr ebenso gut dadurch erreicht werden, dass die be</hi>
+                            <hi rend="Char_Style_68">zügliche</hi>
+                            <hi rend="Char_Style_67" xml:space="preserve"> Bestimmung</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> in</hi>
+                            <hi rend="Char_Style_67" xml:space="preserve"> das Gesetz</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> über </hi>
+                            <hi rend="Char_Style_67">elektrische Anlagen aufgenommen werde.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_67">Unterstaatssekretär Dr. Eis</hi>
+                            <hi rend="Char_Style_69" xml:space="preserve">ler verweist darauf, dass bei dem </hi>
+                            <hi rend="Char_Style_67">gegenwärtigen Rechtszustande die Länder auf dem
+                                Gebiete der Elektrizitätswirtschaft bereits viel mehr sozialisieren,
+                                als es nach der Gesetzesvorlage möglich wäre. Werde das
+                                Zustandekommen des Gesetzes verzögert, so würden die Länder
+                                voraussichtlich schon binnen Kurzem alle Wasserkräfte vergeben
+                                haben, die dann bei einer späteren Vereinheitlichung der
+                                Kraftanlagen nur um hohe Entschädigungssummen abgelöst werden
+                                könnten. Den Befürchtungen über Sozialisierungstendenzen könnte
+                                durch eine entsprechende Fassung des § 3 der Vorlage etwa in der Art
+                                Rechnung getragen werden, dass den Ländern die Verpflichtung
+                                auferlegt werde, die Landeselektrizitätsunternehmungen von sich aus
+                                zu schaffen.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_67">Sektionschef Dr. Krasny führt aus, dass der
+                                Gesetzentwurf aus der Zwangslage entsprungen sei, gegenü</hi>
+                            <hi rend="Char_Style_3">ber der regellosen Konzessionsvergebung in den
+                                Ländern raschest Ordnung zu schaffen. Für die Beteiligung
+                                ausländischen Kapitals könnte im Rahmen des Gesetzes ein Weg etwa
+                                dadurch gefunden werden, dass die Landeselektrizitätsunternehmungen
+                                zwar als primäre Träger der Bau- und Betriebsrechte erscheinen,</hi>
+                            <hi rend="Char_Style_70">
+                                <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> aber ermächtigt</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> werden, ihre Rechte an andere Unternehmungen zu übertragen, die nicht zwingend eine gemeinwirtschaftliche Form zu haben brauchen, sondern auch freie Gesellschaften sein können. Solche Bau- und Betriebsgesellschaften wären möglich für Einzelwerke oder für alle Werke eines Landes oder schließlich für alle Werke des ganzen Staates. Die Übertragung der Bau- und Betriebsrechte an die Gesellschaft könnte in der Form des Abschlusses von Bau- und Betriebsverträgen mit den Landesunternehmungen geschehen, die</hi>
+                            <hi rend="Char_Style_71">
+                                <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> ungefähr</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> den jetzigen Konzessionen entsprächen. Bei dieser Lösung würden alle Bedenken des Auslandes gegen Kapitalsinvestitionen bei unseren Wasserkraftwerken schwinden, zumal das Auslandskapital von jeher gewöhnt sei, den Bau und Betrieb auch in solchen Fällen zu führen, wo sich die Berechtigung in den Händen Dritter befinde.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Dr. Reisch hält den Vorschlag des
+                                Vorredners für sehr beachtenswert, erblickt jedoch gewisse Bedenken
+                                noch darin, dass keine Möglichkeit bestünde, die
+                                Landes-Elektrizitätsunternehmungen zur Übertragung ihrer Rechte an
+                                Bau- und Betriebsgesellschaften zu zwingen; ohne einen solchen Zwang
+                                würde sich jedoch seiner Auffassung nach die notwendige
+                                Einheitlichkeit nicht erzielen lassen.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Vizekanzler Fink misst dem Zustandekommen eines
+                                Gesetzes im Sinne des vorliegenden Entwurfes deshalb eine erhöhte
+                                Bedeutung bei, weil der darin zum Ausdrucke gebrachte
+                                Kompetenzenausgleich zwischen Staat und Ländern seiner Ansicht nach
+                                Erleichterungen für die Verhandlungen der Staatsregierung über die
+                                Verfassung bringen würde. Den vom Vorsitzenden und vom
+                                Staatssekretär für Finanzen geforderten Rücksichten könnte in der
+                                Weise Rechnung getragen werden, dass den Ländern alternativ die
+                                Möglichkeit eingeräumt werde, die Elektrizitätswirtschaft entweder
+                                durch gemeinwirtschaftliche Unternehmungen oder aber auch durch
+                                privatwirtschaftliche Gesellschaften führen zu lassen, wobei jedoch
+                                für den letzteren Fall die Zustimmung auch des Staates ausdrücklich
+                                als Erfordernis aufgestellt werden müsste.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Vorsitzende schlägt vor, dem § 1 des
+                                Elektrizitätswirtschaftsgesetzes bei gleichzeitiger Streichung des
+                                Absatzes 2 des § 3 einen zweiten Absatz des Inhaltes anzufügen, dass
+                                „der Bau und Betrieb der Wasserkraftwerke in mehreren oder allen
+                                Ländern im Einvernehmen untereinander und mit der Staatsregierung
+                                besonderen Bau- und Betriebsgesellschaften übertragen werden könne.“
+                                Den Ländern müsste der Grund dieser Abänderung in entsprechender
+                                Weise dahin erläutert werden, dass das Gesetz in der jetzigen Form
+                                bloß für den Fall des Ausbaues unserer Wasserwerke [sic! müsste
+                                Wasserkräfte lauten] mit eigenen Mitteln passe und die vorgenommene
+                                Erweiterung den Zweck verfolge, auch für den Fall des Ausbaues und
+                                Betriebes der Werke durch ausländisches Kapital vorzusorgen. In
+                                diesem Zusammenhange wären die Länder auch über den Standpunkt der
+                                Reparationskommission zu informieren, wonach der Ausbau der
+                                Wasserkräfte an die Zustimmung der Ententemächte gebunden erscheine
+                                und die Reparationskommission nicht länderweise Verhandlungen,
+                                sondern nur Abmachungen über den Ausbau aller Wasserkräfte des
+                                ganzen Staatsgebietes nach einem einheitlichen Programme zuzulassen
+                                gedenke.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Schließlich regt Staatssekretär Dr. Reisch noch
+                                die Streichung jener Bestimmung des § 19 des Elektrizitätsgesetzes
+                                an, wonach durch die Erklärung der Starkstromleitungen
+                                einschließlich der</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> Schalt-</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> und Transformatorenanlagen als Zugehör der Stromerzeugungsstätte ihre gebührenrechtliche Behandlung als bewegliche Sache nicht berührt wird, weil darin eine bedenkliche Durchbrechung des gebührenrechtlichen Grundsatzes liege, dass das Zugehör das Schicksal der Hauptsache zu teilen habe.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Nach Aufklärungen des Ministerialrates Dr.
+                                Pokorny über den Zweck dieser Bestimmung kommt ein Einverständnis in
+                                der Richtung zustande, dass der Schlusssatz des ersten Absatzes des
+                                § 19 zu streichen sei.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3" xml:space="preserve">Der Vorsitzende verweist abschließend darauf, dass die abgeführte Debatte die ursprünglichen Meinungsverschiedenheiten soweit geklärt habe, dass deren Bereinigung im Wege einer einverständlichen Festsetzung des Wortlautes der Vorlage möglich erscheine; er stelle daher den Antrag, der Kabinettsrat wolle eine aus dem Vizekanzler Fink, dem Präsidenten der Sozialisierungskommission Staatssekretär Dr. Ellenbogen, sowie den Staatssekretären Dr. Reisch, </hi>
+                            <hi rend="Char_Style_79" xml:space="preserve">Stöckler und Ing. Zerdik </hi>
+                            <hi rend="Char_Style_3">bestehende Kabinettskonferenz mit der Aufgabe
+                                betrauen, die beiden vorliegenden Gesetzentwürfe hinsichtlich ihres
+                                Wortlautes miteinander in Einklang zu bringen und weiters dem
+                                Elektrizitätswirtschaftsgesetze im Sinne des Ergebnisses der Debatte
+                                ergänzende Bestimmungen, betreffend die Übertragung des Baues und
+                                Betriebes von Wasserkraftanlagen an Bau- und Betriebsgesellschaften
+                                einzufügen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Kabinettsrat stimmt diesem Antrage zu und
+                                genehmigt gleichzeitig die Einbringung der beiden Vorlagen in ihrer
+                                aus den Beschlüssen der Kabinettskonferenz hervorgehenden Fassung in
+                                der Nationalversammlung.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="7."/> 7.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">Ausschreibung einer Plankonferenz</seg>
+                                <seg rend="italic">für</seg>
+                                <seg rend="italic" xml:space="preserve"> Neubauten der technischen Hochschule in Wien.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Ing. Zerdik erbittet sich die
+                                Ermächtigung des Kabinettsrates, zum Zwecke der Erlangung
+                                künstlerischer Baupläne für die Neubauten der chemischen und der
+                                Maschinenbauschule an der technischen Hoch</hi>
+                            <hi rend="Char_Style_68">schule in</hi>
+                            <hi rend="Char_Style_82" xml:space="preserve"> Wien</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> auf den</hi>
+                            <hi rend="Char_Style_82" xml:space="preserve"> Baugründen</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> nächst </hi>
+                            <hi rend="Char_Style_82">dem Aspangbahnhofe einen Planwettbewerb unter
+                                den heimischen</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> Baukünst</hi>
+                            <hi rend="Char_Style_82">lern mit einem Maximalkostenaufwande von
+                                500.000 K ausschreiben und Vorsorge für</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> die</hi>
+                            <hi rend="Char_Style_82" xml:space="preserve"> Sicherstellung</hi>
+                            <hi rend="Char_Style_68" xml:space="preserve"> dieses </hi>
+                            <hi rend="Char_Style_82">budgetären Erfordernisses treffen zu
+                                dürfen.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_82">Diese Plankonkurrenz sei als Notstandsaktion
+                                für die augenblicklich unter Beschäftigungslosigkeit leidenden
+                                Architekten gedacht; sie sei diesen vom sprechenden Staatssekretär
+                                auf Grund einer seinerzeitigen Kreditzusage des vormaligen
+                                Staatssekretärs Dr. Schumpeter auch bereits in sichere Aussicht
+                                gestellt worden.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_82">Staatssekretär Dr. Reisch und Sektionschef Dr.
+                                Grimm erheben gegen die Aufwendung einer Summe von 500.000 K für
+                                diesen Zweck Einwendungen und sprechen sich überhaupt gegen die
+                                Veranstaltung einer Plankonkurrenz für Bauten aus, deren Ausführung
+                                der enormen Kosten wegen derzeit gar nicht in Erwägung gezogen
+                                werden könnte.</hi>
+                        </p>
+                        <p rend="Style 44" style="text-align: justify;">
+                            <hi rend="Char_Style_82" xml:space="preserve">Nachdem sich Staatssekretär Ing. </hi>
+                            <hi rend="Char_Style_84" xml:space="preserve">Zerdik mit der Herabminderung </hi>
+                            <hi rend="Char_Style_82" xml:space="preserve">des bezüglichen Kostenaufwandes auf </hi>
+                            <hi rend="Char_Style_3">300.000 K einverstanden erklärt hatte, erteilt
+                                der Kabinettsrat schließlich dem gestellten Antrag seine
+                                Zustimmung.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="8."/> 8.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 44" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">Verwertung von bisher militärischen Zwecken
+                                    dienenden Liegenschaften und Gebäuden.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_90">U</hi>
+                            <hi rend="Char_Style_3">m einerseits die in Wien herrschende Wohnungsnot
+                                wirksam bekämpfen und andererseits eine Reihe dringend notwendiger
+                                Wohlfahrtseinrichtungen ins Leben rufen zu können, erbittet
+                                Staatssekretär Ing. Zerdik einen Beschluss des Kabinettsrates, dass
+                                das Staatsamt für Heerwesen möglichst rasch eine örtliche
+                                Zusammenlegung der noch bestehenden militärischen Kommandos, wie
+                                auch eine Beschleunigung der im Zuge befindlichen
+                                Liquidierungsarbeiten, ferner eine möglichst</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> intensive</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Ausnützung der Kase</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">rnen</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> zu</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> veran</seg>
+                                <seg rend="normalweight">lassen</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> habe, damit in kürzester Zeit eine Anzahl größerer moderner Gebäude, </hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">wie</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> beispielsweise das Gebäude des ehemaligen Kriegsministeriums, jenes der Marinesektion, des Korpskommandos, des Landesverteidigungsministeriums, ferner die Schwarzenbergkaserne, die Radetzkykaserne</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight" xml:space="preserve"> etc.</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> geräumt und der zivilen Staatsverwaltung zur Benützung übergeben werden können. Um die Regelung dieser Angelegenheit in einer den zivilstaatlichen und den Bedürfnissen des Heerwesens entsprechenden Weise durchzuführen, hätte sich</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">das</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">Staatsamt für Heerwesen unverzüglich mit dem
+                                Staatsamte für Handel und Gewerbe, Industrie und Bauten
+                                beziehungsweise mit der bei diesem Staatsamte eingesetzten
+                                zwischenstaatsamtlichen Kommission für die Verwertung freiwerdender
+                                militärischer Liegenschaften und Gebäude ins Einvernehmen zu setzen
+                                und alle, die einschlägigen Unterbringungsfragen berührenden
+                                Angelegenheiten zu beraten.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Dr. Deutsch erklärt, dass alle
+                                entbehrlichen militärischen Baulichkeiten ohnedies schon freigegeben
+                                worden seien und</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> es</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> nicht angehe, die Befriedigung aller neu auftauchenden Raumbedürfnisse immer nur</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> von der</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Heeresverwaltung</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> zu</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> verlangen. Es wäre zweckmäßig, diese Ge</hi>
+                            <hi rend="Char_Style_62">bäudefragen einheitlich</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> für alle Ressorts zu behandeln und</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> dazu eine</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> gemeinsame</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> Kommission</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> ins Leben</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> zu </hi>
+                            <hi rend="Char_Style_3">rufen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Kabinettsrat beschließt, eine
+                                zwischenstaatsamtliche Kommission, bestehend aus je einem Vertreter
+                                sämtlicher Staatsämter einzusetzen, welche alle die Verwendung
+                                staatlicher Gebäude betreffenden Fragen zu erledigen haben wird. Mit
+                                der Führung dieser Angelegenheit wird das Staatsamt für Handel und
+                                Gewerbe, Industrie und Bauten betraut, dem auch die Einberufu</hi>
+                            <anchor xml:id="bookmark16"/>
+                            <hi rend="Char_Style_3">ng der Kommission obliegen wird.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="9."/> 9.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_93">
+                                <seg rend="italic normalweight">Entsendung von zwei Mitgliedern des
+                                    Betriebsrates der Staatsfabrik Blumau in die
+                                    Verwaltungskommission.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Ing. Zerdik berichtet, dass
+                                gelegentlich der Verhandlungen zur Abstellung gewisser Übelstände,
+                                die sich aus der Tätigkeit des Arbeiterrates der Staatsfabrik Blumau
+                                ergeben haben, von der Arbeiterschaft die Berufung von zwei
+                                Vertretern des Betriebsrates mit Sitz und Stimme in die
+                                Verwaltungskommission begehrt worden sei. Diese Forderung sei mit
+                                der Maßgabe, dass aus Gründen der Fabriksdisziplin gleichzeitig auch
+                                der Direktor der Fabrik in der Verwaltungskommission Sitz und Stimme
+                                zu erhalten hätte, der Verwaltungskommission vorgelegt, von ihr aber
+                                aus sachlichen Erwägungen und mit der Begründung abgelehnt worden,
+                                dass die Erweiterung des Mitgliederkreises der Verwaltungskommission
+                                eine Änderung ihrer Dienstinstruktion bedinge, zu deren Vornahme sie
+                                nicht zuständig sei.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">Auch unter</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> den</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">mit dieser Angelegenhei</seg>
+                                <seg rend="normalweight">t in</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> der</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">Folge befass</seg>
+                                <seg rend="normalweight">ten Staats</seg>
+                                <seg rend="normalweight">ä</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">mtern</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">s</seg>
+                                <seg rend="normalweight">ei eine</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Einigung bisher nicht </hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">zu</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> erzielen</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">gewesen</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">. Inzwischen hätten sich aber neuerliche
+                                Fälle</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">von</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Ein</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">griffen des</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Arbeiterrates</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">in</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> die Bet</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">riebsführung</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> der Staatsfabrik ergeb</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">en</seg>
+                                <seg rend="normalweight">,</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> denen nach Ansicht des Vorsitzenden der Verwaltungskommission am besten durch die Berufung</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> von Vertretern</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> des Betriebsrates</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> in die</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Verwaltungskommission abgeholfen</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> werden</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> könnte, weil </hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">dann</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> die Arbeiter die Verantwortung für die Betriebsführung mitzutragen und Gelegenheit hätten, sich von allen Vorgängen unmittelbar zu überzeugen. </hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Im Falle dieser Erweiterung der
+                                Verwaltungskommission müsste auch</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">eine</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">Änderung ihrer Geschäftsordnung vorgenommen
+                                werden. Bei der bisherigen Zahl von fünf Mitgliedern sei für alle
+                                Beschlüsse Stimmeneinhelligkeit erforderlich</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">gewesen, die sich aber</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> künftig bei acht Mitgliedern nicht leicht werde erzielen lassen. Die Geschäftsordnung wäre demgemäß dahin abzuändern, dass zu einem Beschlusse Stimmenmehrheit mit der Maßgabe</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">genüge,</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">dass</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">bei</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve">Stimmengleichheit die Stimme des Vorsitzenden den Ausschlag gebe und dass </hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">in</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> allen mit Belastungen des</hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">Staates</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">verbundenen Fragen ohne Zustimmung des
+                                Vertreters des Staatsamtes für Finanzen ein giltiger Beschluss nicht
+                                gefasst werden könne.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Redner erbitte daher einen Beschluss des
+                                Kabinettsrates, dass je ein Vertreter des Betriebsrates der
+                                Angestellten und Arbeiter der Staatsfabrik Blumau und der Direktor
+                                dieses Betriebes in der Verwaltungskommission Sitz und Stimme
+                                erhalten und die Geschäftsordnung im oben angegebenen Sinne geändert
+                                werde.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Kabinettsrat beschließt im Sinne des
+                                gestellten Antrages.</hi>
+                            <anchor xml:id="bookmark18"/>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="10."/> 10.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">Geset</seg>
+                                <seg rend="italic" xml:space="preserve">zentwurf, betreffend Abänderung </seg>
+                                <seg rend="italic">einiger Bestimmungen des Volkspflege</seg>
+                                <seg rend="italic">s</seg>
+                                <seg rend="italic">tättengesetze</seg>
+                                <seg rend="italic">s.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3" xml:space="preserve">Staatssekretär Hanusch führt aus, dass es sich als unmöglich herausgestellt habe, die im § 6 des </hi>
+                            <hi rend="Char_Style_61">
+                                <seg rend="normalweight">Gesetzes</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> über die Errichtung und Unterbringung von Volkspflegestätten vorgesehene grundbücherliche Anmerkung über die Inanspruchnahme von Liegenschaften für diese Zwecke innerhalb des dafür bis 31. Dezember 1919 festgesetzten Termines durchzuführen. Es erscheine daher eine Verlängerung der Fristen des erwähnten Gesetzes bis zum 30. Juni 1920 notwendig, zu welchem Zwecke der vom Redner dem Kabinettsrate vorgelegte Gesetzentwurf in der Nationalversammlung eingebracht werden soll.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Kabinettsrat erteilt zur Einbringung dieses
+                                Gesetzentwurfes seine Zustimmung.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="11."/> 11.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic">Ü</seg>
+                                <seg rend="italic">b</seg>
+                                <seg rend="italic">ertragung des Ernennungsrechtes für bestimmte
+                                    Angestelltenka</seg>
+                                <seg rend="italic">tegorien</seg>
+                                <seg rend="italic">an den</seg>
+                                <seg rend="italic" xml:space="preserve"> Unterstaatssekretär im Volksgesundheitsamte.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Hanusch gibt bekannt, dass er im
+                                Sinne des Kabinettsbeschlusses vom 31. Oktober l. J. über die
+                                Regelung</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> der</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Stellung </hi>
+                            <hi rend="Char_Style_62">der</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Unterstaatssekretäre</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> dem mit</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> der Leitung des Volksgesundheitsamtes als eines relativ selbständigen</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> Amtes</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> des Staatsamtes</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> für</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> soziale Verwaltung betrauten Unterstaatssekretär das Ernennungsrecht hinsichtlich des gesamten Personales des Volksgesundheitsamtes, dann des amtsärztlichen Personales</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> der</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Landesregierungen und der politischen Bezirks- und Polizeibehörden sowie der dem Volksgesundheits</hi>
+                            <hi rend="Char_Style_62">amte</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> unterstehenden staatlichen oder Fondskrankenanstalten im Rahmen</hi>
+                            <hi rend="Char_Style_105">
+                                <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> des</seg>
+                            </hi>
+                            <hi rend="Char_Style_3">Wirkungskreises des Staatssekretärs zu
+                                übertragen und ihn zu ermächtigen gedenke, auch die Beförderungs-
+                                bzw. Auszeichnungsanträge an den Präsidenten, bezüglich der
+                                Angehörigen der erwähnten Dienstkategorien direkt zu stellen und
+                                vorher im Kabinettsrate zu vertreten. Bei Stellenbesetzungen, die
+                                politische Auswirkungen zeitigen können, hätte der
+                                Unterstaatssekretär jedoch zunächst dem Staatssekretär für soziale
+                                Verwaltung zu berichten und dessen Weisung einzuholen.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Der Kabinettsrat nimmt diese Absicht des
+                                Staatssekretärs für soziale Verwaltung genehmigend zur
+                                Kenntnis.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="12."/> 12.</head>
+                    <div>
+                        <head>Regest</head>
+                        <p rend="Style 2" style="text-align: center;">
+                            <hi rend="Char_Style_3">
+                                <seg rend="italic" xml:space="preserve">Kostenbedeckung für die Heimbeförderung </seg>
+                                <seg rend="italic">der Kriegsgefangenen.</seg>
+                            </hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>Text</head>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Über Ersuchen des Vorsitzenden teilt
+                                Abgeordneter Richter als Vizepräsident der Staatskommission für
+                                Kriegsgefangenen- und Zivilinterniertenangelegenheiten mit,</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> dass</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Amerika nach einem vom schwedischen Roten Kreuz vermittelten Anbot seine Bereitwilligkeit erklärt habe, Tonnage für den Heimtransport der ungefähr 60.000 österreichischen Kriegsgefangenen in Sibirien zur Verfügung</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> zu</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> stellen und</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> dass</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> nach einer Verständigung durch das Internierten-Kriegsgefangenenkomitee in Bern mit diesem Heimtransport sofort begonnen werden könnte, sofern Österreich ein Depositum von 200 Dollars für jeden Kriegsgefangenen, mithin 1,3 Milliarden K in ausländischer Valuta in Amerika oder einem neutralen Staate zur Sichers</hi>
+                            <hi rend="Char_Style_108">
+                                <seg rend="normalweight" style="font-size:12pt">tellung</seg>
+                            </hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> des Kostenrückersatzes erlege; Redner erbitte dringend eine Entscheidung des Kabinettsrates über die Aufbringung dieses Betrages, da es schon aus politischen Gründen nicht angehe, die Heimkehr der Kriegsgefangenen aus Sibirien lediglich wegen finanzieller Fragen zu verzögern.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Sektionschef Dr. Grimm erklärt, dass der Staat
+                                über ausländische Zahlungsmittel in der angeforderten Höhe nicht
+                                verfüge und das Staatsamt für Finanzen daher den Ausweg versucht
+                                habe, über St. Germain von Amerika die Zustimmung dazu zu erlangen,
+                                dass für Zwecke dieser Sicherstellung die Guthaben österreichischer
+                                Banken in Amerika herangezogen werden dürfen. Diese Bankguthaben,
+                                deren Inanspruchnahme an sich bedenklich sei, weil die Mehrzahl der
+                                Einleger Angehörige der Nationalstaaten sind, würden natürlich bei
+                                weitem nicht hinreichen, weshalb daher hauptsächlich getrachtet
+                                werden müsse, von der Reparationskommission die erforderlichen
+                                Kredite für diese Kriegsgefangenenheimsendung zu erhalten.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Vizekanzler Fink ist der Anschauung, dass es
+                                sich hier um eine Angelegenheit handle, die fast jeden Staatsbürger
+                                persönlich berühre, so dass vielleicht durch eine innere Anleihe die
+                                nötigen Beträge aufgebracht werden könnten.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Staatssekretär Dr. Reisch bezeichnet den Weg
+                                einer inneren Anleihe als ungangbar, weil es sich um die Beschaffung
+                                ausländischer Zahlungsmittel handle und diese in solchen Beträgen
+                                gegen Kronen überhaupt nicht mehr zu haben seien.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Vizepräsident Richter glaubt, dass Amerika kaum
+                                die ganze Summe von zwölf Millionen Dollar in Anspruch nehmen und
+                                die Sicherstellung eines Betrages von 4–5 Millionen Dollar genügen
+                                dürfte, damit der Heimtransport in Angriff genommen werden könne.
+                                Bei der Stimmung in Amerika wäre es nicht unwahrscheinlich, dass wir
+                                diesen Betrag von den dortigen Bürgern im Wege einer Anleihe
+                                erhalten könnten.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Nach dem Antrage des Vor</hi>
+                            <hi rend="Char_Style_79">sitzenden beschließt der Ka</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve">binettsrat, das Staatsamt für Finanzen zu beauftragen, im Einvernehmen mit dem Präsidium der Staatskommission für Kriegsgefangenen- und Zivilinterniertenangelegenheiten ein Schreiben </hi>
+                            <hi rend="Char_Style_62">zu</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> verfassen, in welchem die Vereinigten Staaten von Nordamerika ersucht werden, entweder den Heimtransport der Kriegs</hi>
+                            <hi rend="Char_Style_62">gefangenen aus</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Sibirien vorläufig aus eigenen Mitteln gegen späteren Kostenrückersatz</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> zu</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> besorgen</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> oder</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> uns ein Darlehen zur Befriedigung</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> der</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Schiffahrtsgesellschaften</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> zu</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> gewähren oder aber</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> zu</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> gestatten, dass</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> unter der </hi>
+                            <hi rend="Char_Style_3">amerikanischen Bürgerschaft eine Agitation
+                                für</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> eine Kr</hi>
+                            <hi rend="Char_Style_3">iegsgefangenenanleihe eingeleitet werde, durch
+                                die wir in den Besitz der erforderlichen Mittel gelangen
+                                könnten.</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> Dieses</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Schreiben wäre offiziell im Wege unserer Vertretung in St. Germain</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> an</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> den Obersten Rat und durch diesen</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> an die</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> amerikanische Regierung zu leiten, gleichzeitig aber auch der Reparationskommission mit dem Ersuchen, um Förderung unseres Anliegens bekannt zu geben.</hi>
+                        </p>
+                        <p rend="Style 2" style="text-align: justify;">
+                            <hi rend="Char_Style_3">Schließlich beschließt der Kabinettsrat im Sinne
+                                eines vom Unterstaatssekretär Miklas gestellten Antrages, dass nach
+                                Absendung dieses Schreibens auch die breite Öffentlichkeit im
+                                Gegenstande aufzuklären und ihr an der Hand der Tatsachen bekannt zu
+                                geben ist, dass regierungsseitig alles getan wurde, um</hi>
+                            <hi rend="Char_Style_62" xml:space="preserve"> das</hi>
+                            <hi rend="Char_Style_3" xml:space="preserve"> Los dieser Kriegsgefangenen nach Möglichkeit zu mildern.</hi>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
