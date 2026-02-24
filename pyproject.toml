@@ -3,9 +3,11 @@ name = "krp-working-data"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
     "acdh-tei-pyutils>=1.6",
+    "lxml",
+    "requests",
 ]
 
 [dependency-groups]
