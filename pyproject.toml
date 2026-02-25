@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "acdh-tei-pyutils>=1.6",
-    "lxml",
+    "lxml>=4.5",
     "requests",
 ]
 
