@@ -15,7 +15,8 @@ JSON_URL = "https://raw.githubusercontent.com/krp-project/krp-baserow-dump/main/
 TEI_NS = "http://www.tei-c.org/ns/1.0"
 XSI_NS = "http://www.w3.org/2001/XMLSchema-instance"
 XML_NS = "http://www.w3.org/XML/1998/namespace"
-XML_BASE = "https://id.acdh.oeaw.ac.at/krp"  # to be changed
+ACDH_NS = "https://vocabs.acdh.oeaw.ac.at/schema#"
+XML_BASE = "https://id.acdh.oeaw.ac.at/krp"
 OUTPUT_DIR = "tmp"  # to be changed
 
 # Build TEI-XML template
@@ -27,12 +28,14 @@ def build_template(protocol):
 
     protocol_id = f"{protocol['krp_id']}.xml"
 
-    nsmap = {None: TEI_NS, "xsi": XSI_NS}
+    nsmap = {None: TEI_NS, "xsi": XSI_NS, "acdh": ACDH_NS}
 
     # Root
     root = etree.Element("TEI", nsmap=nsmap)
     root.set(f"{{{XML_NS}}}id", protocol_id)
     root.set(f"{{{XML_NS}}}base", XML_BASE)
+    root.set("prev", "")
+    root.set("next", "")
 
     # 1st level
     tei_header = etree.SubElement(root, "teiHeader")
@@ -75,7 +78,6 @@ def build_template(protocol):
         tei_titlestmt, "title", level="m", type="sub", n=""
     )
     tei_title_m_sub.text = protocol["period"]["value"]
-
     tei_meeting = etree.SubElement(tei_titlestmt, "meeting")
     tei_editor1 = etree.SubElement(tei_titlestmt, "editor")
     tei_editor2 = etree.SubElement(tei_titlestmt, "editor")
@@ -148,12 +150,12 @@ def build_template(protocol):
     tei_meetingplace = etree.SubElement(
         tei_meeting, "placeName", key="https://d-nb.info/gnd/4066009-6"
     )
+    tei_meetingplace.text = "Wien"
     tei_meetingorg = etree.SubElement(
         tei_meeting, "orgName", key="https://d-nb.info/gnd/5162749-8"
     )
-    tei_meetingdate = etree.SubElement(
-        tei_meeting, "date", attrib={"when-iso": protocol["date"]}
-    )
+    tei_meetingorg.text = "Kabinettsrat"
+    etree.SubElement(tei_meeting, "date", attrib={"when-iso": protocol["date"]})
     tei_editor1name = etree.SubElement(
         tei_editor1,
         "persName",
@@ -263,55 +265,93 @@ def build_template(protocol):
 
     # 6th level
     tei_editor1forename = etree.SubElement(tei_editor1name, "forename")
+    tei_editor1forename.text = "Helmut"
     tei_editor1surname = etree.SubElement(tei_editor1name, "surname")
+    tei_editor1surname.text = "Wohnout"
     tei_editor2forename = etree.SubElement(tei_editor2name, "forename")
+    tei_editor2forename.text = "Thomas"
     tei_editor2surname = etree.SubElement(tei_editor2name, "surname")
+    tei_editor2surname.text = "Olechowski"
     tei_editor3forename = etree.SubElement(tei_editor3name, "forename")
+    tei_editor3forename.text = "Richard"
     tei_editor3surname = etree.SubElement(tei_editor3name, "surname")
+    tei_editor3surname.text = "Lein"
     tei_editor4forename = etree.SubElement(tei_editor4name, "forename")
+    tei_editor4forename.text = "Anna"
     tei_editor4surname = etree.SubElement(tei_editor4name, "surname")
+    tei_editor4surname.text = "Holzer"
     tei_editor5forename = etree.SubElement(tei_editor5name, "forename")
+    tei_editor5forename.text = "Dominik"
     tei_editor5surname = etree.SubElement(tei_editor5name, "surname")
+    tei_editor5surname.text = "Sölkner"
     tei_editor6forename = etree.SubElement(tei_editor6name, "forename")
+    tei_editor6forename.text = "Ina"
     tei_editor6surname = etree.SubElement(tei_editor6name, "surname")
+    tei_editor6surname.text = "Schotzko"
     tei_resp2forename = etree.SubElement(tei_resp2name, "forename")
+    tei_resp2forename.text = tei_editor2forename.text
     tei_resp2surname = etree.SubElement(tei_resp2name, "surname")
+    tei_resp2surname.text = tei_editor2surname.text
     tei_resp2affiliation = etree.SubElement(
         tei_resp2name, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
+    tei_resp2affiliation.text = (
+        "Universität Wien, Institut für Rechts- und Verfassungsgeschichte"
+    )
     tei_resp2idno = etree.SubElement(tei_resp2name, "idno", type="ORCID")
+    tei_resp2idno.text = "0000-0003-3291-6876"
     tei_resp5forename = etree.SubElement(tei_resp5name, "forename")
+    tei_resp5forename.text = "Timo"
     tei_resp5surname = etree.SubElement(tei_resp5name, "surname")
+    tei_resp5surname.text = "Frühwirth"
     tei_resp5affiliation = etree.SubElement(
         tei_resp5name, "affiliation", key="https://d-nb.info/gnd/1123037736"
     )
+    tei_resp5affiliation.text = "Austrian Centre for Digital Humanities"
     tei_resp5idno = etree.SubElement(tei_resp5name, "idno", type="ORCID")
+    tei_resp5idno.text = "0000-0002-3997-5193"
     tei_resp6forename = etree.SubElement(tei_resp6name, "forename")
+    tei_resp6forename.text = "Peter"
     tei_resp6surname = etree.SubElement(tei_resp6name, "surname")
+    tei_resp6surname.text = "Andorfer"
     tei_resp6affiliation = etree.SubElement(
         tei_resp6name, "affiliation", key="https://d-nb.info/gnd/1123037736"
     )
+    tei_resp6affiliation.text = tei_resp5affiliation.text
     tei_resp6idno = etree.SubElement(tei_resp6name, "idno", type="ORCID")
+    tei_resp6idno.text = "0000-0002-9575-9372"
     tei_resp7forename = etree.SubElement(tei_resp7name, "forename")
+    tei_resp7forename.text = "Stephan"
     tei_resp7surname = etree.SubElement(tei_resp7name, "surname")
+    tei_resp7surname.text = "Kurz"
     tei_resp7affiliation = etree.SubElement(
         tei_resp7name, "affiliation", key="https://d-nb.info/gnd/1202798799"
     )
+    tei_resp7affiliation.text = (
+        "Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes"
+    )
     tei_resp7idno = etree.SubElement(tei_resp7name, "idno", type="ORCID")
+    tei_resp7idno.text = "0000-0003-2546-2570"
     tei_monogr = etree.SubElement(tei_biblstruct, "monogr")
     tei_biblstructnote = etree.SubElement(tei_biblstruct, "note")
-    tei_citedrange = etree.SubElement(tei_biblstruct, "citedRange")
+    etree.SubElement(tei_biblstruct, "citedRange")
     tei_institution = etree.SubElement(
         tei_msidentifier,
         "institution",
         key="https://d-nb.info/gnd/37748-X",
         role="hasOwner",
     )
+    tei_institution.text = "AT-OeStA Österreichisches Staatsarchiv (Archiv (ÖStA))"
     tei_repository = etree.SubElement(
         tei_msidentifier, "repository", key="https://d-nb.info/gnd/1601181-8"
     )
+    tei_repository.text = "AT-OeStA/AdR Archiv der Republik, 1918- (Abteilung)"
     tei_collection = etree.SubElement(tei_msidentifier, "collection")
+    tei_collection.text = (
+        "AT-OeStA/AdR MRang MR 1Rep Ministerrat 1. Republik, 1918 - 1938 (Bestand)"
+    )
     tei_idno = etree.SubElement(tei_msidentifier, "idno")
+    tei_idno.text = protocol["orig_file_name"][:-5]
 
     # 7th level
     tei_imprint = etree.SubElement(tei_monogr, "imprint")
@@ -351,11 +391,11 @@ if __name__ == "__main__":
         # Create processing instructions
         pi1 = etree.ProcessingInstruction(
             "xml-model",
-            "href='../schema/krp.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'",
+            "href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'",
         )
         pi2 = etree.ProcessingInstruction(
             "xml-model",
-            "href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'",
+            "href='../schema/krp.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'",
         )
 
         # Insert processing instructions as previous siblings of root
