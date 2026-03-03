@@ -46,7 +46,7 @@ def build_template(protocol):
     tei_filedesc = etree.SubElement(tei_header, "fileDesc")
     tei_profiledesc = etree.SubElement(tei_header, "profileDesc")
     tei_encodingdesc = etree.SubElement(tei_header, "encodingDesc")
-    tei_surface = etree.SubElement(tei_facsimile, "surface")
+    etree.SubElement(tei_facsimile, "surface")
     tei_body = etree.SubElement(tei_text, "body")
 
     # 3rd level
@@ -56,10 +56,10 @@ def build_template(protocol):
     tei_notesstmt = etree.SubElement(tei_filedesc, "notesStmt")
     tei_sourcedesc = etree.SubElement(tei_filedesc, "sourceDesc")
     tei_abstract = etree.SubElement(tei_profiledesc, "abstract")
-    tei_styledefdecl = etree.SubElement(tei_encodingdesc, "styleDefDecl", scheme="css")
+    etree.SubElement(tei_encodingdesc, "styleDefDecl", scheme="css")
     tei_tagsdecl = etree.SubElement(tei_encodingdesc, "tagsDecl")
     tei_editorialdecl = etree.SubElement(tei_encodingdesc, "editorialDecl")
-    tei_div1 = etree.SubElement(tei_body, "div")  # to be changed
+    etree.SubElement(tei_body, "div")  # to be changed
 
     # 4th level
     tei_title_s = etree.SubElement(tei_titlestmt, "title", level="s", type="main")
@@ -69,7 +69,7 @@ def build_template(protocol):
     tei_title_a = etree.SubElement(
         tei_titlestmt, "title", level="a", type="main", n=protocol["krp_id"][-3:]
     )
-    tei_title_a.text = f"{protocol['title']} {protocol['written_date']}"
+    tei_title_a.text = f"{protocol['title'].strip()} {protocol['written_date']}"
     tei_title_m_main = etree.SubElement(
         tei_titlestmt, "title", level="m", type="main", n="01"
     )
@@ -96,49 +96,65 @@ def build_template(protocol):
     tei_publisher = etree.SubElement(
         tei_pubstmt, "publisher", key="https://d-nb.info/gnd/1001454-8"
     )
-    tei_pubdate = etree.SubElement(tei_pubstmt, "date", when="2028")
+    tei_publisher.text = "Österreichische Akademie der Wissenschaften"
+    etree.SubElement(tei_pubstmt, "date", when="2028")
     tei_availability = etree.SubElement(tei_pubstmt, "availability", status="free")
-    tei_pubidno1 = etree.SubElement(tei_pubstmt, "idno", type="ISBN_Print")
-    tei_pubidno2 = etree.SubElement(tei_pubstmt, "idno", type="ISBN_Part_epub")
-    tei_pubidno3 = etree.SubElement(tei_pubstmt, "idno", type="ISBN_Digital")
-    tei_pubidno4 = etree.SubElement(tei_pubstmt, "idno", type="DOI")
-    tei_pubidno5 = etree.SubElement(tei_pubstmt, "idno", type="DOI_zenodo")
-    tei_pubidno6 = etree.SubElement(tei_pubstmt, "idno", type="ebook_ID")
+    etree.SubElement(tei_pubstmt, "idno", type="ISBN_Print")
+    etree.SubElement(tei_pubstmt, "idno", type="ISBN_Part_epub")
+    etree.SubElement(tei_pubstmt, "idno", type="ISBN_Digital")
+    etree.SubElement(tei_pubstmt, "idno", type="DOI")
+    etree.SubElement(tei_pubstmt, "idno", type="DOI_zenodo")
+    etree.SubElement(tei_pubstmt, "idno", type="ebook_ID")
     tei_seriestitle_s = etree.SubElement(
         tei_seriesstmt, "title", level="s", type="main"
     )
+    tei_seriestitle_s.text = tei_title_s.text
     tei_seriestitle_m = etree.SubElement(
         tei_seriesstmt, "title", level="m", type="main"
     )
+    tei_seriestitle_m.text = tei_title_m_main.text
     tei_seriesrespstmt = etree.SubElement(tei_seriesstmt, "respStmt")
     tei_note = etree.SubElement(tei_notesstmt, "note")
+    tei_note.text = (
+        "This TEI document has been used to generate a printed version of the edition"
+    )
     tei_relateditem = etree.SubElement(tei_notesstmt, "relatedItem")
     tei_bibl = etree.SubElement(tei_sourcedesc, "bibl")
+    tei_bibl.text = "Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand) "
     tei_msdesc = etree.SubElement(tei_sourcedesc, "msDesc")
     tei_abstractp = etree.SubElement(tei_abstract, "p")
+    tei_abstractpcomment = etree.Comment("to be generated")
+    tei_abstractp.append(tei_abstractpcomment)
     tei_rendition1 = etree.SubElement(
         tei_tagsdecl, "rendition", attrib={f"{{{XML_NS}}}id": "b", "scheme": "css"}
     )
+    tei_rendition1.text = "font-weight:bold;"
     tei_rendition2 = etree.SubElement(
         tei_tagsdecl, "rendition", attrib={f"{{{XML_NS}}}id": "su", "scheme": "css"}
     )
+    tei_rendition2.text = "vertical-align:super;font-size:.7em;"
     tei_rendition3 = etree.SubElement(
         tei_tagsdecl, "rendition", attrib={f"{{{XML_NS}}}id": "s", "scheme": "css"}
     )
+    tei_rendition3.text = "text-decoration:line-through;"
     tei_rendition4 = etree.SubElement(
         tei_tagsdecl, "rendition", attrib={f"{{{XML_NS}}}id": "u", "scheme": "css"}
     )
+    tei_rendition4.text = "text-decoration:underline;"
     tei_rendition5 = etree.SubElement(
         tei_tagsdecl, "rendition", attrib={f"{{{XML_NS}}}id": "ow", "scheme": "css"}
     )
+    tei_rendition5.text = "text-decoration:line-through;text-decoration-style:double;"
     tei_rendition6 = etree.SubElement(
         tei_tagsdecl, "rendition", attrib={f"{{{XML_NS}}}id": "r", "scheme": "css"}
     )
+    tei_rendition6.text = "display:block;text-align:right;"
     tei_rendition7 = etree.SubElement(
         tei_tagsdecl,
         "rendition",
         attrib={f"{{{XML_NS}}}id": "letterspaced", "scheme": "css"},
     )
+    tei_rendition7.text = "letter-spacing:0.15em;"
     tei_hyphenation = etree.SubElement(tei_editorialdecl, "hyphenation")
     tei_correction = etree.SubElement(tei_editorialdecl, "correction")
     tei_normalization = etree.SubElement(tei_editorialdecl, "normalization")
@@ -165,7 +181,9 @@ def build_template(protocol):
     tei_editor1affiliation = etree.SubElement(
         tei_editor1, "affiliation", key="https://d-nb.info/gnd/37748-X"
     )
+    tei_editor1affiliation.text = "Österreichisches Staatsarchiv"
     tei_editor1idno = etree.SubElement(tei_editor1, "idno", type="ORCID")
+    tei_editor1idno.text = "0000-0002-3864-9839"
     tei_editor2name = etree.SubElement(
         tei_editor2,
         "persName",
@@ -175,7 +193,11 @@ def build_template(protocol):
     tei_editor2affiliation = etree.SubElement(
         tei_editor2, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
+    tei_editor2affiliation.text = (
+        "Universität Wien, Institut für Rechts- und Verfassungsgeschichte"
+    )
     tei_editor2idno = etree.SubElement(tei_editor2, "idno", type="ORCID")
+    tei_editor2idno.text = "0000-0003-3291-6876"
     tei_editor3name = etree.SubElement(
         tei_editor3,
         "persName",
@@ -185,31 +207,46 @@ def build_template(protocol):
     tei_editor3affiliation = etree.SubElement(
         tei_editor3, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
+    tei_editor3affiliation.text = tei_editor2affiliation.text
     tei_editor3idno = etree.SubElement(tei_editor3, "idno", type="ORCID")
+    tei_editor3idno.text = "0000-0002-7502-0503"
     tei_editor4name = etree.SubElement(tei_editor4, "persName", role="hasCreator")
     tei_editor4affiliation = etree.SubElement(
         tei_editor4, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
+    tei_editor4affiliation.text = tei_editor2affiliation.text
     tei_editor4idno = etree.SubElement(tei_editor4, "idno", type="ORCID")
+    tei_editor4idno.text = "0009-0005-3560-3500"
     tei_editor5name = etree.SubElement(tei_editor5, "persName", role="hasCreator")
     tei_editor5affiliation = etree.SubElement(
         tei_editor5, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
+    tei_editor5affiliation.text = tei_editor2affiliation.text
     tei_editor5idno = etree.SubElement(tei_editor5, "idno", type="ORCID")
+    tei_editor5idno.text = "0009-0007-9895-7212"
     tei_editor6name = etree.SubElement(tei_editor6, "persName", role="hasContributor")
     tei_editor6affiliation = etree.SubElement(
         tei_editor6, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
+    tei_editor6affiliation.text = tei_editor2affiliation.text
     tei_editor6idno = etree.SubElement(tei_editor6, "idno", type="ORCID")
+    tei_editor6idno.text = "0009-0007-5210-3713"
     tei_funderorg = etree.SubElement(
         tei_funder, "orgName", key="https://d-nb.info/gnd/2054142-9", role="hasFunder"
     )
+    tei_funderorg.text = "Österreichischer Wissenschaftsfonds FWF"
     tei_funderidno = etree.SubElement(tei_funder, "idno", type="project")
+    tei_funderidno.text = "PAT1495024"
     tei_resp1 = etree.SubElement(tei_respstmt1, "resp")
+    tei_resp1.text = "Projektverantwortung: "
     tei_resp1org = etree.SubElement(
         tei_respstmt1, "orgName", key="https://d-nb.info/gnd/1026192285"
     )
+    tei_resp1org.text = (
+        "Universität Wien, Institut für Rechts- und Verfassungsgeschichte"
+    )
     tei_resp2 = etree.SubElement(tei_respstmt2, "resp")
+    tei_resp2.text = "Projektleitung: "
     tei_resp2name = etree.SubElement(
         tei_respstmt2,
         "persName",
@@ -217,19 +254,25 @@ def build_template(protocol):
         role="hasPrincipalInvestigator",
     )
     tei_resp3 = etree.SubElement(tei_respstmt3, "resp")
+    tei_resp3.text = "Nationaler Forschungspartner: "
     tei_resp3org = etree.SubElement(
         tei_respstmt3,
         "orgName",
         key="https://d-nb.info/gnd/1123037736",
         role="hasEnabler",
     )
+    tei_resp3org.text = "Austrian Centre for Digital Humanities"
     tei_resp4 = etree.SubElement(tei_respstmt4, "resp")
+    tei_resp4.text = "Digitalisierung der gedruckten Quellen: "
     tei_resp4org = etree.SubElement(
         tei_respstmt4, "orgName", key="https://d-nb.info/gnd/2068748-5"
     )
+    tei_resp4org.text = "Verlag der Österreichischen Akademie der Wissenschaften"
     tei_resp5 = etree.SubElement(tei_respstmt5, "resp")
+    tei_resp5.text = "TEI-Datenmodellierung: "
     tei_resp5name = etree.SubElement(tei_respstmt5, "persName", role="hasContributor")
     tei_resp6 = etree.SubElement(tei_respstmt6, "resp")
+    tei_resp6.text = "Technische Supervision: "
     tei_resp6name = etree.SubElement(
         tei_respstmt6,
         "persName",
@@ -237,6 +280,7 @@ def build_template(protocol):
         role="hasContributor",
     )
     tei_resp7 = etree.SubElement(tei_respstmt7, "resp")
+    tei_resp7.text = "Technisches Consulting und Vorbereitung der Druckausgabe: "
     tei_resp7name = etree.SubElement(
         tei_respstmt7,
         "persName",
@@ -248,20 +292,39 @@ def build_template(protocol):
         "licence",
         target="https://creativecommons.org/licenses/by/4.0/deed.de",
     )
+    tei_licence.text = "Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)"
     tei_seriesresp = etree.SubElement(tei_seriesrespstmt, "resp")
+    tei_seriesresp.text = "Bearbeitet und herausgegeben an: "
     tei_seriesresporg1 = etree.SubElement(
         tei_seriesrespstmt, "orgName", key="https://d-nb.info/gnd/2024703-5"
     )
+    tei_seriesresporg1.text = "Universität Wien"
     tei_seriesresporg2 = etree.SubElement(
         tei_seriesrespstmt, "orgName", key="https://d-nb.info/gnd/37748-X"
     )
+    tei_seriesresporg2.text = "Österreichisches Staatsarchiv"
     tei_biblstruct = etree.SubElement(tei_relateditem, "biblStruct")
+    tei_biblref = etree.SubElement(
+        tei_bibl,
+        "ref",
+        target="https://www.archivinformationssystem.at/detail.aspx?id=5465",
+    )
+    tei_biblref.text = "https://www.archivinformationssystem.at/detail.aspx?id=5465"
     tei_msidentifier = etree.SubElement(tei_msdesc, "msIdentifier")
     tei_hyphenationp = etree.SubElement(tei_hyphenation, "p")
     tei_correctionp = etree.SubElement(tei_correction, "p")
     tei_normalizationp = etree.SubElement(tei_normalization, "p")
     tei_punctuationp = etree.SubElement(tei_punctuation, "p")
     tei_stdvalsp = etree.SubElement(tei_stdvals, "p")
+    for p_element in [
+        tei_hyphenationp,
+        tei_correctionp,
+        tei_normalizationp,
+        tei_punctuationp,
+        tei_stdvalsp,
+        tei_editorialdeclp,
+    ]:
+        p_element.append(etree.Comment("to be added"))
 
     # 6th level
     tei_editor1forename = etree.SubElement(tei_editor1name, "forename")
@@ -355,18 +418,22 @@ def build_template(protocol):
 
     # 7th level
     tei_imprint = etree.SubElement(tei_monogr, "imprint")
-    tei_extent = etree.SubElement(tei_monogr, "extent")
-    tei_noteidno = etree.SubElement(tei_biblstructnote, "idno")
-    tei_ptr = etree.SubElement(tei_biblstructnote, "ptr")
+    etree.SubElement(tei_monogr, "extent")
+    etree.SubElement(tei_biblstructnote, "idno")
+    etree.SubElement(tei_biblstructnote, "ptr")
 
     # 8th level
     tei_imprintpubplace = etree.SubElement(
         tei_imprint, "pubPlace", key="https://d-nb.info/gnd/4066009-6"
     )
+    tei_imprintpubplace.text = "Wien"
     tei_imprintpublisher = etree.SubElement(
         tei_imprint, "publisher", key="https://d-nb.info/gnd/2068748-5"
     )
-    tei_imprintdate = etree.SubElement(tei_imprint, "date", when="2029")
+    tei_imprintpublisher.text = (
+        "Verlag der Österreichischen Akademie der Wissenschaften"
+    )
+    etree.SubElement(tei_imprint, "date", when="2029")
 
     return root, protocol_id
 
