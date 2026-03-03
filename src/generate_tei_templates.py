@@ -30,7 +30,7 @@ def build_template(protocol):
 
     nsmap = {None: TEI_NS, "xsi": XSI_NS, "acdh": ACDH_NS}
 
-    # Root
+    # Root level
     root = etree.Element("TEI", nsmap=nsmap)
     root.set(f"{{{XML_NS}}}id", protocol_id)
     root.set(f"{{{XML_NS}}}base", XML_BASE)
@@ -39,6 +39,9 @@ def build_template(protocol):
 
     # 1st level
     tei_header = etree.SubElement(root, "teiHeader")
+    tei_header.addprevious(
+        etree.Comment("major/root: introduce new XML ID syntax")
+    )  # to be changed
     tei_facsimile = etree.SubElement(root, "facsimile")
     tei_text = etree.SubElement(root, "text")
 
@@ -59,10 +62,21 @@ def build_template(protocol):
     etree.SubElement(tei_encodingdesc, "styleDefDecl", scheme="css")
     tei_tagsdecl = etree.SubElement(tei_encodingdesc, "tagsDecl")
     tei_editorialdecl = etree.SubElement(tei_encodingdesc, "editorialDecl")
-    etree.SubElement(tei_body, "div")  # to be changed
+    tei_div1 = etree.SubElement(
+        tei_body, "div", attrib={f"{{{XML_NS}}}id": f"doc-{protocol_id}"}
+    )
+    tei_div1.addnext(
+        etree.Comment("major/div: introduce new XML ID syntax")
+    )  # to be changed
+    tei_div1.text = ""
 
     # 4th level
     tei_title_s = etree.SubElement(tei_titlestmt, "title", level="s", type="main")
+    tei_title_s.addprevious(
+        etree.Comment(
+            "major/titleStmt: drop title[@level='s' and @type='desc' and text()='Digitale Edition'; drop title[@level='s' and @type='main' and @n='0'; drop title[@level='m' and @type='dates']"
+        )
+    )  # to be changed
     tei_title_s.text = (
         "Protokolle des Ministerrates der Ersten Republik der Republik Österreich"
     )
@@ -73,10 +87,20 @@ def build_template(protocol):
     tei_title_m_main = etree.SubElement(
         tei_titlestmt, "title", level="m", type="main", n="01"
     )
+    tei_title_m_main.addnext(
+        etree.Comment(
+            "major/title: drop title[@level='m' and @type='main' and @n='01']; merge @n into above"
+        )
+    )  # to be changed
     tei_title_m_main.text = "Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920"
     tei_title_m_sub = etree.SubElement(
         tei_titlestmt, "title", level="m", type="sub", n=""
     )
+    tei_title_m_sub.addnext(
+        etree.Comment(
+            "major/title: drop title[@level='m' and @type='sub' and @n='3']; merge @n into above"
+        )
+    )  # to be changed
     tei_title_m_sub.text = protocol["period"]["value"]
     tei_meeting = etree.SubElement(tei_titlestmt, "meeting")
     tei_editor1 = etree.SubElement(tei_titlestmt, "editor")
@@ -86,7 +110,11 @@ def build_template(protocol):
     tei_editor5 = etree.SubElement(tei_titlestmt, "editor")
     tei_editor6 = etree.SubElement(tei_titlestmt, "editor")
     tei_funder = etree.SubElement(tei_titlestmt, "funder")
+    tei_funder.addnext(etree.Comment("major/funder: drop @n"))  # to be changed
     tei_respstmt1 = etree.SubElement(tei_titlestmt, "respStmt")
+    tei_respstmt1.addnext(
+        etree.Comment("minor/respStmt: introduce relevant new respStmt elements")
+    )  # to be changed
     tei_respstmt2 = etree.SubElement(tei_titlestmt, "respStmt")
     tei_respstmt3 = etree.SubElement(tei_titlestmt, "respStmt")
     tei_respstmt4 = etree.SubElement(tei_titlestmt, "respStmt")
@@ -104,16 +132,27 @@ def build_template(protocol):
     etree.SubElement(tei_pubstmt, "idno", type="ISBN_Digital")
     etree.SubElement(tei_pubstmt, "idno", type="DOI")
     etree.SubElement(tei_pubstmt, "idno", type="DOI_zenodo")
-    etree.SubElement(tei_pubstmt, "idno", type="ebook_ID")
+    tei_pubidno6 = etree.SubElement(tei_pubstmt, "idno", type="ebook_ID")
+    tei_pubidno6.addnext(
+        etree.Comment(
+            "minor/idno: replace serialized XML element/explicit namespace declarations"
+        )
+    )  # to be changed
     tei_seriestitle_s = etree.SubElement(
         tei_seriesstmt, "title", level="s", type="main"
     )
+    tei_seriestitle_s.addprevious(
+        etree.Comment("major/seriesStmt: drop title[@level='overarching']")
+    )  # to be changed
     tei_seriestitle_s.text = tei_title_s.text
     tei_seriestitle_m = etree.SubElement(
         tei_seriesstmt, "title", level="m", type="main"
     )
     tei_seriestitle_m.text = tei_title_m_main.text
     tei_seriesrespstmt = etree.SubElement(tei_seriesstmt, "respStmt")
+    tei_seriesrespstmt.addnext(
+        etree.Comment("major/seriesStmt: drop biblScope")
+    )  # to be changed
     tei_note = etree.SubElement(tei_notesstmt, "note")
     tei_note.text = (
         "This TEI document has been used to generate a printed version of the edition"
@@ -123,8 +162,7 @@ def build_template(protocol):
     tei_bibl.text = "Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand) "
     tei_msdesc = etree.SubElement(tei_sourcedesc, "msDesc")
     tei_abstractp = etree.SubElement(tei_abstract, "p")
-    tei_abstractpcomment = etree.Comment("to be generated")
-    tei_abstractp.append(tei_abstractpcomment)
+    tei_abstractp.append(etree.Comment("to be generated"))
     tei_rendition1 = etree.SubElement(
         tei_tagsdecl, "rendition", attrib={f"{{{XML_NS}}}id": "b", "scheme": "css"}
     )
@@ -166,18 +204,31 @@ def build_template(protocol):
     tei_meetingplace = etree.SubElement(
         tei_meeting, "placeName", key="https://d-nb.info/gnd/4066009-6"
     )
+    tei_meetingplace.addnext(
+        etree.Comment("minor/placeName: introduce @key")
+    )  # to be changed
     tei_meetingplace.text = "Wien"
     tei_meetingorg = etree.SubElement(
         tei_meeting, "orgName", key="https://d-nb.info/gnd/5162749-8"
     )
     tei_meetingorg.text = "Kabinettsrat"
-    etree.SubElement(tei_meeting, "date", attrib={"when-iso": protocol["date"]})
+    tei_meetingdate = etree.SubElement(
+        tei_meeting, "date", attrib={"when-iso": protocol["date"]}
+    )
+    tei_meetingdate.addnext(
+        etree.Comment("major/date: drop content; replace @when with @when-iso")
+    )  # to be changed
     tei_editor1name = etree.SubElement(
         tei_editor1,
         "persName",
         key="https://d-nb.info/gnd/122481836",
         role="hasCreator",
     )
+    tei_editor1name.addnext(
+        etree.Comment(
+            "major/persName: move @key here from editor; drop @ref (dangling pointer); replace @role='editor' value with ARCHE property"
+        )
+    )  # to be changed
     tei_editor1affiliation = etree.SubElement(
         tei_editor1, "affiliation", key="https://d-nb.info/gnd/37748-X"
     )
@@ -234,6 +285,9 @@ def build_template(protocol):
     tei_funderorg = etree.SubElement(
         tei_funder, "orgName", key="https://d-nb.info/gnd/2054142-9", role="hasFunder"
     )
+    tei_funderorg.addnext(
+        etree.Comment("major/orgName: introduce orgName")
+    )  # to be changed
     tei_funderorg.text = "Österreichischer Wissenschaftsfonds FWF"
     tei_funderidno = etree.SubElement(tei_funder, "idno", type="project")
     tei_funderidno.text = "PAT1495024"
@@ -242,9 +296,12 @@ def build_template(protocol):
     tei_resp1org = etree.SubElement(
         tei_respstmt1, "orgName", key="https://d-nb.info/gnd/1026192285"
     )
-    tei_resp1org.text = (
-        "Universität Wien, Institut für Rechts- und Verfassungsgeschichte"
-    )
+    tei_resp1org.addnext(
+        etree.Comment(
+            "major/orgName: replace @ref with @key for consistency; replace name with orgName; drop /rs"
+        )
+    )  # to be changed
+    tei_resp1org.text = tei_editor2affiliation.text
     tei_resp2 = etree.SubElement(tei_respstmt2, "resp")
     tei_resp2.text = "Projektleitung: "
     tei_resp2name = etree.SubElement(
@@ -264,6 +321,7 @@ def build_template(protocol):
     tei_resp3org.text = "Austrian Centre for Digital Humanities"
     tei_resp4 = etree.SubElement(tei_respstmt4, "resp")
     tei_resp4.text = "Digitalisierung der gedruckten Quellen: "
+    tei_resp4.addnext(etree.Comment("minor/resp: introduce colon"))  # to be changed
     tei_resp4org = etree.SubElement(
         tei_respstmt4, "orgName", key="https://d-nb.info/gnd/2068748-5"
     )
@@ -295,6 +353,9 @@ def build_template(protocol):
     tei_licence.text = "Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)"
     tei_seriesresp = etree.SubElement(tei_seriesrespstmt, "resp")
     tei_seriesresp.text = "Bearbeitet und herausgegeben an: "
+    tei_seriesresp.addprevious(
+        etree.Comment("minor/resp: introduce colon")
+    )  # to be changed
     tei_seriesresporg1 = etree.SubElement(
         tei_seriesrespstmt, "orgName", key="https://d-nb.info/gnd/2024703-5"
     )
@@ -302,6 +363,9 @@ def build_template(protocol):
     tei_seriesresporg2 = etree.SubElement(
         tei_seriesrespstmt, "orgName", key="https://d-nb.info/gnd/37748-X"
     )
+    tei_seriesresporg2.addnext(
+        etree.Comment("minor/orgName: introduce @key")
+    )  # to be changed
     tei_seriesresporg2.text = "Österreichisches Staatsarchiv"
     tei_biblstruct = etree.SubElement(tei_relateditem, "biblStruct")
     tei_biblref = etree.SubElement(
@@ -358,11 +422,10 @@ def build_template(protocol):
     tei_resp2affiliation = etree.SubElement(
         tei_resp2name, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
-    tei_resp2affiliation.text = (
-        "Universität Wien, Institut für Rechts- und Verfassungsgeschichte"
-    )
+    tei_resp2affiliation.text = tei_editor2affiliation.text
     tei_resp2idno = etree.SubElement(tei_resp2name, "idno", type="ORCID")
-    tei_resp2idno.text = "0000-0003-3291-6876"
+    tei_resp2idno.addnext(etree.Comment("minor/idno: introduce idno"))  # to be changed
+    tei_resp2idno.text = tei_editor2idno.text
     tei_resp5forename = etree.SubElement(tei_resp5name, "forename")
     tei_resp5forename.text = "Timo"
     tei_resp5surname = etree.SubElement(tei_resp5name, "surname")
@@ -404,6 +467,11 @@ def build_template(protocol):
         key="https://d-nb.info/gnd/37748-X",
         role="hasOwner",
     )
+    tei_institution.addprevious(
+        etree.Comment(
+            "major/msIdentifier: introduce institution, repository, collection, idno"
+        )
+    )  # to be changed
     tei_institution.text = "AT-OeStA Österreichisches Staatsarchiv (Archiv (ÖStA))"
     tei_repository = etree.SubElement(
         tei_msidentifier, "repository", key="https://d-nb.info/gnd/1601181-8"
@@ -433,7 +501,8 @@ def build_template(protocol):
     tei_imprintpublisher.text = (
         "Verlag der Österreichischen Akademie der Wissenschaften"
     )
-    etree.SubElement(tei_imprint, "date", when="2029")
+    tei_imprintdate = etree.SubElement(tei_imprint, "date", when="2029")
+    tei_imprintdate.addnext(etree.Comment("major/date: drop content"))  # to be changed
 
     return root, protocol_id
 
@@ -447,8 +516,7 @@ if __name__ == "__main__":
     shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    for key, protocol in tqdm(data.items(), total=len(data)):
-        # Unpack returned tuple
+    for _, protocol in tqdm(data.items(), total=len(data)):
         root, protocol_id = build_template(protocol)
 
         file_path = os.path.join(OUTPUT_DIR, protocol_id)
@@ -468,6 +536,12 @@ if __name__ == "__main__":
         # Insert processing instructions as previous siblings of root
         root.addprevious(pi1)
         root.addprevious(pi2)
+
+        pi2.addnext(
+            etree.Comment(
+                "minor/processing instructions: introduce links to tei-all and rng"
+            )
+        )  # to be changed
 
         # Set custom indentation for readability
         etree.indent(root, space="    ")
