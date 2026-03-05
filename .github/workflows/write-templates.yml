@@ -1,23 +1,26 @@
 name: write-templates
 
 on:
-  schedule:
-  - cron: "33 9 * * *"
-  workflow_dispatch:
+    schedule:
+    - cron: "33 9 * * *"
+    workflow_dispatch:
+    push:
+        paths:
+            - "src/**"
 
 jobs:
     generate-tei-templates:
         runs-on: ubuntu-latest
         steps:
             - name: perform checkout
-              uses: actions/checkout@v4
+              uses: actions/checkout@v6
             - name: set up Python
-              uses: actions/setup-python@v5
+              uses: actions/setup-python@v6
             - name: install dependencies
               run: pip install .
             - name: generate templates
               run: python src/generate_tei_templates.py
             - name: commit templates
-              uses: stefanzweifel/git-auto-commit-action@v5
+              uses: stefanzweifel/git-auto-commit-action@v7
               with:
                 commit_message: "feat(templates): generate TEI-XML templates"
