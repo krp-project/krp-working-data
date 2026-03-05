@@ -23,7 +23,7 @@ OUTPUT_DIR = "tmp"  # to be changed
 # ----------------------
 
 
-def build_template(protocol):
+def build_template(protocol, prev_id, next_id):
     """Build TEI-XML template from single JSON object."""
 
     protocol_id = f"{protocol['krp_id']}.xml"
@@ -35,8 +35,10 @@ def build_template(protocol):
     root.set(f"{{{XML_NS}}}id", protocol_id)
     root.set(f"{{{XML_NS}}}base", XML_BASE)
     root.set(f"{{{XML_NS}}}lang", "de")
-    root.set("prev", "")
-    root.set("next", "")
+    if prev_id:
+        root.set("prev", prev_id)
+    if next_id:
+        root.set("next", next_id)
 
     # 1st level
     tei_header = etree.SubElement(root, "teiHeader")
@@ -446,8 +448,15 @@ if __name__ == "__main__":
     shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    for _, protocol in tqdm(data.items(), total=len(data)):
-        root, protocol_id = build_template(protocol)
+    protocols = sorted(data.values(), key=lambda p: int(p["krp_id"][-3:]))
+
+    for i, protocol in enumerate(tqdm(protocols)):
+        prev_id = f"{protocols[i - 1]['krp_id']}.xml" if i > 0 else None
+        next_id = (
+            f"{protocols[i + 1]['krp_id']}.xml" if i < len(protocols) - 1 else None
+        )
+
+        root, protocol_id = build_template(protocol, prev_id, next_id)
 
         file_path = os.path.join(OUTPUT_DIR, protocol_id)
 
