@@ -17,7 +17,7 @@ XSI_NS = "http://www.w3.org/2001/XMLSchema-instance"
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 ACDH_NS = "https://vocabs.acdh.oeaw.ac.at/schema#"
 XML_BASE = "https://id.acdh.oeaw.ac.at/krp"
-OUTPUT_DIR = "tmp"  # to be changed
+OUTPUT_DIR = "templates"
 
 # Build TEI-XML template
 # ----------------------
