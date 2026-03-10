@@ -8,7 +8,7 @@ set -euo pipefail
 readonly SCRIPT_DIR="$(cd -- "$(dirname -- "$0")" && pwd)"
 readonly REPO_DIR="$(dirname -- "$SCRIPT_DIR")"
 readonly INPUT_DIR="$REPO_DIR/tmp"
-readonly OUTPUT_DIR="$SCRIPT_DIR/teigarage-out/editions"
+readonly OUTPUT_DIR="$SCRIPT_DIR/teigarage-out"
 readonly API_URL="http://localhost:8080/ege-webservice/Conversions/docx:application:vnd.openxmlformats-officedocument.wordprocessingml.document/TEI:text:xml"
 readonly CONTAINER_NAME="teigarage"
 readonly SERVICE_URL="http://localhost:8080/ege-webservice/Conversions/"
