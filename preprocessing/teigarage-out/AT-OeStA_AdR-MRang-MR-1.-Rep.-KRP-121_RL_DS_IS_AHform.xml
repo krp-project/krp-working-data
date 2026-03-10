@@ -1,952 +1,952 @@
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title/>
-        <author>Anna Holzer</author>
-      </titleStmt>
-      <editionStmt>
-        <edition>
-          <date>2026-02-24</date>
-        </edition>
-      </editionStmt>
-      <publicationStmt>
-        <p>unknown</p>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Converted from a Word document</p>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <appInfo>
-        <application xml:id="docxtotei" ident="TEI_fromDOCX" version="7.58.0">
-          <label>DOCX to TEI</label>
-        </application>
-      </appInfo>
-    </encodingDesc>
-    <revisionDesc>
-      <listChange>
-        <change>
-          <date>2026-03-10T12:54:43Z</date>
-          <name>Anna Holzer</name>
-        </change>
-      </listChange>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <front>
-      <titlePage>
-        <docTitle>
-          <titlePart type="Title">
-            <hi style="font-family:Aptos Display;font-size:28pt">121.</hi>
-          </titlePart>
-          <titlePart type="Subtitle">
-            <hi rend="color(595959)" style="font-size:14pt">[Dienstag] 1919-11-11</hi>
-          </titlePart>
-        </docTitle>
-      </titlePage>
-    </front>
-    <body>
-      <div>
-        <head>
-          <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Dokumentkopf</hi>
-        </head>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Vorsitz: </hi>
-          </head>
-          <p>
-            <hi style="font-size:12pt">Renner</hi>
-          </p>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">Anwesend:</hi>
-          </head>
-          <p>
-            <hi style="font-size:12pt">Deutsch, Eisler, Eldersch, Gl&#xF6;ckel, Hanusch, L&#xF6;wenfeld-Ru&#xDF;, Mayr, Miklas, Paul, Ramek, Reisch, Resch, St&#xF6;ckler, Tandler, Wai&#xDF;, Zerdik</hi>
-          </p>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Zugezogen: </hi>
-          </head>
-          <p>
-            <hi style="font-size:12pt">Grimm</hi>
-          </p>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Schriftf&#xFC;hrer: </hi>
-          </head>
-          <p>
-            <hi style="font-size:12pt">unbekannt</hi>
-          </p>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Dauer: </hi>
-          </head>
-          <p>
-            <hi style="font-size:12pt">16.00&#x2013;20.00 Uhr</hi>
-          </p>
-        </div>
-      </div>
-      <div>
-        <head>
-          <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Komponenten</hi>
-        </head>
-        <p>
-          <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reinschrift, Konzept, Stenogramm (A, B), Entwurf der Tagesordnung </hi>
-        </p>
-      </div>
-      <div>
-        <head>
-          <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Beilagen:</hi>
-        </head>
-        <p style="text-align: justify;">
-          <hi style="font-size:12pt" xml:space="preserve">&#x2013; </hi>
-          <ref target="#4.">
-            <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 4</seg>
-          </ref>
-          <hi style="font-size:12pt" xml:space="preserve">: </hi>
-          <ref target="https://krp-121_b01">
-            <hi style="font-size:12pt">Ab&#xE4;nderung des Zeitpunkts f&#xFC;r die &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch Deutsch&#xF6;sterreich</hi>
-          </ref>
-        </p>
-        <p style="text-align: justify;">
-          <hi style="font-size:12pt">&#x2013;</hi>
-          <ref target="#5.">
-            <seg style="font-size:12pt">Zu Punkt 5</seg>
-          </ref>
-          <hi style="font-size:12pt" xml:space="preserve">: </hi>
-          <ref target="https://krp-121_b02">
-            <hi style="font-size:12pt">Vortrag des Staatsamtes f&#xFC;r Heereswesen Abt. 19 Zl. 114 &#xFC;ber die Zusicherung von Abbaubeg&#xFC;nstigungen an Berufsmilit&#xE4;rpersonen, die vor Inkrafttreten einschl&#xE4;giger Vorschriften abr&#xFC;sten</hi>
-          </ref>
-        </p>
-        <p style="text-align: justify;">
-          <hi style="font-size:12pt" xml:space="preserve">&#x2013; </hi>
-          <ref target="#6.">
-            <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 6</seg>
-          </ref>
-          <hi style="font-size:12pt" xml:space="preserve">: </hi>
-          <ref target="https://krp-121_b03">
-            <hi style="font-size:12pt">Antrag des Staatsamtes f&#xFC;r Inneres und Unterricht &#xFC;ber die Anrechenbarkeit der Chargenzulagen von Sicherheitswache und Polizei f&#xFC;r die Bemessung von Witwen- und Waisenpensionen, Erziehungsbeitr&#xE4;ge und Sterbequartale</hi>
-          </ref>
-          <lb/>
-        </p>
-      </div>
-      <div>
-        <head>
-          <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Protokoll</hi>
-        </head>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Begr&#xFC;&#xDF;ung</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Vor Eingehen in die Tagesordnung begr&#xFC;&#xDF;t der Vorsitzende das Kabinett aus Anlass des Jahrestages der Republik und f&#xFC;hrt aus: &#x201E;Obwohl das gegenw&#xE4;rtige Kabinett das dritte seit dem Bestande der Republik ist, ist es in seinem Personenstande wie in seiner politischen Zusammensetzung und in seinem Programm das gleiche geblieben. Eine unabsehbare Arbeit hat das Kabinett w&#xE4;hrend dieses Jahres geleistet, und die Protokolle seiner Verhandlungen werden Zeugnis daf&#xFC;r ablegen, welch&#x2018; gewaltige politische und soziale Schwierigkeiten es &#xFC;berwunden und wie viel Fruchtbringendes es zugleich geschaffen hat. Die Kraft dazu hat ihm eine Tatsache verliehen: es ist ein Kabinett von Volksbeauftragten, das von dem Vertrauen der Volksvertretung und damit des ganzen Volkes getragen ist. Dieses Vertrauen allein hat es bef&#xE4;higt, dem Ansturme der kommunisti</hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0003|</hi>
-              <hi style="font-size:12pt">schen Bewegung auf der einen Seite und den gewaltigen ausw&#xE4;rtigen Verwicklungen auf der anderen Seite zu begegnen und die Republik bis zu dem Augenblicke zu f&#xFC;hren, wo der Frieden abgeschlossen und der Bestand des Staates gesichert ist. Das Vertrauen des Volkes begr&#xFC;ndet aber f&#xFC;r uns auch zugleich die h&#xF6;chste Verantwortung. Wir haben die Pflicht &#xFC;bernommen, die Arbeit unseres Tages und die Sorge unserer N&#xE4;chte restlos dem Volke hinzugeben, und wir geloben, diese Pflicht auch in Hinkunft treulich zu erf&#xFC;llen.&#x201C;</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">1.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic" style="font-size:12pt">Regelung des Ruhegenusses des gewesenen Staatssekret&#xE4;rs f&#xFC;r Finanzen Dr. Otto Steinwender.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Vorsitzende erbittet und erh&#xE4;lt vom Kabinettsrate nach einer kurzen Debatte die Erm&#xE4;chtigung, beim Pr&#xE4;sidenten der Nationalversammlung den Antrag stellen zu d&#xFC;rfen, dass dem ehemaligen Staatssekret&#xE4;r f&#xFC;r Finanzen Dr. Otto Steinwender vom 1. April 1919 angefangen eine Pensionszulage im Ausma&#xDF;e der Differenz zwischen dem ihm als Gymnasialprofessor des Ruhestandes jeweils geb&#xFC;hrenden und dem nach der 2. Rangsklasse der Staatsbeamten jeweils entfallenden normalm&#xE4;&#xDF;igen Ruhegenuss bewilligt werde.</hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0004|</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">2.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic" style="font-size:12pt">Protest gegen das Gesetz vom 30. Oktober 1919, StGBl. Nr. 501, betreffend die Landesverweisung und die &#xDC;bernahme des Verm&#xF6;gens des Hauses Habsburg-Lothringen.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Vorsitzende teilt mit, dass die Rechtsanw&#xE4;lte Dr. Coumont und Dr. Stritzl in Vertretung des ehemaligen Kaisers bzw. der Familie Habsburg-Lotbringen nachstehenden Protest eingebracht haben: &#x201E;Unsere Mandanten erkl&#xE4;ren, dass sie gegen das Gesetz vom 30. Oktober 1919, StGBl. Nr. 501, betreffend die Landesverweisung und die &#xDC;bernahme des Verm&#xF6;gens des Hauses Habsburg-Lothringen, Protest erheben, dieses Gesetz als Norm f&#xFC;r die verm&#xF6;gensrechtliche Auseinandersetzung mit der Republik &#xD6;sterreich nicht ansehen k&#xF6;nnen und sich daher alle Anspr&#xFC;che, die aus diesem ihrem Standpunkte folgen, ausdr&#xFC;cklich vorbehalten.&#x201C;</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">&#xDC;ber Antrag des Vorsitzenden beschlie&#xDF;t der Kabinettsrat, dass dieser Protest zu den Akten zu hinterlegen sei.</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">3.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic" style="font-size:12pt">Frage der Internationalisierung des Kriegsarchivs und des Heeresmuseums.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Vorsitzende bringt zur Kenntnis, dass der Generalliquidierungskommiss&#xE4;r Sektionschef Dr. P&#xF6;schel mitgeteilt habe, es werde sich die in</hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0005|</hi>
-              <hi style="font-size:12pt">ternationale Liquidierungskommission in ihrer n&#xE4;chsten Sitzung mit der Frage der Internationalisierung des Kriegsarchivs und des Heeresmuseums besch&#xE4;ftigen. Wiewohl eine derartige Ma&#xDF;nahme mit dem vom Kabinettsrate in seiner Sitzung am 24. Oktober l. J. beschlossenen Grundsatze der Nationalisierung des bestandenen Kriegsministeriums nicht in Einklang st&#xFC;nde, glaube Sektionschef Dr. P&#xF6;schel dennoch, dass dieser Gedanke nicht a limine zur&#xFC;ckzuweisen w&#xE4;re, da andernfalls nach gewissen Bestimmungen des Staatsvertrages von St. Germain zu bef&#xFC;rchten sei, dass der geschlossene Bestand dieser Sammlungen nicht aufrecht erhalten bleiben k&#xF6;nnte. Er erbitte sich daher eine prinzipielle Weisung &#xFC;ber die von ihm bei der bevorstehenden Sitzung der internationalen Liquidierungskommission einzunehmende Haltung.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">Staatssekret&#xE4;r Dr. Deutsch h&#xE4;lt eine Internationalisierung des Kriegsarchivs und des Heeresmuseums f&#xFC;r &#xFC;beraus bedenklich, zumal diese wertvollen Objekte, die einen besonderen Anziehungspunkt f&#xFC;r Wien bilden, damit unserer ausschlie&#xDF;lichen Verf&#xFC;gungsgewalt entzogen w&#xFC;rden. </hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0006|</hi>
-              <hi style="font-size:12pt">Redner warne daher vor einem derartigen Schritte und bitte daran festzuhalten, dass es bei der ausschlie&#xDF;lich &#xF6;sterreichischen Verwaltung dieser Institute zu verbleiben habe; das hindere gewiss nicht, ein &#xDC;bereinkommen mit den anderen Staaten abzuschlie&#xDF;en, wonach die Forschungsm&#xF6;glichkeit dem Auslande gew&#xE4;hrleistet w&#xFC;rde.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Nachdem Staatssekret&#xE4;r Dr. Reisch die Auffassung des Sektionschefs Dr. P&#xF6;schel im Gegenstande des N&#xE4;heren erl&#xE4;utert hatte, verweist Staatssekret&#xE4;r Dr. Mayr auf die Gefahren, denen die genannten Institute und ebenso auch das ehemalige Haus-, Hof- und Staatsarchiv bei einer grunds&#xE4;tzlich ablehnenden Haltung &#xD6;sterreichs gegen&#xFC;ber dem Internationalisierungsprojekte ausgesetzt sein k&#xF6;nnten. Unter dem Gesichtspunkte, dass die Zerrei&#xDF;ung der Best&#xE4;nde unbedingt vermieden werden m&#xFC;sse, sei der Gedanke der Internationalisierung in wissenschaftlichen Kreisen bereits vollkommen zum Durchbruche gelangt. Er stelle zur Erw&#xE4;gung, ob nicht die Zulassung von Fachbeamten der Nachfolgestaaten zu diesen Instituten grund</hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0007|</hi>
-              <hi style="font-size:12pt">s&#xE4;tzlich zuzugestehen sei, wobei es jedoch bei einer rein &#xF6;sterreichischen Verwaltung der Best&#xE4;nde zu verbleiben h&#xE4;tte.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Vorsitzende erl&#xE4;utert in eingehender Weise die Rechtslage an der Hand der einschl&#xE4;gigen Bestimmungen des Staatsvertrages von St. Germain (Art. 193). Eine Internationalisierung der Institute w&#xFC;rde zur Folge haben, dass fremden Organen eine Einflussnahme zugestanden werden m&#xFC;sste und dass wir nach den gemachten Erfahrungen schlie&#xDF;lich diese Organe auch zu bezahlen h&#xE4;tten.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Mayr vermag den Ausf&#xFC;hrungen des Vorredners nicht in ihrer G&#xE4;nze beizupflichten. Die Erfahrungen, die Tirol mit den Forderungen der Italiener r&#xFC;cksichtlich der Best&#xE4;nde des Landesarchivs gemacht habe, lie&#xDF;en es vielleicht doch empfehlenswert erscheinen, den Gedanken einer Internationalisierung der in Frage kommenden Institute nicht ohne weiteres fallen zu lassen. Er schlage vor, hier&#xFC;ber vorerst noch ein Fachgutachten der Professoren Dr. Oswald Redlich und Dr. Hans Tietze einzuholen.</hi>
-              <hi rend="background(green)" style="font-size:12pt" xml:space="preserve"> |KRP0121_R0008|</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Vorsitzende fasst das Ergebnis der Debatte in folgenden Beschlussantrag zusammen:</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">&#x201E;Der Kabinettsrat beharrt auf seinem Beschlusse vom 24. Oktober l. J., demzufolge die auf &#xF6;sterreichischem Boden befindlichen Sammlungen und Institutionen im ausschlie&#xDF;lichen Eigentum und in ausschlie&#xDF;licher Verwaltung der &#xF6;sterreichischen Republik stehen. Die Staatsregierung wird jedoch den anderen Nationen die weitestm&#xF6;glichen Erleichterungen und Rechte zur Ben&#xFC;tzung der Materialien einr&#xE4;umen. Eine Internationalisierung des Eigentums und der Verwaltung der Institute kann jedoch nicht zugestanden werden; es ist vielmehr streng nach dem Buchstaben des Friedensvertrages vorzugehen.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Sektionschef P&#xF6;schl wird eingeladen, diesen Standpunkt in der internationalen Liquidierungskommission zu vertreten.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Mayr wird schlie&#xDF;lich ersucht, mit den Professoren Dr. Redlich und Dr. Tietze wegen Erstattung eines Fachgutachtens &#xFC;ber die Frage der Internationalisierung der mehrgenannten Institute in Verbindung zu treten.&#x201C;</hi>
-              <hi rend="background(green)" style="font-size:12pt" xml:space="preserve"> |KRP0121_R0009|</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Kabinettsrat erhebt diese Antr&#xE4;ge zum Beschluss.</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <anchor xml:id="4."/>
-            <hi rend="normalweight color(0F4761)" style="font-size:16pt">4.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic" style="font-size:12pt">Ab&#xE4;nderung des Zeitpunktes f&#xFC;r die &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch Deutsch&#xF6;sterreich.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Vorsitzende erinnert daran, dass der Kabinettsrat am 24. Oktober d. J. unter anderem beschlossen habe:</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">&#x201E;Die gesamte Liquidierung wird als eine deutsch&#xF6;sterreichische innerstaatliche Aufgabe erkl&#xE4;rt; die Gesandtenkonferenz und die Bevollm&#xE4;chtigtenkollegien treten mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain au&#xDF;er Funktion.&#x201C;</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Passus &#x201E;mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain&#x201D; sei entgegen dem urspr&#xFC;nglichen Antrage der Staatskanzlei in W&#xFC;rdigung der vom Vertreter des Staatsamtes f&#xFC;r &#xC4;u&#xDF;eres vorgebrachten Gr&#xFC;nde, jedoch nur in der damals noch berechtigten Voraussetzung eingef&#xFC;gt worden, dass das Inkrafttreten des Staatsvertrages ohnehin in k&#xFC;rzester Zeit erfolgen werde. Nach den neuesten Nachrichten sei dieser Zeitpunkt aber noch sehr unbestimmt; es verlaute, dass er erst im n&#xE4;chsten Februar zu gew&#xE4;rtigen sei.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">Eine so lange Verz&#xF6;gerung der </hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0010|</hi>
-              <hi style="font-size:12pt">L&#xF6;sung der Liquidierungsfrage sei sowohl f&#xFC;r private als auch f&#xFC;r staatliche Interessen sch&#xE4;dlich. Nach dem Beschluss der Gesandtenkonferenz vom 30. September d. J. &#x201E;haben sich die bisherigen Liquidierungsorganisationen in ihrer T&#xE4;tigkeit auf die Behandlung solcher Angelegenheiten zu beschr&#xE4;nken, welche ohne Sch&#xE4;digung des Interesses der einzelnen Nationalstaaten oder ihrer Angeh&#xF6;rigen nicht unerledigt bleiben k&#xF6;nnen, soferne diese Erledigungen nicht einen pr&#xE4;judizierenden Charakter tragen". Dieser Beschluss sei jedenfalls auch in der Erwartung einer baldigen L&#xF6;sung gefasst worden. Der pendente Zustand k&#xF6;nne aber nicht noch weitere Monate bestehen bleiben, umso mehr als unserer Auffassung nach die Liquidierung aus ihrem bisher unbefriedigenden Verlauf nur durch &#xDC;bernahme in eine Hand gerettet werden k&#xF6;nne.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">&#xDC;berdies sei bei einer aufgrund des bezogenen Kabinettsratsbeschlusses abgehaltenen Sitzung des Komitees, welches zur Vorbereitung der Zerlegung des liquidierenden Kriegsministeriums eingesetzt ist, zutage getreten, dass der zur Bestreitung der bisherigen gemeinsamen Liquidierungsauslagen herangezogene, sogenannte </hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0011|</hi>
-              <hi style="font-size:12pt" xml:space="preserve">Redlichsche Kredit, welcher </hi>
-              <hi rend="underline" style="font-size:12pt" xml:space="preserve">vielleicht </hi>
-              <hi style="font-size:12pt">den anderen Nationalstaaten angelastet werden k&#xF6;nnte, mit 20. d. M. ersch&#xF6;pft sein werde und die ganze Liquidierung dann vollst&#xE4;ndig stocken w&#xFC;rde, wenn nicht Deutsch&#xF6;sterreich mit eigenen Mitteln eintrete. Die Entscheidung w&#xE4;re sonach sehr dringend.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Redner beantrage daher, den erw&#xE4;hnten Kabinettsratsbeschluss dahin abzu&#xE4;ndern, dass die &#xDC;bernahme der Liquidierung in deutsch&#xF6;sterreichische Hand sogleich nach schleuniger Durchf&#xFC;hrung aller Vorbereitungen zu erfolgen habe. Die dementsprechenden Ma&#xDF;nahmen h&#xE4;tte das Staatsamt f&#xFC;r &#xC4;u&#xDF;eres, bzw. der Generalliquidierungskommiss&#xE4;r, zu treffen.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">Staatssekret&#xE4;r Dr. Reisch teilt mit, dass der Generalliquidierungskommiss&#xE4;r in dem vom Vorsitzenden vorgeschlagenen Vorgange einen einseitigen Akt erblicke, der geeignet sein k&#xF6;nnte, die Nationalstaaten zu br&#xFC;skieren. Sektionschef Dr. P&#xF6;schel halte daf&#xFC;r, dass in dem Gesetzentwurf der Zeitpunkt des Inkrafttretens des Staatsvertrages von St. Germain als Stichtag der &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch </hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0012|</hi>
-              <hi style="font-size:12pt">Deutsch&#xF6;sterreich aufrecht bleiben sollte, dass aber in der Liquidierungskommission auf die Ersch&#xF6;pfung der gemeinsamen Mittel hinzuweisen und zu erkl&#xE4;ren w&#xE4;re, Deutsch&#xF6;sterreich m&#xFC;sse angesichts dieser Tatsache auf seinem Gebiete die hienach erforderlichen Ma&#xDF;nahmen auf eigene Kosten treffen.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Deutsch h&#xE4;lt diese Auffassung f&#xFC;r einen allenfalls gangbaren Weg zu Verhandlungen mit den Nachfolgestaaten. Dies d&#xFC;rfe jedoch nicht hindern, die Vorbereitungen im Sinne des Antrages des Vorsitzenden bereits jetzt unverz&#xFC;glich zu treffen. Aus diesem Grunde glaube Redner sich f&#xFC;r die Annahme des Antrages des Vorsitzenden aussprechen zu sollen.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Sektionschef Dr. Grimm gibt zur Erw&#xE4;gung, dass die &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch Deutsch&#xF6;sterreich nur dann das gew&#xFC;nschte finanzielle Ergebnis zeitigen k&#xF6;nne, wenn gleichzeitig in ernstester Weise der Abbau des liquidierenden Personals in Angriff genommen werde. Es sei daher erforderlich, den liquidierenden Stellen diesen Standpunkt mitzuteilen, im Augenblicke der &#xDC;bernahme der Liquidierung die fremd</hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0013|</hi>
-              <hi style="font-size:12pt">nationalen Organe den Nachfolgestaaten zur Verf&#xFC;gung zu stellen und weiters auch an die Pensionierung bzw. K&#xFC;ndigung des entbehrlichen deutsch&#xF6;sterreichischen Personals zu schreiten.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Kabinettsrat erhebt den eingangs formulierten Antrag des Vorsitzenden zum Beschlusse und ladet den Staatskanzler als Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres ein, den Nachfolgestaaten mitzuteilen, dass die Kredite, aus denen die Liquidierungsgesch&#xE4;fte bisher bestritten wurden, ersch&#xF6;pft seien. Im Staatsvertrag von St. Germain sei der internationale Charakter der Liquidierung nicht anerkannt worden. Deutsch&#xF6;sterreich m&#xFC;sse daher die internationale Liquidierung als beendet betrachten, und sehe sich gezwungen, eine rein deutsch&#xF6;sterreichische Liquidierung selbst&#xE4;ndig einzuleiten.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Weiters beschlie&#xDF;t der Kabinettsrat, der Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres werde im Hinblick auf die gro&#xDF;e Bedeutung dieser Angelegenheit die F&#xFC;hrung der Verhandlungen in der Weise selbst zu &#xFC;bernehmen haben, dass die mit der Vertretung der deutsch&#xF6;sterreichischen Interessen in der Liquidierung betrauten Organe jeweils die erforderlichen Instruktionen f&#xFC;r ihre fallweise Haltung von ihm einzuholen haben werden.</hi>
-              <hi rend="background(green)" style="font-size:12pt" xml:space="preserve"> |KRP0121_R0014|</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">In diesem Sinne und &#xFC;ber die Anregung des Sektionschefs Dr. Grimm wird der Generalliquidierungskommiss&#xE4;r durch den Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres zu informieren sein.</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <anchor xml:id="5."/>
-            <hi rend="normalweight color(0F4761)" style="font-size:16pt">5.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic" style="font-size:12pt">Zusicherungen von Abbaubeg&#xFC;nstigungen an Berufsmilit&#xE4;rpersonen, die vor dem Inkrafttreten der bez&#xFC;glichen Vorschriften die Aktivit&#xE4;t verlassen.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Deutsch verweist darauf, dass die Durchf&#xFC;hrung der Bestimmungen des V. Teiles des Friedensvertrages, betreffend die Land-, See- und Luftstreitkr&#xE4;fte, einen weitgehenden Abbau im milit&#xE4;rischen Berufstand bedinge. F&#xFC;r die Milit&#xE4;rpersonen, die aus ihrem milit&#xE4;rischen Beruf, den sie sich als Lebensberuf gew&#xE4;hlt haben, durch die Standesherabminderung herausgerissen werden, seien Beg&#xFC;nstigungen in Aussicht genommen, die im Prinzip sich an das Pensionsbeg&#xFC;nstigungsgesetz (Gesetz vom 30. Juli 1919, StGBl. Nr. 411) anlehnen werden. Bis zur Herausgabe und Durchf&#xFC;hrung dieser Bestimmungen werde jedoch noch geraume Zeit vergehen, insbesondere auch wegen des notwendigen Zusammenhanges der Abbauma&#xDF;nahmen mit dem Aufbaue der neuen Wehrmacht.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">Nun w&#xE4;re es schon heute vielen Berufsmilit&#xE4;rpersonen m&#xF6;glich, sich im </hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0015|</hi>
-              <hi style="font-size:12pt">b&#xFC;rgerlichen Leben eine neue Existenz zu gr&#xFC;nden; sie warten aber begreiflicherweise die Gesetzwerdung der zu erhoffenden Abbaubeg&#xFC;nstigungen ab, um ihrer nicht durch einen voreiligen Austritt aus dem aktiven Milit&#xE4;rdienstverh&#xE4;ltnis verlustig zu gehen. Diese Verz&#xF6;gerung gereiche den Betroffenen wie dem Staate zum Nachteil. Nach Ansicht des Staatsamtes f&#xFC;r Heereswesen k&#xF6;nnte diese schwierige Frage zum Vorteile aller Beteiligten gel&#xF6;st werden, wenn heute schon jenen Berufsmilit&#xE4;rpersonen, die nur deshalb aus dem aktiven Milit&#xE4;rdienstverh&#xE4;ltnis noch nicht austreten wollen, um sich nicht selbst von den zu erwartenden Beg&#xFC;nstigungen auszuschlie&#xDF;en, die Sicherheit geboten w&#xFC;rde, dass ihnen diese Beg&#xFC;nstigungen auch dann gewahrt bleiben, wenn sie zwar nach einem zu bestimmenden Tage, jedoch vor Inkrafttreten des Gesetzes und der Vorschriften, die den Abbau im milit&#xE4;rischen Berufsstande regeln werden, aus der Aktivit&#xE4;t scheiden.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">Das angestrebte Ziel w&#xE4;re nun dadurch zu erreichen, dass die k&#xFC;nftigen Abbauvorschriften mit r&#xFC;ckwirkender Kraft ausgestattet werden, diese R&#xFC;ckwirkung jedoch von der Staatsregierung schon dermalen beschlossen und in einem Kommunique zur allgemeinen Kenntnis gebracht w&#xFC;rde. </hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0016|</hi>
-              <hi style="font-size:12pt">Doch solle dieser Kabinettsbeschluss in keiner Weise den in Bearbeitung befindlichen Abbauvorschriften &#x2013; abgesehen von der Frage der R&#xFC;ckwirkung &#x2013; vorgreifen; &#xFC;ber das Anwendungsgebiet, die Art und das Ausma&#xDF; der Abbaubeg&#xFC;nstigungen bliebe die Entscheidung vorbehalten.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der sprechende Staatssekret&#xE4;r stelle daher den Antrag, der Kabinettsrat wolle beschlie&#xDF;en, dass die Berufsmilit&#xE4;rpersonen, die nach dem Tage der Verlautbarung dieses Beschlusses freiwillig aus dem aktiven Milit&#xE4;rdienstverh&#xE4;ltnis austreten, durch diesen Austritt nicht jener Beg&#xFC;nstigungen verlustig werden, die ihnen nach dem Inhalt der k&#xFC;nftigen, den milit&#xE4;rischen Abbau regelnden Vorschriften zugekommen w&#xE4;ren, wenn sie zur Zeit der Erlassung dieser Vorschriften noch aktive Dienste geleistet h&#xE4;tten.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Der Kabinettsrat beschlie&#xDF;t in diesem Sinne.</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <anchor xml:id="6."/>
-            <hi rend="normalweight color(0F4761)" style="font-size:16pt">6.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic normalweight" style="font-size:12pt">Anrechenbarkeit der Chargenzulagen der Rayoninspektoren der Sicherheitswache und des Polizeiagentenkorps f&#xFC;r die Bemessung der Witwen- und Waisenpensionen, der Erziehungsbeitr&#xE4;ge und des Sterbequartals.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">Nach einem eingehend begr&#xFC;ndeten Antrage des Staatssekret&#xE4;rs Eldersch genehmigt der Kabinettsrat, dass die mit dem Beschlusse des </hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0017|</hi>
-              <hi style="font-size:12pt">ehemaligen Staatsratsdirektoriums vom 15. J&#xE4;nner 1919 bewilligte Anrechenbarkeit der den Rayonsinspektoren der Sicherheitswache und der Polizeiagentenkorps gew&#xE4;hrten Chargenzulagen f&#xFC;r die Ruhegenussbemessung auch auf die Bemessung der diesfalls in Betracht kommenden Witwen- und Waisenpensionen, Erziehungsbeitr&#xE4;ge und des Sterbequartales ausgedehnt werde.</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">7.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic" style="font-size:12pt">Erteilung von Vorsch&#xFC;ssen an die Industrie behufs Auszahlung der Anschaffungsbeitr&#xE4;ge.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Reisch bringt vor, es sei im Zuge der gegenw&#xE4;rtigen Verhandlungen &#xFC;ber die Regelung der Bez&#xFC;ge der Industrieangestellten von den Industriellenvertretern geltend gemacht worden, dass einzelne Firmen kaum in der Lage sein d&#xFC;rften, den Anschaffungsbeitrag an ihre Angestellten auszuzahlen. Nach den dem sprechenden Staatssekret&#xE4;r zugekommenen Informationen w&#xFC;rde sich das diesf&#xE4;llige Erfordernis auf ungef&#xE4;hr 10 Millionen K belaufen.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">&#xDC;ber Antrag des Vorsitzenden beschlie&#xDF;t der Kabinettsrat, das Staatsamt f&#xFC;r Finanzen zu erm&#xE4;chtigen, der parit&#xE4;tischen Industrie</hi>
-              <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0018|</hi>
-              <hi style="font-size:12pt">kommission einen verrechenbaren Verlag von 10 Millionen K zur Erteilung von Vorsch&#xFC;ssen an Industrielle behufs Auszahlung des Anschaffungsbeitrages zu gew&#xE4;hren. Diese Vorsch&#xFC;sse werden unverzinst l&#xE4;ngstens binnen sechs Monaten zur&#xFC;ckzuzahlen sein.</hi>
-            </p>
-          </div>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">8.</hi>
-          </head>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
-            </head>
-            <p style="text-align: center;">
-              <hi rend="italic" style="font-size:12pt">Inanspruchnahme von Aktien der Alpine Montangesellschaft durch den Staat.</hi>
-            </p>
-          </div>
-          <div>
-            <head>
-              <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
-            </head>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Staatssekret&#xE4;r Eldersch teilt in Angelegenheit der Inanspruchnahme von Aktien der Alpine Montangesellschaft durch den Staat mit, dass regierungsseitig die Reservierung von zwei Stellen im Verwaltungsrate der Gesellschaft f&#xFC;r den Staat und die hienach erforderliche &#xC4;nderung der Gesellschaftsstatuten in der n&#xE4;chsten Generalversammlung verlangt und von der Gesellschaft auch in Aussicht gestellt worden sei.</hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt" xml:space="preserve">Der Kabinettsrat nimmt diese Mitteilung zustimmend zur Kenntnis. </hi>
-            </p>
-            <p style="text-align: justify;">
-              <hi style="font-size:12pt">Schluss der Sitzung &#xBC; 11 Uhr Abend.</hi>
-            </p>
-          </div>
-        </div>
-      </div>
-      <div>
-        <head>
-          <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Stenogramm</hi>
-        </head>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">A.</hi>
-            <lb/>
-            <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 121, 11. November 1919, Stenogramm A]</hi>
-          </head>
-          <p>
-            <hi rend="italic" style="font-size:12pt">121., 11. /Nov. 1919, &#xBD;9.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Zugezogen]: Grimm, Simeons, Froehlich.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">1.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Am Vorabend des Jahrestages der Republik begr&#xFC;&#xDF;e ich den Kabinettsrat auf das herzlichste. Das Kabinett ist zwar seit dem Bestand der R.[epublik] das dritte, aber sowohl dem Personenstand, wie der politischen Zusammensetzung und seinem Programm [nach] das gleiche geblieben. W&#xE4;hrend dieses Jahres [wurde] unabsehbare Arbeit geleistet. Die Prot.[okolle] legen Zeugnis ab, welche Schwierigkeiten &#xFC;berwunden [wurden] und was wir geschafft [haben].</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Die Kraft, diese Schwierigkeiten zu &#xFC;berstehen und den sozialen Ansturm des Comm.[unismus] abzuwehren, zugleich aber gegen&#xFC;ber dem Ausland und unseren Nachbarn den Bestand zu sichern und den Frieden zu erreichen, haben wir daraus gesogen, da&#xDF; dieses Kabinett der Staatssekret&#xE4;re der Ausschu&#xDF; der Volksvertretung ist, getragen von dem Vertrauen des Volkes. Die Verfassung ist es, die uns die Kraft gibt, die uns mit dem Vertrauen des Volkes selbst auszeichnet. Die Verfassung legt uns aber auch hohe Pflichten auf. Wir haben es &#xFC;bernommen, die Arbeit unserer Tage und die Sorgen unserer N&#xE4;chte in den Dienst unseres Volkes zu stellen. Wir haben dies gelobt. Ich glaube, wir haben das ruhige Gewissen, diese Pflicht auch erf&#xFC;llt zu haben. Ich spreche in diesem Sinn und ich glaube, im Sinne aller zu sprechen: Wir geloben, auch in Zukunft unser ganzes Denken und unser Wirken in den Dienst unseres Volkes zu stellen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">2.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Steinwender: Wir m&#xFC;ssen rasch abhelfen. An den Pr&#xE4;sidenten den Antrag stellen, da&#xDF; er die Differenz der Pensionsbez&#xFC;ge zur 7. - 8. Rangsklasse [als Zulage bewilligt]. [Sollte der Pr&#xE4;sident nicht unterschreiben, so w&#xFC;rde] unser Versuch wenigstens einer Ehrenschuld Rechnung tragen, die das Kabinett zu leisten verpflichtet ist; und zugleich [einen] Ansto&#xDF; [geben], die Sache doch in Ordnung zu bringen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Hanusch: Im Hauptausschu&#xDF; [ist die Sache] wiederholt verhandelt worden. [Ich] glaube aber, dieser Vorgang stellt den Pr&#xE4;sidenten vor eine Sache, die er wahrscheinlich nicht wird machen k&#xF6;nnen. Man mu&#xDF; auch den Mut aufbringen, die Sache in die Nationalversammlung zu bringen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Fink: [Ich] habe die Meinung, da&#xDF; der Pr&#xE4;sident doch auf den Vorschlag eingehen k&#xF6;nnte - verdienter Parlamentarier.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Zerdik: &#xC4;hnlicher Fall: Schuster.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Hanusch: Gegen die alten Ministerpensionen [bestehen] in der Bev&#xF6;lkerung gro&#xDF;e Antipathien.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">3.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Stritzl - Coumont.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Ad acta legen den Protest.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">4. Bericht &#xFC;ber die Liquidierung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: P&#xF6;schl teilt mit.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: [Eine] Internationalisierung [des] Kriegsarchivs halte ich f&#xFC;r unm&#xF6;glich. [Es betrifft die] Vorgeschichte des Krieges und [die Geschichte] des Krieges selbst. Wir m&#xFC;ssen darauf Beschlag legen. Gewi&#xDF; sind die Kosten nicht sehr klein. Wir haben es faktisch in Beschlag genommen. &#xC4;hnlich auch das Heeresmuseum. Stellt einen gewaltigen Wert dar.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: Der Antrag P&#xF6;schl bezweckt ja die Aufrechterhaltung. Die Bestimmungen des Friedensvertrages, auf welche P.[&#xF6;schl] anspielt, lauten, da&#xDF; Gegenst&#xE4;nde von besonderem Wert von den Nationalstaaten angesprochen werden k&#xF6;nnen. Wir sollten aussprechen, da&#xDF; Wert darauf gelegt wird, da&#xDF; diese beiden Sammlungen hier zu verbleiben haben.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Es wird dieselbe Frage auch bez&#xFC;glich des ehemaligen Haus-, Hof und Staatsarchivs auftauchen. Vom wissenschaftlichen und praktischen Standpunkt aus d&#xFC;rfte die Internationalisierung anzustreben sein. Es wird nicht m&#xF6;glich sein, da&#xDF; wir diese Instit.[utionen] als &#xF6;sterreichisch erhalten. Lassen wir die Internationalisierung nicht zu, so werden sie gewi&#xDF; zerrissen werden. Nur w&#xE4;re die Sache so einzuleiten, da&#xDF; die Inst.[itutionen] in &#xF6;sterreichischer Verwaltung bleiben und von den Nachfolgestaaten Beamte zugeteilt werden. In dieser Weise lie&#xDF;e sich die Verhandlung vielleicht anregen. Im Interesse der Sache ist aber die Internationalisierung bei weitem der Zerrei&#xDF;ung vorzuziehen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: Ich will nur, da&#xDF; die Verwaltung von uns gef&#xFC;hrt wird. Dadurch ist allein die M&#xF6;glichkeit einer wissenschaftlichen Ausbeutung gegeben. Ich m&#xF6;chte aber warnen, fremde Beamte hinein zu nehmen. Eine solche Kontrolle ist ganz &#xFC;berfl&#xFC;ssig.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">1.) Es bleibt bei der deutsch-&#xF6;sterreichischen Verwaltung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">2.) Ein &#xDC;bereinkommen mit den anderen Staaten, wonach die Forschungsm&#xF6;glichkeit f&#xFC;r die anderen Staaten gegeben ist.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Wenn das erreichbar ist, ist es ganz recht. Ich f&#xFC;rchte [aber], da&#xDF; dies nicht durchf&#xFC;hrbar sein wird.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Der Standpunkt des Friedensvertrages [ist], Sammlungen und Archive sollen erhalten bleiben. [Zur&#xFC;ckzugeben sind] nur [St&#xFC;cke], f&#xFC;r die besondere Titel angef&#xFC;hrt werden k&#xF6;nnen .... [die] nach dem 1. /6. [19]14 weggebracht [wurden] aus den milit&#xE4;risch besetzten Gebieten.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Nur das, was f&#xFC;r die unmittelbare Verwaltung notwendig ist oder was mit der Geschichte des betreffenden Landes in einem unmittelbaren Zusammenhang steht und nur w&#xE4;hrend einer gewissen Zeit, die zur&#xFC;ck liegt, [ist zur&#xFC;ckzustellen]. In Wahrheit aber die Nationalstaaten und Italien im Weg von Vertr&#xE4;gen und Abkommen uns ?ableisten wollen (was also im Friedensvertrag nicht gegeben wurde).</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eine Internationalisierung wird bewirken, da&#xDF; sie ihre Leute da haben werden und da&#xDF; wir sie werden bezahlen m&#xFC;ssen. Wir sollten uns nicht darauf einlassen. Ich m&#xF6;chte einer internationalen Kommission kein Vertrauen schenken.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Ich m&#xF6;chte die Instr.[uktion] erteilen, da&#xDF; eine Internationalisierung nicht in Aussicht zu nehmen sei und da&#xDF; streng im Sinne des Friedensvertrages zu verhandeln sei.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Die Grundlage [mag] ganz richtig sein, aber durchsetzen werden wir es nicht. Nur die gemeinsamen Akte k&#xF6;nnen uns bleiben. Italien und Deutsch-S&#xFC;dtirol. Die Vorst&#xE4;nde w&#xE4;ren um ihr Gutachten anzugehen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Tietze und Professor Redlich und Mayr.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: [Ich] m&#xF6;chte anregen, da&#xDF; P&#xF6;schl bekannt gegeben wird, sehr fest zu bleiben. Solange keine andere Regelung erfolgt ist, hat es bei der deutsch-&#xF6;sterreichischen Verwaltung zu bleiben wie bisher.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Der Kabinettsrat beharrt auf seinem Beschlu&#xDF; vom 24. Oktober, da&#xDF; die auf &#xF6;sterreichischem Boden bestehenden Sammlungen und Institutionen in ausschlie&#xDF;lichem Eigentum und ausschlie&#xDF;licher Verwaltung Deutsch-&#xD6;sterreichs stehen. </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Das Kabinett erteilt seine</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - Die deutsch-&#xF6;sterreichische Staatsregierung wird den anderen Nationen die weitest m&#xF6;glichen Erleichterungen und Rechte zur Ben&#xFC;tzung der Materialien gew&#xE4;hren. Eine Internationalisierung des Eigentums und der Verwaltung der Inst.[itutionen] kann jedoch nicht zugestanden werden.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Sektionschef P.[&#xF6;schl] ist aufgefordert, dem Kabinettsrat klarzulegen, was unter Internationalisierung verstanden sein soll. &#xDC;ber diese &#xFC;berhaupt ist ein fachm&#xE4;nnisches Gutachten einzuholen (Tietze, Redlich, Mayr).</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">4.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Verliest Material. Die &#xDC;bernahme der Liquidierung [soll] sofort erfolgen, soweit die Vorbereitungsarbeiten abgeschlossen sind.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: P.[&#xF6;schl] hat seine Bedenken geltend gemacht, da&#xDF; wir einen einseitigen Akt setzen. Auskunftsmittel: Man soll im Gesetz die Sache so lassen, wie [sie] beschlossen wurde. Da&#xDF; wir aber in der Liquidierungskommission nur erkl&#xE4;ren, im Hinblick auf die Ersch&#xF6;pfung der gemeinsamen Mittel [sei es] unm&#xF6;glich, da&#xDF; Deutsch-&#xD6;sterreich aber auf seinem Gebiet die erforderlichen Ma&#xDF;nahmen auf eigene Kosten zu treffen [beabsichtige].</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: Das w&#xE4;re ein m&#xF6;glicher Verhandlungsweg. Aber die Vorarbeit mu&#xDF; schon jetzt getroffen werden. Der Antrag also soll so gefa&#xDF;t werden, wie er hier gestellt wird. P&#xF6;schls Antrag aber w&#xE4;re nur ein Weg f&#xFC;r uns, auf die Nachfolgestaaten einzuwirken. Der Staatskanzler h&#xE4;tte zu verf&#xFC;gen, da&#xDF; ihm als Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres [die Akten] pers&#xF6;nlich zur Genehmigung vorgelegt werden. K&#xFC;nftighin soll also diese Auseinandersetzung durch die Hand des Staatskanzlers pers&#xF6;nlich gehen. Der Kabinettsrat soll die -.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Zuschrift: Der Kredit, aus dem bisher die Liquidierung bestritten wurde, ersch&#xF6;pft ist. Nach dem Friedensvertrag ist die Internationalit&#xE4;t der Liquidierung - nicht anerkannt ist; [daher mu&#xDF;] die Liquidierung als von Haus aus [als] irrt&#xFC;mliche Constr.[uktion] als f&#xFC;r beendigt betrachtet werden und [Deutsch-&#xD6;sterreich] gezwungen ist, selbst&#xE4;ndig die Liquidierung einzuleiten.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Ich] schlie&#xDF;e mich dem Antrag Deutsch an. Es geht jetzt nicht mehr an, da&#xDF; durch nachgeordnete Organe die Liquidierung fortgesetzt wird und wir vor Tatsachen gestellt werden, die unseren Intent.[ionen] nicht entsprechen. Die Beschl&#xFC;sse sind P.[&#xF6;schl] zu intimieren.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reisch: Eine rein deutsch-&#xF6;sterreichische Liquidierung einzuleiten kann nur hei&#xDF;en [eine] rein &#xF6;sterreichische Liquidierung. Dann bitte [ich], da&#xDF; P.[&#xF6;schl] diese Entw&#xFC;rfe zur Einsicht gegeben werden. Meine ersten Ausf&#xFC;hrungen haben nur bezweckt, da&#xDF; wir de facto vorgehen, wie vorgeschlagen wurde. Im Gesetzentwurf aber keine &#xC4;nderung, </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">es sei denn, da&#xDF; wir</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Grimm: Es hat finanziell gar keinen Wert f&#xFC;r uns, wenn wir in die &#xF6;sterreichische Liquidierung eintreten. Aber wir m&#xFC;ssen den Abbau ernstlich jetzt in Angriff nehmen. Wir m&#xFC;ssen erkl&#xE4;ren, da&#xDF; wir mit der Pensionierung des Liquidierungspersonals vorgehen. Sonst werden wir nie fertig.</hi>
-          </p>
-          <p>
-            <hi rend="italic strikethrough" style="font-size:12pt">Deutsch</hi>
-            <hi rend="italic" style="font-size:12pt">: -.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Erledigt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">5.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Ellenbogen: Messe&#xE4;mter.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: [Ist] nicht in der Lage, seine Zustimmung zu geben; 8-t&#xE4;gige Frist.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Das ist nichts anderes als ein neues Amt und eine neue Zentrale. Das m&#xFC;ssen wir nicht von Staats wegen reglementieren.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Mangel des vorgeschriebenen Verfahrens, auf 8 Tage verschoben.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: Die ganze Organisation soll der Handelskammer gegeben werden. Dem Staat sollen keine Kosten aufgelastet werden.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Ellenbogen: [Ich] schlage vor, da&#xDF; das Staatsamt f&#xFC;r Handel sich mit dem Staatsamt f&#xFC;r Finanzen innerhalb der acht Tage ins Einvernehmen setzt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">6.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: Abbaubeg&#xFC;nstigungen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">7.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: Rayonsinspekt.[oren] einzurechnen in die Witwenpension.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Angenommen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">8.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: Zuckerpreise. Damals [wurde] nur mit einem 70 % Agio der &#x10D;.[echoslovakischen] W&#xE4;hrung gerechnet. [Infolge der] 150 %[igen] Erh&#xF6;hung der Frachttarife [ergibt sich] ungef&#xE4;hr [eine] Verdoppelung des Preises mit 1. /12. [F&#xFC;r] August und September [wird] der Zucker vorher zu den alten Preisen ausgegeben.</hi>
-          </p>
-          <p>
-            <hi rend="italic strikethrough" style="font-size:12pt">L&#xF6;wenfeld</hi>
-            <hi rend="italic" style="font-size:12pt">: -</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Hanusch: Kann sich des Eindruckes nicht erwehren, da&#xDF;, wenn Tabak und Zucker im gegenw&#xE4;rtigen Augenblick der Verhandlungen mit den Arbeitern und Staatsangestellten [verteuert werden], so wird die ganze Geschichte &#xFC;ber den Haufen geworfen. [Aufschub um] 14 Tage oder 3 Wochen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: Wollte dasselbe sagen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">L&#xF6;wenfeld: Mu&#xDF; sich dem Antrag des Staatsamtes f&#xFC;r Finanzen anschlie&#xDF;en bez&#xFC;glich 1. /12. [Der Preis f&#xFC;r] Rohzucker [hat sich] um 100 % erh&#xF6;ht. Das Defizit der Zuckerstelle [betr&#xE4;gt] schon 43 Millionen Kronen. </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Diese Stelle ist eine staatliche Stelle, die wenn sie auch formell Kredit hat</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Dadurch ist die Zuckerstelle fort[w&#xE4;hrend] in Zahlungsschwierigkeiten. </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Wenn das Staatsamt f&#xFC;r Finanzen, das die</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Die Bev&#xF6;lkerung ist schon darauf vorbereitet. Wir brauchen 14 Tage bis 3 Wochen, bis es durchgef&#xFC;hrt wird.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Beides auf einmal wird etwas zuviel sein. Wenigstens die Tabakpreiserh&#xF6;hung jetzt nicht.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">1.) Erst sp&#xE4;ter.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">2.) Billigen Landtabak von einer so gro&#xDF;en Erh&#xF6;hung zu verschonen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: 228 Millionen Einnahmen, sollen uns erhalten bleiben. Also keine Steigerung. Zucker und Tabak [sind] importierte Waren, daher der Valuta unterworfen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: [Bis] Freitag [oder] Dienstag vertagt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">9.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Mitteilung: 3h Nachmittag im Rathaus Festversammlung zur Feier der Republik. Hanusch, Tandler, Gl&#xF6;ckel, Paul. (?Gehrock und ?Kopf[bedeckung]), Ellenbogen, Loewenfeld-Ru&#xDF;.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: Bei der Regelung der Angestelltenbez&#xFC;ge [ist] von Seite der Industriellen geltend gemacht worden, da&#xDF; einzelne Industrielle den Anschaffungspreis nicht werden zahlen k&#xF6;nnen. Hamburger begn&#xFC;gt sich vorl&#xE4;ufig mit 10 Millionen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Das Staatsamt f&#xFC;r Finanzen ist erm&#xE4;chtigt, der parit.[&#xE4;tischen] Industriekommission einen verrechenbaren Erlag von 10 Millionen Kronen zur Erteilung von Vorsch&#xFC;ssen an Industrielle zur Auszahlung des Anschaffungsbeitrages zu gew&#xE4;hren. Die Vorsch&#xFC;sse sind l&#xE4;ngstens binnen einem halben Jahr zur&#xFC;ckzuerstatten (unverzinslich).</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Hanusch: Die Industriellenorganisationen haften f&#xFC;r diesen Betrag. Der Staatssekret&#xE4;r wird eine schriftliche Vereinbarung treffen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">10. &#xDC;bereinkommen mit der ober&#xF6;sterreichischen Landesregierung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">L&#xF6;wenfeld: Das ober&#xF6;sterreichische Gesetz ist bereits kundgemacht. Am 27. /10. ist aufgrund dieses Gesetzes eine Verordnung bereits kundgemacht worden - LGBl. Nr. 142.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: In der Zuschrift ans Land werden wir von dieser Unwissenheit der leitenden Funktion&#xE4;re Notiz nehmen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Froehlich: Verliest.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Tagesordnung erledigt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">&#xBC;11 h.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">11.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: 1.100 Kronen Kauf. &#xDC;berdies verlangt, da&#xDF; f&#xFC;r den Staat man Verwaltungsratsstellen reserviert und [dies] in der n&#xE4;chsten Generalversammlung statutarisch niedergelegt wird.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Bericht Eldersch Verdienstentgang.</hi>
-          </p>
-        </div>
-        <div>
-          <head>
-            <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">B.</hi>
-            <lb/>
-            <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 121, 11. November 1919, Stenogramm B]</hi>
-          </head>
-          <p>
-            <hi rend="italic" style="font-size:12pt">121., 11. /XI.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Zugezogen]: Grimm, Simeons, Froehlich.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Am Vorabend des Jahrestages der Republik begr&#xFC;&#xDF;e ich das Kabinett auf das herzlichste. Das Kabinett ist zwar seit dem Bestand der Republik das dritte, aber es ist sowohl seiner Zusammensetzung, [wie in seinem] Programm [nach] dasselbe geblieben. [Es hat] unabsehbare Arbeit geleistet - die Protokolle.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">Ich glaube, die Kraft dazu, diese Schwierigkeiten zu &#xFC;berstehen und insbesondere den sozialen Ansturm des K.[ommunismus] abzuwehren, zugleich aber gegen&#xFC;ber dem Ausland unseren Bestand zu sichern und - [haben wir daraus gesogen, da&#xDF; wir ein] Ausschu&#xDF; der Volksvertretung [sind], getragen vom Willen des Volkes. Die republik.[anische] </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Gesinnung</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve"> Verfassung gibt uns die Kraft, sie legt uns aber auch hohe Pflichten auf - die Arbeit des Tages und der Nacht in den Dienst des Volkes zu stellen. Wir alle haben das ruhige Gewissen, diese Pflicht auch erf&#xFC;llt zu haben. Wir geloben, auch in Zukunft unser gesamtes Denken und unsere gesamte Willenskraft in den Dienst des Volkes zu stellen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Steinwender. Sollte der Pr&#xE4;sident den Antrag nicht unterschreiben, so w&#xE4;re dies der Versuch, wenigstens das Rechnungtragen einer Ehrenschuld, den das Kabinett zu erf&#xFC;llen hat und [ein] ?Ansto&#xDF; f&#xFC;r die Nationalversammlung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Hanusch: Ich bedauere sehr, da&#xDF; wir in dieser Sache bisher nichts tun konnten. Die gro&#xDF;deutsche Partei hat abgelehnt, [etwas] im Haus zu beantragen. Der Pr&#xE4;sident wird die Sache nicht machen k&#xF6;nnen, weil das Gesetz das nicht zul&#xE4;&#xDF;t. Es m&#xFC;&#xDF;te der Mut aufgebracht werden, diese Sache der Nationalversammlung vorzutragen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Fink: Ich glaube, der Pr&#xE4;sident k&#xF6;nnte auf den Vorschlag eingehen. Bei anderen Beamten hat man wiederholt in die Pension einrechenbare Zulagen beantragt. Ich glaube, da&#xDF; gar kein Anstand besteht, eine Zulage zur Pension zu beschlie&#xDF;en.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Wir pensionieren nicht den Staatssekret&#xE4;r, sondern wir erh&#xF6;hen die Pension eines verdienten Beamten. [Das ist eine] Option, die im Rahmen des formalen Rechtes liegt. Wenn es der Pr&#xE4;sident nicht tun will, so wird er es im Hauptausschu&#xDF; zur Sprache bringen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Zerdik: Gouverneur Schuster.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Hanusch: Gegen die alten Ministerpensionen ist in der Bev&#xF6;lkerung eine sehr gro&#xDF;e Antipathie vorhanden. Durch diese Sache lebt das wieder auf.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Antrag genehmigt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: Protest Stritzl und Coumont.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Ad acta legen.</hi>
-          </p>
-          <p>
-            <hi rend="italic strikethrough" style="font-size:12pt">Liquidierung</hi>
-            <hi rend="italic" style="font-size:12pt">.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Renner]: [Mitteilung von] P&#xF6;schel [betreffend] Kriegsarchiv und Heeresmuseum.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: [Eine] Internationalisierung des Kriegsarchivs halte ich f&#xFC;r unm&#xF6;glich. Eminente kulturelle Bedeutung, auf das wir Beschlag legen m&#xFC;ssen. Bis jetzt ist der Standpunkt eingehalten [worden], da&#xDF; ?Entnahmen ohne unsere Zustimmung nicht zul&#xE4;ssig sind. &#xC4;hnlich mit Heeresmuseum. Ganz gewaltiger Reichtum. Bei entsprechendem Ausbau Attraktion.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Antrag: Beschlu&#xDF;, da&#xDF; das bei sparsamster Verwaltung bei uns bleibt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: Der Friedensvertrag bestimmt, da&#xDF; Gegenst&#xE4;nde von besonderem historischen Wert von den Nationalstaaten angesprochen werden k&#xF6;nnen. Wir sollten aussprechen, da&#xDF; die beiden Sammlungen, so wie sie sind, hier zu verbleiben haben.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Auch bez&#xFC;glich des Haus-, Hof und Staatsarchivs wird diese Frage auftauchen. Vom Standpunkt der Attraktion d&#xFC;rfte nur die Internationalisierung anzustreben sein. Die Nationalstaaten w&#xFC;rden sonst jedenfalls Anspruch erheben. In wissenschaftlichen Kreisen ist der Gedanke der Internationalisierung vollkommen zum Durchbruch gelangt. Vielleicht w&#xE4;re anzustreben, da&#xDF; die Sammlungen in &#xF6;sterreichischer Verwaltung bleiben und Fachbeamte der Nationalstaaten zugeteilt werden auf deren Kosten. Vom wissenschaftlichen Standpunkt w&#xE4;re die Zerrei&#xDF;ung ein Ungl&#xFC;ck.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: Mir ist es darum zu tun, da&#xDF; die Verwaltung von uns gef&#xFC;hrt wird, wodurch allein die M&#xF6;glichkeit einer wissenschaftlichen Ausbeute allein gegeben ist. Wenn die anderen mit dreinzureden haben, ist keine Forschung m&#xF6;glich. Ich warne vor der Hereinbringung fremder Beamter in das Archiv.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">1.) Es bleibt bei der &#xF6;sterreichischen Verwaltung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">2.) [Ein] &#xDC;bereinkommen mit den anderen Staaten, wodurch die Forschungsm&#xF6;glichkeit f&#xFC;r die anderen Staaten gegeben ist.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Wenn das erreichbar ist, ist es selbstverst&#xE4;ndlich gut. Aber ich f&#xFC;rchte, da&#xDF; es nicht durchgehen wird. Es wird wahrscheinlich nichts anderes &#xFC;brig bleiben, [als] da&#xDF; wir andere Beamte zuteilen lassen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Der Standpunkt des Friedensvertrages ist nicht der, da&#xDF; Sammlungen und Archive zerrissen werden sollen. Nur diejenigen St&#xFC;cke, f&#xFC;r die besondere Titel angef&#xFC;hrt werden k&#xF6;nnen, sollen zur&#xFC;ck gegeben werden m&#xFC;ssen (193).</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Nur das, was f&#xFC;r die unmittelbare Verwaltung notwendig oder mit der Geschichte des Landes in unmittelbarem Zusammenhang steht und auf eine gewisse Zeit zur&#xFC;ck und wenn es weggebracht worden ist, ist zur&#xFC;ckzustellen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Unsere Beamten sind immer zu sehr geneigt, nachzugeben. Die Internationalisierung w&#xFC;rde zur Folge haben, da&#xDF; wir die Beamten [zu] bezahlen haben w&#xFC;rden. Der Friedensvertrag sch&#xFC;tzt uns genug. Wir sollen uns auf die Internationalisierung nicht einlassen. Wir w&#xFC;rden uns in fremde H&#xE4;nde geben. Die anderen h&#xE4;tten immer das Interesse, uns zu majorisieren.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Instruktion: Eine Internationalisierung sei nicht in Aussicht zu nehmen, sondern, da&#xDF; diese Sachen streng nach dem Friedensvertrag behandelt werden sollen und in dieser Sache nicht &#xFC;ber den Buchstaben des Friedensvertrages hinauszugehen ist.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Dann werden die Nationalstaaten die Sammlungen zerrei&#xDF;en. Nach dem Friedensvertrag k&#xF6;nnten wir nur die Akten, die sich auf die gemeinsamen Gebiete beziehen, behalten. Der Verlust w&#xE4;re sicher sehr schwer, wenn wir alles, was die anderen Staaten betrifft, abgeben m&#xFC;ssen. Es w&#xE4;ren die Vorst&#xE4;nde um ihr Gutachten -.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Tietze und Redlich w&#xE4;ren um ihr Gutachten raschestens zu ersuchen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: P&#xF6;schel mu&#xDF; angewiesen werden, stark zu bleiben.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Der Kabinettsrat beharrt auf seinem Beschlu&#xDF; vom 24. Oktober, da&#xDF; die auf &#xF6;sterreichischem Boden bestehenden Sammlungen und Institutionen im ausschlie&#xDF;lichen Eigentum und [in] ausschlie&#xDF;licher Verwaltung Deutsch-&#xD6;sterreichs stehen. </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Das Kabinett erkl&#xE4;rt prinzipiell seine</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Die deutsch-&#xF6;sterreichische Staatsregierung wird den anderen Nationen die weitest m&#xF6;glichen Erleichterungen und Rechte zur Ben&#xFC;tzung der Materialien gew&#xE4;hren. Eine Internationalisierung des Eigentums und der Verwaltung der Institute kann jedoch nicht zugestanden werden.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">P&#xF6;schl wird eingeladen, [klarzulegen], was unter Internationalisierung zu verstehen ist und &#xFC;ber diese Frage &#xFC;berhaupt ein fachm&#xE4;nnisches Gutachten einzuholen. Gutachten werden Tietze, Redlich, Mayr abgeben.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Bericht &#xFC;ber die Liquidierung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: P&#xF6;schel hat Bedenken, da&#xDF; wir einen einseitigen Akt setzen und die anderen Nationalstaaten br&#xFC;skieren. Er schl&#xE4;gt vor, da&#xDF; im Gesetz der Zeitpunkt des Inkrafttretens des Friedensvertrages bleibt und da&#xDF; wir nur in der internationalen Kommission erkl&#xE4;ren, da&#xDF; unsere Mittel ersch&#xF6;pft sind; jetzt m&#xFC;ssen die anderen entweder bezahlen oder die Liquidierung h&#xF6;rt auf.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: Das w&#xE4;re zwar ein m&#xF6;glicher Verhandlungsweg, aber das kann den Kabinettsbeschlu&#xDF; nicht hindern. Ich meine, der Antrag soll so beschlossen werden, wie er gestellt wurde und der Vorschlag P&#xF6;schels soll der Weg sein, die Nationalstaaten dazu zu bringen. Der Staatskanzler soll verf&#xFC;gen, da&#xDF; ihm die Akten selbst vorgelegt werden als Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Der Kabinettsrat soll das Staatsamt f&#xFC;r &#xC4;u&#xDF;eres einladen, an die Nationalstaaten [ein Schreiben zu richten]: Der Kredit, aus dem die Liquidierung bisher bestritten wurde, [ist] ersch&#xF6;pft. Im Friedensvertrag wurde die Liquidierung von Haus aus nicht anerkannt. Demnach Deutsch-&#xD6;sterreich die Liquidierung [als] beendet betrachtet und gezwungen ist, eine rein deutsch-&#xF6;sterreichische Liquidierung eintreten zu lassen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Im &#xFC;brigen schlie&#xDF;e ich mich [dem] Antrag Deutsch an, da&#xDF; die Liquidierungen nicht mehr von untergeordneten Organen gef&#xFC;hrt werden d&#xFC;rfen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: Bitte, die Beschl&#xFC;sse dem P&#xF6;schel intimieren zu lassen. (zugestanden).</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Meine Ausf&#xFC;hrungen sind nur dahin gerichtet, da&#xDF; im Gesetzentwurf keine &#xC4;nderung eintreten gelassen wird und da&#xDF; wir nur de facto erkl&#xE4;ren, da&#xDF; die Mittel ersch&#xF6;pft sind.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">Grimm: [Es hat] finanziell fast gar keinen Wert, wenn wir in die deutsch-&#xF6;sterreichische Liquidierung eintreten, wenn wir nicht gleichzeitig den Abbau des Personals vornehmen. Wir m&#xFC;ssen den </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Nationalstaaten mitteilen, da&#xDF; wir sofort mit der Pensionierung vorgehen m&#xFC;ssen, sofort</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - liquidierenden Stellen mitteilen, da&#xDF; sofort das Personal liquidiert und pensioniert wird und dann nur das f&#xFC;r die &#xF6;sterreichische Liquidierung notwendige [Personal] wiederaufnehmen. Das andere fremdnationale Personal den Nationalstaaten zur Verf&#xFC;gung [zu] stellen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Antrag Renner angenommen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">3b. Messeamt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Ellenbogen: -.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: [Ich] kann nicht die Zustimmung zur Verlautbarung geben. Die Note des Staatsamtes f&#xFC;r Handel ist vom 15. Oktober datiert und hat acht Tage Frist gegeben. Diese Zuschrift hat zehn Tage gebraucht, bis sie ins Staatsamt gelangt ist.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">In merito: [Das ist ein] neues Amt und [eine] neue Zentrale mit sehr wesentlichen Kosten. Das ist eine Sache, die man nicht von Staats wegen reglementieren kann und schon gar nicht in der jetzigen Zeit.</hi>
-          </p>
-          <p>
-            <hi rend="italic strikethrough" style="font-size:12pt">Renner</hi>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">: </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Auf acht Tage vertagt</hi>
-            <hi rend="italic" style="font-size:12pt">.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: Es w&#xE4;re doch am einfachsten, die Sache der Handelskammer zu &#xFC;bertragen. Man mu&#xDF; verhindern, da&#xDF; dem Staat Kosten verursacht werden.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Beschlu&#xDF;]: Das Staatsamt f&#xFC;r Handel soll sich binnen acht Tagen mit dem Staatsamt f&#xFC;r Finanzen ins Einvernehmen setzt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Vertagt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">4. Abbaubeg&#xFC;nstigungen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Deutsch: -.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">5. Chargenzulagen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: -.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Angenommen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">6. Tabak und Zucker.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">[Reisch]: a) Zucker. Antrag, Verdoppelung des Zuckerpreises ab 1. XII. '19. mit 1. /12. August und September Zucker, wo er noch nicht abgeliefert wurde, zum alten Preis.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Hanusch: Wenn diese beiden Dinge im gegenw&#xE4;rtigen Zeitpunkt, wo die Verhandlungen mit den Industriearbeitern und mit den Staats- und Landes- und Gemeindeangestellten noch nicht abgeschlossen sind, [gemacht werden], so werfen sie uns die ganze Geschichte um. [Ich ersuche um] Verschiebung um 14 Tage und 3 Wochen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: Pflichtet bei.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">L&#xF6;wenfeld: [Ich] mu&#xDF; mich Reisch anschlie&#xDF;en, da&#xDF; die Erh&#xF6;hung mit 1. XII. in Kraft gesetzt wird. Das Defizit der Zuckerstelle infolge zu geringer Zuckerpreise macht bereits 43 Millionen Kronen aus. Die Zuckerstelle ist eine staatliche Stelle, welche wenn [sie] auch formal Kredit hat, doch keinen Kredit tats&#xE4;chlich hat. Das Geld rouliert eben. Durch den geringen Preis hat sie immer Zahlungsschwierigkeiten. Es ist oft kein Zucker da, weil wir nicht bezahlen konnten. Wenn das Staatsamt f&#xFC;r Finanzen nicht erkl&#xE4;rt, da&#xDF; sie die Zuckerstelle mit Geld versorgt, so kann ich einer Verschiebung nicht zustimmen wegen der Zuckerversorgung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Die Bev&#xF6;lkerung ist schon vorbereitet und ich wei&#xDF; nicht, ob praktisch als Weihnachtsgeschenk.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">In vielen Gegenden ist der August- und September-Zucker noch nicht ausgeteilt. Dieser Zucker mu&#xDF; von der Erh&#xF6;hung frei bleiben, auch wenn er nach dem 1. XII. ausgegeben wird.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Mayr: Beides auf einmal wird zuviel sein f&#xFC;r unsere Bev&#xF6;lkerung. Wenigstens die Tabakerh&#xF6;hung soll man jetzt noch nicht eintreten lassen. Insbesondere Land-Tabak geht nicht. Man mu&#xDF; ihn vor einer solchen Erh&#xF6;hung frei lassen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Reisch: 228 Millionen macht die Erh&#xF6;hung aus. W&#xE4;hrend das Tabakgesch&#xE4;ft fr&#xFC;her [eine] St&#xFC;tze des Budgets [war], [ist es] jetzt mit vielen Millionen passiv infolge der Entwertung der Valuta.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Vertagt bis Freitag oder Dienstag.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: </hi>
-            <hi rend="italic strikethrough" style="font-size:12pt">Unverzinslicher Kredit f&#xFC;r die Anschaffungsbeitr&#xE4;ge in der Industrie auf 6 Monate</hi>
-            <hi rend="italic" style="font-size:12pt">. Das Staatsamt f&#xFC;r Finanzen ist erm&#xE4;chtigt, der par.[it&#xE4;tischen] Industriekommission einen verrechenbaren Erlag von 10 Millionen Kronen zur Erteilung von Vorsch&#xFC;ssen an Industrielle zur Auszahlung des Anschaffungsbeitrages zu gew&#xE4;hren. Diese Vorsch&#xFC;sse sind unverzinslich l&#xE4;ngstens binnen 6 Monaten zur&#xFC;ckzuzahlen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">&#xDC;bereinkommen mit der ober&#xF6;sterreichischen Landesregierung.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">L&#xF6;wenfeld: Das Gesetz ist bereits vor 14 Tagen kundgemacht [worden]. Aufgrund dieses Gesetzes ist bereits am 27. X. eine Verordnung der Landesregierung erschienen betreffend Festsetzung von Geb&#xFC;hren f&#xFC;r die Ausfertigung von Transportbescheinigungen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Durch die Kundmachung hat die Landesregierung eine neuerliche Verfassungswidrigkeit begangen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Renner: Wir werden in der Zuschrift an das Land davon Notiz nehmen.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Froehlich: &#xDC;bereinkommen &lt; &gt;.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">&#xBC;11 h.</hi>
-          </p>
-          <p>
-            <hi rend="italic" style="font-size:12pt">Eldersch: Vom Staatsamt zwei Verwaltungsr&#xE4;te vorbehalten und die &#xC4;nderungen der Statutenvorschriften getroffen, die das Recht vorsehen.</hi>
-          </p>
-        </div>
-        <div/>
-      </div>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Anna Holzer</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2026-02-24</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="7.58.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <date>2026-03-10T13:51:41Z</date>
+                    <name>Anna Holzer</name>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="Title">
+                        <hi style="font-family:Aptos Display;font-size:28pt">121.</hi>
+                    </titlePart>
+                    <titlePart type="Subtitle">
+                        <hi rend="color(595959)" style="font-size:14pt">[Dienstag] 1919-11-11</hi>
+                    </titlePart>
+                </docTitle>
+            </titlePage>
+        </front>
+        <body>
+            <div>
+                <head>
+                    <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Dokumentkopf</hi>
+                </head>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Vorsitz: </hi>
+                    </head>
+                    <p>
+                        <hi style="font-size:12pt">Renner</hi>
+                    </p>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">Anwesend:</hi>
+                    </head>
+                    <p>
+                        <hi style="font-size:12pt">Deutsch, Eisler, Eldersch, Gl&#xF6;ckel, Hanusch, L&#xF6;wenfeld-Ru&#xDF;, Mayr, Miklas, Paul, Ramek, Reisch, Resch, St&#xF6;ckler, Tandler, Wai&#xDF;, Zerdik</hi>
+                    </p>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Zugezogen: </hi>
+                    </head>
+                    <p>
+                        <hi style="font-size:12pt">Grimm</hi>
+                    </p>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Schriftf&#xFC;hrer: </hi>
+                    </head>
+                    <p>
+                        <hi style="font-size:12pt">unbekannt</hi>
+                    </p>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Dauer: </hi>
+                    </head>
+                    <p>
+                        <hi style="font-size:12pt">16.00&#x2013;20.00 Uhr</hi>
+                    </p>
+                </div>
+            </div>
+            <div>
+                <head>
+                    <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Komponenten</hi>
+                </head>
+                <p>
+                    <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reinschrift, Konzept, Stenogramm (A, B), Entwurf der Tagesordnung </hi>
+                </p>
+            </div>
+            <div>
+                <head>
+                    <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Beilagen:</hi>
+                </head>
+                <p style="text-align: justify;">
+                    <hi style="font-size:12pt" xml:space="preserve">&#x2013; </hi>
+                    <ref target="#4.">
+                        <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 4</seg>
+                    </ref>
+                    <hi style="font-size:12pt" xml:space="preserve">: </hi>
+                    <ref target="https://krp-121_b01">
+                        <hi style="font-size:12pt">Ab&#xE4;nderung des Zeitpunkts f&#xFC;r die &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch Deutsch&#xF6;sterreich</hi>
+                    </ref>
+                </p>
+                <p style="text-align: justify;">
+                    <hi style="font-size:12pt">&#x2013;</hi>
+                    <ref target="#5.">
+                        <seg style="font-size:12pt">Zu Punkt 5</seg>
+                    </ref>
+                    <hi style="font-size:12pt" xml:space="preserve">: </hi>
+                    <ref target="https://krp-121_b02">
+                        <hi style="font-size:12pt">Vortrag des Staatsamtes f&#xFC;r Heereswesen Abt. 19 Zl. 114 &#xFC;ber die Zusicherung von Abbaubeg&#xFC;nstigungen an Berufsmilit&#xE4;rpersonen, die vor Inkrafttreten einschl&#xE4;giger Vorschriften abr&#xFC;sten</hi>
+                    </ref>
+                </p>
+                <p style="text-align: justify;">
+                    <hi style="font-size:12pt" xml:space="preserve">&#x2013; </hi>
+                    <ref target="#6.">
+                        <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 6</seg>
+                    </ref>
+                    <hi style="font-size:12pt" xml:space="preserve">: </hi>
+                    <ref target="https://krp-121_b03">
+                        <hi style="font-size:12pt">Antrag des Staatsamtes f&#xFC;r Inneres und Unterricht &#xFC;ber die Anrechenbarkeit der Chargenzulagen von Sicherheitswache und Polizei f&#xFC;r die Bemessung von Witwen- und Waisenpensionen, Erziehungsbeitr&#xE4;ge und Sterbequartale</hi>
+                    </ref>
+                    <lb/>
+                </p>
+            </div>
+            <div>
+                <head>
+                    <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Protokoll</hi>
+                </head>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-size:14pt">Begr&#xFC;&#xDF;ung</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Vor Eingehen in die Tagesordnung begr&#xFC;&#xDF;t der Vorsitzende das Kabinett aus Anlass des Jahrestages der Republik und f&#xFC;hrt aus: &#x201E;Obwohl das gegenw&#xE4;rtige Kabinett das dritte seit dem Bestande der Republik ist, ist es in seinem Personenstande wie in seiner politischen Zusammensetzung und in seinem Programm das gleiche geblieben. Eine unabsehbare Arbeit hat das Kabinett w&#xE4;hrend dieses Jahres geleistet, und die Protokolle seiner Verhandlungen werden Zeugnis daf&#xFC;r ablegen, welch&#x2018; gewaltige politische und soziale Schwierigkeiten es &#xFC;berwunden und wie viel Fruchtbringendes es zugleich geschaffen hat. Die Kraft dazu hat ihm eine Tatsache verliehen: es ist ein Kabinett von Volksbeauftragten, das von dem Vertrauen der Volksvertretung und damit des ganzen Volkes getragen ist. Dieses Vertrauen allein hat es bef&#xE4;higt, dem Ansturme der kommunisti</hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0003|</hi>
+                            <hi style="font-size:12pt">schen Bewegung auf der einen Seite und den gewaltigen ausw&#xE4;rtigen Verwicklungen auf der anderen Seite zu begegnen und die Republik bis zu dem Augenblicke zu f&#xFC;hren, wo der Frieden abgeschlossen und der Bestand des Staates gesichert ist. Das Vertrauen des Volkes begr&#xFC;ndet aber f&#xFC;r uns auch zugleich die h&#xF6;chste Verantwortung. Wir haben die Pflicht &#xFC;bernommen, die Arbeit unseres Tages und die Sorge unserer N&#xE4;chte restlos dem Volke hinzugeben, und wir geloben, diese Pflicht auch in Hinkunft treulich zu erf&#xFC;llen.&#x201C;</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">1.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic" style="font-size:12pt">Regelung des Ruhegenusses des gewesenen Staatssekret&#xE4;rs f&#xFC;r Finanzen Dr. Otto Steinwender.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Vorsitzende erbittet und erh&#xE4;lt vom Kabinettsrate nach einer kurzen Debatte die Erm&#xE4;chtigung, beim Pr&#xE4;sidenten der Nationalversammlung den Antrag stellen zu d&#xFC;rfen, dass dem ehemaligen Staatssekret&#xE4;r f&#xFC;r Finanzen Dr. Otto Steinwender vom 1. April 1919 angefangen eine Pensionszulage im Ausma&#xDF;e der Differenz zwischen dem ihm als Gymnasialprofessor des Ruhestandes jeweils geb&#xFC;hrenden und dem nach der 2. Rangsklasse der Staatsbeamten jeweils entfallenden normalm&#xE4;&#xDF;igen Ruhegenuss bewilligt werde.</hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0004|</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">2.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic" style="font-size:12pt">Protest gegen das Gesetz vom 30. Oktober 1919, StGBl. Nr. 501, betreffend die Landesverweisung und die &#xDC;bernahme des Verm&#xF6;gens des Hauses Habsburg-Lothringen.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Vorsitzende teilt mit, dass die Rechtsanw&#xE4;lte Dr. Coumont und Dr. Stritzl in Vertretung des ehemaligen Kaisers bzw. der Familie Habsburg-Lotbringen nachstehenden Protest eingebracht haben: &#x201E;Unsere Mandanten erkl&#xE4;ren, dass sie gegen das Gesetz vom 30. Oktober 1919, StGBl. Nr. 501, betreffend die Landesverweisung und die &#xDC;bernahme des Verm&#xF6;gens des Hauses Habsburg-Lothringen, Protest erheben, dieses Gesetz als Norm f&#xFC;r die verm&#xF6;gensrechtliche Auseinandersetzung mit der Republik &#xD6;sterreich nicht ansehen k&#xF6;nnen und sich daher alle Anspr&#xFC;che, die aus diesem ihrem Standpunkte folgen, ausdr&#xFC;cklich vorbehalten.&#x201C;</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">&#xDC;ber Antrag des Vorsitzenden beschlie&#xDF;t der Kabinettsrat, dass dieser Protest zu den Akten zu hinterlegen sei.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">3.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic" style="font-size:12pt">Frage der Internationalisierung des Kriegsarchivs und des Heeresmuseums.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Vorsitzende bringt zur Kenntnis, dass der Generalliquidierungskommiss&#xE4;r Sektionschef Dr. P&#xF6;schel mitgeteilt habe, es werde sich die in</hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0005|</hi>
+                            <hi style="font-size:12pt">ternationale Liquidierungskommission in ihrer n&#xE4;chsten Sitzung mit der Frage der Internationalisierung des Kriegsarchivs und des Heeresmuseums besch&#xE4;ftigen. Wiewohl eine derartige Ma&#xDF;nahme mit dem vom Kabinettsrate in seiner Sitzung am 24. Oktober l. J. beschlossenen Grundsatze der Nationalisierung des bestandenen Kriegsministeriums nicht in Einklang st&#xFC;nde, glaube Sektionschef Dr. P&#xF6;schel dennoch, dass dieser Gedanke nicht a limine zur&#xFC;ckzuweisen w&#xE4;re, da andernfalls nach gewissen Bestimmungen des Staatsvertrages von St. Germain zu bef&#xFC;rchten sei, dass der geschlossene Bestand dieser Sammlungen nicht aufrecht erhalten bleiben k&#xF6;nnte. Er erbitte sich daher eine prinzipielle Weisung &#xFC;ber die von ihm bei der bevorstehenden Sitzung der internationalen Liquidierungskommission einzunehmende Haltung.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">Staatssekret&#xE4;r Dr. Deutsch h&#xE4;lt eine Internationalisierung des Kriegsarchivs und des Heeresmuseums f&#xFC;r &#xFC;beraus bedenklich, zumal diese wertvollen Objekte, die einen besonderen Anziehungspunkt f&#xFC;r Wien bilden, damit unserer ausschlie&#xDF;lichen Verf&#xFC;gungsgewalt entzogen w&#xFC;rden. </hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0006|</hi>
+                            <hi style="font-size:12pt">Redner warne daher vor einem derartigen Schritte und bitte daran festzuhalten, dass es bei der ausschlie&#xDF;lich &#xF6;sterreichischen Verwaltung dieser Institute zu verbleiben habe; das hindere gewiss nicht, ein &#xDC;bereinkommen mit den anderen Staaten abzuschlie&#xDF;en, wonach die Forschungsm&#xF6;glichkeit dem Auslande gew&#xE4;hrleistet w&#xFC;rde.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Nachdem Staatssekret&#xE4;r Dr. Reisch die Auffassung des Sektionschefs Dr. P&#xF6;schel im Gegenstande des N&#xE4;heren erl&#xE4;utert hatte, verweist Staatssekret&#xE4;r Dr. Mayr auf die Gefahren, denen die genannten Institute und ebenso auch das ehemalige Haus-, Hof- und Staatsarchiv bei einer grunds&#xE4;tzlich ablehnenden Haltung &#xD6;sterreichs gegen&#xFC;ber dem Internationalisierungsprojekte ausgesetzt sein k&#xF6;nnten. Unter dem Gesichtspunkte, dass die Zerrei&#xDF;ung der Best&#xE4;nde unbedingt vermieden werden m&#xFC;sse, sei der Gedanke der Internationalisierung in wissenschaftlichen Kreisen bereits vollkommen zum Durchbruche gelangt. Er stelle zur Erw&#xE4;gung, ob nicht die Zulassung von Fachbeamten der Nachfolgestaaten zu diesen Instituten grund</hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0007|</hi>
+                            <hi style="font-size:12pt">s&#xE4;tzlich zuzugestehen sei, wobei es jedoch bei einer rein &#xF6;sterreichischen Verwaltung der Best&#xE4;nde zu verbleiben h&#xE4;tte.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Vorsitzende erl&#xE4;utert in eingehender Weise die Rechtslage an der Hand der einschl&#xE4;gigen Bestimmungen des Staatsvertrages von St. Germain (Art. 193). Eine Internationalisierung der Institute w&#xFC;rde zur Folge haben, dass fremden Organen eine Einflussnahme zugestanden werden m&#xFC;sste und dass wir nach den gemachten Erfahrungen schlie&#xDF;lich diese Organe auch zu bezahlen h&#xE4;tten.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Mayr vermag den Ausf&#xFC;hrungen des Vorredners nicht in ihrer G&#xE4;nze beizupflichten. Die Erfahrungen, die Tirol mit den Forderungen der Italiener r&#xFC;cksichtlich der Best&#xE4;nde des Landesarchivs gemacht habe, lie&#xDF;en es vielleicht doch empfehlenswert erscheinen, den Gedanken einer Internationalisierung der in Frage kommenden Institute nicht ohne weiteres fallen zu lassen. Er schlage vor, hier&#xFC;ber vorerst noch ein Fachgutachten der Professoren Dr. Oswald Redlich und Dr. Hans Tietze einzuholen.</hi>
+                            <hi rend="background(green)" style="font-size:12pt" xml:space="preserve"> |KRP0121_R0008|</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Vorsitzende fasst das Ergebnis der Debatte in folgenden Beschlussantrag zusammen:</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">&#x201E;Der Kabinettsrat beharrt auf seinem Beschlusse vom 24. Oktober l. J., demzufolge die auf &#xF6;sterreichischem Boden befindlichen Sammlungen und Institutionen im ausschlie&#xDF;lichen Eigentum und in ausschlie&#xDF;licher Verwaltung der &#xF6;sterreichischen Republik stehen. Die Staatsregierung wird jedoch den anderen Nationen die weitestm&#xF6;glichen Erleichterungen und Rechte zur Ben&#xFC;tzung der Materialien einr&#xE4;umen. Eine Internationalisierung des Eigentums und der Verwaltung der Institute kann jedoch nicht zugestanden werden; es ist vielmehr streng nach dem Buchstaben des Friedensvertrages vorzugehen.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Sektionschef P&#xF6;schl wird eingeladen, diesen Standpunkt in der internationalen Liquidierungskommission zu vertreten.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Mayr wird schlie&#xDF;lich ersucht, mit den Professoren Dr. Redlich und Dr. Tietze wegen Erstattung eines Fachgutachtens &#xFC;ber die Frage der Internationalisierung der mehrgenannten Institute in Verbindung zu treten.&#x201C;</hi>
+                            <hi rend="background(green)" style="font-size:12pt" xml:space="preserve"> |KRP0121_R0009|</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Kabinettsrat erhebt diese Antr&#xE4;ge zum Beschluss.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="4."/>
+                        <hi rend="normalweight color(0F4761)" style="font-size:16pt">4.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic" style="font-size:12pt">Ab&#xE4;nderung des Zeitpunktes f&#xFC;r die &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch Deutsch&#xF6;sterreich.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Vorsitzende erinnert daran, dass der Kabinettsrat am 24. Oktober d. J. unter anderem beschlossen habe:</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">&#x201E;Die gesamte Liquidierung wird als eine deutsch&#xF6;sterreichische innerstaatliche Aufgabe erkl&#xE4;rt; die Gesandtenkonferenz und die Bevollm&#xE4;chtigtenkollegien treten mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain au&#xDF;er Funktion.&#x201C;</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Passus &#x201E;mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain&#x201D; sei entgegen dem urspr&#xFC;nglichen Antrage der Staatskanzlei in W&#xFC;rdigung der vom Vertreter des Staatsamtes f&#xFC;r &#xC4;u&#xDF;eres vorgebrachten Gr&#xFC;nde, jedoch nur in der damals noch berechtigten Voraussetzung eingef&#xFC;gt worden, dass das Inkrafttreten des Staatsvertrages ohnehin in k&#xFC;rzester Zeit erfolgen werde. Nach den neuesten Nachrichten sei dieser Zeitpunkt aber noch sehr unbestimmt; es verlaute, dass er erst im n&#xE4;chsten Februar zu gew&#xE4;rtigen sei.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">Eine so lange Verz&#xF6;gerung der </hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0010|</hi>
+                            <hi style="font-size:12pt">L&#xF6;sung der Liquidierungsfrage sei sowohl f&#xFC;r private als auch f&#xFC;r staatliche Interessen sch&#xE4;dlich. Nach dem Beschluss der Gesandtenkonferenz vom 30. September d. J. &#x201E;haben sich die bisherigen Liquidierungsorganisationen in ihrer T&#xE4;tigkeit auf die Behandlung solcher Angelegenheiten zu beschr&#xE4;nken, welche ohne Sch&#xE4;digung des Interesses der einzelnen Nationalstaaten oder ihrer Angeh&#xF6;rigen nicht unerledigt bleiben k&#xF6;nnen, soferne diese Erledigungen nicht einen pr&#xE4;judizierenden Charakter tragen". Dieser Beschluss sei jedenfalls auch in der Erwartung einer baldigen L&#xF6;sung gefasst worden. Der pendente Zustand k&#xF6;nne aber nicht noch weitere Monate bestehen bleiben, umso mehr als unserer Auffassung nach die Liquidierung aus ihrem bisher unbefriedigenden Verlauf nur durch &#xDC;bernahme in eine Hand gerettet werden k&#xF6;nne.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">&#xDC;berdies sei bei einer aufgrund des bezogenen Kabinettsratsbeschlusses abgehaltenen Sitzung des Komitees, welches zur Vorbereitung der Zerlegung des liquidierenden Kriegsministeriums eingesetzt ist, zutage getreten, dass der zur Bestreitung der bisherigen gemeinsamen Liquidierungsauslagen herangezogene, sogenannte </hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0011|</hi>
+                            <hi style="font-size:12pt" xml:space="preserve">Redlichsche Kredit, welcher </hi>
+                            <hi rend="underline" style="font-size:12pt" xml:space="preserve">vielleicht </hi>
+                            <hi style="font-size:12pt">den anderen Nationalstaaten angelastet werden k&#xF6;nnte, mit 20. d. M. ersch&#xF6;pft sein werde und die ganze Liquidierung dann vollst&#xE4;ndig stocken w&#xFC;rde, wenn nicht Deutsch&#xF6;sterreich mit eigenen Mitteln eintrete. Die Entscheidung w&#xE4;re sonach sehr dringend.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Redner beantrage daher, den erw&#xE4;hnten Kabinettsratsbeschluss dahin abzu&#xE4;ndern, dass die &#xDC;bernahme der Liquidierung in deutsch&#xF6;sterreichische Hand sogleich nach schleuniger Durchf&#xFC;hrung aller Vorbereitungen zu erfolgen habe. Die dementsprechenden Ma&#xDF;nahmen h&#xE4;tte das Staatsamt f&#xFC;r &#xC4;u&#xDF;eres, bzw. der Generalliquidierungskommiss&#xE4;r, zu treffen.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">Staatssekret&#xE4;r Dr. Reisch teilt mit, dass der Generalliquidierungskommiss&#xE4;r in dem vom Vorsitzenden vorgeschlagenen Vorgange einen einseitigen Akt erblicke, der geeignet sein k&#xF6;nnte, die Nationalstaaten zu br&#xFC;skieren. Sektionschef Dr. P&#xF6;schel halte daf&#xFC;r, dass in dem Gesetzentwurf der Zeitpunkt des Inkrafttretens des Staatsvertrages von St. Germain als Stichtag der &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch </hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0012|</hi>
+                            <hi style="font-size:12pt">Deutsch&#xF6;sterreich aufrecht bleiben sollte, dass aber in der Liquidierungskommission auf die Ersch&#xF6;pfung der gemeinsamen Mittel hinzuweisen und zu erkl&#xE4;ren w&#xE4;re, Deutsch&#xF6;sterreich m&#xFC;sse angesichts dieser Tatsache auf seinem Gebiete die hienach erforderlichen Ma&#xDF;nahmen auf eigene Kosten treffen.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Deutsch h&#xE4;lt diese Auffassung f&#xFC;r einen allenfalls gangbaren Weg zu Verhandlungen mit den Nachfolgestaaten. Dies d&#xFC;rfe jedoch nicht hindern, die Vorbereitungen im Sinne des Antrages des Vorsitzenden bereits jetzt unverz&#xFC;glich zu treffen. Aus diesem Grunde glaube Redner sich f&#xFC;r die Annahme des Antrages des Vorsitzenden aussprechen zu sollen.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Sektionschef Dr. Grimm gibt zur Erw&#xE4;gung, dass die &#xDC;bernahme der Liquidierungsgesch&#xE4;fte durch Deutsch&#xF6;sterreich nur dann das gew&#xFC;nschte finanzielle Ergebnis zeitigen k&#xF6;nne, wenn gleichzeitig in ernstester Weise der Abbau des liquidierenden Personals in Angriff genommen werde. Es sei daher erforderlich, den liquidierenden Stellen diesen Standpunkt mitzuteilen, im Augenblicke der &#xDC;bernahme der Liquidierung die fremd</hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0013|</hi>
+                            <hi style="font-size:12pt">nationalen Organe den Nachfolgestaaten zur Verf&#xFC;gung zu stellen und weiters auch an die Pensionierung bzw. K&#xFC;ndigung des entbehrlichen deutsch&#xF6;sterreichischen Personals zu schreiten.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Kabinettsrat erhebt den eingangs formulierten Antrag des Vorsitzenden zum Beschlusse und ladet den Staatskanzler als Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres ein, den Nachfolgestaaten mitzuteilen, dass die Kredite, aus denen die Liquidierungsgesch&#xE4;fte bisher bestritten wurden, ersch&#xF6;pft seien. Im Staatsvertrag von St. Germain sei der internationale Charakter der Liquidierung nicht anerkannt worden. Deutsch&#xF6;sterreich m&#xFC;sse daher die internationale Liquidierung als beendet betrachten, und sehe sich gezwungen, eine rein deutsch&#xF6;sterreichische Liquidierung selbst&#xE4;ndig einzuleiten.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Weiters beschlie&#xDF;t der Kabinettsrat, der Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres werde im Hinblick auf die gro&#xDF;e Bedeutung dieser Angelegenheit die F&#xFC;hrung der Verhandlungen in der Weise selbst zu &#xFC;bernehmen haben, dass die mit der Vertretung der deutsch&#xF6;sterreichischen Interessen in der Liquidierung betrauten Organe jeweils die erforderlichen Instruktionen f&#xFC;r ihre fallweise Haltung von ihm einzuholen haben werden.</hi>
+                            <hi rend="background(green)" style="font-size:12pt" xml:space="preserve"> |KRP0121_R0014|</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">In diesem Sinne und &#xFC;ber die Anregung des Sektionschefs Dr. Grimm wird der Generalliquidierungskommiss&#xE4;r durch den Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres zu informieren sein.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="5."/>
+                        <hi rend="normalweight color(0F4761)" style="font-size:16pt">5.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic" style="font-size:12pt">Zusicherungen von Abbaubeg&#xFC;nstigungen an Berufsmilit&#xE4;rpersonen, die vor dem Inkrafttreten der bez&#xFC;glichen Vorschriften die Aktivit&#xE4;t verlassen.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Deutsch verweist darauf, dass die Durchf&#xFC;hrung der Bestimmungen des V. Teiles des Friedensvertrages, betreffend die Land-, See- und Luftstreitkr&#xE4;fte, einen weitgehenden Abbau im milit&#xE4;rischen Berufstand bedinge. F&#xFC;r die Milit&#xE4;rpersonen, die aus ihrem milit&#xE4;rischen Beruf, den sie sich als Lebensberuf gew&#xE4;hlt haben, durch die Standesherabminderung herausgerissen werden, seien Beg&#xFC;nstigungen in Aussicht genommen, die im Prinzip sich an das Pensionsbeg&#xFC;nstigungsgesetz (Gesetz vom 30. Juli 1919, StGBl. Nr. 411) anlehnen werden. Bis zur Herausgabe und Durchf&#xFC;hrung dieser Bestimmungen werde jedoch noch geraume Zeit vergehen, insbesondere auch wegen des notwendigen Zusammenhanges der Abbauma&#xDF;nahmen mit dem Aufbaue der neuen Wehrmacht.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">Nun w&#xE4;re es schon heute vielen Berufsmilit&#xE4;rpersonen m&#xF6;glich, sich im </hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0015|</hi>
+                            <hi style="font-size:12pt">b&#xFC;rgerlichen Leben eine neue Existenz zu gr&#xFC;nden; sie warten aber begreiflicherweise die Gesetzwerdung der zu erhoffenden Abbaubeg&#xFC;nstigungen ab, um ihrer nicht durch einen voreiligen Austritt aus dem aktiven Milit&#xE4;rdienstverh&#xE4;ltnis verlustig zu gehen. Diese Verz&#xF6;gerung gereiche den Betroffenen wie dem Staate zum Nachteil. Nach Ansicht des Staatsamtes f&#xFC;r Heereswesen k&#xF6;nnte diese schwierige Frage zum Vorteile aller Beteiligten gel&#xF6;st werden, wenn heute schon jenen Berufsmilit&#xE4;rpersonen, die nur deshalb aus dem aktiven Milit&#xE4;rdienstverh&#xE4;ltnis noch nicht austreten wollen, um sich nicht selbst von den zu erwartenden Beg&#xFC;nstigungen auszuschlie&#xDF;en, die Sicherheit geboten w&#xFC;rde, dass ihnen diese Beg&#xFC;nstigungen auch dann gewahrt bleiben, wenn sie zwar nach einem zu bestimmenden Tage, jedoch vor Inkrafttreten des Gesetzes und der Vorschriften, die den Abbau im milit&#xE4;rischen Berufsstande regeln werden, aus der Aktivit&#xE4;t scheiden.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">Das angestrebte Ziel w&#xE4;re nun dadurch zu erreichen, dass die k&#xFC;nftigen Abbauvorschriften mit r&#xFC;ckwirkender Kraft ausgestattet werden, diese R&#xFC;ckwirkung jedoch von der Staatsregierung schon dermalen beschlossen und in einem Kommunique zur allgemeinen Kenntnis gebracht w&#xFC;rde. </hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0016|</hi>
+                            <hi style="font-size:12pt">Doch solle dieser Kabinettsbeschluss in keiner Weise den in Bearbeitung befindlichen Abbauvorschriften &#x2013; abgesehen von der Frage der R&#xFC;ckwirkung &#x2013; vorgreifen; &#xFC;ber das Anwendungsgebiet, die Art und das Ausma&#xDF; der Abbaubeg&#xFC;nstigungen bliebe die Entscheidung vorbehalten.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der sprechende Staatssekret&#xE4;r stelle daher den Antrag, der Kabinettsrat wolle beschlie&#xDF;en, dass die Berufsmilit&#xE4;rpersonen, die nach dem Tage der Verlautbarung dieses Beschlusses freiwillig aus dem aktiven Milit&#xE4;rdienstverh&#xE4;ltnis austreten, durch diesen Austritt nicht jener Beg&#xFC;nstigungen verlustig werden, die ihnen nach dem Inhalt der k&#xFC;nftigen, den milit&#xE4;rischen Abbau regelnden Vorschriften zugekommen w&#xE4;ren, wenn sie zur Zeit der Erlassung dieser Vorschriften noch aktive Dienste geleistet h&#xE4;tten.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Der Kabinettsrat beschlie&#xDF;t in diesem Sinne.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <anchor xml:id="6."/>
+                        <hi rend="normalweight color(0F4761)" style="font-size:16pt">6.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic normalweight" style="font-size:12pt">Anrechenbarkeit der Chargenzulagen der Rayoninspektoren der Sicherheitswache und des Polizeiagentenkorps f&#xFC;r die Bemessung der Witwen- und Waisenpensionen, der Erziehungsbeitr&#xE4;ge und des Sterbequartals.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">Nach einem eingehend begr&#xFC;ndeten Antrage des Staatssekret&#xE4;rs Eldersch genehmigt der Kabinettsrat, dass die mit dem Beschlusse des </hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0017|</hi>
+                            <hi style="font-size:12pt">ehemaligen Staatsratsdirektoriums vom 15. J&#xE4;nner 1919 bewilligte Anrechenbarkeit der den Rayonsinspektoren der Sicherheitswache und der Polizeiagentenkorps gew&#xE4;hrten Chargenzulagen f&#xFC;r die Ruhegenussbemessung auch auf die Bemessung der diesfalls in Betracht kommenden Witwen- und Waisenpensionen, Erziehungsbeitr&#xE4;ge und des Sterbequartales ausgedehnt werde.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">7.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic" style="font-size:12pt">Erteilung von Vorsch&#xFC;ssen an die Industrie behufs Auszahlung der Anschaffungsbeitr&#xE4;ge.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Staatssekret&#xE4;r Dr. Reisch bringt vor, es sei im Zuge der gegenw&#xE4;rtigen Verhandlungen &#xFC;ber die Regelung der Bez&#xFC;ge der Industrieangestellten von den Industriellenvertretern geltend gemacht worden, dass einzelne Firmen kaum in der Lage sein d&#xFC;rften, den Anschaffungsbeitrag an ihre Angestellten auszuzahlen. Nach den dem sprechenden Staatssekret&#xE4;r zugekommenen Informationen w&#xFC;rde sich das diesf&#xE4;llige Erfordernis auf ungef&#xE4;hr 10 Millionen K belaufen.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">&#xDC;ber Antrag des Vorsitzenden beschlie&#xDF;t der Kabinettsrat, das Staatsamt f&#xFC;r Finanzen zu erm&#xE4;chtigen, der parit&#xE4;tischen Industrie</hi>
+                            <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0018|</hi>
+                            <hi style="font-size:12pt">kommission einen verrechenbaren Verlag von 10 Millionen K zur Erteilung von Vorsch&#xFC;ssen an Industrielle behufs Auszahlung des Anschaffungsbeitrages zu gew&#xE4;hren. Diese Vorsch&#xFC;sse werden unverzinst l&#xE4;ngstens binnen sechs Monaten zur&#xFC;ckzuzahlen sein.</hi>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">8.</hi>
+                    </head>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">TOP</hi>
+                        </head>
+                        <p style="text-align: center;">
+                            <hi rend="italic" style="font-size:12pt">Inanspruchnahme von Aktien der Alpine Montangesellschaft durch den Staat.</hi>
+                        </p>
+                    </div>
+                    <div>
+                        <head>
+                            <hi rend="normalweight color(0F4761)" style="font-size:14pt">Text</hi>
+                        </head>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Staatssekret&#xE4;r Eldersch teilt in Angelegenheit der Inanspruchnahme von Aktien der Alpine Montangesellschaft durch den Staat mit, dass regierungsseitig die Reservierung von zwei Stellen im Verwaltungsrate der Gesellschaft f&#xFC;r den Staat und die hienach erforderliche &#xC4;nderung der Gesellschaftsstatuten in der n&#xE4;chsten Generalversammlung verlangt und von der Gesellschaft auch in Aussicht gestellt worden sei.</hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt" xml:space="preserve">Der Kabinettsrat nimmt diese Mitteilung zustimmend zur Kenntnis. </hi>
+                        </p>
+                        <p style="text-align: justify;">
+                            <hi style="font-size:12pt">Schluss der Sitzung &#xBC; 11 Uhr Abend.</hi>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <head>
+                    <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Stenogramm</hi>
+                </head>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">A.</hi>
+                        <lb/>
+                        <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 121, 11. November 1919, Stenogramm A]</hi>
+                    </head>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">121., 11. /Nov. 1919, &#xBD;9.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Zugezogen]: Grimm, Simeons, Froehlich.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">1.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Am Vorabend des Jahrestages der Republik begr&#xFC;&#xDF;e ich den Kabinettsrat auf das herzlichste. Das Kabinett ist zwar seit dem Bestand der R.[epublik] das dritte, aber sowohl dem Personenstand, wie der politischen Zusammensetzung und seinem Programm [nach] das gleiche geblieben. W&#xE4;hrend dieses Jahres [wurde] unabsehbare Arbeit geleistet. Die Prot.[okolle] legen Zeugnis ab, welche Schwierigkeiten &#xFC;berwunden [wurden] und was wir geschafft [haben].</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Die Kraft, diese Schwierigkeiten zu &#xFC;berstehen und den sozialen Ansturm des Comm.[unismus] abzuwehren, zugleich aber gegen&#xFC;ber dem Ausland und unseren Nachbarn den Bestand zu sichern und den Frieden zu erreichen, haben wir daraus gesogen, da&#xDF; dieses Kabinett der Staatssekret&#xE4;re der Ausschu&#xDF; der Volksvertretung ist, getragen von dem Vertrauen des Volkes. Die Verfassung ist es, die uns die Kraft gibt, die uns mit dem Vertrauen des Volkes selbst auszeichnet. Die Verfassung legt uns aber auch hohe Pflichten auf. Wir haben es &#xFC;bernommen, die Arbeit unserer Tage und die Sorgen unserer N&#xE4;chte in den Dienst unseres Volkes zu stellen. Wir haben dies gelobt. Ich glaube, wir haben das ruhige Gewissen, diese Pflicht auch erf&#xFC;llt zu haben. Ich spreche in diesem Sinn und ich glaube, im Sinne aller zu sprechen: Wir geloben, auch in Zukunft unser ganzes Denken und unser Wirken in den Dienst unseres Volkes zu stellen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">2.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Steinwender: Wir m&#xFC;ssen rasch abhelfen. An den Pr&#xE4;sidenten den Antrag stellen, da&#xDF; er die Differenz der Pensionsbez&#xFC;ge zur 7. - 8. Rangsklasse [als Zulage bewilligt]. [Sollte der Pr&#xE4;sident nicht unterschreiben, so w&#xFC;rde] unser Versuch wenigstens einer Ehrenschuld Rechnung tragen, die das Kabinett zu leisten verpflichtet ist; und zugleich [einen] Ansto&#xDF; [geben], die Sache doch in Ordnung zu bringen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Hanusch: Im Hauptausschu&#xDF; [ist die Sache] wiederholt verhandelt worden. [Ich] glaube aber, dieser Vorgang stellt den Pr&#xE4;sidenten vor eine Sache, die er wahrscheinlich nicht wird machen k&#xF6;nnen. Man mu&#xDF; auch den Mut aufbringen, die Sache in die Nationalversammlung zu bringen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Fink: [Ich] habe die Meinung, da&#xDF; der Pr&#xE4;sident doch auf den Vorschlag eingehen k&#xF6;nnte - verdienter Parlamentarier.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Zerdik: &#xC4;hnlicher Fall: Schuster.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Hanusch: Gegen die alten Ministerpensionen [bestehen] in der Bev&#xF6;lkerung gro&#xDF;e Antipathien.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">3.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Stritzl - Coumont.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Ad acta legen den Protest.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">4. Bericht &#xFC;ber die Liquidierung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: P&#xF6;schl teilt mit.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: [Eine] Internationalisierung [des] Kriegsarchivs halte ich f&#xFC;r unm&#xF6;glich. [Es betrifft die] Vorgeschichte des Krieges und [die Geschichte] des Krieges selbst. Wir m&#xFC;ssen darauf Beschlag legen. Gewi&#xDF; sind die Kosten nicht sehr klein. Wir haben es faktisch in Beschlag genommen. &#xC4;hnlich auch das Heeresmuseum. Stellt einen gewaltigen Wert dar.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: Der Antrag P&#xF6;schl bezweckt ja die Aufrechterhaltung. Die Bestimmungen des Friedensvertrages, auf welche P.[&#xF6;schl] anspielt, lauten, da&#xDF; Gegenst&#xE4;nde von besonderem Wert von den Nationalstaaten angesprochen werden k&#xF6;nnen. Wir sollten aussprechen, da&#xDF; Wert darauf gelegt wird, da&#xDF; diese beiden Sammlungen hier zu verbleiben haben.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Es wird dieselbe Frage auch bez&#xFC;glich des ehemaligen Haus-, Hof und Staatsarchivs auftauchen. Vom wissenschaftlichen und praktischen Standpunkt aus d&#xFC;rfte die Internationalisierung anzustreben sein. Es wird nicht m&#xF6;glich sein, da&#xDF; wir diese Instit.[utionen] als &#xF6;sterreichisch erhalten. Lassen wir die Internationalisierung nicht zu, so werden sie gewi&#xDF; zerrissen werden. Nur w&#xE4;re die Sache so einzuleiten, da&#xDF; die Inst.[itutionen] in &#xF6;sterreichischer Verwaltung bleiben und von den Nachfolgestaaten Beamte zugeteilt werden. In dieser Weise lie&#xDF;e sich die Verhandlung vielleicht anregen. Im Interesse der Sache ist aber die Internationalisierung bei weitem der Zerrei&#xDF;ung vorzuziehen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: Ich will nur, da&#xDF; die Verwaltung von uns gef&#xFC;hrt wird. Dadurch ist allein die M&#xF6;glichkeit einer wissenschaftlichen Ausbeutung gegeben. Ich m&#xF6;chte aber warnen, fremde Beamte hinein zu nehmen. Eine solche Kontrolle ist ganz &#xFC;berfl&#xFC;ssig.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">1.) Es bleibt bei der deutsch-&#xF6;sterreichischen Verwaltung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">2.) Ein &#xDC;bereinkommen mit den anderen Staaten, wonach die Forschungsm&#xF6;glichkeit f&#xFC;r die anderen Staaten gegeben ist.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Wenn das erreichbar ist, ist es ganz recht. Ich f&#xFC;rchte [aber], da&#xDF; dies nicht durchf&#xFC;hrbar sein wird.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Der Standpunkt des Friedensvertrages [ist], Sammlungen und Archive sollen erhalten bleiben. [Zur&#xFC;ckzugeben sind] nur [St&#xFC;cke], f&#xFC;r die besondere Titel angef&#xFC;hrt werden k&#xF6;nnen .... [die] nach dem 1. /6. [19]14 weggebracht [wurden] aus den milit&#xE4;risch besetzten Gebieten.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Nur das, was f&#xFC;r die unmittelbare Verwaltung notwendig ist oder was mit der Geschichte des betreffenden Landes in einem unmittelbaren Zusammenhang steht und nur w&#xE4;hrend einer gewissen Zeit, die zur&#xFC;ck liegt, [ist zur&#xFC;ckzustellen]. In Wahrheit aber die Nationalstaaten und Italien im Weg von Vertr&#xE4;gen und Abkommen uns ?ableisten wollen (was also im Friedensvertrag nicht gegeben wurde).</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eine Internationalisierung wird bewirken, da&#xDF; sie ihre Leute da haben werden und da&#xDF; wir sie werden bezahlen m&#xFC;ssen. Wir sollten uns nicht darauf einlassen. Ich m&#xF6;chte einer internationalen Kommission kein Vertrauen schenken.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Ich m&#xF6;chte die Instr.[uktion] erteilen, da&#xDF; eine Internationalisierung nicht in Aussicht zu nehmen sei und da&#xDF; streng im Sinne des Friedensvertrages zu verhandeln sei.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Die Grundlage [mag] ganz richtig sein, aber durchsetzen werden wir es nicht. Nur die gemeinsamen Akte k&#xF6;nnen uns bleiben. Italien und Deutsch-S&#xFC;dtirol. Die Vorst&#xE4;nde w&#xE4;ren um ihr Gutachten anzugehen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Tietze und Professor Redlich und Mayr.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: [Ich] m&#xF6;chte anregen, da&#xDF; P&#xF6;schl bekannt gegeben wird, sehr fest zu bleiben. Solange keine andere Regelung erfolgt ist, hat es bei der deutsch-&#xF6;sterreichischen Verwaltung zu bleiben wie bisher.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Der Kabinettsrat beharrt auf seinem Beschlu&#xDF; vom 24. Oktober, da&#xDF; die auf &#xF6;sterreichischem Boden bestehenden Sammlungen und Institutionen in ausschlie&#xDF;lichem Eigentum und ausschlie&#xDF;licher Verwaltung Deutsch-&#xD6;sterreichs stehen. </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Das Kabinett erteilt seine</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - Die deutsch-&#xF6;sterreichische Staatsregierung wird den anderen Nationen die weitest m&#xF6;glichen Erleichterungen und Rechte zur Ben&#xFC;tzung der Materialien gew&#xE4;hren. Eine Internationalisierung des Eigentums und der Verwaltung der Inst.[itutionen] kann jedoch nicht zugestanden werden.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Sektionschef P.[&#xF6;schl] ist aufgefordert, dem Kabinettsrat klarzulegen, was unter Internationalisierung verstanden sein soll. &#xDC;ber diese &#xFC;berhaupt ist ein fachm&#xE4;nnisches Gutachten einzuholen (Tietze, Redlich, Mayr).</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">4.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Verliest Material. Die &#xDC;bernahme der Liquidierung [soll] sofort erfolgen, soweit die Vorbereitungsarbeiten abgeschlossen sind.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: P.[&#xF6;schl] hat seine Bedenken geltend gemacht, da&#xDF; wir einen einseitigen Akt setzen. Auskunftsmittel: Man soll im Gesetz die Sache so lassen, wie [sie] beschlossen wurde. Da&#xDF; wir aber in der Liquidierungskommission nur erkl&#xE4;ren, im Hinblick auf die Ersch&#xF6;pfung der gemeinsamen Mittel [sei es] unm&#xF6;glich, da&#xDF; Deutsch-&#xD6;sterreich aber auf seinem Gebiet die erforderlichen Ma&#xDF;nahmen auf eigene Kosten zu treffen [beabsichtige].</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: Das w&#xE4;re ein m&#xF6;glicher Verhandlungsweg. Aber die Vorarbeit mu&#xDF; schon jetzt getroffen werden. Der Antrag also soll so gefa&#xDF;t werden, wie er hier gestellt wird. P&#xF6;schls Antrag aber w&#xE4;re nur ein Weg f&#xFC;r uns, auf die Nachfolgestaaten einzuwirken. Der Staatskanzler h&#xE4;tte zu verf&#xFC;gen, da&#xDF; ihm als Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres [die Akten] pers&#xF6;nlich zur Genehmigung vorgelegt werden. K&#xFC;nftighin soll also diese Auseinandersetzung durch die Hand des Staatskanzlers pers&#xF6;nlich gehen. Der Kabinettsrat soll die -.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Zuschrift: Der Kredit, aus dem bisher die Liquidierung bestritten wurde, ersch&#xF6;pft ist. Nach dem Friedensvertrag ist die Internationalit&#xE4;t der Liquidierung - nicht anerkannt ist; [daher mu&#xDF;] die Liquidierung als von Haus aus [als] irrt&#xFC;mliche Constr.[uktion] als f&#xFC;r beendigt betrachtet werden und [Deutsch-&#xD6;sterreich] gezwungen ist, selbst&#xE4;ndig die Liquidierung einzuleiten.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Ich] schlie&#xDF;e mich dem Antrag Deutsch an. Es geht jetzt nicht mehr an, da&#xDF; durch nachgeordnete Organe die Liquidierung fortgesetzt wird und wir vor Tatsachen gestellt werden, die unseren Intent.[ionen] nicht entsprechen. Die Beschl&#xFC;sse sind P.[&#xF6;schl] zu intimieren.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reisch: Eine rein deutsch-&#xF6;sterreichische Liquidierung einzuleiten kann nur hei&#xDF;en [eine] rein &#xF6;sterreichische Liquidierung. Dann bitte [ich], da&#xDF; P.[&#xF6;schl] diese Entw&#xFC;rfe zur Einsicht gegeben werden. Meine ersten Ausf&#xFC;hrungen haben nur bezweckt, da&#xDF; wir de facto vorgehen, wie vorgeschlagen wurde. Im Gesetzentwurf aber keine &#xC4;nderung, </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">es sei denn, da&#xDF; wir</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Grimm: Es hat finanziell gar keinen Wert f&#xFC;r uns, wenn wir in die &#xF6;sterreichische Liquidierung eintreten. Aber wir m&#xFC;ssen den Abbau ernstlich jetzt in Angriff nehmen. Wir m&#xFC;ssen erkl&#xE4;ren, da&#xDF; wir mit der Pensionierung des Liquidierungspersonals vorgehen. Sonst werden wir nie fertig.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Deutsch</hi>
+                        <hi rend="italic" style="font-size:12pt">: -.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Erledigt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">5.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Ellenbogen: Messe&#xE4;mter.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: [Ist] nicht in der Lage, seine Zustimmung zu geben; 8-t&#xE4;gige Frist.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Das ist nichts anderes als ein neues Amt und eine neue Zentrale. Das m&#xFC;ssen wir nicht von Staats wegen reglementieren.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Mangel des vorgeschriebenen Verfahrens, auf 8 Tage verschoben.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: Die ganze Organisation soll der Handelskammer gegeben werden. Dem Staat sollen keine Kosten aufgelastet werden.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Ellenbogen: [Ich] schlage vor, da&#xDF; das Staatsamt f&#xFC;r Handel sich mit dem Staatsamt f&#xFC;r Finanzen innerhalb der acht Tage ins Einvernehmen setzt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">6.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: Abbaubeg&#xFC;nstigungen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">7.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: Rayonsinspekt.[oren] einzurechnen in die Witwenpension.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Angenommen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">8.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: Zuckerpreise. Damals [wurde] nur mit einem 70 % Agio der &#x10D;.[echoslovakischen] W&#xE4;hrung gerechnet. [Infolge der] 150 %[igen] Erh&#xF6;hung der Frachttarife [ergibt sich] ungef&#xE4;hr [eine] Verdoppelung des Preises mit 1. /12. [F&#xFC;r] August und September [wird] der Zucker vorher zu den alten Preisen ausgegeben.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic strikethrough" style="font-size:12pt">L&#xF6;wenfeld</hi>
+                        <hi rend="italic" style="font-size:12pt">: -</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Hanusch: Kann sich des Eindruckes nicht erwehren, da&#xDF;, wenn Tabak und Zucker im gegenw&#xE4;rtigen Augenblick der Verhandlungen mit den Arbeitern und Staatsangestellten [verteuert werden], so wird die ganze Geschichte &#xFC;ber den Haufen geworfen. [Aufschub um] 14 Tage oder 3 Wochen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: Wollte dasselbe sagen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">L&#xF6;wenfeld: Mu&#xDF; sich dem Antrag des Staatsamtes f&#xFC;r Finanzen anschlie&#xDF;en bez&#xFC;glich 1. /12. [Der Preis f&#xFC;r] Rohzucker [hat sich] um 100 % erh&#xF6;ht. Das Defizit der Zuckerstelle [betr&#xE4;gt] schon 43 Millionen Kronen. </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Diese Stelle ist eine staatliche Stelle, die wenn sie auch formell Kredit hat</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Dadurch ist die Zuckerstelle fort[w&#xE4;hrend] in Zahlungsschwierigkeiten. </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Wenn das Staatsamt f&#xFC;r Finanzen, das die</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Die Bev&#xF6;lkerung ist schon darauf vorbereitet. Wir brauchen 14 Tage bis 3 Wochen, bis es durchgef&#xFC;hrt wird.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Beides auf einmal wird etwas zuviel sein. Wenigstens die Tabakpreiserh&#xF6;hung jetzt nicht.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">1.) Erst sp&#xE4;ter.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">2.) Billigen Landtabak von einer so gro&#xDF;en Erh&#xF6;hung zu verschonen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: 228 Millionen Einnahmen, sollen uns erhalten bleiben. Also keine Steigerung. Zucker und Tabak [sind] importierte Waren, daher der Valuta unterworfen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: [Bis] Freitag [oder] Dienstag vertagt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">9.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Mitteilung: 3h Nachmittag im Rathaus Festversammlung zur Feier der Republik. Hanusch, Tandler, Gl&#xF6;ckel, Paul. (?Gehrock und ?Kopf[bedeckung]), Ellenbogen, Loewenfeld-Ru&#xDF;.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: Bei der Regelung der Angestelltenbez&#xFC;ge [ist] von Seite der Industriellen geltend gemacht worden, da&#xDF; einzelne Industrielle den Anschaffungspreis nicht werden zahlen k&#xF6;nnen. Hamburger begn&#xFC;gt sich vorl&#xE4;ufig mit 10 Millionen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Das Staatsamt f&#xFC;r Finanzen ist erm&#xE4;chtigt, der parit.[&#xE4;tischen] Industriekommission einen verrechenbaren Erlag von 10 Millionen Kronen zur Erteilung von Vorsch&#xFC;ssen an Industrielle zur Auszahlung des Anschaffungsbeitrages zu gew&#xE4;hren. Die Vorsch&#xFC;sse sind l&#xE4;ngstens binnen einem halben Jahr zur&#xFC;ckzuerstatten (unverzinslich).</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Hanusch: Die Industriellenorganisationen haften f&#xFC;r diesen Betrag. Der Staatssekret&#xE4;r wird eine schriftliche Vereinbarung treffen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">10. &#xDC;bereinkommen mit der ober&#xF6;sterreichischen Landesregierung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">L&#xF6;wenfeld: Das ober&#xF6;sterreichische Gesetz ist bereits kundgemacht. Am 27. /10. ist aufgrund dieses Gesetzes eine Verordnung bereits kundgemacht worden - LGBl. Nr. 142.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: In der Zuschrift ans Land werden wir von dieser Unwissenheit der leitenden Funktion&#xE4;re Notiz nehmen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Froehlich: Verliest.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Tagesordnung erledigt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">&#xBC;11 h.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">11.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: 1.100 Kronen Kauf. &#xDC;berdies verlangt, da&#xDF; f&#xFC;r den Staat man Verwaltungsratsstellen reserviert und [dies] in der n&#xE4;chsten Generalversammlung statutarisch niedergelegt wird.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Bericht Eldersch Verdienstentgang.</hi>
+                    </p>
+                </div>
+                <div>
+                    <head>
+                        <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">B.</hi>
+                        <lb/>
+                        <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 121, 11. November 1919, Stenogramm B]</hi>
+                    </head>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">121., 11. /XI.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Zugezogen]: Grimm, Simeons, Froehlich.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Am Vorabend des Jahrestages der Republik begr&#xFC;&#xDF;e ich das Kabinett auf das herzlichste. Das Kabinett ist zwar seit dem Bestand der Republik das dritte, aber es ist sowohl seiner Zusammensetzung, [wie in seinem] Programm [nach] dasselbe geblieben. [Es hat] unabsehbare Arbeit geleistet - die Protokolle.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">Ich glaube, die Kraft dazu, diese Schwierigkeiten zu &#xFC;berstehen und insbesondere den sozialen Ansturm des K.[ommunismus] abzuwehren, zugleich aber gegen&#xFC;ber dem Ausland unseren Bestand zu sichern und - [haben wir daraus gesogen, da&#xDF; wir ein] Ausschu&#xDF; der Volksvertretung [sind], getragen vom Willen des Volkes. Die republik.[anische] </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Gesinnung</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve"> Verfassung gibt uns die Kraft, sie legt uns aber auch hohe Pflichten auf - die Arbeit des Tages und der Nacht in den Dienst des Volkes zu stellen. Wir alle haben das ruhige Gewissen, diese Pflicht auch erf&#xFC;llt zu haben. Wir geloben, auch in Zukunft unser gesamtes Denken und unsere gesamte Willenskraft in den Dienst des Volkes zu stellen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Steinwender. Sollte der Pr&#xE4;sident den Antrag nicht unterschreiben, so w&#xE4;re dies der Versuch, wenigstens das Rechnungtragen einer Ehrenschuld, den das Kabinett zu erf&#xFC;llen hat und [ein] ?Ansto&#xDF; f&#xFC;r die Nationalversammlung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Hanusch: Ich bedauere sehr, da&#xDF; wir in dieser Sache bisher nichts tun konnten. Die gro&#xDF;deutsche Partei hat abgelehnt, [etwas] im Haus zu beantragen. Der Pr&#xE4;sident wird die Sache nicht machen k&#xF6;nnen, weil das Gesetz das nicht zul&#xE4;&#xDF;t. Es m&#xFC;&#xDF;te der Mut aufgebracht werden, diese Sache der Nationalversammlung vorzutragen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Fink: Ich glaube, der Pr&#xE4;sident k&#xF6;nnte auf den Vorschlag eingehen. Bei anderen Beamten hat man wiederholt in die Pension einrechenbare Zulagen beantragt. Ich glaube, da&#xDF; gar kein Anstand besteht, eine Zulage zur Pension zu beschlie&#xDF;en.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Wir pensionieren nicht den Staatssekret&#xE4;r, sondern wir erh&#xF6;hen die Pension eines verdienten Beamten. [Das ist eine] Option, die im Rahmen des formalen Rechtes liegt. Wenn es der Pr&#xE4;sident nicht tun will, so wird er es im Hauptausschu&#xDF; zur Sprache bringen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Zerdik: Gouverneur Schuster.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Hanusch: Gegen die alten Ministerpensionen ist in der Bev&#xF6;lkerung eine sehr gro&#xDF;e Antipathie vorhanden. Durch diese Sache lebt das wieder auf.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Antrag genehmigt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: Protest Stritzl und Coumont.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Ad acta legen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Liquidierung</hi>
+                        <hi rend="italic" style="font-size:12pt">.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Renner]: [Mitteilung von] P&#xF6;schel [betreffend] Kriegsarchiv und Heeresmuseum.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: [Eine] Internationalisierung des Kriegsarchivs halte ich f&#xFC;r unm&#xF6;glich. Eminente kulturelle Bedeutung, auf das wir Beschlag legen m&#xFC;ssen. Bis jetzt ist der Standpunkt eingehalten [worden], da&#xDF; ?Entnahmen ohne unsere Zustimmung nicht zul&#xE4;ssig sind. &#xC4;hnlich mit Heeresmuseum. Ganz gewaltiger Reichtum. Bei entsprechendem Ausbau Attraktion.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Antrag: Beschlu&#xDF;, da&#xDF; das bei sparsamster Verwaltung bei uns bleibt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: Der Friedensvertrag bestimmt, da&#xDF; Gegenst&#xE4;nde von besonderem historischen Wert von den Nationalstaaten angesprochen werden k&#xF6;nnen. Wir sollten aussprechen, da&#xDF; die beiden Sammlungen, so wie sie sind, hier zu verbleiben haben.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Auch bez&#xFC;glich des Haus-, Hof und Staatsarchivs wird diese Frage auftauchen. Vom Standpunkt der Attraktion d&#xFC;rfte nur die Internationalisierung anzustreben sein. Die Nationalstaaten w&#xFC;rden sonst jedenfalls Anspruch erheben. In wissenschaftlichen Kreisen ist der Gedanke der Internationalisierung vollkommen zum Durchbruch gelangt. Vielleicht w&#xE4;re anzustreben, da&#xDF; die Sammlungen in &#xF6;sterreichischer Verwaltung bleiben und Fachbeamte der Nationalstaaten zugeteilt werden auf deren Kosten. Vom wissenschaftlichen Standpunkt w&#xE4;re die Zerrei&#xDF;ung ein Ungl&#xFC;ck.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: Mir ist es darum zu tun, da&#xDF; die Verwaltung von uns gef&#xFC;hrt wird, wodurch allein die M&#xF6;glichkeit einer wissenschaftlichen Ausbeute allein gegeben ist. Wenn die anderen mit dreinzureden haben, ist keine Forschung m&#xF6;glich. Ich warne vor der Hereinbringung fremder Beamter in das Archiv.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">1.) Es bleibt bei der &#xF6;sterreichischen Verwaltung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">2.) [Ein] &#xDC;bereinkommen mit den anderen Staaten, wodurch die Forschungsm&#xF6;glichkeit f&#xFC;r die anderen Staaten gegeben ist.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Wenn das erreichbar ist, ist es selbstverst&#xE4;ndlich gut. Aber ich f&#xFC;rchte, da&#xDF; es nicht durchgehen wird. Es wird wahrscheinlich nichts anderes &#xFC;brig bleiben, [als] da&#xDF; wir andere Beamte zuteilen lassen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Der Standpunkt des Friedensvertrages ist nicht der, da&#xDF; Sammlungen und Archive zerrissen werden sollen. Nur diejenigen St&#xFC;cke, f&#xFC;r die besondere Titel angef&#xFC;hrt werden k&#xF6;nnen, sollen zur&#xFC;ck gegeben werden m&#xFC;ssen (193).</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Nur das, was f&#xFC;r die unmittelbare Verwaltung notwendig oder mit der Geschichte des Landes in unmittelbarem Zusammenhang steht und auf eine gewisse Zeit zur&#xFC;ck und wenn es weggebracht worden ist, ist zur&#xFC;ckzustellen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Unsere Beamten sind immer zu sehr geneigt, nachzugeben. Die Internationalisierung w&#xFC;rde zur Folge haben, da&#xDF; wir die Beamten [zu] bezahlen haben w&#xFC;rden. Der Friedensvertrag sch&#xFC;tzt uns genug. Wir sollen uns auf die Internationalisierung nicht einlassen. Wir w&#xFC;rden uns in fremde H&#xE4;nde geben. Die anderen h&#xE4;tten immer das Interesse, uns zu majorisieren.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Instruktion: Eine Internationalisierung sei nicht in Aussicht zu nehmen, sondern, da&#xDF; diese Sachen streng nach dem Friedensvertrag behandelt werden sollen und in dieser Sache nicht &#xFC;ber den Buchstaben des Friedensvertrages hinauszugehen ist.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Dann werden die Nationalstaaten die Sammlungen zerrei&#xDF;en. Nach dem Friedensvertrag k&#xF6;nnten wir nur die Akten, die sich auf die gemeinsamen Gebiete beziehen, behalten. Der Verlust w&#xE4;re sicher sehr schwer, wenn wir alles, was die anderen Staaten betrifft, abgeben m&#xFC;ssen. Es w&#xE4;ren die Vorst&#xE4;nde um ihr Gutachten -.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Tietze und Redlich w&#xE4;ren um ihr Gutachten raschestens zu ersuchen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: P&#xF6;schel mu&#xDF; angewiesen werden, stark zu bleiben.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Der Kabinettsrat beharrt auf seinem Beschlu&#xDF; vom 24. Oktober, da&#xDF; die auf &#xF6;sterreichischem Boden bestehenden Sammlungen und Institutionen im ausschlie&#xDF;lichen Eigentum und [in] ausschlie&#xDF;licher Verwaltung Deutsch-&#xD6;sterreichs stehen. </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Das Kabinett erkl&#xE4;rt prinzipiell seine</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Die deutsch-&#xF6;sterreichische Staatsregierung wird den anderen Nationen die weitest m&#xF6;glichen Erleichterungen und Rechte zur Ben&#xFC;tzung der Materialien gew&#xE4;hren. Eine Internationalisierung des Eigentums und der Verwaltung der Institute kann jedoch nicht zugestanden werden.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">P&#xF6;schl wird eingeladen, [klarzulegen], was unter Internationalisierung zu verstehen ist und &#xFC;ber diese Frage &#xFC;berhaupt ein fachm&#xE4;nnisches Gutachten einzuholen. Gutachten werden Tietze, Redlich, Mayr abgeben.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Bericht &#xFC;ber die Liquidierung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: P&#xF6;schel hat Bedenken, da&#xDF; wir einen einseitigen Akt setzen und die anderen Nationalstaaten br&#xFC;skieren. Er schl&#xE4;gt vor, da&#xDF; im Gesetz der Zeitpunkt des Inkrafttretens des Friedensvertrages bleibt und da&#xDF; wir nur in der internationalen Kommission erkl&#xE4;ren, da&#xDF; unsere Mittel ersch&#xF6;pft sind; jetzt m&#xFC;ssen die anderen entweder bezahlen oder die Liquidierung h&#xF6;rt auf.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: Das w&#xE4;re zwar ein m&#xF6;glicher Verhandlungsweg, aber das kann den Kabinettsbeschlu&#xDF; nicht hindern. Ich meine, der Antrag soll so beschlossen werden, wie er gestellt wurde und der Vorschlag P&#xF6;schels soll der Weg sein, die Nationalstaaten dazu zu bringen. Der Staatskanzler soll verf&#xFC;gen, da&#xDF; ihm die Akten selbst vorgelegt werden als Staatssekret&#xE4;r f&#xFC;r &#xC4;u&#xDF;eres.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Der Kabinettsrat soll das Staatsamt f&#xFC;r &#xC4;u&#xDF;eres einladen, an die Nationalstaaten [ein Schreiben zu richten]: Der Kredit, aus dem die Liquidierung bisher bestritten wurde, [ist] ersch&#xF6;pft. Im Friedensvertrag wurde die Liquidierung von Haus aus nicht anerkannt. Demnach Deutsch-&#xD6;sterreich die Liquidierung [als] beendet betrachtet und gezwungen ist, eine rein deutsch-&#xF6;sterreichische Liquidierung eintreten zu lassen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Im &#xFC;brigen schlie&#xDF;e ich mich [dem] Antrag Deutsch an, da&#xDF; die Liquidierungen nicht mehr von untergeordneten Organen gef&#xFC;hrt werden d&#xFC;rfen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: Bitte, die Beschl&#xFC;sse dem P&#xF6;schel intimieren zu lassen. (zugestanden).</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Meine Ausf&#xFC;hrungen sind nur dahin gerichtet, da&#xDF; im Gesetzentwurf keine &#xC4;nderung eintreten gelassen wird und da&#xDF; wir nur de facto erkl&#xE4;ren, da&#xDF; die Mittel ersch&#xF6;pft sind.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">Grimm: [Es hat] finanziell fast gar keinen Wert, wenn wir in die deutsch-&#xF6;sterreichische Liquidierung eintreten, wenn wir nicht gleichzeitig den Abbau des Personals vornehmen. Wir m&#xFC;ssen den </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Nationalstaaten mitteilen, da&#xDF; wir sofort mit der Pensionierung vorgehen m&#xFC;ssen, sofort</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - liquidierenden Stellen mitteilen, da&#xDF; sofort das Personal liquidiert und pensioniert wird und dann nur das f&#xFC;r die &#xF6;sterreichische Liquidierung notwendige [Personal] wiederaufnehmen. Das andere fremdnationale Personal den Nationalstaaten zur Verf&#xFC;gung [zu] stellen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Antrag Renner angenommen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">3b. Messeamt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Ellenbogen: -.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: [Ich] kann nicht die Zustimmung zur Verlautbarung geben. Die Note des Staatsamtes f&#xFC;r Handel ist vom 15. Oktober datiert und hat acht Tage Frist gegeben. Diese Zuschrift hat zehn Tage gebraucht, bis sie ins Staatsamt gelangt ist.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">In merito: [Das ist ein] neues Amt und [eine] neue Zentrale mit sehr wesentlichen Kosten. Das ist eine Sache, die man nicht von Staats wegen reglementieren kann und schon gar nicht in der jetzigen Zeit.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Renner</hi>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">: </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Auf acht Tage vertagt</hi>
+                        <hi rend="italic" style="font-size:12pt">.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: Es w&#xE4;re doch am einfachsten, die Sache der Handelskammer zu &#xFC;bertragen. Man mu&#xDF; verhindern, da&#xDF; dem Staat Kosten verursacht werden.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Beschlu&#xDF;]: Das Staatsamt f&#xFC;r Handel soll sich binnen acht Tagen mit dem Staatsamt f&#xFC;r Finanzen ins Einvernehmen setzt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Vertagt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">4. Abbaubeg&#xFC;nstigungen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Deutsch: -.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">5. Chargenzulagen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: -.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Angenommen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">6. Tabak und Zucker.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">[Reisch]: a) Zucker. Antrag, Verdoppelung des Zuckerpreises ab 1. XII. '19. mit 1. /12. August und September Zucker, wo er noch nicht abgeliefert wurde, zum alten Preis.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Hanusch: Wenn diese beiden Dinge im gegenw&#xE4;rtigen Zeitpunkt, wo die Verhandlungen mit den Industriearbeitern und mit den Staats- und Landes- und Gemeindeangestellten noch nicht abgeschlossen sind, [gemacht werden], so werfen sie uns die ganze Geschichte um. [Ich ersuche um] Verschiebung um 14 Tage und 3 Wochen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: Pflichtet bei.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">L&#xF6;wenfeld: [Ich] mu&#xDF; mich Reisch anschlie&#xDF;en, da&#xDF; die Erh&#xF6;hung mit 1. XII. in Kraft gesetzt wird. Das Defizit der Zuckerstelle infolge zu geringer Zuckerpreise macht bereits 43 Millionen Kronen aus. Die Zuckerstelle ist eine staatliche Stelle, welche wenn [sie] auch formal Kredit hat, doch keinen Kredit tats&#xE4;chlich hat. Das Geld rouliert eben. Durch den geringen Preis hat sie immer Zahlungsschwierigkeiten. Es ist oft kein Zucker da, weil wir nicht bezahlen konnten. Wenn das Staatsamt f&#xFC;r Finanzen nicht erkl&#xE4;rt, da&#xDF; sie die Zuckerstelle mit Geld versorgt, so kann ich einer Verschiebung nicht zustimmen wegen der Zuckerversorgung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Die Bev&#xF6;lkerung ist schon vorbereitet und ich wei&#xDF; nicht, ob praktisch als Weihnachtsgeschenk.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">In vielen Gegenden ist der August- und September-Zucker noch nicht ausgeteilt. Dieser Zucker mu&#xDF; von der Erh&#xF6;hung frei bleiben, auch wenn er nach dem 1. XII. ausgegeben wird.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Mayr: Beides auf einmal wird zuviel sein f&#xFC;r unsere Bev&#xF6;lkerung. Wenigstens die Tabakerh&#xF6;hung soll man jetzt noch nicht eintreten lassen. Insbesondere Land-Tabak geht nicht. Man mu&#xDF; ihn vor einer solchen Erh&#xF6;hung frei lassen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Reisch: 228 Millionen macht die Erh&#xF6;hung aus. W&#xE4;hrend das Tabakgesch&#xE4;ft fr&#xFC;her [eine] St&#xFC;tze des Budgets [war], [ist es] jetzt mit vielen Millionen passiv infolge der Entwertung der Valuta.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Vertagt bis Freitag oder Dienstag.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: </hi>
+                        <hi rend="italic strikethrough" style="font-size:12pt">Unverzinslicher Kredit f&#xFC;r die Anschaffungsbeitr&#xE4;ge in der Industrie auf 6 Monate</hi>
+                        <hi rend="italic" style="font-size:12pt">. Das Staatsamt f&#xFC;r Finanzen ist erm&#xE4;chtigt, der par.[it&#xE4;tischen] Industriekommission einen verrechenbaren Erlag von 10 Millionen Kronen zur Erteilung von Vorsch&#xFC;ssen an Industrielle zur Auszahlung des Anschaffungsbeitrages zu gew&#xE4;hren. Diese Vorsch&#xFC;sse sind unverzinslich l&#xE4;ngstens binnen 6 Monaten zur&#xFC;ckzuzahlen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">&#xDC;bereinkommen mit der ober&#xF6;sterreichischen Landesregierung.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">L&#xF6;wenfeld: Das Gesetz ist bereits vor 14 Tagen kundgemacht [worden]. Aufgrund dieses Gesetzes ist bereits am 27. X. eine Verordnung der Landesregierung erschienen betreffend Festsetzung von Geb&#xFC;hren f&#xFC;r die Ausfertigung von Transportbescheinigungen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Durch die Kundmachung hat die Landesregierung eine neuerliche Verfassungswidrigkeit begangen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Renner: Wir werden in der Zuschrift an das Land davon Notiz nehmen.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Froehlich: &#xDC;bereinkommen &lt; &gt;.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Genehmigt.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">&#xBC;11 h.</hi>
+                    </p>
+                    <p>
+                        <hi rend="italic" style="font-size:12pt">Eldersch: Vom Staatsamt zwei Verwaltungsr&#xE4;te vorbehalten und die &#xC4;nderungen der Statutenvorschriften getroffen, die das Recht vorsehen.</hi>
+                    </p>
+                </div>
+                <div/>
+            </div>
+        </body>
+    </text>
 </TEI>

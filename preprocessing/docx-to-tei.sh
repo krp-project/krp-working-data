@@ -90,7 +90,7 @@ for f in "${docx_files[@]}"; do
 
   # Validate and pretty-print via a temp file to avoid clobbering on error
   tmpfile="$outfile.tmp"
-  if ! xmllint --format "$outfile" -o "$tmpfile" 2>/dev/null; then
+  if ! XMLLINT_INDENT="    " xmllint --format "$outfile" -o "$tmpfile" 2>/dev/null; then
     echo "FAILED (invalid XML)"
     rm -f -- "$tmpfile" "$outfile"
     ((failed+=1))
