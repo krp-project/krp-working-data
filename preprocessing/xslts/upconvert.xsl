@@ -25,7 +25,8 @@
   <xsl:variable name="header-doc" select="document($header-path)"/>
 
   <!-- ================================================================== -->
-  <!-- Assemble processing instructions from TEI-header document -->
+  <!-- Kick off processing;
+       assemble processing instructions from TEI-header document -->
   <!-- ================================================================== -->
 
   <xsl:template match="/">
@@ -68,23 +69,63 @@
         <xsl:copy-of select="@*"/>
         <!-- Save body content before xsl:copy changes context -->
         <xsl:variable name="body-content" select="node()"/>
-        <!-- Save front element before xsl:copy context changes -->
+        <!-- Save front element before xsl:copy changes context -->
         <xsl:variable name="front" select="../tei:front"/>
         <!-- Wrap body content in outermost div from TEI-header document -->
         <xsl:copy select="$header-doc//tei:body/tei:div">
             <xsl:copy-of select="$header-doc//tei:body/tei:div/@*"/>
-            <!-- Transform input-XML's front titlePage into document head -->
-            <head type="document">
-                <title type="num">
-                    <xsl:value-of select="$front//tei:titlePart[@type='Title']"/>
-                </title>
-                <title type="descr">
-                    <xsl:value-of select="$front//tei:titlePart[@type='Subtitle']"/>
-                </title>
+            <!-- ================================================================== -->
+            <!-- 1. Transform input-XML's front titlePage into document head -->
+            <!-- ================================================================== -->
+            <head type="dokument">
+              <title type="num">
+                  <xsl:value-of select="normalize-space($front//tei:titlePart[@type='Title'])"/>
+              </title>
+              <title type="descr">
+                  <xsl:value-of select="normalize-space($front//tei:titlePart[@type='Subtitle'])"/>
+              </title>
             </head>
             <xsl:apply-templates select="$body-content"/>
         </xsl:copy>
     </xsl:copy>
+  </xsl:template>
+
+  <!-- ================================================================== -->
+  <!-- 2. Transform Dokumentkopf head into div[@type='dokumentkopf'] -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Dokumentkopf']]">
+      <div type="dokumentkopf">
+          <xsl:apply-templates select="tei:div"/>
+      </div>
+  </xsl:template>
+
+  <!-- ================================================================== -->
+  <!-- 3. Derive types of Dokumentkopf-divs from head -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Dokumentkopf']]/tei:div">
+      <xsl:variable name="type-value"
+                    select="lower-case(replace(normalize-space(tei:head), ':\s*$', ''))"/>
+      <div type="{$type-value}">
+          <head>
+              <xsl:value-of select="normalize-space(tei:head)"/>
+          </head>
+          <xsl:for-each select="tei:p">
+              <p>
+                  <xsl:value-of select="normalize-space(.)"/>
+              </p>
+          </xsl:for-each>
+      </div>
+  </xsl:template>
+
+  <!-- ================================================================== -->
+  <!-- 4. Transform Komponenten head into div[@type='komponenten'] -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Komponenten']]">
+      <div type="komponenten">
+          <p>
+              <xsl:value-of select="normalize-space(tei:p)"/>
+          </p>
+      </div>
   </xsl:template>
 
 </xsl:stylesheet>
