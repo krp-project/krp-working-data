@@ -204,8 +204,8 @@
       <profileDesc>
          <abstract>
             <p part="N">
-                    <!--to be generated-->
-                </p>
+          <!--to be generated-->
+        </p>
          </abstract>
       </profileDesc>
       <encodingDesc>
@@ -222,32 +222,32 @@
          <editorialDecl default="false">
             <hyphenation default="false" eol="some">
                <p part="N">
-                        <!--to be added-->
-                    </p>
+            <!--to be added-->
+          </p>
             </hyphenation>
             <correction default="false" method="silent">
                <p part="N">
-                        <!--to be added-->
-                    </p>
+            <!--to be added-->
+          </p>
             </correction>
             <normalization default="false" method="silent">
                <p part="N">
-                        <!--to be added-->
-                    </p>
+            <!--to be added-->
+          </p>
             </normalization>
             <punctuation default="false">
                <p part="N">
-                        <!--to be added-->
-                    </p>
+            <!--to be added-->
+          </p>
             </punctuation>
             <stdVals default="false">
                <p part="N">
-                        <!--to be added-->
-                    </p>
+            <!--to be added-->
+          </p>
             </stdVals>
             <p part="N">
-                    <!--to be added-->
-                </p>
+          <!--to be added-->
+        </p>
          </editorialDecl>
       </encodingDesc>
    </teiHeader>
@@ -257,69 +257,34 @@
               part="N"
               org="uniform"
               sample="complete">
-            <head type="document">
-               <title type="num">
-                        122.
-                    </title>
-               <title type="descr">
-                        [Freitag] 1919-11-14
-                    </title>
+            <head type="dokument">
+               <title type="num">122.</title>
+               <title type="descr">[Freitag] 1919-11-14</title>
             </head>
-            <div>
-               <head>
-                  <hi rend="normalweight color(0F4761)"
-                      style="font-family:Aptos Display;font-size:20pt">Dokumentkopf</hi>
-               </head>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Vorsitz: </hi>
-                  </head>
-                  <p>
-                     <hi style="font-size:12pt">Renner</hi>
-                  </p>
+            <div type="dokumentkopf">
+               <div type="vorsitz">
+                  <head>Vorsitz:</head>
+                  <p>Renner</p>
                </div>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)"
-                         style="font-family:Aptos Display;font-size:16pt">Anwesend:</hi>
-                  </head>
-                  <p>
-                     <hi style="font-size:12pt">Deutsch, Eisler, Eldersch, Glöckel, Hanusch, Löwenfeld-Ruß, Mayr, Miklas, Paul, Ramek, Reisch, Resch, Tandler, Zerdik</hi>
-                  </p>
+               <div type="anwesend">
+                  <head>Anwesend:</head>
+                  <p>Deutsch, Eisler, Eldersch, Glöckel, Hanusch, Löwenfeld-Ruß, Mayr, Miklas, Paul, Ramek, Reisch, Resch, Tandler, Zerdik</p>
                </div>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Zugezogen: </hi>
-                  </head>
-                  <p>
-                     <hi style="font-size:12pt">Grimm, Krasny, Pokorny (zu Punkt 6), Reich (zu Punkt 6), Richter (zu Punkt 12)</hi>
-                  </p>
+               <div type="zugezogen">
+                  <head>Zugezogen:</head>
+                  <p>Grimm, Krasny, Pokorny (zu Punkt 6), Reich (zu Punkt 6), Richter (zu Punkt 12)</p>
                </div>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Schriftführer: </hi>
-                  </head>
-                  <p>
-                     <hi style="font-size:12pt">unbekannt</hi>
-                  </p>
+               <div type="schriftführer">
+                  <head>Schriftführer:</head>
+                  <p>unbekannt</p>
                </div>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt" xml:space="preserve">Dauer: </hi>
-                  </head>
-                  <p>
-                     <hi style="font-size:12pt">15.00–18.30 Uhr</hi>
-                  </p>
+               <div type="dauer">
+                  <head>Dauer:</head>
+                  <p>15.00–18.30 Uhr</p>
                </div>
             </div>
-            <div>
-               <head>
-                  <hi rend="normalweight color(0F4761)"
-                      style="font-family:Aptos Display;font-size:20pt">Komponenten</hi>
-               </head>
-               <p>
-                  <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reinschrift, Konzept, Stenogramm, Entwurf der Tagesordnung </hi>
-               </p>
+            <div type="komponenten">
+               <p>Reinschrift, Konzept, Stenogramm, Entwurf der Tagesordnung</p>
             </div>
             <div>
                <head>
