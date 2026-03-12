@@ -476,7 +476,7 @@ if __name__ == "__main__":
         root.addprevious(pi1)
         root.addprevious(pi2)
 
-        # Set custom indentation for readability
-        etree.indent(root, space="    ")
+        # # Set custom indentation for readability
+        # etree.indent(root, space="    ")
 
         tree.write(file_path, encoding="utf-8", xml_declaration=True, pretty_print=True)

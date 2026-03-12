@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                xmlns="http://www.tei-c.org/ns/1.0"
                 xmlns:tei="http://www.tei-c.org/ns/1.0"
-                xmlns:saxon="http://saxon.sf.net/"
-                version="3.0">
+                version="3.0"
+                exclude-result-prefixes="tei">
 
-  <!-- Saxon-specific indent specification -->
-  <xsl:output method="xml" indent="yes"
-              saxon:indent-spaces="4"/>
+  <xsl:output method="xml" indent="yes"/>
 
   <!-- Identity transform: recursively copy as-is by default; requires XSLT 3.0 -->
   <xsl:mode on-no-match="shallow-copy"/>
@@ -38,7 +37,7 @@
   </xsl:template>
 
   <!-- ================================================================== -->
-  <!-- Merge TEI header from TEI-header document with input text -->
+  <!-- Merge TEI header from TEI-header document with input text body -->
   <!-- ================================================================== -->
 
   <xsl:template match="tei:TEI">
@@ -54,6 +53,37 @@
       <xsl:copy-of select="$header-doc/tei:TEI/tei:teiHeader"/>
       <!-- Apply upconversion to text element in input doc (converted from DOCX with TEIGarage) -->
       <xsl:apply-templates select="$input-text"/>
+    </xsl:copy>
+  </xsl:template>
+
+  <!-- ================================================================== -->
+  <!-- Upconvert input XML's text body -->
+  <!-- ================================================================== -->
+
+  <!-- Suppress front element -->
+  <xsl:template match="tei:front"/>
+
+  <xsl:template match="tei:body">
+    <xsl:copy>
+        <xsl:copy-of select="@*"/>
+        <!-- Save body content before xsl:copy changes context -->
+        <xsl:variable name="body-content" select="node()"/>
+        <!-- Save front element before xsl:copy context changes -->
+        <xsl:variable name="front" select="../tei:front"/>
+        <!-- Wrap body content in outermost div from TEI-header document -->
+        <xsl:copy select="$header-doc//tei:body/tei:div">
+            <xsl:copy-of select="$header-doc//tei:body/tei:div/@*"/>
+            <!-- Transform input-XML's front titlePage into document head -->
+            <head type="document">
+                <title type="num">
+                    <xsl:value-of select="$front//tei:titlePart[@type='Title']"/>
+                </title>
+                <title type="descr">
+                    <xsl:value-of select="$front//tei:titlePart[@type='Subtitle']"/>
+                </title>
+            </head>
+            <xsl:apply-templates select="$body-content"/>
+        </xsl:copy>
     </xsl:copy>
   </xsl:template>
 
