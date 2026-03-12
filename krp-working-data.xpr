@@ -71,7 +71,7 @@
                                     <String>XSL</String>
                                 </field>
                                 <field name="saveAs">
-                                    <Boolean>false</Boolean>
+                                    <Boolean>true</Boolean>
                                 </field>
                                 <field name="openInBrowser">
                                     <Boolean>false</Boolean>
