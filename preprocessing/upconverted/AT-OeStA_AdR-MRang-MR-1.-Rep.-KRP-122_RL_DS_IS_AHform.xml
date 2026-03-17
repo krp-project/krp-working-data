@@ -218,6 +218,7 @@
             <rendition xml:id="ow" scheme="css">text-decoration:line-through;text-decoration-style:double;</rendition>
             <rendition xml:id="r" scheme="css">display:block;text-align:right;</rendition>
             <rendition xml:id="letterspaced" scheme="css">letter-spacing:0.15em;</rendition>
+            <rendition xml:id="endash" scheme="css">list-style-type: "– ";</rendition>
          </tagsDecl>
          <editorialDecl default="false">
             <hyphenation default="false" eol="some">
@@ -286,151 +287,52 @@
             <div type="komponenten">
                <p>Reinschrift, Konzept, Stenogramm, Entwurf der Tagesordnung</p>
             </div>
-            <div>
-               <head>
-                  <hi rend="normalweight color(0F4761)"
-                      style="font-family:Aptos Display;font-size:20pt">Beilagen:</hi>
-               </head>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#1.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 1</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b01">
-                     <hi style="font-size:12pt">Bericht des Staatsamtes für Finanzen zur Erhöhung des Zuckerpreises</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#1.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 1</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b02">
-                     <hi style="font-size:12pt">Bericht des Staatsamtes für Finanzen zur Erhöhung der Tarife für Tabakfabrikate</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#2.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 2</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b03">
-                     <hi style="font-size:12pt">Referat der Staatskanzlei Zl. 2555/46 St.K. über den Antrag auf Zurückziehung des Gesetzesentwurfs über die Rückstellung von Kunst- und historischen Wertgegenständen an Italien</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#4.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 4</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b04">
-                     <hi style="font-size:12pt">Auszug für den Vortrag des Staatsamtes des Inneren Zl. 40.961 über Gesetzesbeschlüsse des Niederösterreichischen Landtages zur Trennung einer Reihe von Gemeinden</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#5.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 5</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b05">
-                     <hi style="font-size:12pt">Auszug für den Vortrag des Staatsamtes des Inneren Zl. 40.971 über Beschlüsse des Niederösterreichischen Landesausschusses bzw. Landesrates zur Einhebung von Mietzinsauflagen bzw. 100 % übersteigenden Umlagen in mehreren Gemeinden</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#6.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 6</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b06">
-                     <hi style="font-size:12pt">Vorlage der Staatsregierung eines Gesetzesentwurfs für elektrische Anlagen (Elektrizitätsgesetz) mit Erläuterungen</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#6.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 6</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b07">
-                     <hi style="font-size:12pt">Notiz des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zum Elektrizitätsgesetz, Anschreiben und Begründung (zweifach) für das Elektrizitätsgesetz</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#6.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 6</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b08">
-                     <hi style="font-size:12pt">Gesetzesentwurf über die Elektrizitätswirtschaft</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#7.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 7</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b09">
-                     <hi style="font-size:12pt">Begründung des Staatsamtes für Handel und Gewerbe, Industrie und Bauten für die Ausschreibung einer Plankonkurrenz für Neubauten der Technischen Hochschule Wien</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#8.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 8</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b10">
-                     <hi style="font-size:12pt">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten wegen der Verwertung bisher militärischen Zwecken dienenden Liegenschaften und Gebäude</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#9.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 9</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b11">
-                     <hi style="font-size:12pt">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten wegen der Entsendung zweier Betriebsräte der Staatsfabrik Blumau in die Verwaltungskommission</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#10.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 10</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b12">
-                     <hi style="font-size:12pt">Vorlage eines Gesetzesentwurfs über die Abänderung einiger Bestimmungen des Volkspflegestättengesetzes des Staatsamtes für soziale Verwaltung</hi>
-                  </ref>
-               </p>
-               <p style="text-align: justify;">
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#11.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 11</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b13">
-                     <hi style="font-size:12pt">Antrag des Staatsamtes für soziale Verwaltung auf Übertragung des Ernennungsrechtes für bestimmte Angestelltenkategorien an den Unterstaatssekretär im Volksgesundheitsamt</hi>
-                  </ref>
-               </p>
-               <p>
-                  <hi style="font-size:12pt" xml:space="preserve">– </hi>
-                  <ref target="#12.">
-                     <seg rend="underline color(467886)" style="font-size:12pt">Zu Punkt 12</seg>
-                  </ref>
-                  <hi style="font-size:12pt" xml:space="preserve">: </hi>
-                  <ref target="https://krp-122_b14">
-                     <hi style="font-size:12pt">Vortrag des Staatsamtes für Heereswesen wegen der Kostendeckung für den Heimtransport der Kriegsgefangenen</hi>
-                  </ref>
-               </p>
+            <div type="beilagen">
+               <head>Beilagen:</head>
+               <list rend="#endash">
+                  <item>
+                     <ref target="#krp-122_top01">Zu Punkt 1</ref>: <ref target="#krp-122_b01">Bericht des Staatsamtes für Finanzen zur Erhöhung des Zuckerpreises</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top01">Zu Punkt 1</ref>: <ref target="#krp-122_b02">Bericht des Staatsamtes für Finanzen zur Erhöhung der Tarife für Tabakfabrikate</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top02">Zu Punkt 2</ref>: <ref target="#krp-122_b03">Referat der Staatskanzlei Zl. 2555/46 St.K. über den Antrag auf Zurückziehung des Gesetzesentwurfs über die Rückstellung von Kunst- und historischen Wertgegenständen an Italien</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top04">Zu Punkt 4</ref>: <ref target="#krp-122_b04">Auszug für den Vortrag des Staatsamtes des Inneren Zl. 40.961 über Gesetzesbeschlüsse des Niederösterreichischen Landtages zur Trennung einer Reihe von Gemeinden</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top05">Zu Punkt 5</ref>: <ref target="#krp-122_b05">Auszug für den Vortrag des Staatsamtes des Inneren Zl. 40.971 über Beschlüsse des Niederösterreichischen Landesausschusses bzw. Landesrates zur Einhebung von Mietzinsauflagen bzw. 100 % übersteigenden Umlagen in mehreren Gemeinden</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top06">Zu Punkt 6</ref>: <ref target="#krp-122_b06">Vorlage der Staatsregierung eines Gesetzesentwurfs für elektrische Anlagen (Elektrizitätsgesetz) mit Erläuterungen</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top06">Zu Punkt 6</ref>: <ref target="#krp-122_b07">Notiz des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zum Elektrizitätsgesetz, Anschreiben und Begründung (zweifach) für das Elektrizitätsgesetz</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top06">Zu Punkt 6</ref>: <ref target="#krp-122_b08">Gesetzesentwurf über die Elektrizitätswirtschaft</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top07">Zu Punkt 7</ref>: <ref target="#krp-122_b09">Begründung des Staatsamtes für Handel und Gewerbe, Industrie und Bauten für die Ausschreibung einer Plankonkurrenz für Neubauten der Technischen Hochschule Wien</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top08">Zu Punkt 8</ref>: <ref target="#krp-122_b10">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten wegen der Verwertung bisher militärischen Zwecken dienenden Liegenschaften und Gebäude</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top09">Zu Punkt 9</ref>: <ref target="#krp-122_b11">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten wegen der Entsendung zweier Betriebsräte der Staatsfabrik Blumau in die Verwaltungskommission</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top10">Zu Punkt 10</ref>: <ref target="#krp-122_b12">Vorlage eines Gesetzesentwurfs über die Abänderung einiger Bestimmungen des Volkspflegestättengesetzes des Staatsamtes für soziale Verwaltung</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top11">Zu Punkt 11</ref>: <ref target="#krp-122_b13">Antrag des Staatsamtes für soziale Verwaltung auf Übertragung des Ernennungsrechtes für bestimmte Angestelltenkategorien an den Unterstaatssekretär im Volksgesundheitsamt</ref>
+                  </item>
+                  <item>
+                     <ref target="#krp-122_top12">Zu Punkt 12</ref>: <ref target="#krp-122_b14">Vortrag des Staatsamtes für Heereswesen wegen der Kostendeckung für den Heimtransport der Kriegsgefangenen</ref>
+                  </item>
+               </list>
             </div>
             <div>
                <head>
