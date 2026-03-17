@@ -475,7 +475,7 @@ if __name__ == "__main__":
         )
         pi2 = etree.ProcessingInstruction(
             "xml-model",
-            "href='../schema/krp.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'",
+            "href='../../schema/krp.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'",
         )
 
         # Insert processing instructions as previous siblings of root
