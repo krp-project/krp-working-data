@@ -160,6 +160,12 @@ def build_template(protocol, prev_id, next_id):
         attrib={f"{{{XML_NS}}}id": "letterspaced", "scheme": "css"},
     )
     tei_rendition7.text = "letter-spacing:0.15em;"
+    tei_rendition8 = etree.SubElement(
+        tei_tagsdecl,
+        "rendition",
+        attrib={f"{{{XML_NS}}}id": "endash", "scheme": "css"},
+    )
+    tei_rendition8.text = 'list-style-type: "– ";'
     tei_hyphenation = etree.SubElement(tei_editorialdecl, "hyphenation")
     tei_correction = etree.SubElement(tei_editorialdecl, "correction")
     tei_normalization = etree.SubElement(tei_editorialdecl, "normalization")
