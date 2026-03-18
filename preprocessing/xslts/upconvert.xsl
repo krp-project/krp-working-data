@@ -130,14 +130,15 @@
 
   <!-- ================================================================== -->
   <!-- 5. Transform Beilagen head into div[@type='beilagen'];
-          transform paragraphs into list items -->
+          transform paragraphs into list items;
+          transform reference targets -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Beilagen:']]">
     <div type="beilagen">
       <head>
         <xsl:value-of select="normalize-space(tei:head)"/>
       </head>
-      <list rend="#endash">
+      <list>
         <xsl:for-each select="tei:p">
           <item>
             <!-- process only element children, no whitespace;
@@ -156,7 +157,10 @@
   <xsl:template match="tei:hi" mode="beilagen">
     <xsl:value-of select="."/>
   </xsl:template>
-
+  
+  <!-- ================================================================== -->
+  <!-- 6. Transform reference targets in beilagen-mode context -->
+  <!-- ================================================================== -->
   <!-- beilagen mode: map internal ref targets to agenda-item ID scheme -->
   <xsl:template match="tei:ref[starts-with(@target, '#')]" mode="beilagen">
     <xsl:variable name="top-number"
@@ -172,9 +176,40 @@
   <xsl:template match="tei:ref[starts-with(@target, 'https://')]" mode="beilagen">
     <xsl:variable name="supplement-id"
                   select="replace(@target, 'https://', '')"/>
-    <ref target="#{$supplement-id}">
+    <ref target="#{$supplement-id}"><!-- todo: change according to type and location of target (facsimiles? xmls? divs?) -->
       <xsl:value-of select="normalize-space(.)"/>
     </ref>
+  </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 7. Transform Protokoll head into div[@type='protokoll'] -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]">
+    <div type="protokoll">
+      <xsl:apply-templates select="tei:div"/>
+    </div>
+  </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 8. Flatten structure of protokoll-type divs -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div">
+    <!-- capture first number in string -->
+    <xsl:variable name="top-number"
+                  select="replace(normalize-space(tei:head/tei:hi), '^.*?(\d+).*$', '$1')"/>
+    <xsl:variable name="padded-top" select="format-number(number($top-number), '00')"/>              
+    <div type="agenda_item" xml:id="{$krp-number}_top{$padded-top}">
+      <head>
+        <label>
+          <num n="{$top-number}">
+            <xsl:value-of select="normalize-space(tei:head/tei:hi)"/>
+          </num>
+          <seg>
+            <xsl:value-of select="normalize-space(tei:div[tei:head[normalize-space(.) = 'TOP']]/tei:p[1])"/>
+          </seg>
+        </label>
+      </head>
+    </div>
   </xsl:template>
 
 </xsl:stylesheet>
