@@ -68,6 +68,19 @@
   
   <!-- Suppress whitespace nodes resulting from discarding hi wrappers -->
   <xsl:template match="tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
+   
+  <!-- ================================================================== -->
+  <!-- Transform page-beginning information -->
+  <!-- ================================================================== -->
+  
+  <!-- Note: when pb is the last element inside p, Saxon serialization has been
+       found to add a newline before </p> that is not handled by the above template
+       - this is unexpected, but accepted -->
+  <xsl:template match="tei:hi[@rend='background(green)']">
+    <xsl:variable name="page-number"
+      select="replace(., '^.*?(\d+)\|$', '$1')"/>
+    <pb n="{number($page-number)}"/>
+  </xsl:template>
 
   <!-- ================================================================== -->
   <!-- Upconvert input XML's text body -->
