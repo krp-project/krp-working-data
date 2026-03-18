@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>preprocessing/teigarage-out/AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-122_RL_DS_IS_AHform.xml</String>
+                                    <String>preprocessing/teigarage-out/AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-121_RL_DS_IS_AHform.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -31,6 +31,26 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>preprocessing/teigarage-out/AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-120_RL_DS_IS_AHform.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>upconvert protocol</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>preprocessing/teigarage-out/AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-122_RL_DS_IS_AHform.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
