@@ -1,4 +1,4 @@
-name: write-templates
+name: write-headers
 
 on:
     schedule:
@@ -9,7 +9,7 @@ on:
             - "src/**"
 
 jobs:
-    generate-tei-templates:
+    generate-headers:
         runs-on: ubuntu-latest
         steps:
             - name: perform checkout
