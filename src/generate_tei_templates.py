@@ -17,7 +17,7 @@ XSI_NS = "http://www.w3.org/2001/XMLSchema-instance"
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 ACDH_NS = "https://vocabs.acdh.oeaw.ac.at/schema#"
 XML_BASE = "https://id.acdh.oeaw.ac.at/krp"
-OUTPUT_DIR = "templates"
+OUTPUT_DIR = "header-docs"
 
 # Build TEI-XML template
 # ----------------------
@@ -458,7 +458,8 @@ if __name__ == "__main__":
 
         root, protocol_id = build_template(protocol, prev_id, next_id)
 
-        file_path = os.path.join(OUTPUT_DIR, protocol_id)
+        filename = f"{protocol['krp_id']}_header.xml"
+        file_path = os.path.join(OUTPUT_DIR, filename)
 
         tree = etree.ElementTree(root)
 

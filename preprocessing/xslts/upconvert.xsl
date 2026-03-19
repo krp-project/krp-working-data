@@ -19,7 +19,7 @@
   <xsl:variable name="krp-number"
                 select="lower-case(replace($input-filename, '.*?(KRP-\d{3}).*', '$1'))"/>
   <xsl:variable name="header-path"
-                select="concat('../../templates/', $krp-number, '.xml')"/>
+                select="concat('../../header-docs/', $krp-number, '_header.xml')"/>
 
   <!-- Load and parse header doc, return document node; otherwise fail -->
   <xsl:variable name="header-doc" select="document($header-path)"/>
