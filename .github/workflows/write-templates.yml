@@ -18,9 +18,9 @@ jobs:
               uses: actions/setup-python@v6
             - name: install dependencies
               run: pip install .
-            - name: generate templates
+            - name: generate header-docs
               run: python src/generate_tei_templates.py
-            - name: commit templates
+            - name: commit header-docs
               uses: stefanzweifel/git-auto-commit-action@v7
               with:
-                commit_message: "feat(templates): generate TEI-XML templates"
+                commit_message: "feat: generate TEI-XML header-docs"
