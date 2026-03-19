@@ -1,0 +1,26 @@
+name: upconvert-tei
+
+on:
+    push:
+        paths:
+            - "preprocessing/teigarage-out/**"
+            - "header-docs/**"
+    workflow_dispatch:
+
+jobs:
+    upconvert-tei:
+        runs-on: ubuntu-latest
+        steps:
+            - name: perform checkout
+              uses: actions/checkout@v6
+            - name: set up Java
+              uses: actions/setup-java@v5
+              with:
+                distribution: temurin
+                java-version: 21
+            - name: run ant
+              run: ant
+            - name: commit changes
+              uses: stefanzweifel/git-auto-commit-action@v7
+              with:
+                commit_message: "feat: upconvert TEI-XMLs"

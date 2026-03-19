@@ -208,5 +208,4 @@ __marimo__/
 
 # Project-specific
 input/
-preprocessing/teigarage-out/*.xml
 .vscode/
