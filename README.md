@@ -8,11 +8,11 @@ Preprocessing repo for the KRP project. Holds the workflow for converting transc
 input/                          DOCX transcription files (gitignored)
 preprocessing/
 ├── docx-to-tei.sh              Bash script for local TEIGarage conversion
-├── teigarage-out/              generic TEI-XML output (gitignored)
+├── teigarage-out/              generic TEI-XML output
 └── xslts/
     └── upconvert.xsl           XSLT 3.0 stylesheet for upconversion
 header-docs/                    TEI headers generated from JSON metadata
-saxon/                          Saxon HE 12.5 + xmlresolver (committed)
+saxon/                          Saxon HE 12.5 + xmlresolver
 data/templates/                 project-compliant TEI-XML output files
 src/
 └── generate_tei_templates.py   Python script for generating header-docs
@@ -45,12 +45,18 @@ An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to e
 ant
 ```
 
+> [!WARNING]
+> The `upconvert.xsl` stylesheet is work in progress and does not yet generate actionable templates for editorial markup.
+
 ### 4. Transfer to krp-data
 
 The files in `data/templates/` (which preserve the transcription DOCX filenames) are ready for being copied into [`data/editions/`](https://github.com/krp-project/krp-data/tree/main/data/editions) in the `krp-data` repo and renamed to `krp-???.xml` for editorial work.
 
 ## GitHub Actions
 
-<!-- TODO: document automated workflow once finalized -->
+Steps 1 and 3 are automated via GitHub Actions:
 
-This workflow is partially automated via GitHub Actions (work in progress).
+- **write-headers** (`write-headers.yml`): Generates TEI header-docs from Baserow metadata. Runs daily, as well as on push to `src/` and manually.
+- **upconvert-tei** (`upconvert-tei.yml`): Runs the Ant/Saxon TEI-XML upconversion. Triggered by pushes to `preprocessing/teigarage-out/` or `header-docs/`, or manually.
+
+When protocol metadata change (or the script that reads them for writing the header-docs), new header-docs are generated automatically. This then triggers the TEI-XML upconversion, which is triggered also when new TEIGarage output is pushed.
