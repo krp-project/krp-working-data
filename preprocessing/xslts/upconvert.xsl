@@ -49,7 +49,7 @@
       <!-- Copy full root-element attributes from header doc -->
       <xsl:copy-of select="$header-doc/tei:TEI/@*"/>
       <!-- Copy full TEI header from header doc;
-           note: schema-aware Saxon-PE processing will expand TEI schema
+           note: schema-aware Saxon-HE 12.5 processing will expand TEI schema
            default attributes into the XML output - this is expected and accepted -->
       <xsl:copy-of select="$header-doc/tei:TEI/tei:teiHeader"/>
       <!-- Apply upconversion to text element in input doc (converted from DOCX with TEIGarage) -->
