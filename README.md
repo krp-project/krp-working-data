@@ -1,6 +1,6 @@
 # krp-working-data
 
-Preprocessing repo for the KRP project. Holds workflows for converting transcription DOCX files into project-compliant TEI-XML documents ready for editorial work in [krp-data](https://github.com/krp-project/krp-data).
+Preprocessing repo for the KRP project. Holds the workflow for converting transcription DOCX files into project-compliant TEI-XML documents ready for editorial work in [krp-data](https://github.com/krp-project/krp-data).
 
 ## Folder structure
 
@@ -47,7 +47,7 @@ ant
 
 ### 4. Transfer to krp-data
 
-The files in `data/templates/` (which preserve the transcription DOCX filenames) are copied into [`data/editions/`](https://github.com/krp-project/krp-data/tree/main/data/editions) in the `krp-data` repo and renamed to `krp-???.xml` for editorial work.
+The files in `data/templates/` (which preserve the transcription DOCX filenames) are ready for being copied into [`data/editions/`](https://github.com/krp-project/krp-data/tree/main/data/editions) in the `krp-data` repo and renamed to `krp-???.xml` for editorial work.
 
 ## GitHub Actions
 
