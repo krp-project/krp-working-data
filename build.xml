@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="upconvert">
+    <property name="source" value="./preprocessing/teigarage-out"/>
+    <property name="target" value="./data/templates"/>
+    <xslt style="./preprocessing/xslts/upconvert.xsl"
+          basedir="${source}"
+          destdir="${target}"
+          includes="*.xml"
+          extension=".xml">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath>
+            <fileset dir="${basedir}/saxon" includes="*.jar"/>
+        </classpath>
+    </xslt>
+</project>
