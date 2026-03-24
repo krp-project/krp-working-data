@@ -17,115 +17,139 @@
             <title level="m" type="main" n="01">Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920</title>
             <title level="m" type="sub" n="">Renner III (17. Oktober 1919 – 7. Juli 1920)</title>
             <meeting>
-               <placeName key="https://d-nb.info/gnd/4066009-6">Wien</placeName>
-               <orgName key="https://d-nb.info/gnd/5162749-8">Kabinettsrat</orgName>
-               <date when-iso="1919-11-11"/>
+               <placeName key="https://d-nb.info/gnd/4066009-6" instant="false" full="yes">Wien</placeName>
+               <orgName key="https://d-nb.info/gnd/5162749-8" instant="false" full="yes">Kabinettsrat</orgName>
+               <date when-iso="1919-11-11" instant="false"/>
             </meeting>
             <editor>
-               <persName key="https://d-nb.info/gnd/122481836" role="hasCreator">
-                  <forename>Helmut</forename>
-                  <surname>Wohnout</surname>
+               <persName key="https://d-nb.info/gnd/122481836"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Helmut</forename>
+                  <surname full="yes">Wohnout</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</affiliation>
+               <affiliation key="https://d-nb.info/gnd/37748-X" instant="false">Österreichisches Staatsarchiv</affiliation>
                <idno type="ORCID">0000-0002-3864-9839</idno>
             </editor>
             <editor>
-               <persName key="https://d-nb.info/gnd/120789825" role="hasCreator">
-                  <forename>Thomas</forename>
-                  <surname>Olechowski</surname>
+               <persName key="https://d-nb.info/gnd/120789825"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Thomas</forename>
+                  <surname full="yes">Olechowski</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0000-0003-3291-6876</idno>
             </editor>
             <editor>
-               <persName key="https://d-nb.info/gnd/131679384" role="hasCreator">
-                  <forename>Richard</forename>
-                  <surname>Lein</surname>
+               <persName key="https://d-nb.info/gnd/131679384"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Richard</forename>
+                  <surname full="yes">Lein</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0000-0002-7502-0503</idno>
             </editor>
             <editor>
-               <persName role="hasCreator">
-                  <forename>Anna</forename>
-                  <surname>Holzer</surname>
+               <persName role="hasCreator" instant="false" full="yes">
+                  <forename full="yes">Anna</forename>
+                  <surname full="yes">Holzer</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0005-3560-3500</idno>
             </editor>
             <editor>
-               <persName role="hasCreator">
-                  <forename>Dominik</forename>
-                  <surname>Sölkner</surname>
+               <persName role="hasCreator" instant="false" full="yes">
+                  <forename full="yes">Dominik</forename>
+                  <surname full="yes">Sölkner</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0007-9895-7212</idno>
             </editor>
             <editor>
-               <persName role="hasContributor">
-                  <forename>Ina</forename>
-                  <surname>Schotzko</surname>
+               <persName role="hasContributor" instant="false" full="yes">
+                  <forename full="yes">Ina</forename>
+                  <surname full="yes">Schotzko</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0007-5210-3713</idno>
             </editor>
             <funder n="1">
-               <orgName key="https://d-nb.info/gnd/2054142-9" role="hasFunder">Österreichischer Wissenschaftsfonds FWF</orgName>
+               <orgName key="https://d-nb.info/gnd/2054142-9"
+                        role="hasFunder"
+                        instant="false"
+                        full="yes">Österreichischer Wissenschaftsfonds FWF</orgName>
                <idno type="project">PAT1495024</idno>
             </funder>
             <respStmt>
                <resp>Projektverantwortung</resp>
-               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</orgName>
+               <orgName key="https://d-nb.info/gnd/1026192285" instant="false" full="yes">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</orgName>
             </respStmt>
             <respStmt>
                <resp>Projektleitung</resp>
-               <persName key="https://d-nb.info/gnd/120789825" role="hasPrincipalInvestigator">
-                  <forename>Thomas</forename>
-                  <surname>Olechowski</surname>
-                  <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <persName key="https://d-nb.info/gnd/120789825"
+                         role="hasPrincipalInvestigator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Thomas</forename>
+                  <surname full="yes">Olechowski</surname>
+                  <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                   <idno type="ORCID">0000-0003-3291-6876</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Nationaler Forschungspartner</resp>
-               <orgName key="https://d-nb.info/gnd/1123037736" role="hasEnabler">Austrian Centre for Digital Humanities</orgName>
+               <orgName key="https://d-nb.info/gnd/1123037736"
+                        role="hasEnabler"
+                        instant="false"
+                        full="yes">Austrian Centre for Digital Humanities</orgName>
             </respStmt>
             <respStmt>
                <resp>Digitalisierung der gedruckten Quellen</resp>
-               <orgName key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</orgName>
+               <orgName key="https://d-nb.info/gnd/37748-X" instant="false" full="yes">Österreichisches Staatsarchiv</orgName>
             </respStmt>
             <respStmt>
                <resp>TEI-Datenmodellierung</resp>
-               <persName role="hasContributor">
-                  <forename>Timo</forename>
-                  <surname>Frühwirth</surname>
-                  <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
+               <persName role="hasContributor" instant="false" full="yes">
+                  <forename full="yes">Timo</forename>
+                  <surname full="yes">Frühwirth</surname>
+                  <affiliation key="https://d-nb.info/gnd/1123037736" instant="false">Austrian Centre for Digital Humanities</affiliation>
                   <idno type="ORCID">0000-0002-3997-5193</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Technische Supervision</resp>
-               <persName key="https://d-nb.info/gnd/1043833846" role="hasContributor">
-                  <forename>Peter</forename>
-                  <surname>Andorfer</surname>
-                  <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
+               <persName key="https://d-nb.info/gnd/1043833846"
+                         role="hasContributor"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Peter</forename>
+                  <surname full="yes">Andorfer</surname>
+                  <affiliation key="https://d-nb.info/gnd/1123037736" instant="false">Austrian Centre for Digital Humanities</affiliation>
                   <idno type="ORCID">0000-0002-9575-9372</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Technisches Consulting und Vorbereitung der Druckausgabe</resp>
-               <persName key="https://d-nb.info/gnd/13281899X" role="hasContributor">
-                  <forename>Stephan</forename>
-                  <surname>Kurz</surname>
-                  <affiliation key="https://d-nb.info/gnd/1202798799">Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</affiliation>
+               <persName key="https://d-nb.info/gnd/13281899X"
+                         role="hasContributor"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Stephan</forename>
+                  <surname full="yes">Kurz</surname>
+                  <affiliation key="https://d-nb.info/gnd/1202798799" instant="false">Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</affiliation>
                   <idno type="ORCID">0000-0003-2546-2570</idno>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
-            <date when="2028"/>
-            <availability status="free">
+            <date when="2028" instant="false"/>
+            <availability status="free" default="false">
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
             </availability>
             <idno type="ISBN_Print"/>
@@ -135,28 +159,28 @@
             <idno type="DOI_zenodo"/>
             <idno type="ebook_ID"/>
          </publicationStmt>
-         <seriesStmt>
+         <seriesStmt default="false">
             <title level="s" type="main">Protokolle des Ministerrates der Ersten Republik der Republik Österreich</title>
             <title level="m" type="main">Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920</title>
             <respStmt>
                <resp>Bearbeitung und Herausgeberschaft</resp>
-               <orgName key="https://d-nb.info/gnd/2024703-5">Universität Wien</orgName>
-               <orgName key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</orgName>
+               <orgName key="https://d-nb.info/gnd/2024703-5" instant="false" full="yes">Universität Wien</orgName>
+               <orgName key="https://d-nb.info/gnd/37748-X" instant="false" full="yes">Österreichisches Staatsarchiv</orgName>
             </respStmt>
          </seriesStmt>
          <notesStmt>
-            <note>Diese TEI-XML-Datei ist Grundlage für eine Druckausgabe der Edition.</note>
+            <note anchored="true">Diese TEI-XML-Datei ist Grundlage für eine Druckausgabe der Edition.</note>
             <relatedItem>
-               <biblStruct>
+               <biblStruct default="false" status="draft">
                   <monogr>
                      <imprint>
                         <pubPlace key="https://d-nb.info/gnd/4066009-6">Wien</pubPlace>
                         <publisher key="https://d-nb.info/gnd/2068748-5">Verlag der Österreichischen Akademie der Wissenschaften</publisher>
-                        <date when="2029"/>
+                        <date when="2029" instant="false"/>
                      </imprint>
                      <extent/>
                   </monogr>
-                  <note>
+                  <note anchored="true">
                      <idno/>
                      <ptr/>
                   </note>
@@ -164,10 +188,10 @@
                </biblStruct>
             </relatedItem>
          </notesStmt>
-         <sourceDesc>
-            <bibl>Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand)<ref target="https://www.archivinformationssystem.at/detail.aspx?id=5465">https://www.archivinformationssystem.at/detail.aspx?id=5465</ref>
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand)<ref target="https://www.archivinformationssystem.at/detail.aspx?id=5465">https://www.archivinformationssystem.at/detail.aspx?id=5465</ref>
             </bibl>
-            <msDesc>
+            <msDesc status="draft">
                <msIdentifier>
                   <institution key="https://d-nb.info/gnd/37748-X" role="hasOwner">AT-OeStA Österreichisches Staatsarchiv (Archiv (ÖStA))</institution>
                   <repository key="https://d-nb.info/gnd/1601181-8">AT-OeStA/AdR Archiv der Republik, 1918- (Abteilung)</repository>
@@ -179,13 +203,13 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-            <p>
+            <p part="N">
           <!--to be generated-->
         </p>
          </abstract>
       </profileDesc>
       <encodingDesc>
-         <styleDefDecl scheme="css"/>
+         <styleDefDecl scheme="css" default="false"/>
          <tagsDecl>
             <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
             <rendition xml:id="su" scheme="css">vertical-align:super;font-size:.7em;</rendition>
@@ -195,33 +219,33 @@
             <rendition xml:id="r" scheme="css">display:block;text-align:right;</rendition>
             <rendition xml:id="letterspaced" scheme="css">letter-spacing:0.15em;</rendition>
          </tagsDecl>
-         <editorialDecl>
-            <hyphenation>
-               <p>
+         <editorialDecl default="false">
+            <hyphenation default="false" eol="some">
+               <p part="N">
             <!--to be added-->
           </p>
             </hyphenation>
-            <correction>
-               <p>
+            <correction default="false" method="silent">
+               <p part="N">
             <!--to be added-->
           </p>
             </correction>
-            <normalization>
-               <p>
+            <normalization default="false" method="silent">
+               <p part="N">
             <!--to be added-->
           </p>
             </normalization>
-            <punctuation>
-               <p>
+            <punctuation default="false">
+               <p part="N">
             <!--to be added-->
           </p>
             </punctuation>
-            <stdVals>
-               <p>
+            <stdVals default="false">
+               <p part="N">
             <!--to be added-->
           </p>
             </stdVals>
-            <p>
+            <p part="N">
           <!--to be added-->
         </p>
          </editorialDecl>
@@ -229,7 +253,10 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:id="doc-krp-121.xml">
+         <div xml:id="doc-krp-121.xml"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head type="dokument">
                <title type="num">121.</title>
                <title type="descr">[Dienstag] 1919-11-11</title>
@@ -334,7 +361,7 @@
                   <p>„Die gesamte Liquidierung wird als eine deutschösterreichische innerstaatliche Aufgabe erklärt; die Gesandtenkonferenz und die Bevollmächtigtenkollegien treten mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain außer Funktion.“</p>
                   <p>Der Passus „mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain” sei entgegen dem ursprünglichen Antrage der Staatskanzlei in Würdigung der vom Vertreter des Staatsamtes für Äußeres vorgebrachten Gründe, jedoch nur in der damals noch berechtigten Voraussetzung eingefügt worden, dass das Inkrafttreten des Staatsvertrages ohnehin in kürzester Zeit erfolgen werde. Nach den neuesten Nachrichten sei dieser Zeitpunkt aber noch sehr unbestimmt; es verlaute, dass er erst im nächsten Februar zu gewärtigen sei.</p>
                   <p>Eine so lange Verzögerung der <pb n="10"/>Lösung der Liquidierungsfrage sei sowohl für private als auch für staatliche Interessen schädlich. Nach dem Beschluss der Gesandtenkonferenz vom 30. September d. J. „haben sich die bisherigen Liquidierungsorganisationen in ihrer Tätigkeit auf die Behandlung solcher Angelegenheiten zu beschränken, welche ohne Schädigung des Interesses der einzelnen Nationalstaaten oder ihrer Angehörigen nicht unerledigt bleiben können, soferne diese Erledigungen nicht einen präjudizierenden Charakter tragen". Dieser Beschluss sei jedenfalls auch in der Erwartung einer baldigen Lösung gefasst worden. Der pendente Zustand könne aber nicht noch weitere Monate bestehen bleiben, umso mehr als unserer Auffassung nach die Liquidierung aus ihrem bisher unbefriedigenden Verlauf nur durch Übernahme in eine Hand gerettet werden könne.</p>
-                  <p>Überdies sei bei einer aufgrund des bezogenen Kabinettsratsbeschlusses abgehaltenen Sitzung des Komitees, welches zur Vorbereitung der Zerlegung des liquidierenden Kriegsministeriums eingesetzt ist, zutage getreten, dass der zur Bestreitung der bisherigen gemeinsamen Liquidierungsauslagen herangezogene, sogenannte <pb n="11"/>Redlichsche Kredit, welcher <hi rend="underline" style="font-size:12pt" xml:space="preserve">vielleicht </hi>den anderen Nationalstaaten angelastet werden könnte, mit 20. d. M. erschöpft sein werde und die ganze Liquidierung dann vollständig stocken würde, wenn nicht Deutschösterreich mit eigenen Mitteln eintrete. Die Entscheidung wäre sonach sehr dringend.</p>
+                  <p>Überdies sei bei einer aufgrund des bezogenen Kabinettsratsbeschlusses abgehaltenen Sitzung des Komitees, welches zur Vorbereitung der Zerlegung des liquidierenden Kriegsministeriums eingesetzt ist, zutage getreten, dass der zur Bestreitung der bisherigen gemeinsamen Liquidierungsauslagen herangezogene, sogenannte <pb n="11"/>Redlichsche Kredit, welcher <hi rend="#u">vielleicht </hi>den anderen Nationalstaaten angelastet werden könnte, mit 20. d. M. erschöpft sein werde und die ganze Liquidierung dann vollständig stocken würde, wenn nicht Deutschösterreich mit eigenen Mitteln eintrete. Die Entscheidung wäre sonach sehr dringend.</p>
                   <p>Redner beantrage daher, den erwähnten Kabinettsratsbeschluss dahin abzuändern, dass die Übernahme der Liquidierung in deutschösterreichische Hand sogleich nach schleuniger Durchführung aller Vorbereitungen zu erfolgen habe. Die dementsprechenden Maßnahmen hätte das Staatsamt für Äußeres, bzw. der Generalliquidierungskommissär, zu treffen.</p>
                   <p>Staatssekretär Dr. Reisch teilt mit, dass der Generalliquidierungskommissär in dem vom Vorsitzenden vorgeschlagenen Vorgange einen einseitigen Akt erblicke, der geeignet sein könnte, die Nationalstaaten zu brüskieren. Sektionschef Dr. Pöschel halte dafür, dass in dem Gesetzentwurf der Zeitpunkt des Inkrafttretens des Staatsvertrages von St. Germain als Stichtag der Übernahme der Liquidierungsgeschäfte durch <pb n="12"/>Deutschösterreich aufrecht bleiben sollte, dass aber in der Liquidierungskommission auf die Erschöpfung der gemeinsamen Mittel hinzuweisen und zu erklären wäre, Deutschösterreich müsse angesichts dieser Tatsache auf seinem Gebiete die hienach erforderlichen Maßnahmen auf eigene Kosten treffen.</p>
                   <p>Staatssekretär Dr. Deutsch hält diese Auffassung für einen allenfalls gangbaren Weg zu Verhandlungen mit den Nachfolgestaaten. Dies dürfe jedoch nicht hindern, die Vorbereitungen im Sinne des Antrages des Vorsitzenden bereits jetzt unverzüglich zu treffen. Aus diesem Grunde glaube Redner sich für die Annahme des Antrages des Vorsitzenden aussprechen zu sollen.</p>
@@ -388,18 +415,9 @@
                   <p>Schluss der Sitzung ¼ 11 Uhr Abend.</p>
                </div>
             </div>
-            <div>
-               <head>
-                  <hi rend="normalweight color(0F4761)"
-                      style="font-family:Aptos Display;font-size:20pt">Stenogramm</hi>
-               </head>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)"
-                         style="font-family:Aptos Display;font-size:16pt">A.</hi>
-                     <lb/>
-                     <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 121, 11. November 1919, Stenogramm A]</hi>
-                  </head>
+            <div type="stenogramm">
+               <div n="1">
+                  <head>[KBR 121, 11. November 1919, Stenogramm A]</head>
                   <p>
                      <hi rend="italic" style="font-size:12pt">121., 11. /Nov. 1919, ½9.</hi>
                   </p>
@@ -495,7 +513,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Der Kabinettsrat beharrt auf seinem Beschluß vom 24. Oktober, daß die auf österreichischem Boden bestehenden Sammlungen und Institutionen in ausschließlichem Eigentum und ausschließlicher Verwaltung Deutsch-Österreichs stehen. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Das Kabinett erteilt seine</hi>
+                     <hi rend="#s">Das Kabinett erteilt seine</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - Die deutsch-österreichische Staatsregierung wird den anderen Nationen die weitest möglichen Erleichterungen und Rechte zur Benützung der Materialien gewähren. Eine Internationalisierung des Eigentums und der Verwaltung der Inst.[itutionen] kann jedoch nicht zugestanden werden.</hi>
                   </p>
                   <p>
@@ -521,14 +539,14 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reisch: Eine rein deutsch-österreichische Liquidierung einzuleiten kann nur heißen [eine] rein österreichische Liquidierung. Dann bitte [ich], daß P.[öschl] diese Entwürfe zur Einsicht gegeben werden. Meine ersten Ausführungen haben nur bezweckt, daß wir de facto vorgehen, wie vorgeschlagen wurde. Im Gesetzentwurf aber keine Änderung, </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">es sei denn, daß wir</hi>
+                     <hi rend="#s">es sei denn, daß wir</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt">Grimm: Es hat finanziell gar keinen Wert für uns, wenn wir in die österreichische Liquidierung eintreten. Aber wir müssen den Abbau ernstlich jetzt in Angriff nehmen. Wir müssen erklären, daß wir mit der Pensionierung des Liquidierungspersonals vorgehen. Sonst werden wir nie fertig.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Deutsch</hi>
+                     <hi rend="#s">Deutsch</hi>
                      <hi rend="italic" style="font-size:12pt">: -.</hi>
                   </p>
                   <p>
@@ -580,7 +598,7 @@
                      <hi rend="italic" style="font-size:12pt">Reisch: Zuckerpreise. Damals [wurde] nur mit einem 70 % Agio der č.[echoslovakischen] Währung gerechnet. [Infolge der] 150 %[igen] Erhöhung der Frachttarife [ergibt sich] ungefähr [eine] Verdoppelung des Preises mit 1. /12. [Für] August und September [wird] der Zucker vorher zu den alten Preisen ausgegeben.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Löwenfeld</hi>
+                     <hi rend="#s">Löwenfeld</hi>
                      <hi rend="italic" style="font-size:12pt">: -</hi>
                   </p>
                   <p>
@@ -591,9 +609,9 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Löwenfeld: Muß sich dem Antrag des Staatsamtes für Finanzen anschließen bezüglich 1. /12. [Der Preis für] Rohzucker [hat sich] um 100 % erhöht. Das Defizit der Zuckerstelle [beträgt] schon 43 Millionen Kronen. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Diese Stelle ist eine staatliche Stelle, die wenn sie auch formell Kredit hat</hi>
+                     <hi rend="#s">Diese Stelle ist eine staatliche Stelle, die wenn sie auch formell Kredit hat</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Dadurch ist die Zuckerstelle fort[während] in Zahlungsschwierigkeiten. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Wenn das Staatsamt für Finanzen, das die</hi>
+                     <hi rend="#s">Wenn das Staatsamt für Finanzen, das die</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Die Bevölkerung ist schon darauf vorbereitet. Wir brauchen 14 Tage bis 3 Wochen, bis es durchgeführt wird.</hi>
                   </p>
                   <p>
@@ -654,13 +672,8 @@
                      <hi rend="italic" style="font-size:12pt">Bericht Eldersch Verdienstentgang.</hi>
                   </p>
                </div>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)"
-                         style="font-family:Aptos Display;font-size:16pt">B.</hi>
-                     <lb/>
-                     <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 121, 11. November 1919, Stenogramm B]</hi>
-                  </head>
+               <div n="2">
+                  <head>[KBR 121, 11. November 1919, Stenogramm B]</head>
                   <p>
                      <hi rend="italic" style="font-size:12pt">121., 11. /XI.</hi>
                   </p>
@@ -672,7 +685,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Ich glaube, die Kraft dazu, diese Schwierigkeiten zu überstehen und insbesondere den sozialen Ansturm des K.[ommunismus] abzuwehren, zugleich aber gegenüber dem Ausland unseren Bestand zu sichern und - [haben wir daraus gesogen, daß wir ein] Ausschuß der Volksvertretung [sind], getragen vom Willen des Volkes. Die republik.[anische] </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Gesinnung</hi>
+                     <hi rend="#s">Gesinnung</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> Verfassung gibt uns die Kraft, sie legt uns aber auch hohe Pflichten auf - die Arbeit des Tages und der Nacht in den Dienst des Volkes zu stellen. Wir alle haben das ruhige Gewissen, diese Pflicht auch erfüllt zu haben. Wir geloben, auch in Zukunft unser gesamtes Denken und unsere gesamte Willenskraft in den Dienst des Volkes zu stellen.</hi>
                   </p>
                   <p>
@@ -703,7 +716,7 @@
                      <hi rend="italic" style="font-size:12pt">Ad acta legen.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Liquidierung</hi>
+                     <hi rend="#s">Liquidierung</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
@@ -756,7 +769,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Der Kabinettsrat beharrt auf seinem Beschluß vom 24. Oktober, daß die auf österreichischem Boden bestehenden Sammlungen und Institutionen im ausschließlichen Eigentum und [in] ausschließlicher Verwaltung Deutsch-Österreichs stehen. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Das Kabinett erklärt prinzipiell seine</hi>
+                     <hi rend="#s">Das Kabinett erklärt prinzipiell seine</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Die deutsch-österreichische Staatsregierung wird den anderen Nationen die weitest möglichen Erleichterungen und Rechte zur Benützung der Materialien gewähren. Eine Internationalisierung des Eigentums und der Verwaltung der Institute kann jedoch nicht zugestanden werden.</hi>
                   </p>
                   <p>
@@ -785,7 +798,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Grimm: [Es hat] finanziell fast gar keinen Wert, wenn wir in die deutsch-österreichische Liquidierung eintreten, wenn wir nicht gleichzeitig den Abbau des Personals vornehmen. Wir müssen den </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Nationalstaaten mitteilen, daß wir sofort mit der Pensionierung vorgehen müssen, sofort</hi>
+                     <hi rend="#s">Nationalstaaten mitteilen, daß wir sofort mit der Pensionierung vorgehen müssen, sofort</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - liquidierenden Stellen mitteilen, daß sofort das Personal liquidiert und pensioniert wird und dann nur das für die österreichische Liquidierung notwendige [Personal] wiederaufnehmen. Das andere fremdnationale Personal den Nationalstaaten zur Verfügung [zu] stellen.</hi>
                   </p>
                   <p>
@@ -804,9 +817,9 @@
                      <hi rend="italic" style="font-size:12pt">In merito: [Das ist ein] neues Amt und [eine] neue Zentrale mit sehr wesentlichen Kosten. Das ist eine Sache, die man nicht von Staats wegen reglementieren kann und schon gar nicht in der jetzigen Zeit.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Renner</hi>
+                     <hi rend="#s">Renner</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Auf acht Tage vertagt</hi>
+                     <hi rend="#s">Auf acht Tage vertagt</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
@@ -868,7 +881,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Unverzinslicher Kredit für die Anschaffungsbeiträge in der Industrie auf 6 Monate</hi>
+                     <hi rend="#s">Unverzinslicher Kredit für die Anschaffungsbeiträge in der Industrie auf 6 Monate</hi>
                      <hi rend="italic" style="font-size:12pt">. Das Staatsamt für Finanzen ist ermächtigt, der par.[itätischen] Industriekommission einen verrechenbaren Erlag von 10 Millionen Kronen zur Erteilung von Vorschüssen an Industrielle zur Auszahlung des Anschaffungsbeitrages zu gewähren. Diese Vorschüsse sind unverzinslich längstens binnen 6 Monaten zurückzuzahlen.</hi>
                   </p>
                   <p>
@@ -896,7 +909,6 @@
                      <hi rend="italic" style="font-size:12pt">Eldersch: Vom Staatsamt zwei Verwaltungsräte vorbehalten und die Änderungen der Statutenvorschriften getroffen, die das Recht vorsehen.</hi>
                   </p>
                </div>
-               <div/>
             </div>
          </div>
       </body>

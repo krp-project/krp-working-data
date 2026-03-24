@@ -68,6 +68,19 @@
   
   <!-- Suppress whitespace nodes resulting from discarding hi wrappers -->
   <xsl:template match="tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
+  
+  <!-- Handle underlines and strikethroughs, either individual or combined -->
+  <xsl:template match="tei:hi[contains(@rend, 'underline') and not(contains(@rend, 'strikethrough'))]">
+    <hi rend="#u"><xsl:apply-templates/></hi>
+  </xsl:template>
+  
+  <xsl:template match="tei:hi[contains(@rend, 'strikethrough') and not(contains(@rend, 'underline'))]">
+    <hi rend="#s"><xsl:apply-templates/></hi>
+  </xsl:template>
+  
+  <xsl:template match="tei:hi[contains(@rend, 'underline') and contains(@rend, 'strikethrough')]">
+    <hi rend="#u"><hi rend="#s"><xsl:apply-templates/></hi></hi>
+  </xsl:template>
    
   <!-- ================================================================== -->
   <!-- Transform page-beginning information -->
@@ -247,6 +260,33 @@
         <xsl:apply-templates/>
       </p>
     </xsl:for-each>
+  </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 10. Transform Stenogramm head into div[@type='stenogramm'] -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Stenogramm']]">
+    <div type="stenogramm">
+      <!-- filter out empty div nodes created by surplus DOCX whitespace -->
+      <xsl:apply-templates select="tei:div[tei:head]"/>
+    </div>
+  </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 11. Label Stenogramm divs -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Stenogramm']]/tei:div">
+    <!-- number divs through shorthand attribute value template -->
+    <div n="{position()}">
+      <head>
+        <xsl:value-of select="normalize-space(tei:head/tei:hi[2])"/>
+      </head>
+      <xsl:for-each select="tei:p">
+        <p>
+          <xsl:apply-templates/>
+        </p>
+      </xsl:for-each>
+    </div>
   </xsl:template>
 
 </xsl:stylesheet>
