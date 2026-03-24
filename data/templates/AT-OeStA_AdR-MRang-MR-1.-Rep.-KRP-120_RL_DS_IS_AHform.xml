@@ -17,115 +17,139 @@
             <title level="m" type="main" n="01">Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920</title>
             <title level="m" type="sub" n="">Renner III (17. Oktober 1919 – 7. Juli 1920)</title>
             <meeting>
-               <placeName key="https://d-nb.info/gnd/4066009-6">Wien</placeName>
-               <orgName key="https://d-nb.info/gnd/5162749-8">Kabinettsrat</orgName>
-               <date when-iso="1919-11-07"/>
+               <placeName key="https://d-nb.info/gnd/4066009-6" instant="false" full="yes">Wien</placeName>
+               <orgName key="https://d-nb.info/gnd/5162749-8" instant="false" full="yes">Kabinettsrat</orgName>
+               <date when-iso="1919-11-07" instant="false"/>
             </meeting>
             <editor>
-               <persName key="https://d-nb.info/gnd/122481836" role="hasCreator">
-                  <forename>Helmut</forename>
-                  <surname>Wohnout</surname>
+               <persName key="https://d-nb.info/gnd/122481836"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Helmut</forename>
+                  <surname full="yes">Wohnout</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</affiliation>
+               <affiliation key="https://d-nb.info/gnd/37748-X" instant="false">Österreichisches Staatsarchiv</affiliation>
                <idno type="ORCID">0000-0002-3864-9839</idno>
             </editor>
             <editor>
-               <persName key="https://d-nb.info/gnd/120789825" role="hasCreator">
-                  <forename>Thomas</forename>
-                  <surname>Olechowski</surname>
+               <persName key="https://d-nb.info/gnd/120789825"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Thomas</forename>
+                  <surname full="yes">Olechowski</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0000-0003-3291-6876</idno>
             </editor>
             <editor>
-               <persName key="https://d-nb.info/gnd/131679384" role="hasCreator">
-                  <forename>Richard</forename>
-                  <surname>Lein</surname>
+               <persName key="https://d-nb.info/gnd/131679384"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Richard</forename>
+                  <surname full="yes">Lein</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0000-0002-7502-0503</idno>
             </editor>
             <editor>
-               <persName role="hasCreator">
-                  <forename>Anna</forename>
-                  <surname>Holzer</surname>
+               <persName role="hasCreator" instant="false" full="yes">
+                  <forename full="yes">Anna</forename>
+                  <surname full="yes">Holzer</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0005-3560-3500</idno>
             </editor>
             <editor>
-               <persName role="hasCreator">
-                  <forename>Dominik</forename>
-                  <surname>Sölkner</surname>
+               <persName role="hasCreator" instant="false" full="yes">
+                  <forename full="yes">Dominik</forename>
+                  <surname full="yes">Sölkner</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0007-9895-7212</idno>
             </editor>
             <editor>
-               <persName role="hasContributor">
-                  <forename>Ina</forename>
-                  <surname>Schotzko</surname>
+               <persName role="hasContributor" instant="false" full="yes">
+                  <forename full="yes">Ina</forename>
+                  <surname full="yes">Schotzko</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0007-5210-3713</idno>
             </editor>
             <funder n="1">
-               <orgName key="https://d-nb.info/gnd/2054142-9" role="hasFunder">Österreichischer Wissenschaftsfonds FWF</orgName>
+               <orgName key="https://d-nb.info/gnd/2054142-9"
+                        role="hasFunder"
+                        instant="false"
+                        full="yes">Österreichischer Wissenschaftsfonds FWF</orgName>
                <idno type="project">PAT1495024</idno>
             </funder>
             <respStmt>
                <resp>Projektverantwortung</resp>
-               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</orgName>
+               <orgName key="https://d-nb.info/gnd/1026192285" instant="false" full="yes">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</orgName>
             </respStmt>
             <respStmt>
                <resp>Projektleitung</resp>
-               <persName key="https://d-nb.info/gnd/120789825" role="hasPrincipalInvestigator">
-                  <forename>Thomas</forename>
-                  <surname>Olechowski</surname>
-                  <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <persName key="https://d-nb.info/gnd/120789825"
+                         role="hasPrincipalInvestigator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Thomas</forename>
+                  <surname full="yes">Olechowski</surname>
+                  <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                   <idno type="ORCID">0000-0003-3291-6876</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Nationaler Forschungspartner</resp>
-               <orgName key="https://d-nb.info/gnd/1123037736" role="hasEnabler">Austrian Centre for Digital Humanities</orgName>
+               <orgName key="https://d-nb.info/gnd/1123037736"
+                        role="hasEnabler"
+                        instant="false"
+                        full="yes">Austrian Centre for Digital Humanities</orgName>
             </respStmt>
             <respStmt>
                <resp>Digitalisierung der gedruckten Quellen</resp>
-               <orgName key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</orgName>
+               <orgName key="https://d-nb.info/gnd/37748-X" instant="false" full="yes">Österreichisches Staatsarchiv</orgName>
             </respStmt>
             <respStmt>
                <resp>TEI-Datenmodellierung</resp>
-               <persName role="hasContributor">
-                  <forename>Timo</forename>
-                  <surname>Frühwirth</surname>
-                  <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
+               <persName role="hasContributor" instant="false" full="yes">
+                  <forename full="yes">Timo</forename>
+                  <surname full="yes">Frühwirth</surname>
+                  <affiliation key="https://d-nb.info/gnd/1123037736" instant="false">Austrian Centre for Digital Humanities</affiliation>
                   <idno type="ORCID">0000-0002-3997-5193</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Technische Supervision</resp>
-               <persName key="https://d-nb.info/gnd/1043833846" role="hasContributor">
-                  <forename>Peter</forename>
-                  <surname>Andorfer</surname>
-                  <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
+               <persName key="https://d-nb.info/gnd/1043833846"
+                         role="hasContributor"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Peter</forename>
+                  <surname full="yes">Andorfer</surname>
+                  <affiliation key="https://d-nb.info/gnd/1123037736" instant="false">Austrian Centre for Digital Humanities</affiliation>
                   <idno type="ORCID">0000-0002-9575-9372</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Technisches Consulting und Vorbereitung der Druckausgabe</resp>
-               <persName key="https://d-nb.info/gnd/13281899X" role="hasContributor">
-                  <forename>Stephan</forename>
-                  <surname>Kurz</surname>
-                  <affiliation key="https://d-nb.info/gnd/1202798799">Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</affiliation>
+               <persName key="https://d-nb.info/gnd/13281899X"
+                         role="hasContributor"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Stephan</forename>
+                  <surname full="yes">Kurz</surname>
+                  <affiliation key="https://d-nb.info/gnd/1202798799" instant="false">Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</affiliation>
                   <idno type="ORCID">0000-0003-2546-2570</idno>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
-            <date when="2028"/>
-            <availability status="free">
+            <date when="2028" instant="false"/>
+            <availability status="free" default="false">
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
             </availability>
             <idno type="ISBN_Print"/>
@@ -135,28 +159,28 @@
             <idno type="DOI_zenodo"/>
             <idno type="ebook_ID"/>
          </publicationStmt>
-         <seriesStmt>
+         <seriesStmt default="false">
             <title level="s" type="main">Protokolle des Ministerrates der Ersten Republik der Republik Österreich</title>
             <title level="m" type="main">Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920</title>
             <respStmt>
                <resp>Bearbeitung und Herausgeberschaft</resp>
-               <orgName key="https://d-nb.info/gnd/2024703-5">Universität Wien</orgName>
-               <orgName key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</orgName>
+               <orgName key="https://d-nb.info/gnd/2024703-5" instant="false" full="yes">Universität Wien</orgName>
+               <orgName key="https://d-nb.info/gnd/37748-X" instant="false" full="yes">Österreichisches Staatsarchiv</orgName>
             </respStmt>
          </seriesStmt>
          <notesStmt>
-            <note>Diese TEI-XML-Datei ist Grundlage für eine Druckausgabe der Edition.</note>
+            <note anchored="true">Diese TEI-XML-Datei ist Grundlage für eine Druckausgabe der Edition.</note>
             <relatedItem>
-               <biblStruct>
+               <biblStruct default="false" status="draft">
                   <monogr>
                      <imprint>
                         <pubPlace key="https://d-nb.info/gnd/4066009-6">Wien</pubPlace>
                         <publisher key="https://d-nb.info/gnd/2068748-5">Verlag der Österreichischen Akademie der Wissenschaften</publisher>
-                        <date when="2029"/>
+                        <date when="2029" instant="false"/>
                      </imprint>
                      <extent/>
                   </monogr>
-                  <note>
+                  <note anchored="true">
                      <idno/>
                      <ptr/>
                   </note>
@@ -164,10 +188,10 @@
                </biblStruct>
             </relatedItem>
          </notesStmt>
-         <sourceDesc>
-            <bibl>Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand)<ref target="https://www.archivinformationssystem.at/detail.aspx?id=5465">https://www.archivinformationssystem.at/detail.aspx?id=5465</ref>
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand)<ref target="https://www.archivinformationssystem.at/detail.aspx?id=5465">https://www.archivinformationssystem.at/detail.aspx?id=5465</ref>
             </bibl>
-            <msDesc>
+            <msDesc status="draft">
                <msIdentifier>
                   <institution key="https://d-nb.info/gnd/37748-X" role="hasOwner">AT-OeStA Österreichisches Staatsarchiv (Archiv (ÖStA))</institution>
                   <repository key="https://d-nb.info/gnd/1601181-8">AT-OeStA/AdR Archiv der Republik, 1918- (Abteilung)</repository>
@@ -179,13 +203,13 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-            <p>
+            <p part="N">
           <!--to be generated-->
         </p>
          </abstract>
       </profileDesc>
       <encodingDesc>
-         <styleDefDecl scheme="css"/>
+         <styleDefDecl scheme="css" default="false"/>
          <tagsDecl>
             <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
             <rendition xml:id="su" scheme="css">vertical-align:super;font-size:.7em;</rendition>
@@ -195,33 +219,33 @@
             <rendition xml:id="r" scheme="css">display:block;text-align:right;</rendition>
             <rendition xml:id="letterspaced" scheme="css">letter-spacing:0.15em;</rendition>
          </tagsDecl>
-         <editorialDecl>
-            <hyphenation>
-               <p>
+         <editorialDecl default="false">
+            <hyphenation default="false" eol="some">
+               <p part="N">
             <!--to be added-->
           </p>
             </hyphenation>
-            <correction>
-               <p>
+            <correction default="false" method="silent">
+               <p part="N">
             <!--to be added-->
           </p>
             </correction>
-            <normalization>
-               <p>
+            <normalization default="false" method="silent">
+               <p part="N">
             <!--to be added-->
           </p>
             </normalization>
-            <punctuation>
-               <p>
+            <punctuation default="false">
+               <p part="N">
             <!--to be added-->
           </p>
             </punctuation>
-            <stdVals>
-               <p>
+            <stdVals default="false">
+               <p part="N">
             <!--to be added-->
           </p>
             </stdVals>
-            <p>
+            <p part="N">
           <!--to be added-->
         </p>
          </editorialDecl>
@@ -229,7 +253,10 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:id="doc-krp-120.xml">
+         <div xml:id="doc-krp-120.xml"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head type="dokument">
                <title type="num">120.</title>
                <title type="descr">[Freitag]1919-11-07</title>
@@ -424,7 +451,7 @@
                         <seg>Dienstesanweisung über die Wahrung der Koalitionsfreiheit.</seg>
                      </label>
                   </head>
-                  <p>Der Vorsitzende teilt mit, dass er die Absicht habe, in Ausführung der von ihm in der Sitzung der Nationalversammlung am 23. Oktober d. J. abgegebenen Regierungserklärung an alle Landesregierungen einen Erlass zu richten, in welchem nach Wiedergabe des <pb n="19"/>die staatsbürgerlichen Freiheitsrechte, namentlich das Koalitionsrecht betreffenden Passus der Regierungserklärung betont werden soll, dass diese Erklärung nur eine Ausführung zwingender Rechtseinrichtungen darstelle, wie sie im Staatsgrundgesetze über die allgemeinen Rechte der Staatsbürger vom 21. Dezember 1867, RGBl. Nr. l42, und in verschiedenen aufgrund dieses Staatsgrundgesetzes ergangenen Gesetzen, namentlich im Koalitionsgesetze vom 7. August 1870, RGBl. Nr. 48, niedergelegt seien. Weiters soll in dem Erlasse die Erwartung ausgesprochen werden, dass sich die Landesregierungen diese Grundsätze zu eigen machen und für ihre <hi rend="underline" style="font-size:12pt">genaueste</hi> Durchführung im Lande Sorge getragen werden, da doch der Schutz der verfassungsmäßigen Freiheitsrechte in die Obhut der Behörden gestellt sei.</p>
+                  <p>Der Vorsitzende teilt mit, dass er die Absicht habe, in Ausführung der von ihm in der Sitzung der Nationalversammlung am 23. Oktober d. J. abgegebenen Regierungserklärung an alle Landesregierungen einen Erlass zu richten, in welchem nach Wiedergabe des <pb n="19"/>die staatsbürgerlichen Freiheitsrechte, namentlich das Koalitionsrecht betreffenden Passus der Regierungserklärung betont werden soll, dass diese Erklärung nur eine Ausführung zwingender Rechtseinrichtungen darstelle, wie sie im Staatsgrundgesetze über die allgemeinen Rechte der Staatsbürger vom 21. Dezember 1867, RGBl. Nr. l42, und in verschiedenen aufgrund dieses Staatsgrundgesetzes ergangenen Gesetzen, namentlich im Koalitionsgesetze vom 7. August 1870, RGBl. Nr. 48, niedergelegt seien. Weiters soll in dem Erlasse die Erwartung ausgesprochen werden, dass sich die Landesregierungen diese Grundsätze zu eigen machen und für ihre <hi rend="#u">genaueste</hi> Durchführung im Lande Sorge getragen werden, da doch der Schutz der verfassungsmäßigen Freiheitsrechte in die Obhut der Behörden gestellt sei.</p>
                   <p>Endlich sollen die Landesregierungen ersucht werden, diese Grundsätze auch den unterstehenden Behörden und Ämtern sowie den Gemeinden, woselbst sie für die Gemeindebetriebe von besonderer Bedeutung sein werden, zur Kenntnis zu bringen und sie zu deren genauesten Einhaltung zu verpflichten.</p>
                   <p>Gleichzeitig beabsichtige die Staatskanzlei diesen Erlass abschriftlich auch <pb n="20"/>allen Staatsämtern mit der Einladung zukommen zu lassen, ihn auch den ihnen unterstehenden Behörden und Ämtern zur genauesten Darnachachtung bekanntzugeben.</p>
                   <p>Der Vorsitzende beantragt, der Kabinettsrat wolle zur Hinausgabe dieser Dienstesanweisungen die Ermächtigung erteilen.</p>
@@ -438,7 +465,7 @@
                      </label>
                   </head>
                   <p>Der Vorsitzende gibt dem Kabinettsrate bekannt, dass die Anfechtung des oberösterreichischen Gesetzesbeschlusses über die Einführung des Transportscheinzwanges zu einem Dringlichkeitsantrag im Oberösterreichischen Landtage geführt habe, worin unter anderem der Staatsregierung vorgeworfen werde, dass sie auf eine friedliche Austragung des Verfassungsstreites kein Gewicht lege, und ihr zugleich ein offener Verfassungskonflikt angekündigt werde. Die Staatskanzlei habe daraufhin zur Anbahnung einer friedlichen Auseinandersetzung der Landesregierung in Linz gegenüber die Bereitwilligkeit der Staatsregie<pb n="21"/>rung zum Ausdrucke gebracht, die schwebende Verfassungsfrage im Wege mündlicher Verhandlungen zu bereinigen.</p>
-                  <p>In den unterdessen abgehaltenen zwischenstaatsamtlichen Besprechungen sei die übereinstimmende Meinung zum Ausdruck gekommen, dass von Oberösterreich die Außerkraftsetzung des soweit bekannt noch nicht kundgemachten Gesetzesbeschlusses über die <hi rend="underline" style="font-size:12pt">Einführung des Transportscheinzwanges</hi> durch einen entsprechenden Beschluss des Landtages und die Zurückziehung der erlassenen Bestimmungen über die Holzabgabe verlangt werden müsse.</p>
+                  <p>In den unterdessen abgehaltenen zwischenstaatsamtlichen Besprechungen sei die übereinstimmende Meinung zum Ausdruck gekommen, dass von Oberösterreich die Außerkraftsetzung des soweit bekannt noch nicht kundgemachten Gesetzesbeschlusses über die <hi rend="#u">Einführung des Transportscheinzwanges</hi> durch einen entsprechenden Beschluss des Landtages und die Zurückziehung der erlassenen Bestimmungen über die Holzabgabe verlangt werden müsse.</p>
                   <p>Zugeständnisse der Staatsregierung für diese Nachgiebigkeit des Landes Oberösterreich seien auf dem Gebiete der Ernährungs- wie überhaupt der Wirtschaftspolitik ausgeschlossen, es müssten im Gegenteil die eigenmächtig von den Ländern errichteten Verkehrsbeschränkungen und Abgaben bis Ende d. J. abgebaut werden.</p>
                   <p>Das Maximum des in dieser Beziehung möglichen Entgegenkommens wäre, dass diese illegalen Verkehrsbeschränkungen und Verkehrsabgaben eben bis Ende 1919 toleriert würden und das Land durch eine staatsgesetzliche Rati<pb n="22"/>habierung und damit Konvalidierung der widerrechtlichen Einhebungen der in Rede stehenden Abgaben vor Rückerstattungsklagen der Interessenten bewahrt werden könnte; all dies aber eben nur unter der Voraussetzung der Außerkraftsetzung aller solcher verfassungswidriger Maßnahmen mit 1. Jänner 1920.</p>
                   <p>Dagegen seien Zugeständnisse auf finanziellem Gebiete – in Form von Überweisungen – möglich. Was die Art und Höhe dieser Überweisungen betrifft, könne die auf der letzten Länderkonferenz dem Lande Oberösterreich bereits pro 1919 zugesagte dreifache Überweisung des bisherigen Betrages (18 Millionen, auf ein Jahr berechnet, also ein Plus von 12 Millionen) bei Aufhebung der Verkehrsbeschränkungen auch für 1920 gewährt werden.</p>
@@ -510,18 +537,9 @@
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
                </div>
             </div>
-            <div>
-               <head>
-                  <hi rend="normalweight color(0F4761)"
-                      style="font-family:Aptos Display;font-size:20pt">Stenogramm</hi>
-               </head>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)"
-                         style="font-family:Aptos Display;font-size:16pt">A.</hi>
-                     <lb/>
-                     <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 120, 7. November 1919, Stenogramm]</hi>
-                  </head>
+            <div type="stenogramm">
+               <div n="1">
+                  <head>[KBR 120, 7. November 1919, Stenogramm]</head>
                   <p>Nr. 120, 7. /XI.</p>
                   <p>[Zugezogen]: Sekt.Chef Reich.</p>
                   <p>Renner: Der amerikanische Oberst Jones, der bei der Gemeinde Wien im Kohlenreferat in Verwendung steht, hat intime Beziehungen zu amerikanischen Finanzkreisen, insbesondere zu einer Bankengruppe, die ein Kreditinstitut für ausländische Kreditgewährung gegründet hat. Er weist eine Korrespondenz vor, aufgrund der er ermächtigt ist zu verhandeln über die Finanzierung der Wasserkräfte. Er bittet um Ermächtigung, in Verhandlung treten zu können mit einem Wiener Institut. Der amerikanische Konzern würde uns die gesamten Wasserkräfte Deutsch-Österreichs ausbauen, würde von den Erträgnissen in der ersten Periode 25% uns zukommen lassen. Während dieser 1. Periode wären die Kosten der Anlage zu amortisieren. Sodann würde Deutsch-Österreich über 50% des Reinertrages erhalten und nach 40 Jahren dieser zweiten Periode würden die Gewinne an Deutsch-Österreich heimfallen. Diese Vorverhandlungen sind zu ungünstig. Insbesondere wäre die Amortisationsperiode von 40 Jahren zu lange. Da [es sich] aber [um] ganz unverbindliche Verhandlungen handelt wäre es ohne Obligo, daß man ihm die Ermächtigung zu Verhandlungen mit der Finanzgruppe gibt.</p>

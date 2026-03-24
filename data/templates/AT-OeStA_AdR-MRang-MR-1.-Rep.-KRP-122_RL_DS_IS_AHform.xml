@@ -17,115 +17,139 @@
             <title level="m" type="main" n="01">Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920</title>
             <title level="m" type="sub" n="">Renner III (17. Oktober 1919 – 7. Juli 1920)</title>
             <meeting>
-               <placeName key="https://d-nb.info/gnd/4066009-6">Wien</placeName>
-               <orgName key="https://d-nb.info/gnd/5162749-8">Kabinettsrat</orgName>
-               <date when-iso="1919-11-14"/>
+               <placeName key="https://d-nb.info/gnd/4066009-6" instant="false" full="yes">Wien</placeName>
+               <orgName key="https://d-nb.info/gnd/5162749-8" instant="false" full="yes">Kabinettsrat</orgName>
+               <date when-iso="1919-11-14" instant="false"/>
             </meeting>
             <editor>
-               <persName key="https://d-nb.info/gnd/122481836" role="hasCreator">
-                  <forename>Helmut</forename>
-                  <surname>Wohnout</surname>
+               <persName key="https://d-nb.info/gnd/122481836"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Helmut</forename>
+                  <surname full="yes">Wohnout</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</affiliation>
+               <affiliation key="https://d-nb.info/gnd/37748-X" instant="false">Österreichisches Staatsarchiv</affiliation>
                <idno type="ORCID">0000-0002-3864-9839</idno>
             </editor>
             <editor>
-               <persName key="https://d-nb.info/gnd/120789825" role="hasCreator">
-                  <forename>Thomas</forename>
-                  <surname>Olechowski</surname>
+               <persName key="https://d-nb.info/gnd/120789825"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Thomas</forename>
+                  <surname full="yes">Olechowski</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0000-0003-3291-6876</idno>
             </editor>
             <editor>
-               <persName key="https://d-nb.info/gnd/131679384" role="hasCreator">
-                  <forename>Richard</forename>
-                  <surname>Lein</surname>
+               <persName key="https://d-nb.info/gnd/131679384"
+                         role="hasCreator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Richard</forename>
+                  <surname full="yes">Lein</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0000-0002-7502-0503</idno>
             </editor>
             <editor>
-               <persName role="hasCreator">
-                  <forename>Anna</forename>
-                  <surname>Holzer</surname>
+               <persName role="hasCreator" instant="false" full="yes">
+                  <forename full="yes">Anna</forename>
+                  <surname full="yes">Holzer</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0005-3560-3500</idno>
             </editor>
             <editor>
-               <persName role="hasCreator">
-                  <forename>Dominik</forename>
-                  <surname>Sölkner</surname>
+               <persName role="hasCreator" instant="false" full="yes">
+                  <forename full="yes">Dominik</forename>
+                  <surname full="yes">Sölkner</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0007-9895-7212</idno>
             </editor>
             <editor>
-               <persName role="hasContributor">
-                  <forename>Ina</forename>
-                  <surname>Schotzko</surname>
+               <persName role="hasContributor" instant="false" full="yes">
+                  <forename full="yes">Ina</forename>
+                  <surname full="yes">Schotzko</surname>
                </persName>
-               <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                <idno type="ORCID">0009-0007-5210-3713</idno>
             </editor>
             <funder n="1">
-               <orgName key="https://d-nb.info/gnd/2054142-9" role="hasFunder">Österreichischer Wissenschaftsfonds FWF</orgName>
+               <orgName key="https://d-nb.info/gnd/2054142-9"
+                        role="hasFunder"
+                        instant="false"
+                        full="yes">Österreichischer Wissenschaftsfonds FWF</orgName>
                <idno type="project">PAT1495024</idno>
             </funder>
             <respStmt>
                <resp>Projektverantwortung</resp>
-               <orgName key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</orgName>
+               <orgName key="https://d-nb.info/gnd/1026192285" instant="false" full="yes">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</orgName>
             </respStmt>
             <respStmt>
                <resp>Projektleitung</resp>
-               <persName key="https://d-nb.info/gnd/120789825" role="hasPrincipalInvestigator">
-                  <forename>Thomas</forename>
-                  <surname>Olechowski</surname>
-                  <affiliation key="https://d-nb.info/gnd/1026192285">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
+               <persName key="https://d-nb.info/gnd/120789825"
+                         role="hasPrincipalInvestigator"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Thomas</forename>
+                  <surname full="yes">Olechowski</surname>
+                  <affiliation key="https://d-nb.info/gnd/1026192285" instant="false">Universität Wien, Institut für Rechts- und Verfassungsgeschichte</affiliation>
                   <idno type="ORCID">0000-0003-3291-6876</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Nationaler Forschungspartner</resp>
-               <orgName key="https://d-nb.info/gnd/1123037736" role="hasEnabler">Austrian Centre for Digital Humanities</orgName>
+               <orgName key="https://d-nb.info/gnd/1123037736"
+                        role="hasEnabler"
+                        instant="false"
+                        full="yes">Austrian Centre for Digital Humanities</orgName>
             </respStmt>
             <respStmt>
                <resp>Digitalisierung der gedruckten Quellen</resp>
-               <orgName key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</orgName>
+               <orgName key="https://d-nb.info/gnd/37748-X" instant="false" full="yes">Österreichisches Staatsarchiv</orgName>
             </respStmt>
             <respStmt>
                <resp>TEI-Datenmodellierung</resp>
-               <persName role="hasContributor">
-                  <forename>Timo</forename>
-                  <surname>Frühwirth</surname>
-                  <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
+               <persName role="hasContributor" instant="false" full="yes">
+                  <forename full="yes">Timo</forename>
+                  <surname full="yes">Frühwirth</surname>
+                  <affiliation key="https://d-nb.info/gnd/1123037736" instant="false">Austrian Centre for Digital Humanities</affiliation>
                   <idno type="ORCID">0000-0002-3997-5193</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Technische Supervision</resp>
-               <persName key="https://d-nb.info/gnd/1043833846" role="hasContributor">
-                  <forename>Peter</forename>
-                  <surname>Andorfer</surname>
-                  <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
+               <persName key="https://d-nb.info/gnd/1043833846"
+                         role="hasContributor"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Peter</forename>
+                  <surname full="yes">Andorfer</surname>
+                  <affiliation key="https://d-nb.info/gnd/1123037736" instant="false">Austrian Centre for Digital Humanities</affiliation>
                   <idno type="ORCID">0000-0002-9575-9372</idno>
                </persName>
             </respStmt>
             <respStmt>
                <resp>Technisches Consulting und Vorbereitung der Druckausgabe</resp>
-               <persName key="https://d-nb.info/gnd/13281899X" role="hasContributor">
-                  <forename>Stephan</forename>
-                  <surname>Kurz</surname>
-                  <affiliation key="https://d-nb.info/gnd/1202798799">Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</affiliation>
+               <persName key="https://d-nb.info/gnd/13281899X"
+                         role="hasContributor"
+                         instant="false"
+                         full="yes">
+                  <forename full="yes">Stephan</forename>
+                  <surname full="yes">Kurz</surname>
+                  <affiliation key="https://d-nb.info/gnd/1202798799" instant="false">Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</affiliation>
                   <idno type="ORCID">0000-0003-2546-2570</idno>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
-            <date when="2028"/>
-            <availability status="free">
+            <date when="2028" instant="false"/>
+            <availability status="free" default="false">
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
             </availability>
             <idno type="ISBN_Print"/>
@@ -135,28 +159,28 @@
             <idno type="DOI_zenodo"/>
             <idno type="ebook_ID"/>
          </publicationStmt>
-         <seriesStmt>
+         <seriesStmt default="false">
             <title level="s" type="main">Protokolle des Ministerrates der Ersten Republik der Republik Österreich</title>
             <title level="m" type="main">Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920</title>
             <respStmt>
                <resp>Bearbeitung und Herausgeberschaft</resp>
-               <orgName key="https://d-nb.info/gnd/2024703-5">Universität Wien</orgName>
-               <orgName key="https://d-nb.info/gnd/37748-X">Österreichisches Staatsarchiv</orgName>
+               <orgName key="https://d-nb.info/gnd/2024703-5" instant="false" full="yes">Universität Wien</orgName>
+               <orgName key="https://d-nb.info/gnd/37748-X" instant="false" full="yes">Österreichisches Staatsarchiv</orgName>
             </respStmt>
          </seriesStmt>
          <notesStmt>
-            <note>Diese TEI-XML-Datei ist Grundlage für eine Druckausgabe der Edition.</note>
+            <note anchored="true">Diese TEI-XML-Datei ist Grundlage für eine Druckausgabe der Edition.</note>
             <relatedItem>
-               <biblStruct>
+               <biblStruct default="false" status="draft">
                   <monogr>
                      <imprint>
                         <pubPlace key="https://d-nb.info/gnd/4066009-6">Wien</pubPlace>
                         <publisher key="https://d-nb.info/gnd/2068748-5">Verlag der Österreichischen Akademie der Wissenschaften</publisher>
-                        <date when="2029"/>
+                        <date when="2029" instant="false"/>
                      </imprint>
                      <extent/>
                   </monogr>
-                  <note>
+                  <note anchored="true">
                      <idno/>
                      <ptr/>
                   </note>
@@ -164,10 +188,10 @@
                </biblStruct>
             </relatedItem>
          </notesStmt>
-         <sourceDesc>
-            <bibl>Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand)<ref target="https://www.archivinformationssystem.at/detail.aspx?id=5465">https://www.archivinformationssystem.at/detail.aspx?id=5465</ref>
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">Quellbestand: AT-OeStA/AdR MRang MR 1Rep KRP Kabinettsratsprotokolle, 1918-1920 (Teilbestand)<ref target="https://www.archivinformationssystem.at/detail.aspx?id=5465">https://www.archivinformationssystem.at/detail.aspx?id=5465</ref>
             </bibl>
-            <msDesc>
+            <msDesc status="draft">
                <msIdentifier>
                   <institution key="https://d-nb.info/gnd/37748-X" role="hasOwner">AT-OeStA Österreichisches Staatsarchiv (Archiv (ÖStA))</institution>
                   <repository key="https://d-nb.info/gnd/1601181-8">AT-OeStA/AdR Archiv der Republik, 1918- (Abteilung)</repository>
@@ -179,13 +203,13 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-            <p>
+            <p part="N">
           <!--to be generated-->
         </p>
          </abstract>
       </profileDesc>
       <encodingDesc>
-         <styleDefDecl scheme="css"/>
+         <styleDefDecl scheme="css" default="false"/>
          <tagsDecl>
             <rendition xml:id="b" scheme="css">font-weight:bold;</rendition>
             <rendition xml:id="su" scheme="css">vertical-align:super;font-size:.7em;</rendition>
@@ -195,33 +219,33 @@
             <rendition xml:id="r" scheme="css">display:block;text-align:right;</rendition>
             <rendition xml:id="letterspaced" scheme="css">letter-spacing:0.15em;</rendition>
          </tagsDecl>
-         <editorialDecl>
-            <hyphenation>
-               <p>
+         <editorialDecl default="false">
+            <hyphenation default="false" eol="some">
+               <p part="N">
             <!--to be added-->
           </p>
             </hyphenation>
-            <correction>
-               <p>
+            <correction default="false" method="silent">
+               <p part="N">
             <!--to be added-->
           </p>
             </correction>
-            <normalization>
-               <p>
+            <normalization default="false" method="silent">
+               <p part="N">
             <!--to be added-->
           </p>
             </normalization>
-            <punctuation>
-               <p>
+            <punctuation default="false">
+               <p part="N">
             <!--to be added-->
           </p>
             </punctuation>
-            <stdVals>
-               <p>
+            <stdVals default="false">
+               <p part="N">
             <!--to be added-->
           </p>
             </stdVals>
-            <p>
+            <p part="N">
           <!--to be added-->
         </p>
          </editorialDecl>
@@ -229,7 +253,10 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:id="doc-krp-122.xml">
+         <div xml:id="doc-krp-122.xml"
+              part="N"
+              org="uniform"
+              sample="complete">
             <head type="dokument">
                <title type="num">122.</title>
                <title type="descr">[Freitag] 1919-11-14</title>
@@ -468,18 +495,9 @@
                   <p>Schließlich beschließt der Kabinettsrat im Sinne eines vom Unterstaatssekretär Miklas gestellten Antrages, dass nach Absendung dieses Schreibens auch die breite Öffentlichkeit im Gegenstande aufzuklären und ihr an der Hand der Tatsachen be<pb n="39"/>kannt zu geben ist, dass regierungsseitig alles getan wurde, um das Los dieser Kriegsgefangenen nach Möglichkeit zu mildern.</p>
                </div>
             </div>
-            <div>
-               <head>
-                  <hi rend="normalweight color(0F4761)"
-                      style="font-family:Aptos Display;font-size:20pt">Stenogramm</hi>
-               </head>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)"
-                         style="font-family:Aptos Display;font-size:16pt">A.</hi>
-                     <lb/>
-                     <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 122, 14. November 1919, Stenogramm A]</hi>
-                  </head>
+            <div type="stenogramm">
+               <div n="1">
+                  <head>[KBR 122, 14. November 1919, Stenogramm A]</head>
                   <p>
                      <hi rend="italic" style="font-size:12pt">122., 14. /XI.</hi>
                   </p>
@@ -503,7 +521,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Der Öffentlichkeit ist mitzuteilen, daß man das heute beschlossen hat und </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">daß diese Verhandlungen, Erhöhungen eingerechnet werden in die Gehalts- und Lohnsätze</hi>
+                     <hi rend="#s">daß diese Verhandlungen, Erhöhungen eingerechnet werden in die Gehalts- und Lohnsätze</hi>
                      <hi rend="italic" style="font-size:12pt">. Aber die größere Austeilung im Dezember ins Communiqué nehmen.</hi>
                   </p>
                   <p>
@@ -559,7 +577,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Eldersch: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Gemeindeumlagen</hi>
+                     <hi rend="#s">Gemeindeumlagen</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - Gemeindentrennung. Es hat keinen Sinn, die Frage bei der Länderkonferenz - die Sache zur Sprache zu bringen.</hi>
                   </p>
                   <p>
@@ -594,7 +612,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Die Befürchtung, daß das ausländische Kapital sich durch eine Sozialisierungsgesetzgebung einschüchtern lassen wird, wird dadurch widerlegt, daß kein Tag vorüber geht, ohne daß ich von mehr [oder] weniger ernsten Anträgen auf Ausbau der Wasserkräfte überlaufen werde. Sehr bezeichnend ist, daß erst heute vormittag ein Vertreter der deutschen Wirtschaft mir die Bitte unterbreitet hat, ihm die Sachlage auseinander zu setzen. In Deutschland </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">herrscht</hi>
+                     <hi rend="#s">herrscht</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> die Befürchtungen zu schwinden beginnen, als ob wir mit der Sozialisierung den Unternehmergeist töten wollten.</hi>
                   </p>
                   <p>
@@ -611,7 +629,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Ellenbogen: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Der Entwurf präjudiziert insofern nicht, als die Frage der Kapitalbeschaffung</hi>
+                     <hi rend="#s">Der Entwurf präjudiziert insofern nicht, als die Frage der Kapitalbeschaffung</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> ... Diese Frage wird durch das Gesetz weder verhindert noch befördert. Ob wir das Gesetz beschließen oder nicht, sie werden immer diese Sache als eine ihnen zustehende Kompetenz betrachten. Eine weitere, straffere Zusammenfassung ist unmöglich.</hi>
                   </p>
                   <p>
@@ -628,7 +646,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Die Frage Reischs erscheint mir nicht maßgebend, wohl aber die Frage Renners. Heute haben die Länder die Sache bereits selbst in die Hand genommen. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Kleine Durchbrechungen</hi>
+                     <hi rend="#s">Kleine Durchbrechungen</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Jetzt verleihen die Länder schon Konzessionen ohne Rücksicht auf das gesamtstaatliche Interesse, Zersplitterung der Enns-Wasserkräfte.</hi>
                   </p>
                   <p>
@@ -636,7 +654,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Fink: Schließt sich an den Ausführungen Eislers. Ich habe früher schon, als es sich darum handelte, der Abgrenzung der Kompetenzen - mir gesagt, daß [es] Angelegenheiten des Staates, der Länder und [ein] gemischtes Gebiet [gibt], zu dem die Wasserwirtschaft gehört. Das ist das Weiteste, das zu erreichen ist, was die Länder schon in der Hand haben. Wir müssen zufrieden sein, wenn wir das durchbringen. Auch die Länder müssen ein Recht darauf haben. Das ist das einzige Mittel (Wasser), das sie sich industriell aufrecht erhalten können. Also Staat und Land </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">und dieser Versuch</hi>
+                     <hi rend="#s">und dieser Versuch</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
                   </p>
                   <p>
@@ -644,7 +662,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Wegen der Beteiligung des Auslandes habe ich [keine] Sorge. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Wenn die Amerikaner sagen</hi>
+                     <hi rend="#s">Wenn die Amerikaner sagen</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
                   </p>
                   <p>
@@ -688,12 +706,12 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Eisler: Bittet zu erwägen, ob nicht eine Gelegenheit versäumt wird, die sich nicht sobald wieder findet. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Wenn der fremde Kapitalist sich heute fragt</hi>
+                     <hi rend="#s">Wenn der fremde Kapitalist sich heute fragt</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Inzwischen wird aber in den Ländern schon sozialisiert, dabei haben wir heute das Konzessionssystem. Es gibt schon mehr[ere] in Kraft getretene Landesgesetze. Inzwischen werden die Länder fleißig solche Konzessionen weiter verleihen. Die Ablösung derartiger Privatrechte wird mit den größten Schwierigkeiten verbunden sein. Wir werden umso mehr sozialisieren müssen, je mehr sich dieser Zersetzungsprozess vollzieht. Mit dem heutigen Rechtszustand ist gar nichts anzufangen.</hi>
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Die Berufung auf den Friedensvertrag ist keine Beseitigung des heutigen Chaos. Der Redner hält es für gefährlich, daran Änderungen vorzunehmen, da Vereinbarungen mit den Ländern vorliegen. Vorschlag, </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">daß den</hi>
+                     <hi rend="#s">daß den</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -</hi>
                   </p>
                   <p>
@@ -713,7 +731,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Fink: Wir müssen etwas machen, was beiden Teilen, Staat und Ländern, entspricht. Im § 1 müßte man altern.[ativ] den Ländern freigeben, [es ohne gemeinwirtschaftliche Unternehmungen zu machen], aber nur im Einvernehmen mit der Staatsregierung. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Es muß auch offen gehalten bleiben, daß</hi>
+                     <hi rend="#s">Es muß auch offen gehalten bleiben, daß</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
                   </p>
                   <p>
@@ -721,7 +739,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Konferenz, welche die beiden Vorlagen noch in Einklang bringt (Ellenbogen, Reisch, Zerdik, Fink (Vorsitz) und Stöckler). </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Die Vertreter der Länder noch rasch einberufen</hi>
+                     <hi rend="#s">Die Vertreter der Länder noch rasch einberufen</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
@@ -731,7 +749,7 @@
                      <hi rend="italic" style="font-size:12pt">Reisch: § 19 und 18 rechtliche Behandlung.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Sektionschef</hi>
+                     <hi rend="#s">Sektionschef</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> Ministerialrat Pokorny: Wir haben diese Bestimmung aufgenommen aus justizpolitischen Rücksichten. Es sollte vermieden [werden], als ob die Auslegung Platz greifen könnte, daß die Seile, Träger, Masten mit den Grundstücken in eine feste Verbindung gebracht werden. Dieser Gesichtspunkt bezweckt die Wahrung sehr bedeutender wirtschaftlicher Interessen.</hi>
                   </p>
                   <p>
@@ -795,26 +813,26 @@
                      <hi rend="italic" style="font-size:12pt">Zerdik: Besitzverhältnisse.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Deutsch</hi>
+                     <hi rend="#s">Deutsch</hi>
                      <hi rend="italic" style="font-size:12pt">: -.</hi>
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt">Renner: Zur einstweiligen Vorberatung zurückgestellt und kommt später zur Verhandlung.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">11</hi>
+                     <hi rend="#s">11</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Zerdik</hi>
+                     <hi rend="#s">Zerdik</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Sitzung Donaukommission, gerüchteweise verlautet</hi>
+                     <hi rend="#s">Sitzung Donaukommission, gerüchteweise verlautet</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Renner</hi>
+                     <hi rend="#s">Renner</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Das Staatsamt des Äußeren wird sich bemühen, das durchzusetzen</hi>
+                     <hi rend="#s">Das Staatsamt des Äußeren wird sich bemühen, das durchzusetzen</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
@@ -884,13 +902,8 @@
                      <hi rend="italic" style="font-size:12pt">½7 h.</hi>
                   </p>
                </div>
-               <div>
-                  <head>
-                     <hi rend="normalweight color(0F4761)"
-                         style="font-family:Aptos Display;font-size:16pt">B.</hi>
-                     <lb/>
-                     <hi rend="normalweight color(0F4761)" style="font-size:12pt">[KBR 122, 14. November 1919, Stenogramm Gross]</hi>
-                  </head>
+               <div n="2">
+                  <head>[KBR 122, 14. November 1919, Stenogramm Gross]</head>
                   <p>
                      <hi rend="italic" style="font-size:12pt">I.</hi>
                   </p>
@@ -908,7 +921,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Hanusch: [Ich] habe Vorstellung dagegen erhoben in der Voraussetzung, daß die Unterhandlungen mit den Unternehmern rasch vor sich gehen werden. Wir können auf eine rasche Erledigung nicht hoffen. Die Kommission wird nur Richtlinien feststellen, die Branchenverhandlungen werden sich noch Wochen hinziehen. Mein Einwand von Dienstag fällt weg. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Eine endgültige Lösung</hi>
+                     <hi rend="#s">Eine endgültige Lösung</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - Dasselbe gilt auch für den Tabak, obwohl hier andere Bedenken erhoben wurden.</hi>
                   </p>
                   <p>
@@ -957,7 +970,7 @@
                      <hi rend="italic" style="font-size:12pt">II.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Renner</hi>
+                     <hi rend="#s">Renner</hi>
                      <hi rend="italic" style="font-size:12pt">: -</hi>
                   </p>
                   <p>
@@ -979,7 +992,7 @@
                      <hi rend="italic" style="font-size:12pt">III.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Renner</hi>
+                     <hi rend="#s">Renner</hi>
                      <hi rend="italic" style="font-size:12pt">: -</hi>
                   </p>
                   <p>
@@ -1056,7 +1069,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Renner: Ich hätte noch [eine] Anfrage. Es war bei mir Jones, der nach A.[merika] abgegangen ist, um dort mit [einer] großen Finanzgruppe wegen der El.[ektrifizierung] zu verhandeln. J.[ones] wurde ursprünglich von der Steiermark zur Intervention aufgefordert. [Er] war bei der Reparationskommission, [dort] soll er die Auskunft erhalten haben: Da alles Eigentum auf - österreichische Eigentum der Reparationskommission verhaftet ist, muß bei solchen Anlagen die Reparationskommission die Zustimmung erteilen. Ob wir diesen Standpunkt anzunehmen haben oder nicht, ob wir uns mit der Reparationskommission auseinandersetzen werden, steht noch dahin. Die Reparationskommission denkt wahrscheinlich daran, die Reinerträgnisse auf das Reparationskonto zu setzen. Bei der Reparationskommission hat man [ihm] gesagt, er solle sich nicht mit Interessenten eines Landes ins Einvernehmen setzen, sondern mit dem ganzen Staat. Denn, wenn die Reparationskommission die Zustimmung zu solchen Anlagen geben würde, sie sie für ganz Österreich gebe und nur mit dem ganzen Staat verhandeln [würde] und nicht mit den einzelnen Ländern. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Ich möchte wissen</hi>
+                     <hi rend="#s">Ich möchte wissen</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - Das ist eine Auskunft, keine offizielle Entscheidung.</hi>
                   </p>
                   <p>
@@ -1076,9 +1089,9 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Ellenbogen: Das ist eine Frage, die weder durch das Gesetz verhindert noch befördert wird. Die separate ?Bindung der Länder besteht und die Länder betrachten die Wasserkraft als eine ihrer Kompetenz unterliegende Angelegenheit. Ob wir das Gesetz beschließen oder nicht, so werden die Länder es immer so halten. Diese tatsächliche Auffassung der Länder würde ohne oder mit Gesetz eine Generalabmachung verhindern. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Wenn der konkrete Fall</hi>
+                     <hi rend="#s">Wenn der konkrete Fall</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Dadurch daß hier eine zusammenfassende Stelle in § 2 fixiert ist, welche von den Ländern anerkannt ist, </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">ist dieses Gesetz</hi>
+                     <hi rend="#s">ist dieses Gesetz</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Aus diesem Grund müßte das Gesetz gemacht werden. Eine weitere, straffere Form der Zusammenfassung bei den Ländern zu machen, ist unmöglich.</hi>
                   </p>
                   <p>
@@ -1196,7 +1209,7 @@
                      <hi rend="italic" style="font-size:12pt">Die Stellung der gemeinwirtschaftlichen Anstalten kann man den Ausschußberatungen überlassen. Man kann unter Umständen in § 3 formulieren und die Möglichkeit [schaffen], daß, was die Länder vergeben, an nicht gemeinschaftliche Anstalten übertragen - daß man den Ländern die Pflicht auferlegt, als Land die Einrichtungen zu schaffen. Das ist eine Notsozialisierung. Dadurch bekommen Unternehmungen die Sache in die Hand, die erhoffen lassen, daß sie wirtschaftlich vorgehen. Jetzt ist nur Politik und Agitation. Man muß [es] an dem heutigen Rechtszustand messen.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Die Berufung auf den Friedensvertrag ist</hi>
+                     <hi rend="#s">Die Berufung auf den Friedensvertrag ist</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> - Wird der Entwurf fallen gelassen, muß die ganze Frage neu aufgerollt werden und dann werden die Länder kaum zustimmen. Es ist ein Ergebnis der Länderkonferenz. Es wäre zweckmäßiger [...] ändern außer der Anregung Ellenbogens der Beratung in der Nationalversammlung zu überlassen, um das nach Hause zu bringen, was in mühsamen Verhandlungen durchgesetzt wurde.</hi>
                   </p>
                   <p>
@@ -1270,7 +1283,7 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Wir haben diese Konstruktion der Erklärung als Zubehör gemacht und auf diesem Weg erzielt, was sonst besondere organisatorische Maßnahmen der El.[ektrizitätswirtschaft] notwendig gemacht hätte. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Alles, was zum Stromerzeugungs</hi>
+                     <hi rend="#s">Alles, was zum Stromerzeugungs</hi>
                      <hi rend="italic" style="font-size:12pt">-. Es soll, um eine Rechtseinheit zu konstruieren ein besonderes Staatsregister, El.[ektrizitäts]buch, geschaffen werden. Das wurde nicht eingeführt, sein Zweck [wird erfüllt] durch diese Bestimmung und die weitere, daß der Fortbestand der Leitungsrechte unabhängig ist vom Personenwechsel, vom Besitzer des Unternehmens und der Person des Eigentümers der belasteten Liegenschaft. Diese Bestimmung ersetzt das Elektrizitätsbuch. Wird es fallen gelassen, müßte eine organisatorische Maßnahme getroffen werden und die Kosten dafür würden viel mehr ausmachen als der Verzicht der Finanzverwaltung aus den Mehreinnahmen.</hi>
                   </p>
                   <p>
@@ -1292,7 +1305,7 @@
                      <hi rend="italic" style="font-size:12pt">Zerdik: Plankonferenz [r: -konkurrenz].</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">VIII</hi>
+                     <hi rend="#s">VIII</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
@@ -1300,12 +1313,12 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Grimm: Es ist noch nicht die Frage der Heranziehung der privaten Architekten gelöst. Es wurden sehr schlimme Erfahrungen damit gemacht. Man weiß noch nicht, inwieweit man die privaten Techniker zu Planentwürfen heranziehen soll. In einigen Fällen hat uns das viele Millionen gekostet. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">In einem Fall hat der Plan</hi>
+                     <hi rend="#s">In einem Fall hat der Plan</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Das Gebäude der Technik wird an der Perip[herie] Wiens errichtet, es ist ein reiner Nutzbau. [Es fragt sich], ob der Plan da besonders künstlerisch sein muß und einen nicht präliminierten Betrag von 5[00.000] Kronen für einen Bau, den wir nach dem Friedensschluß erst nach zwei Jahren in Angriff zu nehmen verpflichtet sind.</hi>
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Zerdik: Es kann ein privater Plan überschritten werden, wenn ich dem Architekten die Möglichkeit gebe, auch die Inneneinteilung zu bestimmen. Es liegen aber </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Haupt</hi>
+                     <hi rend="#s">Haupt</hi>
                      <hi rend="italic" style="font-size:12pt">- Grundprojekte vor. Es ist eine Notstandsaktion für die Künstler. Wenn wir erst in zwei Jahren mit dem Bau beginnen, so ist ein derartiger Wettbewerb doch [nicht] zeitraubend. Auch ein Teil muß sich schon der Gesamtheit anpassen.</hi>
                   </p>
                   <p>
@@ -1322,9 +1335,9 @@
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">Deutsch: [Ich] habe den Antrag [vor] einer Stunde bekommen und für einen schlechten Witz gehalten. Ich wundere mich deshalb. Jeder dritte Kabinettsrat beschäftigt sich mit einem militärischen Objekt. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Wir haben die Frage gelöst auf dem</hi>
+                     <hi rend="#s">Wir haben die Frage gelöst auf dem</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Erst nach dem Friedensvertrag konnte bestimmt werden, was freigegeben wird. Alles mögliche ist schon freigegeben, alle Kriegs-Belege, auch eine Reihe von Friedensgebäuden. An der Räumung der übrigen Gebäude wird gearbeitet, vieles ist unbrauchbar. Das Möglichste ist also schon geschehen. </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Daß es ein Nicht-Fachmann</hi>
+                     <hi rend="#s">Daß es ein Nicht-Fachmann</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -. Im Kriegsministerium ist jetzt ein Teil für das Verkehrswesen [untergebracht]. Die angeforderten Gebäude können nicht freigegeben werden. Bitte, diesen Antrag zurückzuziehen und erst zu vereinbaren zwischen den beiden [Staats]ämtern. Ich persönlich würde es als Erlösung empfinden, wenn ein Organ geschaffen würde, das über diese Dinge verfügt. Die Wohnungsfragen und Ämterfragen lassen sich nicht alle lösen auf Kosten des Heerwesens.</hi>
                   </p>
                   <p>
@@ -1358,21 +1371,21 @@
                      <hi rend="italic" style="font-size:12pt">Renner: Die Sache [wird] zur einstweiligen Vorberatung seitens der beteiligten Staatsämter zurückgestellt und kommt in die nächste Sitzung des Kabinettsrates.</hi>
                   </p>
                   <p>
-                     <hi rend="italic strikethrough" style="font-size:12pt">XI</hi>
+                     <hi rend="#s">XI</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt">[</hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Zerdik</hi>
+                     <hi rend="#s">Zerdik</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">]: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Donaukommission. Vorstellung bei der Entente, daß der Sitz der Donaukommission in Wien bleibt</hi>
+                     <hi rend="#s">Donaukommission. Vorstellung bei der Entente, daß der Sitz der Donaukommission in Wien bleibt</hi>
                      <hi rend="italic" style="font-size:12pt">.</hi>
                   </p>
                   <p>
                      <hi rend="italic" style="font-size:12pt">[</hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Renner</hi>
+                     <hi rend="#s">Renner</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve">]: </hi>
-                     <hi rend="italic strikethrough" style="font-size:12pt">Das Staatsamt für Äußeres wird</hi>
+                     <hi rend="#s">Das Staatsamt für Äußeres wird</hi>
                      <hi rend="italic" style="font-size:12pt" xml:space="preserve"> -.</hi>
                   </p>
                   <p>
@@ -1460,7 +1473,6 @@
                      <hi rend="italic" style="font-size:12pt">Renner: Wir haben nicht die geringsten Auslandszahlungsmittel.</hi>
                   </p>
                </div>
-               <div/>
             </div>
          </div>
       </body>
