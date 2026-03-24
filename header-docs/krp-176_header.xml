@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
 <?xml-model href='../../schema/krp.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" xml:id="krp-175.xml" xml:base="https://id.acdh.oeaw.ac.at/krp" xml:lang="de" prev="krp-174.xml" next="krp-176.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:acdh="https://vocabs.acdh.oeaw.ac.at/schema#" xml:id="krp-176.xml" xml:base="https://id.acdh.oeaw.ac.at/krp" xml:lang="de" prev="krp-175.xml" next="krp-177.xml">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title level="s" type="main">Protokolle des Ministerrates der Ersten Republik der Republik Österreich</title>
-        <title level="a" type="main" n="175">Kabinettsprotokoll Nr. 175 vom 27. April 1920</title>
+        <title level="a" type="main" n="176">Kabinettsprotokoll Nr. 176 vom 27. April 1920</title>
         <title level="m" type="main" n="01">Abteilung I: (Deutsch-)Österreichischer Kabinettsrat 31. Oktober 1918 bis 7. Juli 1920</title>
         <title level="m" type="sub" n="">Renner III (17. Oktober 1919 – 7. Juli 1920)</title>
         <meeting>
@@ -164,7 +164,7 @@
             <institution key="https://d-nb.info/gnd/37748-X" role="hasOwner">AT-OeStA Österreichisches Staatsarchiv (Archiv (ÖStA))</institution>
             <repository key="https://d-nb.info/gnd/1601181-8">AT-OeStA/AdR Archiv der Republik, 1918- (Abteilung)</repository>
             <collection>AT-OeStA/AdR MRang MR 1Rep Ministerrat 1. Republik, 1918 - 1938 (Bestand)</collection>
-            <idno>AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-175</idno>
+            <idno>AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-176</idno>
           </msIdentifier>
         </msDesc>
       </sourceDesc>
@@ -224,7 +224,7 @@
   </facsimile>
   <text>
     <body>
-      <div xml:id="doc-krp-175.xml"></div>
+      <div xml:id="doc-krp-176.xml"></div>
     </body>
   </text>
 </TEI>
