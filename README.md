@@ -37,6 +37,9 @@ Transcription DOCX files placed in `input/` are converted to generic TEI-XML via
 bash preprocessing/docx-to-tei.sh
 ```
 
+> [!WARNING]
+> The TEIGarage conversion does not preserve DOCX paragraph indentation. In the Stenogramm sections, speaker-turn grouping (via hanging indent in the DOCX) is lost.
+
 ### 3. Merge and upconvert to project-compliant TEI-XML
 
 An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to each generic TEI-XML in `preprocessing/teigarage-out/`. The XSLT automatically merges the matching header-doc and transforms the body into a project-compliant structure. Output goes to `data/templates/`.
@@ -45,7 +48,7 @@ An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to e
 ant
 ```
 
-> [!WARNING]
+> [!CAUTION]
 > The `upconvert.xsl` stylesheet is work in progress and does not yet generate actionable templates for editorial markup.
 
 ### 4. Transfer to krp-data
@@ -62,4 +65,4 @@ Steps 1 and 3 are automated via GitHub Actions:
 The first Action generates up-to-date header-docs. This then triggers the TEI-XML upconversion, which fires also when new TEIGarage output is pushed.
 
 > [!IMPORTANT]
-> When running the `upconvert-tei` Action manually, make sure to run `write-headers` before to make sure that the TEI headers are up to date for downstream processing.
+> When running the `upconvert-tei` Action manually, run `write-headers` before to make sure that the TEI headers are up to date with upstream metadata.
