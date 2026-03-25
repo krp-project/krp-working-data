@@ -260,10 +260,19 @@
   <!-- 9. Flatten structure within agenda-item divs -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div/tei:div[tei:head[normalize-space(.) = 'Text']]">
-    <xsl:for-each select="tei:p">
-      <p>
-        <xsl:apply-templates/>
-      </p>
+    <xsl:for-each select="tei:p | tei:list">
+      <xsl:choose>
+        <xsl:when test="self::tei:list">
+          <!-- apply templates to the list element -->
+          <xsl:apply-templates select="."/>
+        </xsl:when>
+        <xsl:otherwise>
+          <!-- create paragraph wrapper to strip input attributes; process children -->
+          <p>
+            <xsl:apply-templates/>
+          </p>
+        </xsl:otherwise>
+      </xsl:choose>
     </xsl:for-each>
   </xsl:template>
   
@@ -286,12 +295,64 @@
       <head>
         <xsl:value-of select="normalize-space(tei:head/tei:hi[2])"/>
       </head>
-      <xsl:for-each select="tei:p">
-        <p>
-          <xsl:apply-templates/>
-        </p>
+      <xsl:for-each select="tei:p | tei:list">
+        <xsl:choose>
+          <xsl:when test="self::tei:list">
+            <xsl:apply-templates select="."/>
+          </xsl:when>
+          <xsl:otherwise>
+            <p>
+              <xsl:attribute name="n">
+                <xsl:number count="tei:p"/>
+              </xsl:attribute>
+              <xsl:apply-templates/>
+            </p>
+          </xsl:otherwise>
+        </xsl:choose>
       </xsl:for-each>
     </div>
+  </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 12. Reformat list using tab delimiter for labelling -->
+  <!-- ================================================================== -->
+  <!-- strip rend attribute from DOCX lists; pass through any other list -->
+  <xsl:template match="tei:list[@rend]">
+    <!-- create list wrapper to strip input attributes; process children -->
+    <list>
+      <xsl:apply-templates/>
+    </list>
+  </xsl:template>
+  
+  <xsl:template match="tei:list[@rend]/tei:item">
+    <!-- capture first text node child of item's text content -->
+    <xsl:variable name="text" select="text()[1]"/>
+    <xsl:choose>
+      <!-- test presence of tab character -->
+      <xsl:when test="contains($text, '&#x9;')">
+        <!-- assemble item node -->
+        <item>
+          <xsl:attribute name="n">
+            <xsl:number count="tei:item"/>
+          </xsl:attribute>
+          <label><xsl:value-of select="substring-before($text, '&#x9;')"/></label>
+          <!-- collapse tab into single space -->
+          <xsl:text> </xsl:text>
+          <xsl:value-of select="substring-after($text, '&#x9;')"/>
+          <!-- process remaining child nodes (text or otherwise) after first text node -->
+          <xsl:apply-templates select="node()[position() > 1]"/>
+        </item>
+      </xsl:when>
+      <!-- fallback: if outside expected format, pass through as-is -->
+      <xsl:otherwise>
+        <item>
+          <xsl:attribute name="n">
+            <xsl:number count="tei:item"/>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </item>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
 </xsl:stylesheet>
