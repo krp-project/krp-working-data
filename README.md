@@ -56,7 +56,10 @@ The files in `data/templates/` (which preserve the transcription DOCX filenames)
 
 Steps 1 and 3 are automated via GitHub Actions:
 
-- **write-headers** (`write-headers.yml`): Generates TEI header-docs from Baserow metadata. Runs daily, as well as on push to `src/` and manually.
+- **write-headers** (`write-headers.yml`): Generates TEI header-docs from Baserow metadata. Runs on push to `src/` as well as manually.
 - **upconvert-tei** (`upconvert-tei.yml`): Runs the Ant/Saxon TEI-XML upconversion. Triggered by pushes to `preprocessing/teigarage-out/` or `header-docs/`, or manually.
 
-When protocol metadata change (or the script that reads them for writing the header-docs), new header-docs are generated automatically. This then triggers the TEI-XML upconversion, which is triggered also when new TEIGarage output is pushed.
+The first Action generates up-to-date header-docs. This then triggers the TEI-XML upconversion, which fires also when new TEIGarage output is pushed.
+
+> [!IMPORTANT]
+> When running the `upconvert-tei` Action manually, make sure to run `write-headers` before to make sure that the TEI headers are up to date for downstream processing.
