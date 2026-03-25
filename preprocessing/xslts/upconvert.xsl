@@ -124,7 +124,7 @@
           <title type="num">
             <xsl:value-of select="normalize-space($front//tei:titlePart[@type='Title'])"/>
           </title>
-          <title type="descr">
+          <title type="desc"><!-- changed from MRP-style @type='descr' -->
             <xsl:value-of select="normalize-space($front//tei:titlePart[@type='Subtitle'])"/>
           </title>
         </head>
@@ -240,7 +240,7 @@
     <xsl:variable name="top-number"
                   select="replace(normalize-space(tei:head/tei:hi), '^.*?(\d+).*$', '$1')"/>
     <xsl:variable name="padded-top" select="format-number(number($top-number), '00')"/>
-    <div type="agenda_item" xml:id="{$krp-number}_top{$padded-top}">
+    <div type="top" xml:id="{$krp-number}_top{$padded-top}"><!-- changed from MRP-style @type='agenda_item' -->
       <head>
         <label>
           <num n="{$top-number}">
