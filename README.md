@@ -65,4 +65,4 @@ Steps 1 and 3 are automated via GitHub Actions:
 The first Action generates up-to-date header-docs. This then triggers the TEI-XML upconversion, which fires also when new TEIGarage output is pushed.
 
 > [!IMPORTANT]
-> When running the `upconvert-tei` Action manually, run `write-headers` before to make sure that the TEI headers are up to date with upstream metadata.
+> When running the `upconvert-tei` Action manually, it will use whatever header-docs are currently in the repo - if in doubt, run `write-headers` first to ensure that the TEI headers are up to date with upstream metadata.
