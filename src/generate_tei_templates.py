@@ -16,14 +16,15 @@ TEI_NS = "http://www.tei-c.org/ns/1.0"
 XSI_NS = "http://www.w3.org/2001/XMLSchema-instance"
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 ACDH_NS = "https://vocabs.acdh.oeaw.ac.at/schema#"
-XML_BASE = "https://id.acdh.oeaw.ac.at/krp"
+# XML_BASE = "https://id.acdh.oeaw.ac.at/krp"
 OUTPUT_DIR = "header-docs"
 
 # Build TEI-XML template
 # ----------------------
 
 
-def build_template(protocol, prev_id, next_id):
+# def build_template(protocol, prev_id, next_id):
+def build_template(protocol):
     """Build TEI-XML template from single JSON object."""
 
     protocol_id = f"{protocol['krp_id']}.xml"
@@ -32,13 +33,13 @@ def build_template(protocol, prev_id, next_id):
 
     # Root level
     root = etree.Element("TEI", nsmap=nsmap)
-    root.set(f"{{{XML_NS}}}id", protocol_id)
-    root.set(f"{{{XML_NS}}}base", XML_BASE)
+    # root.set(f"{{{XML_NS}}}id", protocol_id)
+    # root.set(f"{{{XML_NS}}}base", XML_BASE)
     root.set(f"{{{XML_NS}}}lang", "de")
-    if prev_id:
-        root.set("prev", prev_id)
-    if next_id:
-        root.set("next", next_id)
+    # if prev_id:
+    #     root.set("prev", prev_id)
+    # if next_id:
+    #     root.set("next", next_id)
 
     # 1st level
     tei_header = etree.SubElement(root, "teiHeader")
@@ -242,6 +243,8 @@ def build_template(protocol, prev_id, next_id):
     tei_funderorg.text = "Österreichischer Wissenschaftsfonds FWF"
     tei_funderidno = etree.SubElement(tei_funder, "idno", type="project")
     tei_funderidno.text = "PAT1495024"
+    tei_fundertitle = etree.SubElement(tei_funder, "title", type="project")
+    tei_fundertitle.text = "Die Protokolle des österreichischen Kabinettsrates 1919-1920"
     tei_resp1 = etree.SubElement(tei_respstmt1, "resp")
     tei_resp1.text = "Projektverantwortung"
     tei_resp1org = etree.SubElement(
@@ -451,12 +454,13 @@ if __name__ == "__main__":
     protocols = sorted(data.values(), key=lambda p: int(p["krp_id"][-3:]))
 
     for i, protocol in enumerate(tqdm(protocols)):
-        prev_id = f"{protocols[i - 1]['krp_id']}.xml" if i > 0 else None
-        next_id = (
-            f"{protocols[i + 1]['krp_id']}.xml" if i < len(protocols) - 1 else None
-        )
+        # prev_id = f"{protocols[i - 1]['krp_id']}.xml" if i > 0 else None
+        # next_id = (
+        #     f"{protocols[i + 1]['krp_id']}.xml" if i < len(protocols) - 1 else None
+        # )
 
-        root, protocol_id = build_template(protocol, prev_id, next_id)
+        # root, protocol_id = build_template(protocol, prev_id, next_id)
+        root, protocol_id = build_template(protocol)
 
         filename = f"{protocol['krp_id']}_header.xml"
         file_path = os.path.join(OUTPUT_DIR, filename)
