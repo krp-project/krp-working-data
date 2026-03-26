@@ -235,7 +235,7 @@
   <!-- ================================================================== -->
   <!-- 8. Label agenda-item divs -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div">
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[tei:div/tei:head[normalize-space(.) = 'TOP']]">
     <!-- capture first number in string -->
     <xsl:variable name="top-number"
                   select="replace(normalize-space(tei:head/tei:hi), '^.*?(\d+).*$', '$1')"/>
@@ -259,7 +259,7 @@
   <!-- ================================================================== -->
   <!-- 9. Flatten structure within agenda-item divs -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div/tei:div[tei:head[normalize-space(.) = 'Text']]">
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[tei:div/tei:head[normalize-space(.) = 'TOP']]/tei:div[tei:head[normalize-space(.) = 'Text']]">
     <xsl:for-each select="tei:p | tei:list">
       <xsl:choose>
         <xsl:when test="self::tei:list">
@@ -277,7 +277,37 @@
   </xsl:template>
   
   <!-- ================================================================== -->
-  <!-- 10. Transform Stenogramm head into div[@type='stenogramm'] -->
+  <!-- 10. Label non-agenda-item divs and flatten structure -->
+  <!-- ================================================================== -->
+  <!-- catch Protokoll child div that has no sub-div with a "TOP" header -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[not(tei:div/tei:head[normalize-space(.) = 'TOP'])]">
+    <xsl:variable name="padded-notop">
+      <!-- number non-agenda-item siblings -->
+      <xsl:number count="tei:div[not(tei:div/tei:head[normalize-space(.) = 'TOP'])]" format="01"/>
+    </xsl:variable>
+    <div type="notop" xml:id="{$krp-number}_notop{$padded-notop}">
+      <head>
+        <label>
+          <xsl:value-of select="normalize-space(tei:head)"/>
+        </label>
+      </head>
+      <xsl:for-each select="tei:div[tei:head[normalize-space(.) = 'Text']]/(tei:p | tei:list)">
+        <xsl:choose>
+          <xsl:when test="self::tei:list">
+            <xsl:apply-templates select="."/>
+          </xsl:when>
+          <xsl:otherwise>
+            <p>
+              <xsl:apply-templates/>
+            </p>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each>
+    </div>
+  </xsl:template>
+
+  <!-- ================================================================== -->
+  <!-- 11. Transform Stenogramm head into div[@type='stenogramm'] -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Stenogramm']]">
     <div type="stenogramm">
@@ -287,7 +317,7 @@
   </xsl:template>
   
   <!-- ================================================================== -->
-  <!-- 11. Label Stenogramm divs -->
+  <!-- 12. Label Stenogramm divs -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Stenogramm']]/tei:div">
     <!-- number divs through shorthand attribute value template -->
@@ -314,7 +344,7 @@
   </xsl:template>
   
   <!-- ================================================================== -->
-  <!-- 12. Reformat list using tab delimiter for labelling -->
+  <!-- 13. Reformat list using tab delimiter for labelling -->
   <!-- ================================================================== -->
   <!-- strip rend attribute from DOCX lists; pass through any other list -->
   <xsl:template match="tei:list[@rend]">
