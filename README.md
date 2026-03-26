@@ -1,6 +1,6 @@
 # krp-working-data
 
-Preprocessing repo for the KRP project. Holds the workflow for converting transcription DOCX files into project-compliant TEI-XML documents ready for editorial work in [krp-data](https://github.com/krp-project/krp-data).
+Preprocessing repo for the [Minutes of the Austrian Cabinet Council 1919–1920](https://doi.org/10.55776/PAT1495024) project. Holds the workflow for converting transcription DOCX files into project-compliant TEI-XML documents ready for editorial work in [krp-data](https://github.com/krp-project/krp-data).
 
 ## Folder structure
 
