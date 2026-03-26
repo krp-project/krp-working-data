@@ -7,14 +7,14 @@
 
   <xsl:output method="xml" indent="yes"/>
 
-  <!-- Identity transform: recursively copy as-is by default; requires XSLT 3.0 -->
+  <!-- identity transform: recursively copy as-is by default; requires XSLT 3.0 -->
   <xsl:mode on-no-match="shallow-copy"/>
 
   <!-- ================================================================== -->
   <!-- Obtain constants and TEI-header-document node -->
   <!-- ================================================================== -->
 
-  <!-- Get constants from input filename -->
+  <!-- get constants from input filename -->
   <xsl:variable name="input-filename" select="tokenize(document-uri(/), '/')[last()]"/>
   <xsl:variable name="krp-number"
                 select="lower-case(replace($input-filename, '.*?(KRP-\d{3}).*', '$1'))"/>
@@ -26,13 +26,13 @@
 
   <!-- ================================================================== -->
   <!-- Kick off processing;
-       assemble processing instructions from TEI-header document -->
+       copy processing instructions from TEI-header document -->
   <!-- ================================================================== -->
 
   <xsl:template match="/">
-    <!-- Copy processing instructions from header doc -->
+    <!-- copy processing instructions from header doc -->
     <xsl:copy-of select="$header-doc/processing-instruction()"/>
-    <!-- Insert newline -->
+    <!-- insert newline -->
     <xsl:text>&#10;</xsl:text>
     <xsl:apply-templates select="tei:TEI"/>
   </xsl:template>
@@ -42,39 +42,39 @@
   <!-- ================================================================== -->
 
   <xsl:template match="tei:TEI">
-    <!-- Save reference to input's text element before xsl:copy changes context -->
+    <!-- save reference to input's text element before xsl:copy changes context -->
     <xsl:variable name="input-text" select="tei:text"/>
-    <!-- Create root element from header doc -->
+    <!-- create root element from header doc -->
     <xsl:copy select="$header-doc/tei:TEI">
-      <!-- Copy full root-element attributes from header doc -->
+      <!-- copy full root-element attributes from header doc -->
       <xsl:copy-of select="$header-doc/tei:TEI/@*"/>
-      <!-- Copy full TEI header from header doc;
+      <!-- copy full TEI header from header doc;
            note: TEI default attributes may be expanded
            into the XML output - this is expected and accepted -->
       <xsl:copy-of select="$header-doc/tei:TEI/tei:teiHeader"/>
-      <!-- Apply upconversion to text element in input doc (converted from DOCX with TEIGarage) -->
+      <!-- apply upconversion to text element in input doc (converted from DOCX with TEIGarage) -->
       <xsl:apply-templates select="$input-text"/>
     </xsl:copy>
   </xsl:template>
   
   <!-- ================================================================== -->
-  <!-- Clean up TEIGarage style information -->
+  <!-- Clean up TEIGarage formatting -->
   <!-- ================================================================== -->
   
-  <!-- Process children of style-information hi elements without preserving wrapper -->
+  <!-- process children of style-information hi elements without preserving wrapper -->
   <xsl:template match="tei:hi[@style and not(@rend)]">
     <xsl:apply-templates/>
   </xsl:template>
   
-  <!-- Suppress whitespace nodes resulting from discarding hi wrappers -->
+  <!-- suppress whitespace nodes resulting from discarding hi wrappers -->
   <xsl:template match="tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
   
-  <!-- Strip italic/bold DOCX formatting noise; process children without preserving wrapper -->
+  <!-- strip italic/bold DOCX formatting noise; process children without preserving wrapper -->
   <xsl:template match="tei:hi[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
     <xsl:apply-templates/>
   </xsl:template>
 
-  <!-- Handle underlines and strikethroughs, either individual or combined -->
+  <!-- handle underlines and strikethroughs, either individual or combined -->
   <xsl:template match="tei:hi[contains(@rend, 'underline') and not(contains(@rend, 'strikethrough'))]">
     <hi rend="#u"><xsl:apply-templates/></hi>
   </xsl:template>
@@ -91,9 +91,10 @@
   <!-- Transform page-beginning information -->
   <!-- ================================================================== -->
   
-  <!-- Note: when pb is the last element inside p, Saxon serialization has been
-       found to add a newline before </p> that is not handled by the above template
-       - this is unexpected, but accepted -->
+  <!-- note: Saxon indent="yes" inserts whitespace between parent tags and
+       adjacent child elements in mixed content (including adding newlines
+       before </p> when pb is the last element in the paragraph) - this is
+       expected and accepted -->
   <xsl:template match="tei:hi[@rend='background(green)']">
     <xsl:variable name="page-number"
       select="replace(., '^.*?(\d+)\|$', '$1')"/>
@@ -104,17 +105,17 @@
   <!-- Upconvert input XML's text body -->
   <!-- ================================================================== -->
 
-  <!-- Suppress front element -->
+  <!-- suppress front element -->
   <xsl:template match="tei:front"/>
 
   <xsl:template match="tei:body">
     <xsl:copy>
       <xsl:copy-of select="@*"/>
-      <!-- Save body content before xsl:copy changes context -->
+      <!-- save body content before xsl:copy changes context -->
       <xsl:variable name="body-content" select="node()"/>
-      <!-- Save front element before xsl:copy changes context -->
+      <!-- save front element before xsl:copy changes context -->
       <xsl:variable name="front" select="../tei:front"/>
-      <!-- Wrap body content in outermost div from TEI-header document -->
+      <!-- wrap body content in outermost div from TEI-header document -->
       <xsl:copy select="$header-doc//tei:body/tei:div">
         <xsl:copy-of select="$header-doc//tei:body/tei:div/@*"/>
         <!-- ================================================================== -->
@@ -143,7 +144,7 @@
   </xsl:template>
 
   <!-- ================================================================== -->
-  <!-- 3. Derive types of Dokumentkopf-divs from head -->
+  <!-- 3. Derive types of Dokumentkopf-divs from heads -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Dokumentkopf']]/tei:div">
     <xsl:variable name="type-value"
@@ -183,7 +184,7 @@
       <list>
         <xsl:for-each select="tei:p">
           <item>
-            <!-- process only element children, no whitespace;
+            <!-- process only element children, no whitespace ("select='*'");
             only apply templates of beilagen mode -->
             <xsl:apply-templates select="*" mode="beilagen"/>
           </item>
@@ -247,7 +248,7 @@
             <xsl:value-of select="normalize-space(tei:head/tei:hi)"/>
           </num>
           <seg>
-            <!-- Tackle whitespace before period resulting from TEIGarage artefacts (related to DOCX formatting errors) -->
+            <!-- collapse whitespace before period characters resulting from TEIGarage artefacts (related to DOCX formatting errors) -->
             <xsl:value-of select="replace(normalize-space(tei:div[tei:head[normalize-space(.) = 'TOP']]/tei:p[1]), '\s+\.', '.')"/>
           </seg>
         </label>
