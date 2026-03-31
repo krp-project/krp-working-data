@@ -13,7 +13,7 @@ preprocessing/
     └── upconvert.xsl           XSLT 3.0 stylesheet for upconversion
 header-docs/                    TEI headers generated from JSON metadata
 saxon/                          Saxon HE 12.5 + xmlresolver
-data/templates/                 project-compliant TEI-XML output files
+data/staging/                 project-compliant TEI-XML output files
 src/
 └── generate_tei_templates.py   Python script for generating header-docs
 build.xml                       Ant for running upconvert.xsl via Saxon
@@ -42,18 +42,18 @@ bash preprocessing/docx-to-tei.sh
 
 ### 3. Merge and upconvert to project-compliant TEI-XML
 
-An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to each generic TEI-XML in `preprocessing/teigarage-out/`. The XSLT automatically merges the matching header-doc and transforms the body into a project-compliant structure. Output goes to `data/templates/`.
+An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to each generic TEI-XML in `preprocessing/teigarage-out/`. The XSLT automatically merges the matching header-doc and transforms the body into a project-compliant structure. Output goes to `data/staging/`.
 
 ```
 ant
 ```
 
 > [!CAUTION]
-> The `upconvert.xsl` stylesheet is work in progress and does not yet generate actionable templates for editorial markup.
+> The `upconvert.xsl` stylesheet is work in progress and does not yet generate actionable basic XMLs for editorial markup.
 
 ### 4. Transfer to krp-data
 
-The files in `data/templates/` (which preserve the transcription DOCX filenames) are ready for being copied into [`data/editions/`](https://github.com/krp-project/krp-data/tree/main/data/editions) in the `krp-data` repo and renamed to `krp-???.xml` for editorial work.
+The files in `data/staging/` (which preserve the transcription DOCX filenames) are ready for being copied into [`data/editions/`](https://github.com/krp-project/krp-data/tree/main/data/editions) in the `krp-data` repo and renamed to `krp-???.xml` for editorial work.
 
 ## GitHub Actions
 
