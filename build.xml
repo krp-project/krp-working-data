@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="upconvert">
     <property name="source" value="./preprocessing/teigarage-out"/>
-    <property name="target" value="./data/templates"/>
+    <property name="target" value="./data/staging"/>
     <xslt style="./preprocessing/xslts/upconvert.xsl"
           basedir="${source}"
           destdir="${target}"
