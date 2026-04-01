@@ -352,12 +352,12 @@
     <xsl:choose>
       <xsl:when test="tei:item/tei:list">
         <!-- create list wrapper to strip input attributes; process children -->
-        <list type="complex">
+        <list type="nested">
           <xsl:apply-templates/>
         </list>
       </xsl:when>
       <xsl:otherwise>
-        <list type="simple">
+        <list type="flat">
           <xsl:apply-templates/>
         </list>
       </xsl:otherwise>
