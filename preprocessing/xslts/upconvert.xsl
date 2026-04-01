@@ -352,12 +352,12 @@
     <xsl:choose>
       <xsl:when test="tei:item/tei:list">
         <!-- create list wrapper to strip input attributes; process children -->
-        <list type="ordered">
+        <list type="complex">
           <xsl:apply-templates/>
         </list>
       </xsl:when>
       <xsl:otherwise>
-        <list type="unordered">
+        <list type="simple">
           <xsl:apply-templates/>
         </list>
       </xsl:otherwise>
@@ -370,12 +370,14 @@
     <xsl:choose>
       <!-- test presence of tab character -->
       <xsl:when test="contains($text, '&#x9;')">
-        <label><xsl:value-of select="substring-before($text, '&#x9;')"/></label>
         <!-- assemble item node -->
         <item>
           <xsl:attribute name="n">
             <xsl:number count="tei:item"/>
           </xsl:attribute>
+          <label><xsl:value-of select="substring-before($text, '&#x9;')"/></label>
+          <!-- collapse tab into single space -->
+          <xsl:text> </xsl:text>
           <xsl:value-of select="substring-after($text, '&#x9;')"/>
           <!-- process remaining child nodes (text or otherwise) after first text node -->
           <xsl:apply-templates select="node()[position() > 1]"/>
