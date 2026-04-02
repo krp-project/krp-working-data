@@ -349,19 +349,10 @@
   <!-- ================================================================== -->
   <!-- strip rend attribute from DOCX lists; pass through any other list -->
   <xsl:template match="tei:list[@rend]">
-    <xsl:choose>
-      <xsl:when test="tei:item/tei:list">
-        <!-- create list wrapper to strip input attributes; process children -->
-        <list type="nested">
-          <xsl:apply-templates/>
-        </list>
-      </xsl:when>
-      <xsl:otherwise>
-        <list type="flat">
-          <xsl:apply-templates/>
-        </list>
-      </xsl:otherwise>
-    </xsl:choose>
+    <!-- create list wrapper to strip input attributes; process children -->
+    <list>
+      <xsl:apply-templates/>
+    </list>
   </xsl:template>
 
   <xsl:template match="tei:list[@rend]/tei:item">
