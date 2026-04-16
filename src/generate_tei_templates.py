@@ -3,6 +3,7 @@
 
 import os
 import shutil
+from datetime import date
 
 import requests
 from lxml import etree
@@ -18,6 +19,7 @@ XML_NS = "http://www.w3.org/XML/1998/namespace"
 ACDH_NS = "https://vocabs.acdh.oeaw.ac.at/schema#"
 # XML_BASE = "https://id.acdh.oeaw.ac.at/krp"
 OUTPUT_DIR = "header-docs"
+ISO_DATE = date.today().isoformat()
 
 # Build TEI-XML template
 # ----------------------
@@ -50,6 +52,7 @@ def build_template(protocol):
     tei_filedesc = etree.SubElement(tei_header, "fileDesc")
     tei_profiledesc = etree.SubElement(tei_header, "profileDesc")
     tei_encodingdesc = etree.SubElement(tei_header, "encodingDesc")
+    tei_revisiondesc = etree.SubElement(tei_header, "revisionDesc")
     etree.SubElement(tei_facsimile, "surface")
     tei_body = etree.SubElement(tei_text, "body")
 
@@ -63,6 +66,9 @@ def build_template(protocol):
     etree.SubElement(tei_encodingdesc, "styleDefDecl", scheme="css")
     tei_tagsdecl = etree.SubElement(tei_encodingdesc, "tagsDecl")
     tei_editorialdecl = etree.SubElement(tei_encodingdesc, "editorialDecl")
+    tei_change1 = etree.SubElement(tei_revisiondesc, "change", who="#tfruehwirth")
+    tei_change1.set("when-iso", ISO_DATE)
+    tei_change1.text = "TEI header populated with generate_tei_templates.py"
     tei_div1 = etree.SubElement(
         tei_body, "div", attrib={f"{{{XML_NS}}}id": f"doc-{protocol_id}"}
     )
