@@ -51,9 +51,26 @@
       <!-- copy full TEI header from header doc;
            note: TEI default attributes may be expanded
            into the XML output - this is expected and accepted -->
-      <xsl:copy-of select="$header-doc/tei:TEI/tei:teiHeader"/>
+      <!-- <xsl:copy-of select="$header-doc/tei:TEI/tei:teiHeader"/> -->
+      <!-- hand header content to template system -->
+      <xsl:apply-templates select="$header-doc/tei:TEI/tei:teiHeader"/>
       <!-- apply upconversion to text element in input doc (converted from DOCX with TEIGarage) -->
       <xsl:apply-templates select="$input-text"/>
+    </xsl:copy>
+  </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- Update TEI-header revisionDesc -->
+  <!-- ================================================================== -->
+  
+  <xsl:template match="tei:revisionDesc">
+    <!-- copy revisionDesc element with all attributes -->
+    <xsl:copy>
+      <xsl:copy-of select="@*"/>
+      <!-- add change element re TEI-XML upconversion -->
+      <change who="#tfruehwirth" when-iso="{format-date(current-date(), '[Y]-[M01]-[D01]')}">TEIGarage output upconverted with upconvert.xsl</change>
+      <!-- process existing change element -->
+      <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
   
@@ -67,7 +84,7 @@
   </xsl:template>
   
   <!-- suppress whitespace nodes resulting from discarding hi wrappers -->
-  <xsl:template match="tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
+  <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
   
   <!-- strip italic/bold DOCX formatting noise; process children without preserving wrapper -->
   <xsl:template match="tei:hi[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
