@@ -15,7 +15,7 @@
           <date when-iso="1919-05-30"/>
         </meeting>
         <editor>
-          <persName key="https://d-nb.info/gnd/122481836" role="hasCreator">
+          <persName key="https://d-nb.info/gnd/122481836" role="hasCreator" xml:id="hwohnout">
             <forename>Helmut</forename>
             <surname>Wohnout</surname>
           </persName>
@@ -23,7 +23,7 @@
           <idno type="ORCID">0000-0002-3864-9839</idno>
         </editor>
         <editor>
-          <persName key="https://d-nb.info/gnd/120789825" role="hasCreator">
+          <persName key="https://d-nb.info/gnd/120789825" role="hasCreator" xml:id="tolechowski">
             <forename>Thomas</forename>
             <surname>Olechowski</surname>
           </persName>
@@ -31,7 +31,7 @@
           <idno type="ORCID">0000-0003-3291-6876</idno>
         </editor>
         <editor>
-          <persName key="https://d-nb.info/gnd/131679384" role="hasCreator">
+          <persName key="https://d-nb.info/gnd/131679384" role="hasCreator" xml:id="rlein">
             <forename>Richard</forename>
             <surname>Lein</surname>
           </persName>
@@ -39,7 +39,7 @@
           <idno type="ORCID">0000-0002-7502-0503</idno>
         </editor>
         <editor>
-          <persName role="hasCreator">
+          <persName role="hasCreator" xml:id="aholzer">
             <forename>Anna</forename>
             <surname>Holzer</surname>
           </persName>
@@ -47,7 +47,7 @@
           <idno type="ORCID">0009-0005-3560-3500</idno>
         </editor>
         <editor>
-          <persName role="hasCreator">
+          <persName role="hasCreator" xml:id="dsoelkner">
             <forename>Dominik</forename>
             <surname>Sölkner</surname>
           </persName>
@@ -55,7 +55,7 @@
           <idno type="ORCID">0009-0007-9895-7212</idno>
         </editor>
         <editor>
-          <persName role="hasContributor">
+          <persName role="hasContributor" xml:id="ischotzko">
             <forename>Ina</forename>
             <surname>Schotzko</surname>
           </persName>
@@ -90,7 +90,7 @@
         </respStmt>
         <respStmt>
           <resp>TEI-Datenmodellierung</resp>
-          <persName role="hasContributor">
+          <persName role="hasContributor" xml:id="tfruehwirth">
             <forename>Timo</forename>
             <surname>Frühwirth</surname>
             <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
@@ -99,7 +99,7 @@
         </respStmt>
         <respStmt>
           <resp>Technische Supervision</resp>
-          <persName key="https://d-nb.info/gnd/1043833846" role="hasContributor">
+          <persName key="https://d-nb.info/gnd/1043833846" role="hasContributor" xml:id="pandorfer">
             <forename>Peter</forename>
             <surname>Andorfer</surname>
             <affiliation key="https://d-nb.info/gnd/1123037736">Austrian Centre for Digital Humanities</affiliation>
@@ -108,7 +108,7 @@
         </respStmt>
         <respStmt>
           <resp>Technisches Consulting und Vorbereitung der Druckausgabe</resp>
-          <persName key="https://d-nb.info/gnd/13281899X" role="hasContributor">
+          <persName key="https://d-nb.info/gnd/13281899X" role="hasContributor" xml:id="skurz">
             <forename>Stephan</forename>
             <surname>Kurz</surname>
             <affiliation key="https://d-nb.info/gnd/1202798799">Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes</affiliation>
