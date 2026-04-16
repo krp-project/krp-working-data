@@ -219,6 +219,9 @@
         </p>
       </editorialDecl>
     </encodingDesc>
+    <revisionDesc>
+      <change who="#tfruehwirth" when-iso="2026-04-16">TEI header populated with generate_tei_templates.py</change>
+    </revisionDesc>
   </teiHeader>
   <facsimile>
     <surface/>
