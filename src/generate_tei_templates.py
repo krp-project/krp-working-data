@@ -184,6 +184,7 @@ def build_template(protocol):
         key="https://d-nb.info/gnd/122481836",
         role="hasCreator",
     )
+    tei_editor1name.set(f"{{{XML_NS}}}id", "hwohnout")
     tei_editor1affiliation = etree.SubElement(
         tei_editor1, "affiliation", key="https://d-nb.info/gnd/37748-X"
     )
@@ -196,6 +197,7 @@ def build_template(protocol):
         key="https://d-nb.info/gnd/120789825",
         role="hasCreator",
     )
+    tei_editor2name.set(f"{{{XML_NS}}}id", "tolechowski")
     tei_editor2affiliation = etree.SubElement(
         tei_editor2, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
@@ -210,6 +212,7 @@ def build_template(protocol):
         key="https://d-nb.info/gnd/131679384",
         role="hasCreator",
     )
+    tei_editor3name.set(f"{{{XML_NS}}}id", "rlein")
     tei_editor3affiliation = etree.SubElement(
         tei_editor3, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
@@ -217,6 +220,7 @@ def build_template(protocol):
     tei_editor3idno = etree.SubElement(tei_editor3, "idno", type="ORCID")
     tei_editor3idno.text = "0000-0002-7502-0503"
     tei_editor4name = etree.SubElement(tei_editor4, "persName", role="hasCreator")
+    tei_editor4name.set(f"{{{XML_NS}}}id", "aholzer")
     tei_editor4affiliation = etree.SubElement(
         tei_editor4, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
@@ -224,6 +228,7 @@ def build_template(protocol):
     tei_editor4idno = etree.SubElement(tei_editor4, "idno", type="ORCID")
     tei_editor4idno.text = "0009-0005-3560-3500"
     tei_editor5name = etree.SubElement(tei_editor5, "persName", role="hasCreator")
+    tei_editor5name.set(f"{{{XML_NS}}}id", "dsoelkner")
     tei_editor5affiliation = etree.SubElement(
         tei_editor5, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
@@ -231,6 +236,7 @@ def build_template(protocol):
     tei_editor5idno = etree.SubElement(tei_editor5, "idno", type="ORCID")
     tei_editor5idno.text = "0009-0007-9895-7212"
     tei_editor6name = etree.SubElement(tei_editor6, "persName", role="hasContributor")
+    tei_editor6name.set(f"{{{XML_NS}}}id", "ischotzko")
     tei_editor6affiliation = etree.SubElement(
         tei_editor6, "affiliation", key="https://d-nb.info/gnd/1026192285"
     )
@@ -277,6 +283,7 @@ def build_template(protocol):
     tei_resp5 = etree.SubElement(tei_respstmt5, "resp")
     tei_resp5.text = "TEI-Datenmodellierung"
     tei_resp5name = etree.SubElement(tei_respstmt5, "persName", role="hasContributor")
+    tei_resp5name.set(f"{{{XML_NS}}}id", "tfruehwirth")
     tei_resp6 = etree.SubElement(tei_respstmt6, "resp")
     tei_resp6.text = "Technische Supervision"
     tei_resp6name = etree.SubElement(
@@ -285,6 +292,7 @@ def build_template(protocol):
         key="https://d-nb.info/gnd/1043833846",
         role="hasContributor",
     )
+    tei_resp6name.set(f"{{{XML_NS}}}id", "pandorfer")
     tei_resp7 = etree.SubElement(tei_respstmt7, "resp")
     tei_resp7.text = "Technisches Consulting und Vorbereitung der Druckausgabe"
     tei_resp7name = etree.SubElement(
@@ -293,6 +301,7 @@ def build_template(protocol):
         key="https://d-nb.info/gnd/13281899X",
         role="hasContributor",
     )
+    tei_resp7name.set(f"{{{XML_NS}}}id", "skurz")
     tei_licence = etree.SubElement(
         tei_availability,
         "licence",
