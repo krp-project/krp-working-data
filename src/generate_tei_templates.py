@@ -256,7 +256,7 @@ def build_template(protocol):
     tei_funderidno = etree.SubElement(tei_funder, "idno", type="project")
     tei_funderidno.text = "PAT1495024"
     tei_fundertitle = etree.SubElement(tei_funder, "title", type="project")
-    tei_fundertitle.text = "Die Protokolle des österreichischen Kabinettsrates 1919-1920"
+    tei_fundertitle.text = "Die Protokolle des österreichischen Kabinettsrates 1919–1920"
     tei_resp1 = etree.SubElement(tei_respstmt1, "resp")
     tei_resp1.text = "Projektverantwortung"
     tei_resp1org = etree.SubElement(
@@ -491,10 +491,15 @@ if __name__ == "__main__":
             "xml-model",
             "href='../../schema/krp.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'",
         )
+        pi3 = etree.ProcessingInstruction(
+            "xml-model",
+            "href='../../schema/krp.rng' type='application/xml' schematypens='http://purl.oclc.org/dsdl/schematron'",
+        )
 
         # Insert processing instructions as previous siblings of root
         root.addprevious(pi1)
         root.addprevious(pi2)
+        root.addprevious(pi3)
 
         # # Set custom indentation for readability
         # etree.indent(root, space="    ")
