@@ -80,7 +80,7 @@ def build_template(protocol):
         "Protokolle des Ministerrates der Ersten Republik der Republik Österreich"
     )
     tei_title_a = etree.SubElement(
-        tei_titlestmt, "title", level="a", type="main", n=protocol["krp_id"][-3:]
+        tei_titlestmt, "title", level="a", type="main", n=protocol["krp_id"][-4:]
     )
     tei_title_a.text = f"{protocol['title'].strip()} {protocol['written_date']}"
     tei_title_m_main = etree.SubElement(
@@ -466,7 +466,7 @@ if __name__ == "__main__":
     shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    protocols = sorted(data.values(), key=lambda p: int(p["krp_id"][-3:]))
+    protocols = sorted(data.values(), key=lambda p: int(p["krp_id"][-4:]))
 
     for i, protocol in enumerate(tqdm(protocols)):
         # prev_id = f"{protocols[i - 1]['krp_id']}.xml" if i > 0 else None
