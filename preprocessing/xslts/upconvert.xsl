@@ -16,8 +16,12 @@
 
   <!-- get constants from input filename -->
   <xsl:variable name="input-filename" select="tokenize(document-uri(/), '/')[last()]"/>
+  <!-- <xsl:variable name="krp-number"
+                select="lower-case(replace($input-filename, '.*?(KRP-\d{3}).*', '$1'))"/> -->
+  <xsl:variable name="krp-digits"
+                select="replace($input-filename, '.*?KRP-(\d+).*', '$1')"/>
   <xsl:variable name="krp-number"
-                select="lower-case(replace($input-filename, '.*?(KRP-\d{3}).*', '$1'))"/>
+                select="concat('krp-', format-number(number($krp-digits), '0000'))"/>
   <xsl:variable name="header-path"
                 select="concat('../../header-docs/', $krp-number, '_header.xml')"/>
 
@@ -234,8 +238,13 @@
 
   <!-- beilagen mode: map external ref targets to supplement ID scheme -->
   <xsl:template match="tei:ref[starts-with(@target, 'https://')]" mode="beilagen">
+    <!-- <xsl:variable name="supplement-id"
+                  select="replace(@target, 'https://', '')"/> -->
+    <xsl:variable name="raw" select="replace(@target, 'https://', '')"/>
+    <xsl:variable name="digits" select="replace($raw, '^krp-(\d+)_.*$', '$1')"/>
+    <xsl:variable name="suffix" select="replace($raw, '^krp-\d+(_.*)$', '$1')"/>
     <xsl:variable name="supplement-id"
-                  select="replace(@target, 'https://', '')"/>
+                  select="concat('krp-', format-number(number($digits), '0000'), $suffix)"/>
     <ref target="#{$supplement-id}"><!-- todo: subject to change according to IIIF setup -->
       <xsl:value-of select="normalize-space(.)"/>
     </ref>
