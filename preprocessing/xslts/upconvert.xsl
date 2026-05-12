@@ -400,6 +400,20 @@
           <xsl:apply-templates select="node()[position() > 1]"/>
         </item>
       </xsl:when>
+      <!-- assemble item node when tab is nested inside descendant element
+           (such as in the case of additional character formatting) -->
+      <xsl:when test="contains(string(.), '&#x9;')"><!-- test for tab across all (concatenated) descendant text nodes -->
+        <xsl:variable name="full-text" select="string-join(descendant::text()[normalize-space()], '')"/><!-- concatenate text nodes anywhere in this element with no separator, drop whitespace nodes -->
+        <item>
+          <xsl:attribute name="n">
+            <xsl:number count="tei:item"/>
+          </xsl:attribute>
+          <label><xsl:value-of select="normalize-space(substring-before($full-text, '&#x9;'))"/></label>
+          <!-- collapse tab into single space -->
+          <xsl:text> </xsl:text>
+          <xsl:value-of select="normalize-space(substring-after($full-text, '&#x9;'))"/>
+        </item>
+      </xsl:when>
       <!-- fallback: if outside expected format, pass through as-is -->
       <xsl:otherwise>
         <item>
