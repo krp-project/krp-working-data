@@ -28,7 +28,7 @@
         <revisionDesc>
             <listChange>
                 <change>
-                    <date>2026-05-12T11:55:48Z</date>
+                    <date>2026-05-12T12:37:19Z</date>
                     <name>&#xD6;GQ-103-2</name>
                 </change>
             </listChange>
@@ -39,8 +39,7 @@
             <p rend="Style 4" style="text-align: right;">
                 <hi rend="background(green)" style="font-size:12pt">|krp-0119_r-0001||krp-0119_r-0002|</hi>
                 <hi rend="Char_Style_5">
-                    <seg style="font-size:12pt">Vertraulich</seg>
-                    <seg style="font-size:12pt">!</seg>
+                    <seg style="font-size:12pt">Vertraulich!</seg>
                 </hi>
             </p>
             <p rend="Style 4" style="text-align: center;">
@@ -700,8 +699,7 @@
             <list rend="bulleted">
                 <item>
                     <hi rend="Char_Style_5">
-                        <seg rend="underline" style="font-size:12pt">I.	</seg>
-                        <seg rend="underline" style="font-size:12pt">Beamte der Gruppe A des Zeitvorr&#xFC;ckungsschemas:</seg>
+                        <seg rend="underline" style="font-size:12pt">I.	Beamte der Gruppe A des Zeitvorr&#xFC;ckungsschemas:</seg>
                     </hi>
                 </item>
             </list>
@@ -840,8 +838,7 @@
             <list rend="bulleted">
                 <item>
                     <hi rend="Char_Style_5">
-                        <seg rend="underline" style="font-size:12pt">II.	</seg>
-                        <seg rend="underline" style="font-size:12pt">Beamte der Gr</seg>
+                        <seg rend="underline" style="font-size:12pt">II.	Beamte der Gr</seg>
                     </hi>
                     <hi rend="Char_Style_58">
                         <seg style="font-size:12pt" xml:space="preserve">uppe </seg>
@@ -1495,8 +1492,7 @@
                     <seg rend="normalweight" style="font-size:12pt">folge</seg>
                 </hi>
                 <hi rend="Char_Style_78">
-                    <seg style="font-size:12pt" xml:space="preserve"> des Staatsvertrages von St</seg>
-                    <seg style="font-size:12pt">.&#xA0;Germain ein wesentlicher Umschwung vollzogen. Aus allen diesen Gr&#xFC;nden glaube Redner die Hinausgabe</seg>
+                    <seg style="font-size:12pt" xml:space="preserve"> des Staatsvertrages von St.&#xA0;Germain ein wesentlicher Umschwung vollzogen. Aus allen diesen Gr&#xFC;nden glaube Redner die Hinausgabe</seg>
                 </hi>
                 <hi rend="Char_Style_79">
                     <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> des</seg>
@@ -1881,8 +1877,7 @@
                     <seg style="font-size:12pt">Der Landesrat von Steiermark hat aufgrund einer ihm vom Landtage erteilten Erm&#xE4;chtigung mit Beschluss vom 20. September 1919 im &#xA7;&#xA0;1 dieses Gesetzesbeschlusses &#x2013; wie im Original ersichtlich &#x2013; die Worte &#x2018;der Art.&#xA0;13 und</seg>
                 </hi>
                 <hi rend="Char_Style_96">
-                    <seg style="font-size:12pt" xml:space="preserve"> 14</seg>
-                    <seg style="font-size:12pt">&#x2019;</seg>
+                    <seg style="font-size:12pt" xml:space="preserve"> 14&#x2019;</seg>
                 </hi>
                 <hi rend="Char_Style_78">
                     <seg style="font-size:12pt">ges</seg>
@@ -1910,8 +1905,7 @@
                 <hi rend="Char_Style_78">
                     <seg style="font-size:12pt" xml:space="preserve">Frist die Anfechtung wegen Verfassungswidrigkeit gem&#xE4;&#xDF; Art.&#xA0;15 des Gesetzes vom 14. </seg>
                     <seg style="font-size:12pt" xml:space="preserve">M&#xE4;rz </seg>
-                    <seg style="font-size:12pt">1919, StGBl. Nr</seg>
-                    <seg style="font-size:12pt">.&#xA0;</seg>
+                    <seg style="font-size:12pt">1919, StGBl. Nr.&#xA0;</seg>
                 </hi>
                 <hi rend="Char_Style_97">
                     <seg style="font-size:12pt">179,</seg>
@@ -1956,8 +1950,7 @@
                     <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> doch der</seg>
                 </hi>
                 <hi rend="Char_Style_78">
-                    <seg style="font-size:12pt" xml:space="preserve"> Einengung einer in der Verfassung begr&#xFC;ndeten Kompetenz der Staatsgewalt. Es ist im Wesen unserer Verfassung gelegen, dass ein Landesgesetz nicht einen solchen Inhalt haben kann, dass hiedurch die verfassungsm&#xE4;&#xDF;igen Befugnisse der Staatsregierung </seg>
-                    <seg style="font-size:12pt">Einbu&#xDF;</seg>
+                    <seg style="font-size:12pt" xml:space="preserve"> Einengung einer in der Verfassung begr&#xFC;ndeten Kompetenz der Staatsgewalt. Es ist im Wesen unserer Verfassung gelegen, dass ein Landesgesetz nicht einen solchen Inhalt haben kann, dass hiedurch die verfassungsm&#xE4;&#xDF;igen Befugnisse der Staatsregierung Einbu&#xDF;</seg>
                     <seg style="font-size:12pt" xml:space="preserve">en </seg>
                     <seg style="font-size:12pt" xml:space="preserve">erleiden. Die Ab&#xE4;nderung der geltenden Verfassung ist zufolge dem </seg>
                     <seg style="font-size:12pt" xml:space="preserve">Beschlusse </seg>
@@ -2462,8 +2455,7 @@
                     <seg style="font-size:12pt">Staatssekret&#xE4;r</seg>
                 </hi>
                 <hi rend="Char_Style_153">
-                    <seg rend="normalweight" style="font-size:12pt">Dr</seg>
-                    <seg rend="normalweight" style="font-size:12pt">.</seg>
+                    <seg rend="normalweight" style="font-size:12pt">Dr.</seg>
                 </hi>
                 <hi rend="Char_Style_78">
                     <seg style="font-size:12pt">&#xA0;</seg>
