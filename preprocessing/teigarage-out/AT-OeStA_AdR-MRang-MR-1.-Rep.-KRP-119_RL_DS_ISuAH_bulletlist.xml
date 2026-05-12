@@ -28,7 +28,7 @@
         <revisionDesc>
             <listChange>
                 <change>
-                    <date>2026-05-12T08:22:50Z</date>
+                    <date>2026-05-12T11:55:48Z</date>
                     <name>&#xD6;GQ-103-2</name>
                 </change>
             </listChange>
@@ -697,9 +697,10 @@
             <p rend="Style 4" style="text-align: justify;">
                 <hi rend="background(green)" style="font-size:12pt">|krp-0119_r-0018|</hi>
             </p>
-            <list rend="numbered">
+            <list rend="bulleted">
                 <item>
                     <hi rend="Char_Style_5">
+                        <seg rend="underline" style="font-size:12pt">I.	</seg>
                         <seg rend="underline" style="font-size:12pt">Beamte der Gruppe A des Zeitvorr&#xFC;ckungsschemas:</seg>
                     </hi>
                 </item>
@@ -836,9 +837,10 @@
                     </cell>
                 </row>
             </table>
-            <list rend="numbered">
+            <list rend="bulleted">
                 <item>
                     <hi rend="Char_Style_5">
+                        <seg rend="underline" style="font-size:12pt">II.	</seg>
                         <seg rend="underline" style="font-size:12pt">Beamte der Gr</seg>
                     </hi>
                     <hi rend="Char_Style_58">
