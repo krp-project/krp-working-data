@@ -249,8 +249,7 @@
             <p rend="Style 4" style="text-align: right;">
                <pb n="2"/>
                <hi rend="Char_Style_5">
-                  <seg style="font-size:12pt">Vertraulich</seg>
-                  <seg style="font-size:12pt">!</seg>
+                  <seg style="font-size:12pt">Vertraulich!</seg>
                </hi>
             </p>
             <p rend="Style 4" style="text-align: center;">
@@ -1659,8 +1658,7 @@
                   <seg rend="normalweight" style="font-size:12pt">folge</seg>
                </hi>
                <hi rend="Char_Style_78">
-                  <seg style="font-size:12pt" xml:space="preserve"> des Staatsvertrages von St</seg>
-                  <seg style="font-size:12pt">. Germain ein wesentlicher Umschwung vollzogen. Aus allen diesen Gründen glaube Redner die Hinausgabe</seg>
+                  <seg style="font-size:12pt" xml:space="preserve"> des Staatsvertrages von St. Germain ein wesentlicher Umschwung vollzogen. Aus allen diesen Gründen glaube Redner die Hinausgabe</seg>
                </hi>
                <hi rend="Char_Style_79">
                   <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> des</seg>
@@ -2045,8 +2043,7 @@
                   <seg style="font-size:12pt">Der Landesrat von Steiermark hat aufgrund einer ihm vom Landtage erteilten Ermächtigung mit Beschluss vom 20. September 1919 im § 1 dieses Gesetzesbeschlusses – wie im Original ersichtlich – die Worte ‘der Art. 13 und</seg>
                </hi>
                <hi rend="Char_Style_96">
-                  <seg style="font-size:12pt" xml:space="preserve"> 14</seg>
-                  <seg style="font-size:12pt">’</seg>
+                  <seg style="font-size:12pt" xml:space="preserve"> 14’</seg>
                </hi>
                <hi rend="Char_Style_78">
                   <seg style="font-size:12pt">ges</seg>
@@ -2074,8 +2071,7 @@
                <hi rend="Char_Style_78">
                   <seg style="font-size:12pt" xml:space="preserve">Frist die Anfechtung wegen Verfassungswidrigkeit gemäß Art. 15 des Gesetzes vom 14. </seg>
                   <seg style="font-size:12pt" xml:space="preserve">März </seg>
-                  <seg style="font-size:12pt">1919, StGBl. Nr</seg>
-                  <seg style="font-size:12pt">. </seg>
+                  <seg style="font-size:12pt">1919, StGBl. Nr. </seg>
                </hi>
                <hi rend="Char_Style_97">
                   <seg style="font-size:12pt">179,</seg>
@@ -2120,8 +2116,7 @@
                   <seg rend="normalweight" style="font-size:12pt" xml:space="preserve"> doch der</seg>
                </hi>
                <hi rend="Char_Style_78">
-                  <seg style="font-size:12pt" xml:space="preserve"> Einengung einer in der Verfassung begründeten Kompetenz der Staatsgewalt. Es ist im Wesen unserer Verfassung gelegen, dass ein Landesgesetz nicht einen solchen Inhalt haben kann, dass hiedurch die verfassungsmäßigen Befugnisse der Staatsregierung </seg>
-                  <seg style="font-size:12pt">Einbuß</seg>
+                  <seg style="font-size:12pt" xml:space="preserve"> Einengung einer in der Verfassung begründeten Kompetenz der Staatsgewalt. Es ist im Wesen unserer Verfassung gelegen, dass ein Landesgesetz nicht einen solchen Inhalt haben kann, dass hiedurch die verfassungsmäßigen Befugnisse der Staatsregierung Einbuß</seg>
                   <seg style="font-size:12pt" xml:space="preserve">en </seg>
                   <seg style="font-size:12pt" xml:space="preserve">erleiden. Die Abänderung der geltenden Verfassung ist zufolge dem </seg>
                   <seg style="font-size:12pt" xml:space="preserve">Beschlusse </seg>
@@ -2627,8 +2622,7 @@
                   <seg style="font-size:12pt">Staatssekretär</seg>
                </hi>
                <hi rend="Char_Style_153">
-                  <seg rend="normalweight" style="font-size:12pt">Dr</seg>
-                  <seg rend="normalweight" style="font-size:12pt">.</seg>
+                  <seg rend="normalweight" style="font-size:12pt">Dr.</seg>
                </hi>
                <hi rend="Char_Style_78">
                   <seg style="font-size:12pt"> </seg>
