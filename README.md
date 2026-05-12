@@ -37,6 +37,9 @@ Transcription DOCX files placed in `input/` are converted to generic TEI-XML via
 bash preprocessing/docx-to-tei.sh
 ```
 
+> [!IMPORTANT]  
+> Before conversion, all pending revisions in DOCX files need to be accepted or rejected; otherwise the track-changes residue will corrupt the TEIGarage conversion.
+
 > [!WARNING]
 > The TEIGarage conversion does not preserve DOCX paragraph indentation. In the Stenogramm sections, speaker-turn grouping (via hanging indent in the DOCX) is lost.
 
