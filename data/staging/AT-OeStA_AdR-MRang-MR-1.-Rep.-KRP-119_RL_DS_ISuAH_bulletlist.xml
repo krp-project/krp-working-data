@@ -235,7 +235,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="#tfruehwirth" when-iso="2026-05-12">TEIGarage output upconverted with upconvert.xsl</change>
+         <change who="#tfruehwirth" when-iso="2026-05-13">TEIGarage output upconverted with upconvert.xsl</change>
          <change who="#tfruehwirth" when-iso="2026-05-07">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
@@ -893,38 +893,38 @@
                <item n="1">
                   <label>I.</label> Beamte der Gruppe A des Zeitvorrückungsschemas:</item>
             </list>
-            <table rend="rules">
+            <table>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">XI. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Versicherungsassistent</seg>
                      </hi>
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">X. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Versicherungs</seg>
                         <seg style="font-size:12pt">adjunkt</seg>
@@ -932,18 +932,18 @@
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">IX. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Versicherungs</seg>
                         <seg style="font-size:12pt">kommissär</seg>
@@ -951,18 +951,18 @@
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">VIII. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Versicherungs</seg>
                         <seg style="font-size:12pt">sekretär</seg>
@@ -970,18 +970,18 @@
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">VII. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Versicherungs</seg>
                         <seg style="font-size:12pt">rat</seg>
@@ -989,36 +989,36 @@
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">VI. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Regierungsrat</seg>
                      </hi>
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">V. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Hofrat</seg>
                      </hi>
@@ -1029,118 +1029,118 @@
                <item n="1">
                   <label>II.</label> Beamte der Gruppe C des Zeitvorrückungsschemas:</item>
             </list>
-            <table rend="rules">
+            <table>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">XI. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Assistent</seg>
                      </hi>
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">X. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Offizial</seg>
                      </hi>
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">IX. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Revident</seg>
                      </hi>
                   </cell>
                </row>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt" xml:space="preserve">für </seg>
                         <seg style="font-size:12pt">die</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">VIII. Rangsklasse</seg>
                      </hi>
                   </cell>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <hi rend="Char_Style_5">
                         <seg style="font-size:12pt">Oberrevident</seg>
                      </hi>
                   </cell>
                </row>
             </table>
-            <table rend="rules">
+            <table>
                <row>
-                  <cell style="text-align: justify;" rend="Style_4">
+                  <cell>
                      <p rend="Style 4" style="text-align: justify;">
                         <hi rend="Char_Style_5">
                            <seg style="font-size:12pt">und im Falle der seinerzeitigen Systemisierung</seg>
                         </hi>
                      </p>
-                     <table rend="rules">
+                     <table>
                         <row>
-                           <cell style="text-align: justify;" rend="Style_4">
+                           <cell>
                               <hi rend="Char_Style_5">
                                  <seg style="font-size:12pt">für die</seg>
                               </hi>
                            </cell>
-                           <cell style="text-align: justify;" rend="Style_4">
+                           <cell>
                               <hi rend="Char_Style_5">
                                  <seg style="font-size:12pt">VII. Rangsklasse</seg>
                               </hi>
                            </cell>
-                           <cell style="text-align: justify;" rend="Style_4">
+                           <cell>
                               <hi rend="Char_Style_5">
                                  <seg style="font-size:12pt">Inspektor</seg>
                               </hi>
                            </cell>
                         </row>
                         <row>
-                           <cell style="text-align: justify;" rend="Style_4">
+                           <cell>
                               <hi rend="Char_Style_5">
                                  <seg style="font-size:12pt">für die</seg>
                               </hi>
                            </cell>
-                           <cell style="text-align: justify;" rend="Style_4">
+                           <cell>
                               <hi rend="Char_Style_5">
                                  <seg style="font-size:12pt">VI. Rangsklasse</seg>
                               </hi>
                            </cell>
-                           <cell style="text-align: justify;" rend="Style_4">
+                           <cell>
                               <hi rend="Char_Style_5">
                                  <seg style="font-size:12pt">Oberinspektor</seg>
                               </hi>

@@ -425,5 +425,29 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 14. Strip TEIGarage style information from table -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:table">
+    <table>
+      <xsl:copy-of select="@cols | @rows"/><!-- preserve @cols and @rows attributes if present -->
+      <xsl:apply-templates/>
+    </table>
+  </xsl:template>
+  
+  <xsl:template match="tei:table/tei:row">
+    <row>
+      <xsl:copy-of select="@cols | @rows"/>
+      <xsl:apply-templates/>
+    </row>
+  </xsl:template>
+  
+  <xsl:template match="tei:table/tei:row/tei:cell"> 
+    <cell>
+      <xsl:copy-of select="@cols | @rows"/>
+      <xsl:apply-templates/>
+    </cell>
+  </xsl:template>
 
 </xsl:stylesheet>
