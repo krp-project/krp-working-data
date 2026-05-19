@@ -466,7 +466,11 @@ if __name__ == "__main__":
     shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    protocols = sorted(data.values(), key=lambda p: int(p["krp_id"][-4:]))
+    #protocols = sorted(data.values(), key=lambda p: int(p["krp_id"][-4:]))
+    protocols = sorted(
+        (p for p in data.values() if p.get("krp_id", "")[-4:].isdigit()),
+        key=lambda p: int(p["krp_id"][-4:])
+    )
 
     for i, protocol in enumerate(tqdm(protocols)):
         # prev_id = f"{protocols[i - 1]['krp_id']}.xml" if i > 0 else None
