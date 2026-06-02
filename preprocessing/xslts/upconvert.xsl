@@ -19,11 +19,12 @@
   <!-- <xsl:variable name="krp-number"
                 select="lower-case(replace($input-filename, '.*?(KRP-\d{3}).*', '$1'))"/> -->
   <xsl:variable name="krp-digits"
-                select="replace($input-filename, '.*?KRP-(\d+).*', '$1')"/>
+                select="replace($input-filename, '.*?KRP-(\d+).*', '$1', 'i')"/><!-- flag as case-insensitive for robustness -->
   <xsl:variable name="krp-number"
                 select="concat('krp-', format-number(number($krp-digits), '0000'))"/>
   <xsl:variable name="header-path"
                 select="concat('../../header-docs/', $krp-number, '_header.xml')"/>
+  <xsl:variable name="top-header" select="('TOP', 'TOP-&#xDC;berschrift')"/><!-- allow for both headers present in model DOCXs -->
 
   <!-- Load and parse header doc, return document node; otherwise fail -->
   <xsl:variable name="header-doc" select="document($header-path)"/>
@@ -262,20 +263,20 @@
   <!-- ================================================================== -->
   <!-- 8. Label agenda-item divs -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[tei:div/tei:head[normalize-space(.) = 'TOP']]">
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[tei:div/tei:head[normalize-space(.) = $top-header]]">
     <!-- capture first number in string -->
     <xsl:variable name="top-number"
-                  select="replace(normalize-space(tei:head/tei:hi), '^.*?(\d+).*$', '$1')"/>
+                  select="replace(normalize-space(tei:head), '^.*?(\d+).*$', '$1')"/>
     <xsl:variable name="padded-top" select="format-number(number($top-number), '00')"/>
     <div type="top" xml:id="{$krp-number}_top{$padded-top}"><!-- changed from MRP-style @type='agenda_item' -->
       <head>
         <label>
           <num n="{$top-number}">
-            <xsl:value-of select="normalize-space(tei:head/tei:hi)"/>
+            <xsl:value-of select="normalize-space(tei:head)"/>
           </num>
           <seg>
             <!-- collapse whitespace before period characters resulting from TEIGarage artefacts (related to DOCX formatting errors) -->
-            <xsl:value-of select="replace(normalize-space(tei:div[tei:head[normalize-space(.) = 'TOP']]/tei:p[1]), '\s+\.', '.')"/>
+            <xsl:value-of select="replace(normalize-space(tei:div[tei:head[normalize-space(.) = $top-header]]/tei:p[1]), '\s+\.', '.')"/>
           </seg>
         </label>
       </head>
@@ -286,7 +287,7 @@
   <!-- ================================================================== -->
   <!-- 9. Flatten structure within agenda-item divs -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[tei:div/tei:head[normalize-space(.) = 'TOP']]/tei:div[tei:head[normalize-space(.) = 'Text']]">
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[tei:div/tei:head[normalize-space(.) = $top-header]]/tei:div[tei:head[normalize-space(.) = 'Text']]">
     <xsl:for-each select="tei:p | tei:list">
       <xsl:choose>
         <xsl:when test="self::tei:list">
@@ -307,10 +308,10 @@
   <!-- 10. Label non-agenda-item divs and flatten structure -->
   <!-- ================================================================== -->
   <!-- catch Protokoll child div that has no sub-div with a "TOP" header -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[not(tei:div/tei:head[normalize-space(.) = 'TOP'])]">
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[not(tei:div/tei:head[normalize-space(.) = $top-header])]">
     <xsl:variable name="padded-notop">
       <!-- number non-agenda-item siblings -->
-      <xsl:number count="tei:div[not(tei:div/tei:head[normalize-space(.) = 'TOP'])]" format="01"/>
+      <xsl:number count="tei:div[not(tei:div/tei:head[normalize-space(.) = $top-header])]" format="01"/>
     </xsl:variable>
     <div type="notop" xml:id="{$krp-number}_notop{$padded-notop}">
       <head>
