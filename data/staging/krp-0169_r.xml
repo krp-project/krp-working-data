@@ -577,202 +577,177 @@
                   </p>
                </div>
             </div>
-            <div>
-               <head>Stenogramme</head>
-               <div>
-                  <head>1.</head>
-                  <p>[KRP 169, 9. April 1920, Stenogramm Fenz]</p>
-                  <p>
+            <div type="stenogramme">
+               <div n="1">
+                  <head>[KRP 169, 9. April 1920, Stenogramm Fenz]</head>
+                  <p n="1">
                      <pb n="1"/>169., 9. /IV. '20.</p>
-                  <p>[Zugezogen]: Zedtwitz, </p>
-                  <p>Fischer, </p>
-                  <p>Beck.</p>
-                  <p>Ramek:</p>
-                  <p>Bericht über den Fortgang [des Streiks] der Kanzleibeamten der Justiz.</p>
-                  <p>Entsprechend den Weisungen des Kabinettsrates habe ich mich in Verhandlungen bisher nicht eingelassen. Die Folge davon war, dass die Leute nervös </p>
-                  <p>geworden sind. Sie haben den Versuch gemacht, Verhandlungen einzuleiten. Die Folge der Zurückhaltung des Staatsamtes war, dass einzelne Abbröckelungen erfolgt sind, zum Beispiel Salzburg.</p>
-                  <p>Nun hat sich die Gewerkschaft der Staatsbeamten der Sache angenommen. Sie hat gefürchtet, dass es dem Prestige der Beamten abträglich ist, wenn dieser </p>
-                  <p>Streik zusammenbricht. <hi rend="#s">Sie hat gestern</hi> - Heute ist eine Abordnung der Gewerkschaft mit Sch<hi rend="background(yellow)">[...]</hi> an der Spitze bei mir erschienen. Sie haben </p>
-                  <p>sich für desinteressiert bezüglich einzelner Forderungen erklärt und insbesondere die Forderung von der Übersetzung aus der Gruppe E in C für ungerechtfertigt erklärt. </p>
-                  <p>Zu tun war ihnen um die formelle Behandlung des Streiks. Sie wollten, dass nicht der Streik in sich zusammenbricht, sondern dass vorher Verhandlungen </p>
-                  <p>zwischen den Streikenden und dem Staatsamt stattfinden. Ich habe den Vorschlag gemacht, dass ich bereit wäre, gewisse Forderungen als gerechtfertigt zu vertreten, soweit ich sie </p>
-                  <p>in meinem Ressort erledigen kann. Dann habe ich gesagt, dass ich wegen gewisser Forderungen an das Staatsamt für Finanzen herantreten werde, ohne Präjudiz, wie sich </p>
-                  <p>die Regierung zu diesen Forderungen stellen wird. Sie haben gesagt, das ist ihnen zu wenig, sondern es müssen Verhandlungen eingeleitet werden.</p>
-                  <p>Ich habe den Vorschlag gemacht, man sollte die Verhandlungen durch eine Mittelsperson führen lassen, etwa durch die Richtervereinigung oder die Gewerkschaft. Das haben sie </p>
-                  <p>auch abgelehnt. Für sie steht die Frage so, dass sie auf dem Standpunkt stehen, es muss verhandelt werden zwischen Ressort, also der Regierung und der </p>
-                  <p>Beamtenschaft selbst. Ich habe ihnen keine Entscheidung bekannt gegeben und gesagt, dass ich das Kabinett fragen muss.</p>
-                  <p>Ich erkläre, dass ich es für sehr gefährlich halten würde, wenn es uns nicht gelingt, diesen Streik zu lokalisieren und wenn er auch auf andere </p>
-                  <p>Ressorts hinüber greift. Wir müssten dann, vielleicht nicht nur im Justizressort, Zugeständnisse machen, die uns sehr schwer belasten würden. </p>
-                  <p>Vielleicht [käme es zu einer] Kraftprobe zwischen der Regierung und der ganzen Beamtenschaft.</p>
-                  <p>Während ich mit dieser Zentralgewerkschaft verhandelt habe, hat der Präsident der Richtervereinigung im Verein mit <hi rend="background(yellow)">[...] ?Klag</hi> eine </p>
-                  <p>Deputation der Streikenden und Diener, Unterbeamten, Gefangenenaufseher zu Paltauf geführt und dringendst ersucht, man möchte sie anhören. </p>
-                  <p>Palt[auf] war vorher bei mir und hat mir mitgeteilt, dass [...] und <hi rend="background(yellow)">?Klag</hi> da seien, und ich habe ihn ersucht, er möge mit den Leuten </p>
-                  <p>erst sprechen, wenn ich mit der Gewerkschaft gesprochen habe. Der hat das missverstanden. Wie ich die Gewerkschaft entlassen habe, habe ich ihn mitten in </p>
-                  <p>Verhandlungen gefunden. Mir ist nun nichts anderes übriggeblieben, als die nachträgliche Genehmigung zu dieser Verhandlung zu erteilen.</p>
-                  <p>Was das Meritorische anbelangt, so stehe ich auf dem Standpunkt, dass einer generellen Übernahme aller Kanzleibeamten aus E in C </p>
-                  <p>nicht die Zustimmung erteilt werden könne. Doch stelle ich mich auf dem Standpunkt, einzelnen, ausnahmsweise besonders qualifizierten, Kanzleibeamten insoweit eine Nachsicht der Studien zuzubilligen, dass sie in besonderen Fällen zur zweiten Kanzleiprüfung zugelassen werden. Diese Prüfung ist heute nur zugänglich </p>
-                  <p>den Absolventen einer Mittelschule. Vom finanziellen Standpunkt hat das weiter keine Konsequenzen. Denn besonders qualifizierte Kanzleikräfte, </p>
-                  <p>
+                  <p n="2">[Zugezogen]: Zedtwitz, </p>
+                  <p n="3">Fischer, </p>
+                  <p n="4">Beck.</p>
+                  <p n="5">Ramek:</p>
+                  <p n="6">Bericht über den Fortgang [des Streiks] der Kanzleibeamten der Justiz.</p>
+                  <p n="7">Entsprechend den Weisungen des Kabinettsrates habe ich mich in Verhandlungen bisher nicht eingelassen. Die Folge davon war, dass die Leute nervös </p>
+                  <p n="8">geworden sind. Sie haben den Versuch gemacht, Verhandlungen einzuleiten. Die Folge der Zurückhaltung des Staatsamtes war, dass einzelne Abbröckelungen erfolgt sind, zum Beispiel Salzburg.</p>
+                  <p n="9">Nun hat sich die Gewerkschaft der Staatsbeamten der Sache angenommen. Sie hat gefürchtet, dass es dem Prestige der Beamten abträglich ist, wenn dieser </p>
+                  <p n="10">Streik zusammenbricht. <hi rend="#s">Sie hat gestern</hi> - Heute ist eine Abordnung der Gewerkschaft mit Sch<hi rend="background(yellow)">[...]</hi> an der Spitze bei mir erschienen. Sie haben </p>
+                  <p n="11">sich für desinteressiert bezüglich einzelner Forderungen erklärt und insbesondere die Forderung von der Übersetzung aus der Gruppe E in C für ungerechtfertigt erklärt. </p>
+                  <p n="12">Zu tun war ihnen um die formelle Behandlung des Streiks. Sie wollten, dass nicht der Streik in sich zusammenbricht, sondern dass vorher Verhandlungen </p>
+                  <p n="13">zwischen den Streikenden und dem Staatsamt stattfinden. Ich habe den Vorschlag gemacht, dass ich bereit wäre, gewisse Forderungen als gerechtfertigt zu vertreten, soweit ich sie </p>
+                  <p n="14">in meinem Ressort erledigen kann. Dann habe ich gesagt, dass ich wegen gewisser Forderungen an das Staatsamt für Finanzen herantreten werde, ohne Präjudiz, wie sich </p>
+                  <p n="15">die Regierung zu diesen Forderungen stellen wird. Sie haben gesagt, das ist ihnen zu wenig, sondern es müssen Verhandlungen eingeleitet werden.</p>
+                  <p n="16">Ich habe den Vorschlag gemacht, man sollte die Verhandlungen durch eine Mittelsperson führen lassen, etwa durch die Richtervereinigung oder die Gewerkschaft. Das haben sie </p>
+                  <p n="17">auch abgelehnt. Für sie steht die Frage so, dass sie auf dem Standpunkt stehen, es muss verhandelt werden zwischen Ressort, also der Regierung und der </p>
+                  <p n="18">Beamtenschaft selbst. Ich habe ihnen keine Entscheidung bekannt gegeben und gesagt, dass ich das Kabinett fragen muss.</p>
+                  <p n="19">Ich erkläre, dass ich es für sehr gefährlich halten würde, wenn es uns nicht gelingt, diesen Streik zu lokalisieren und wenn er auch auf andere </p>
+                  <p n="20">Ressorts hinüber greift. Wir müssten dann, vielleicht nicht nur im Justizressort, Zugeständnisse machen, die uns sehr schwer belasten würden. </p>
+                  <p n="21">Vielleicht [käme es zu einer] Kraftprobe zwischen der Regierung und der ganzen Beamtenschaft.</p>
+                  <p n="22">Während ich mit dieser Zentralgewerkschaft verhandelt habe, hat der Präsident der Richtervereinigung im Verein mit <hi rend="background(yellow)">[...] ?Klag</hi> eine </p>
+                  <p n="23">Deputation der Streikenden und Diener, Unterbeamten, Gefangenenaufseher zu Paltauf geführt und dringendst ersucht, man möchte sie anhören. </p>
+                  <p n="24">Palt[auf] war vorher bei mir und hat mir mitgeteilt, dass [...] und <hi rend="background(yellow)">?Klag</hi> da seien, und ich habe ihn ersucht, er möge mit den Leuten </p>
+                  <p n="25">erst sprechen, wenn ich mit der Gewerkschaft gesprochen habe. Der hat das missverstanden. Wie ich die Gewerkschaft entlassen habe, habe ich ihn mitten in </p>
+                  <p n="26">Verhandlungen gefunden. Mir ist nun nichts anderes übriggeblieben, als die nachträgliche Genehmigung zu dieser Verhandlung zu erteilen.</p>
+                  <p n="27">Was das Meritorische anbelangt, so stehe ich auf dem Standpunkt, dass einer generellen Übernahme aller Kanzleibeamten aus E in C </p>
+                  <p n="28">nicht die Zustimmung erteilt werden könne. Doch stelle ich mich auf dem Standpunkt, einzelnen, ausnahmsweise besonders qualifizierten, Kanzleibeamten insoweit eine Nachsicht der Studien zuzubilligen, dass sie in besonderen Fällen zur zweiten Kanzleiprüfung zugelassen werden. Diese Prüfung ist heute nur zugänglich </p>
+                  <p n="29">den Absolventen einer Mittelschule. Vom finanziellen Standpunkt hat das weiter keine Konsequenzen. Denn besonders qualifizierte Kanzleikräfte, </p>
+                  <p n="30">
                      <pb n="2"/>die keine Mittelschule haben, werden schon heute Kanzleileiter. Sie sind <hi rend="background(yellow)">[...]</hi>-Off., kommen ad pens in die VIII. </p>
-                  <p>und erhalten den Titel Kanzleidirektor, ohne dass sie es sind. Man hat faktisch den Unterschied zwischen E und C auf Umwegen in </p>
-                  <p>individuellen Fällen zu umgehen gesucht. Dieser Zustand soll aufrechterhalten werden und nur [dadurch] ergänzt werden, dass man diese Leute auch zur 2. Prüfung </p>
-                  <p>zulässt und dass sie nicht nur den Titel bekommen, sondern auch wirklich Kanzleidirektoren werden und faktisch dann in der Gruppe C sind. </p>
-                  <p>Damit wären die Kanzleibeamten einverstanden.</p>
-                  <p>2. Forderung. Anrechnung der Vordienstzeit. Hier wäre die Zustimmung des Staatsamtes für Finanzen notwendig. </p>
-                  <p>Hier haben wir schon ein schwerwiegendes Präjudiz in der Behandlung der Gendarmen, Polizisten und der Gefangenenaufseher. </p>
-                  <p>In letzter Richtung hat die Nationalversammlung selbst entgegen der Vorlage der Staatsregierung die Vordienstzeit angerechnet und die anderen Kanzleibeamten dadurch </p>
-                  <p>in die Hinterhand gebracht.</p>
-                  <p>Ich habe erklärt, dass ich bereit wäre, diesen Wunsch dem Staatsamt für Finanzen mitzuteilen ohne jedes Präjudiz, ob es gemacht wird oder nicht.</p>
-                  <p>3.) Definitive Anstellung der Aushilfskräfte. </p>
-                  <p>Ich habe mich immer auf den Standpunkt gestellt, dass Aushilfskräfte nach einer entsprechenden Anzahl von Dienstjahren definitiv </p>
-                  <p>angestellt werden sollen, wenn sie befähigt sind und wenn man sie braucht. Wir brauchen diese Leute. Wir kommen bei der zunehmenden </p>
-                  <p>Anzahl der Prozesse, bei der Steigung der [...] Angelegenheiten und infolge der Zunahme der Kriminalität trotz </p>
-                  <p>Entlastungsgesetz aus der Überbürdung nicht hinaus und sind außer Stande abzubauen.</p>
-                  <p>4.) Die Diener wollen, dass sämtliche Diener zu Beamten ernannt werden. Ich gehe über den Rahmen des Gesetzes nicht hinaus. Wenn die Leute </p>
-                  <p>befähigt sind, so hätte ich innerhalb des Ressorts nichts dagegen, wenn solche Leute zur Prüfung zugelassen werden.</p>
-                  <p>5.) Entlohnung der Überstunden. Ich habe darauf hingewiesen, dass das nicht eine Sache des Justizressorts ist, <hi rend="#s">sondern darauf</hi> - sondern gesagt, </p>
-                  <p>dass das generell geregelt wird.</p>
-                  <p>Hanusch: Ich habe den Eindruck, dass es [sich] um ein Rückzugsgefecht handelt. Das Einschreiten der Organisationen [erfolgte], </p>
-                  <p>damit der Streik nicht ins Wasser fällt.</p>
-                  <p>Es fragt sich, ob nicht gewisse Zugeständnisse gemacht werden [sollten] ohne finanzielle Belastung und - [um] dadurch den Streik [zu] beenden. </p>
-                  <p>Es müsste der Beschluss von Mittwoch dahin abgeändert werden, dass Ramek ermächtigt wird, mit dem Streikkomitee zu </p>
-                  <p>verhandeln und dadurch die Sache [zu] beendigen. Sonst könnte ein Sympathiestreik der übrigen Beamtenschaft eintreten.</p>
-                  <p>Eldersch: Ich möchte es Ramek überlassen, zu beurteilen, ob die Situation so ist, dass man Verhandlungen aufnimmt. </p>
-                  <p>Es darf nichts geschehen, was die anderen Staatsämter präjudiziert und was [eine] größere Belastung bedingen würde.</p>
-                  <p>
+                  <p n="31">und erhalten den Titel Kanzleidirektor, ohne dass sie es sind. Man hat faktisch den Unterschied zwischen E und C auf Umwegen in </p>
+                  <p n="32">individuellen Fällen zu umgehen gesucht. Dieser Zustand soll aufrechterhalten werden und nur [dadurch] ergänzt werden, dass man diese Leute auch zur 2. Prüfung </p>
+                  <p n="33">zulässt und dass sie nicht nur den Titel bekommen, sondern auch wirklich Kanzleidirektoren werden und faktisch dann in der Gruppe C sind. </p>
+                  <p n="34">Damit wären die Kanzleibeamten einverstanden.</p>
+                  <p n="35">2. Forderung. Anrechnung der Vordienstzeit. Hier wäre die Zustimmung des Staatsamtes für Finanzen notwendig. </p>
+                  <p n="36">Hier haben wir schon ein schwerwiegendes Präjudiz in der Behandlung der Gendarmen, Polizisten und der Gefangenenaufseher. </p>
+                  <p n="37">In letzter Richtung hat die Nationalversammlung selbst entgegen der Vorlage der Staatsregierung die Vordienstzeit angerechnet und die anderen Kanzleibeamten dadurch </p>
+                  <p n="38">in die Hinterhand gebracht.</p>
+                  <p n="39">Ich habe erklärt, dass ich bereit wäre, diesen Wunsch dem Staatsamt für Finanzen mitzuteilen ohne jedes Präjudiz, ob es gemacht wird oder nicht.</p>
+                  <p n="40">3.) Definitive Anstellung der Aushilfskräfte. </p>
+                  <p n="41">Ich habe mich immer auf den Standpunkt gestellt, dass Aushilfskräfte nach einer entsprechenden Anzahl von Dienstjahren definitiv </p>
+                  <p n="42">angestellt werden sollen, wenn sie befähigt sind und wenn man sie braucht. Wir brauchen diese Leute. Wir kommen bei der zunehmenden </p>
+                  <p n="43">Anzahl der Prozesse, bei der Steigung der [...] Angelegenheiten und infolge der Zunahme der Kriminalität trotz </p>
+                  <p n="44">Entlastungsgesetz aus der Überbürdung nicht hinaus und sind außer Stande abzubauen.</p>
+                  <p n="45">4.) Die Diener wollen, dass sämtliche Diener zu Beamten ernannt werden. Ich gehe über den Rahmen des Gesetzes nicht hinaus. Wenn die Leute </p>
+                  <p n="46">befähigt sind, so hätte ich innerhalb des Ressorts nichts dagegen, wenn solche Leute zur Prüfung zugelassen werden.</p>
+                  <p n="47">5.) Entlohnung der Überstunden. Ich habe darauf hingewiesen, dass das nicht eine Sache des Justizressorts ist, <hi rend="#s">sondern darauf</hi> - sondern gesagt, </p>
+                  <p n="48">dass das generell geregelt wird.</p>
+                  <p n="49">Hanusch: Ich habe den Eindruck, dass es [sich] um ein Rückzugsgefecht handelt. Das Einschreiten der Organisationen [erfolgte], </p>
+                  <p n="50">damit der Streik nicht ins Wasser fällt.</p>
+                  <p n="51">Es fragt sich, ob nicht gewisse Zugeständnisse gemacht werden [sollten] ohne finanzielle Belastung und - [um] dadurch den Streik [zu] beenden. </p>
+                  <p n="52">Es müsste der Beschluss von Mittwoch dahin abgeändert werden, dass Ramek ermächtigt wird, mit dem Streikkomitee zu </p>
+                  <p n="53">verhandeln und dadurch die Sache [zu] beendigen. Sonst könnte ein Sympathiestreik der übrigen Beamtenschaft eintreten.</p>
+                  <p n="54">Eldersch: Ich möchte es Ramek überlassen, zu beurteilen, ob die Situation so ist, dass man Verhandlungen aufnimmt. </p>
+                  <p n="55">Es darf nichts geschehen, was die anderen Staatsämter präjudiziert und was [eine] größere Belastung bedingen würde.</p>
+                  <p n="56">
                      <pb n="3"/>Miklas: Ramek kann sich auf die Fürbitte der Richtervereinigung berufen.</p>
-                  <p>Beschluss im Sinne Eldersch [...].</p>
-                  <p>Deutsch: <hi rend="#s">Das Arsenal hat zwei</hi> -. Die Italiener haben zwei B[...], die uns gehören und zwei Lafetten im Arsenal aufgeladen </p>
-                  <p>und wollen sie wegführen. </p>
-                  <p>Ich habe gesagt, es soll ein Protokoll aufgenommen werden und das Staatsamt für Äußeres soll energisch protestieren.</p>
-                  <p>Fink: Es soll heute noch dem Kanzler mitgeteilt werden.</p>
-                  <p>2. a) Fink: Staatsbürgerschaftsaberkennung.</p>
-                  <p>Ramek: Ich möchte eine Aufklärung haben, welches der politische Zweck dieses Gesetzes ist. </p>
-                  <p>Wenn man von politischen Erwägungen absieht, so ergeben sich schwerwiegende rechtliche Bedenken. &lt; &gt;.</p>
-                  <p>Deutsch: Die juristischen Details können wir der Staatskanzlei überlassen. Ich glaube, dass man auch nach dem Friedensvertrag ein solches Gesetz </p>
-                  <p>erlassen könne. Man muss sich da wohl auf die Fachleute verlassen.</p>
-                  <p>Was aber die tatsächlichen Verhältnisse anbelangt: Deutschland ist für uns weder pro noch contra ein Argument. </p>
-                  <p>Sind dort Offiziere von uns, so werden sie nichts dagegen haben, dort Staatsbürger zu werden. Es ist [aber] eine Unmöglichkeit, dass unsere Staatsbürger </p>
-                  <p>in Ungarn, Rumänien, Polen oder Deutschland kämpfen. In Ungarn sind sowohl in der roten wie in der weißen Armee unsere Offiziere </p>
-                  <p>gewesen. Wir haben gar keinen Grund, [dass] Leute, die in einer fremden Armee kämpfen, bei uns Staatsbürger sind. </p>
-                  <p>Nur derjenige wird dadurch getroffen, der bewusst sich einer fremden Regierung zur Verfügung gestellt hat.</p>
-                  <p>Ich habe stets darauf abgewiesen - [hingewiesen], dass ich das Abbaugesetz so rasch brauche, weil 100(e) und 1.000(e) Offiziere gar keinen Dienst </p>
-                  <p>machen, sondern in Wahrheit schon im bürgerlichen Leben stehen und nur am 1. ihre Bezüge holen. Nun hat sich das bestätigt. Wir haben </p>
-                  <p>4-5.000 Offiziere eingetragen gehabt, die wir gezahlt haben. Zur neuen Wehrmacht haben sich nur 1.500 Offiziere und Beamte gemeldet. </p>
-                  <p>Das alles ist nur möglich durch unser langes Zögern und bei der Unklarheit, die wir in allen diesen Sachen lassen. Ich meine daher, dass wir </p>
-                  <p>eine Klarheit schaffen [sollten] und bin daher aus den angeführten politischen und moralischen Gründen dafür, dass wir das Gesetz erlassen.</p>
-                  <p>Reisch: Ich habe eben gesehen, dass in der Begründung auch auf die staatsfinanziellen Momente hingewiesen wird pro, während meine </p>
-                  <p>Referenten kontra aus staatsfinanziellen Gründen sind - weil die Sukzessionsstaaten gewiss Repressionsgesetze machen werden und uns [dann] </p>
-                  <p>
+                  <p n="57">Beschluss im Sinne Eldersch [...].</p>
+                  <p n="58">Deutsch: <hi rend="#s">Das Arsenal hat zwei</hi> -. Die Italiener haben zwei B[...], die uns gehören und zwei Lafetten im Arsenal aufgeladen </p>
+                  <p n="59">und wollen sie wegführen. </p>
+                  <p n="60">Ich habe gesagt, es soll ein Protokoll aufgenommen werden und das Staatsamt für Äußeres soll energisch protestieren.</p>
+                  <p n="61">Fink: Es soll heute noch dem Kanzler mitgeteilt werden.</p>
+                  <p n="62">2. a) Fink: Staatsbürgerschaftsaberkennung.</p>
+                  <p n="63">Ramek: Ich möchte eine Aufklärung haben, welches der politische Zweck dieses Gesetzes ist. </p>
+                  <p n="64">Wenn man von politischen Erwägungen absieht, so ergeben sich schwerwiegende rechtliche Bedenken. &lt; &gt;.</p>
+                  <p n="65">Deutsch: Die juristischen Details können wir der Staatskanzlei überlassen. Ich glaube, dass man auch nach dem Friedensvertrag ein solches Gesetz </p>
+                  <p n="66">erlassen könne. Man muss sich da wohl auf die Fachleute verlassen.</p>
+                  <p n="67">Was aber die tatsächlichen Verhältnisse anbelangt: Deutschland ist für uns weder pro noch contra ein Argument. </p>
+                  <p n="68">Sind dort Offiziere von uns, so werden sie nichts dagegen haben, dort Staatsbürger zu werden. Es ist [aber] eine Unmöglichkeit, dass unsere Staatsbürger </p>
+                  <p n="69">in Ungarn, Rumänien, Polen oder Deutschland kämpfen. In Ungarn sind sowohl in der roten wie in der weißen Armee unsere Offiziere </p>
+                  <p n="70">gewesen. Wir haben gar keinen Grund, [dass] Leute, die in einer fremden Armee kämpfen, bei uns Staatsbürger sind. </p>
+                  <p n="71">Nur derjenige wird dadurch getroffen, der bewusst sich einer fremden Regierung zur Verfügung gestellt hat.</p>
+                  <p n="72">Ich habe stets darauf abgewiesen - [hingewiesen], dass ich das Abbaugesetz so rasch brauche, weil 100(e) und 1.000(e) Offiziere gar keinen Dienst </p>
+                  <p n="73">machen, sondern in Wahrheit schon im bürgerlichen Leben stehen und nur am 1. ihre Bezüge holen. Nun hat sich das bestätigt. Wir haben </p>
+                  <p n="74">4-5.000 Offiziere eingetragen gehabt, die wir gezahlt haben. Zur neuen Wehrmacht haben sich nur 1.500 Offiziere und Beamte gemeldet. </p>
+                  <p n="75">Das alles ist nur möglich durch unser langes Zögern und bei der Unklarheit, die wir in allen diesen Sachen lassen. Ich meine daher, dass wir </p>
+                  <p n="76">eine Klarheit schaffen [sollten] und bin daher aus den angeführten politischen und moralischen Gründen dafür, dass wir das Gesetz erlassen.</p>
+                  <p n="77">Reisch: Ich habe eben gesehen, dass in der Begründung auch auf die staatsfinanziellen Momente hingewiesen wird pro, während meine </p>
+                  <p n="78">Referenten kontra aus staatsfinanziellen Gründen sind - weil die Sukzessionsstaaten gewiss Repressionsgesetze machen werden und uns [dann] </p>
+                  <p n="79">
                      <pb n="4"/>Offiziere aus diesen Staaten, die schon abgewandert sind, zufallen werden. Wir müssen dann gewärtigen, dass von den 2.500 Offizieren, die in fremde Nationalstaaten </p>
-                  <p>zuständig sind, [eine Anzahl] wieder zu uns abgeschoben werden können.</p>
-                  <p>[Ich] beantrage die Vertagung.</p>
-                  <p>Resch: Es ist ein politisches Ausnahmsgesetz. Ich stimme den Ausführungen Rameks und Reischs zu. </p>
-                  <p>Ich glaube, dass [die Staatsämter für] Justiz und Finanzen an der Abänderung mitwirken [sollten]. Ich könnte dem Gesetz in dieser Fassung nicht zustimmen.</p>
-                  <p>Fink: Es soll eine Kabinettskonferenz sich mit der Sache befassen.</p>
-                  <p>Reisch - Finanzen, Ramek - Justiz, Eldersch - Inneres, Deutsch - Heerwesen, Staatskanzler.</p>
-                  <p>[Sie wird] einberufen von der Staatskanzlei.</p>
-                  <p>2. b) Beck: Redoutensäle.</p>
-                  <p>Angenommen.</p>
-                  <p>2. c) Fink: Landtagswahlen in Kärnten.</p>
-                  <p>Zur Kenntnis genommen.</p>
-                  <p>2. d) [Fink]: Wahlstatistik.</p>
-                  <p>Angenommen.</p>
-                  <p>
+                  <p n="80">zuständig sind, [eine Anzahl] wieder zu uns abgeschoben werden können.</p>
+                  <p n="81">[Ich] beantrage die Vertagung.</p>
+                  <p n="82">Resch: Es ist ein politisches Ausnahmsgesetz. Ich stimme den Ausführungen Rameks und Reischs zu. </p>
+                  <p n="83">Ich glaube, dass [die Staatsämter für] Justiz und Finanzen an der Abänderung mitwirken [sollten]. Ich könnte dem Gesetz in dieser Fassung nicht zustimmen.</p>
+                  <p n="84">Fink: Es soll eine Kabinettskonferenz sich mit der Sache befassen.</p>
+                  <p n="85">Reisch - Finanzen, Ramek - Justiz, Eldersch - Inneres, Deutsch - Heerwesen, Staatskanzler.</p>
+                  <p n="86">[Sie wird] einberufen von der Staatskanzlei.</p>
+                  <p n="87">2. b) Beck: Redoutensäle.</p>
+                  <p n="88">Angenommen.</p>
+                  <p n="89">2. c) Fink: Landtagswahlen in Kärnten.</p>
+                  <p n="90">Zur Kenntnis genommen.</p>
+                  <p n="91">2. d) [Fink]: Wahlstatistik.</p>
+                  <p n="92">Angenommen.</p>
+                  <p n="93">
                      <pb n="5"/>3. Ramek: Fideikommisse.</p>
-                  <p>Die politische Notwendigkeit ergibt sich aus der Notwendigkeit - Tatsache, dass die Instit[ution] der Fideikommisse in engem Zusammenhang </p>
-                  <p>steht mit dem Adelsinstitut. Nachdem wir den Adel abgeschafft haben, so müsste das auch mit den Fideikommissen geschehen. </p>
-                  <p>[Es ist] eine ganz veraltete Institution, die auch vom volkswirtschaftlichen Standpunkt nicht mehr erwünscht ist.</p>
-                  <p>Gegen diesen Gesetzentwurf hat das Staatsamt für Land- und Forstwirtschaft aus wirtschaftlichen Gründen Bedenken erhoben.</p>
-                  <p>Stöckler: Es fällt uns nicht ein, das Institut der Fideikommisse aufrecht zu erhalten. </p>
-                  <p>Es handelt sich um etwas anderes. Der bisherige freie Grundbesitz hat sich zu einer Einheit gebildet. Die Fideikommisse sind oft </p>
-                  <p>zerstreut, die nur durch das [Fideikommiss]-Band gebunden sind. Es besteht die Gefahr, dass jetzt [ein] rascher Abverkauf an Ausländer erfolgen [wird]. Es muss Vorsorge getroffen werden, dass das </p>
-                  <p>nicht geschieht. Eine Form wäre, dass bis zur Durchführung der Bodenreform für landwirtschaftliche Grundstücke das Band aufrechterhalten wird. </p>
-                  <p>[Es] wird schwer gehen, speziell für die landwirtschaftlichen Güter das Band aufrecht zu erhalten und für andere nicht. Vielleicht könnte man das machen </p>
-                  <p>durch [ein] Veräußerungs- und Belastungsverbot. Eine mögliche Form wäre die, dass man auf eine gewisse Reihe von Jahren ein </p>
-                  <p>Veräußerungs- und Belastungsverbot erlässt, um der Gefahr von Massenabverkäufen zu wehren.</p>
-                  <p>Ferner ist im § 8 der reine Wert angenommen zur Bemessung der Gebühr. Dieser Ausdruck ist zu wenig verständlich. </p>
-                  <p>Es wäre wünschenswert, wenn man diesen "reinen Wert" etwas definieren würde.</p>
-                  <p>Deutsch: Nach den Einwendungen wird es nicht möglich sein, dass - [werden] wir diesen Gesetzentwurf heute nicht erledigen können. </p>
-                  <p>Ich glaube, dass [ein] Veräußerungs- und Belastungsverbot nicht zum Ziel führen wird. Es wäre nicht logisch, einerseits das Band aufzuheben und </p>
-                  <p>andererseits ein neues Band zu statuieren. Vielleicht [ginge ein] Verbot, dass Nicht-Deutschösterreicher diese Grundstücke nicht erwerben dürfen - wenn das – </p>
-                  <p>
+                  <p n="94">Die politische Notwendigkeit ergibt sich aus der Notwendigkeit - Tatsache, dass die Instit[ution] der Fideikommisse in engem Zusammenhang </p>
+                  <p n="95">steht mit dem Adelsinstitut. Nachdem wir den Adel abgeschafft haben, so müsste das auch mit den Fideikommissen geschehen. </p>
+                  <p n="96">[Es ist] eine ganz veraltete Institution, die auch vom volkswirtschaftlichen Standpunkt nicht mehr erwünscht ist.</p>
+                  <p n="97">Gegen diesen Gesetzentwurf hat das Staatsamt für Land- und Forstwirtschaft aus wirtschaftlichen Gründen Bedenken erhoben.</p>
+                  <p n="98">Stöckler: Es fällt uns nicht ein, das Institut der Fideikommisse aufrecht zu erhalten. </p>
+                  <p n="99">Es handelt sich um etwas anderes. Der bisherige freie Grundbesitz hat sich zu einer Einheit gebildet. Die Fideikommisse sind oft </p>
+                  <p n="100">zerstreut, die nur durch das [Fideikommiss]-Band gebunden sind. Es besteht die Gefahr, dass jetzt [ein] rascher Abverkauf an Ausländer erfolgen [wird]. Es muss Vorsorge getroffen werden, dass das </p>
+                  <p n="101">nicht geschieht. Eine Form wäre, dass bis zur Durchführung der Bodenreform für landwirtschaftliche Grundstücke das Band aufrechterhalten wird. </p>
+                  <p n="102">[Es] wird schwer gehen, speziell für die landwirtschaftlichen Güter das Band aufrecht zu erhalten und für andere nicht. Vielleicht könnte man das machen </p>
+                  <p n="103">durch [ein] Veräußerungs- und Belastungsverbot. Eine mögliche Form wäre die, dass man auf eine gewisse Reihe von Jahren ein </p>
+                  <p n="104">Veräußerungs- und Belastungsverbot erlässt, um der Gefahr von Massenabverkäufen zu wehren.</p>
+                  <p n="105">Ferner ist im § 8 der reine Wert angenommen zur Bemessung der Gebühr. Dieser Ausdruck ist zu wenig verständlich. </p>
+                  <p n="106">Es wäre wünschenswert, wenn man diesen "reinen Wert" etwas definieren würde.</p>
+                  <p n="107">Deutsch: Nach den Einwendungen wird es nicht möglich sein, dass - [werden] wir diesen Gesetzentwurf heute nicht erledigen können. </p>
+                  <p n="108">Ich glaube, dass [ein] Veräußerungs- und Belastungsverbot nicht zum Ziel führen wird. Es wäre nicht logisch, einerseits das Band aufzuheben und </p>
+                  <p n="109">andererseits ein neues Band zu statuieren. Vielleicht [ginge ein] Verbot, dass Nicht-Deutschösterreicher diese Grundstücke nicht erwerben dürfen - wenn das – </p>
+                  <p n="110">
                      <hi rend="#s">man müsste die Frage erwägen</hi> - nicht mit dem Friedensvertrag im Widerspruch steht. Aber man muss die Sache noch einmal studieren.</p>
-                  <p>Eisler: [Ich] bin einverstanden, die Sache noch einmal dem Studium zu unterziehen, aber nicht auf zu lange. Denn es wäre eine Unterlassung der </p>
-                  <p>Nationalversammlung, wenn sie sich dieser Aufgabe nicht unterzöge. Ich glaube, dass man eine Abhilfe gegen die Bedenken Stöcklers im </p>
-                  <p>Grundverkehrsgesetz finden könnte, welches vielleicht entsprechend ergänzt oder verschärft würde. Der Vorschlag Deutschs (Verbot des Erwerbs durch Ausländer) </p>
-                  <p>ist nach dem Friedensvertrag nicht gangbar. [Ich] beantrage [eine] befristete Zurückstellung der Vorlage.</p>
-                  <p>Miklas: Zu § 3 1. Abs.: [Man sollte] nach 'gemeinnützige' [einschalten] "oder öffentlich-rechtliche", </p>
-                  <p>um die in Betracht kommenden Gemeinden und Kirchen zu berücksichtigen.</p>
-                  <p>
+                  <p n="111">Eisler: [Ich] bin einverstanden, die Sache noch einmal dem Studium zu unterziehen, aber nicht auf zu lange. Denn es wäre eine Unterlassung der </p>
+                  <p n="112">Nationalversammlung, wenn sie sich dieser Aufgabe nicht unterzöge. Ich glaube, dass man eine Abhilfe gegen die Bedenken Stöcklers im </p>
+                  <p n="113">Grundverkehrsgesetz finden könnte, welches vielleicht entsprechend ergänzt oder verschärft würde. Der Vorschlag Deutschs (Verbot des Erwerbs durch Ausländer) </p>
+                  <p n="114">ist nach dem Friedensvertrag nicht gangbar. [Ich] beantrage [eine] befristete Zurückstellung der Vorlage.</p>
+                  <p n="115">Miklas: Zu § 3 1. Abs.: [Man sollte] nach 'gemeinnützige' [einschalten] "oder öffentlich-rechtliche", </p>
+                  <p n="116">um die in Betracht kommenden Gemeinden und Kirchen zu berücksichtigen.</p>
+                  <p n="117">
                      <pb n="6"/>Ad § 8: "reiner Wert" [wäre] so umzustilisieren wie [es] im Vermögensabgabegesetz zwischen den beiden Parteien vereinbart wurde.</p>
-                  <p>Fink: Ich weiß nicht, ob eine Verschärfung des Grundverkehrsgesetzes notwendig ist. Vielleicht ginge es durch eine </p>
-                  <p>Instruktion an die Bezirks- und Landeskommissionen.</p>
-                  <p>[Beschluss]: Kabinettskonferenz, Justiz - leitet, Landwirtschaft, Staatskanzlei, Staatsamt für Finanzen, </p>
-                  <p>innerhalb 14 Tagen.</p>
-                  <p>4. Hanusch: 5. Krankenversicherungsnovelle, </p>
-                  <p>Einbeziehung der land- und forstwirtschaftlichen Arbeiter in den Versicherungszwang.</p>
-                  <p>
+                  <p n="118">Fink: Ich weiß nicht, ob eine Verschärfung des Grundverkehrsgesetzes notwendig ist. Vielleicht ginge es durch eine </p>
+                  <p n="119">Instruktion an die Bezirks- und Landeskommissionen.</p>
+                  <p n="120">[Beschluss]: Kabinettskonferenz, Justiz - leitet, Landwirtschaft, Staatskanzlei, Staatsamt für Finanzen, </p>
+                  <p n="121">innerhalb 14 Tagen.</p>
+                  <p n="122">4. Hanusch: 5. Krankenversicherungsnovelle, </p>
+                  <p n="123">Einbeziehung der land- und forstwirtschaftlichen Arbeiter in den Versicherungszwang.</p>
+                  <p n="124">
                      <hi rend="#s">Reisch: Bezüglich der Staatsbeamten ist ein Gesetzentwurf in Vorbereitung. Die Staatsbeamten werden im § 2 als </hi>
                   </p>
-                  <p>
+                  <p n="125">
                      <hi rend="#s">versicherungsfrei -.</hi>
                   </p>
-                  <p>Deutsch: Wenn das Gesetz für die Staatsbediensteten gemacht wird, so gehören selbstverständlich die Militärpersonen auch </p>
-                  <p>dazu. Es müssen bei diesem Gesetz die aktiven und die pensionierten Militärpersonen einbezogen werden, mit der Einschränkung, dass das Gesetz </p>
-                  <p>vom Jahr 1875, welches bisher [besondere] Vorsorgen getroffen hat, außer Kraft gesetzt wird.</p>
-                  <p>Stöckler: -.</p>
-                  <p>Angenommen.</p>
-                  <p>Hanusch: </p>
-                  <p>Der Niederösterreichische Landtag hat eine Spiel- und Belustigungssteuer für Wr. Neustadt beschlossen. </p>
-                  <p>Vorstellung.</p>
-                  <p>Angenommen.</p>
-                  <p>
+                  <p n="126">Deutsch: Wenn das Gesetz für die Staatsbediensteten gemacht wird, so gehören selbstverständlich die Militärpersonen auch </p>
+                  <p n="127">dazu. Es müssen bei diesem Gesetz die aktiven und die pensionierten Militärpersonen einbezogen werden, mit der Einschränkung, dass das Gesetz </p>
+                  <p n="128">vom Jahr 1875, welches bisher [besondere] Vorsorgen getroffen hat, außer Kraft gesetzt wird.</p>
+                  <p n="129">Stöckler: -.</p>
+                  <p n="130">Angenommen.</p>
+                  <p n="131">Hanusch: </p>
+                  <p n="132">Der Niederösterreichische Landtag hat eine Spiel- und Belustigungssteuer für Wr. Neustadt beschlossen. </p>
+                  <p n="133">Vorstellung.</p>
+                  <p n="134">Angenommen.</p>
+                  <p n="135">
                      <pb n="7"/>5. Reisch: </p>
-                  <p>Vollzugsanweisung zur Durchführung des Pensionsgesetzes.</p>
-                  <p>Erlass betreffend die Vorschussfragen.</p>
-                  <p>Resch: -.</p>
-                  <p>Miklas: Ich habe gehört, dass das Pensionsgesetz wegen der Überlastung der liquidierenden Stellen eigentlich erst wirksam - praktisch wirksam wird mit 1. Mai. </p>
-                  <p>Könnte den Pensionisten nicht ein entsprechender Vorschuss gegeben werden?</p>
-                  <p>Reisch: [Dies] wird berücksichtigt durch den hinauszugebenden Erlass.</p>
-                  <p>Angenommen.</p>
-                  <p>6. Stöckler: Flussregulierungen.</p>
-                  <p>Angenommen.</p>
-                  <p>5 Uhr.</p>
-                  <p>Nächste Sitzung, Dienstag, ½ 4 Uhr, </p>
-                  <p>Parlament.</p>
-                  <p>
+                  <p n="136">Vollzugsanweisung zur Durchführung des Pensionsgesetzes.</p>
+                  <p n="137">Erlass betreffend die Vorschussfragen.</p>
+                  <p n="138">Resch: -.</p>
+                  <p n="139">Miklas: Ich habe gehört, dass das Pensionsgesetz wegen der Überlastung der liquidierenden Stellen eigentlich erst wirksam - praktisch wirksam wird mit 1. Mai. </p>
+                  <p n="140">Könnte den Pensionisten nicht ein entsprechender Vorschuss gegeben werden?</p>
+                  <p n="141">Reisch: [Dies] wird berücksichtigt durch den hinauszugebenden Erlass.</p>
+                  <p n="142">Angenommen.</p>
+                  <p n="143">6. Stöckler: Flussregulierungen.</p>
+                  <p n="144">Angenommen.</p>
+                  <p n="145">5 Uhr.</p>
+                  <p n="146">Nächste Sitzung, Dienstag, ½ 4 Uhr, </p>
+                  <p n="147">Parlament.</p>
+                  <p n="148">
                      <pb/>
                   </p>
                </div>
-               <div>
-                  <head>Anhänge</head>
-                  <p>
-                     <pb n="1"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 169 von 9. April 1920.</p>
+               <div n="2">
+                  <head>|krp-0169_a01-0001|Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 169 von 9. April 1920.</head>
                </div>
-               <div>
-                  <head>1.</head>
-                  <div>
-                     <head>Überschrift</head>
-                     <p rend="Style 2" style="text-align: center;">
-                        <hi rend="Char_Style_3">
-                           <seg rend="italic">Landtagswahlen in Kärnten</seg>
-                           <seg rend="italic">.</seg>
-                        </hi>
-                     </p>
-                  </div>
-                  <div type="protokoll">
-                     <div type="notop" xml:id="krp-0169_notop01">
-                        <head>
-                           <label>Überschrift</label>
-                        </head>
-                     </div>
-                     <div type="notop" xml:id="krp-0169_notop02">
-                        <head>
-                           <label>Vortrag</label>
-                        </head>
-                     </div>
-                  </div>
+               <div n="3">
+                  <head/>
                </div>
             </div>
          </div>
