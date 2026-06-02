@@ -25,6 +25,7 @@
   <xsl:variable name="header-path"
                 select="concat('../../header-docs/', $krp-number, '_header.xml')"/>
   <xsl:variable name="top-header" select="('TOP', 'TOP-&#xDC;berschrift')"/><!-- allow for both headers present in model DOCXs -->
+  <xsl:variable name="shorthand-header" select="('Stenogramm', 'Stenogramme')" /><!-- allow for both headers present in model DOCXs -->
 
   <!-- Load and parse header doc, return document node; otherwise fail -->
   <xsl:variable name="header-doc" select="document($header-path)"/>
@@ -335,10 +336,10 @@
   </xsl:template>
 
   <!-- ================================================================== -->
-  <!-- 11. Transform Stenogramm head into div[@type='stenogramm'] -->
+  <!-- 11. Transform Stenogramm(e) head into div[@type='stenogramme'] -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Stenogramm']]">
-    <div type="stenogramm">
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = $shorthand-header]]">
+    <div type="stenogramme">
       <!-- filter out empty div nodes created by surplus DOCX whitespace -->
       <xsl:apply-templates select="tei:div[tei:head]"/>
     </div>
@@ -347,13 +348,14 @@
   <!-- ================================================================== -->
   <!-- 12. Label Stenogramm divs -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Stenogramm']]/tei:div">
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = $shorthand-header]]/tei:div">
     <!-- number divs through shorthand attribute value template -->
     <div n="{position()}">
+      <xsl:variable name="descriptor" select="if (tei:head/tei:hi[2]) then tei:head/tei:hi[2] else tei:p[1]"/><!-- allow for both header provenances in model DOCXs -->
       <head>
-        <xsl:value-of select="normalize-space(tei:head/tei:hi[2])"/>
+        <xsl:value-of select="normalize-space($descriptor)"/>
       </head>
-      <xsl:for-each select="tei:p | tei:list">
+      <xsl:for-each select="tei:p except $descriptor | tei:list">
         <xsl:choose>
           <xsl:when test="self::tei:list">
             <xsl:apply-templates select="."/>
@@ -361,7 +363,7 @@
           <xsl:otherwise>
             <p>
               <xsl:attribute name="n">
-                <xsl:number count="tei:p"/>
+                <xsl:number count="tei:p except $descriptor"/>
               </xsl:attribute>
               <xsl:apply-templates/>
             </p>
