@@ -83,7 +83,7 @@
   <!-- ================================================================== -->
   <!-- Clean up TEIGarage formatting -->
   <!-- ================================================================== -->
-  
+
   <!-- process children of style-information hi elements without preserving wrapper -->
   <xsl:template match="tei:hi[@style and not(@rend)]">
     <xsl:apply-templates/>
@@ -108,6 +108,22 @@
   
   <xsl:template match="tei:hi[contains(@rend, 'underline') and contains(@rend, 'strikethrough')]">
     <hi rend="#u"><hi rend="#s"><xsl:apply-templates/></hi></hi>
+  </xsl:template>
+  
+  <!-- drop pretty-print whitespace between seg fragments in <hi rend="Char_Style_N">-<seg> clusters -->
+  <xsl:strip-space elements="tei:hi tei:seg"/>
+  
+  <!-- strip character-style hi wrapper; process children (not value-of),
+       so nested markup (like page markers) still reaches its templates -->
+  <xsl:template match="tei:hi[starts-with(@rend, 'Char_Style_')]">
+    <xsl:apply-templates/>
+  </xsl:template>
+  
+  <!-- strip seg wrapper inside character-style hi wrapper;
+       leave page markers and transcribers' notes intact -->
+  <xsl:template match="tei:hi[starts-with(@rend, 'Char_Style_')]/tei:seg
+    [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)'))]">
+    <xsl:apply-templates/>
   </xsl:template>
    
   <!-- ================================================================== -->
