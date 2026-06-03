@@ -235,7 +235,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="#tfruehwirth" when-iso="2026-06-02">TEIGarage output upconverted with upconvert.xsl</change>
+         <change who="#tfruehwirth" when-iso="2026-06-03">TEIGarage output upconverted with upconvert.xsl</change>
          <change who="#tfruehwirth" when-iso="2026-05-19">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
@@ -429,7 +429,9 @@
                      <hi rend="Char_Style_3">
                         <seg style="font-size:12pt" xml:space="preserve"> und dass ein zweites Heft mit den Ergebnissen nach Städten mit eigenem Statut, nach Gerichts- und politischen Bezirken sowie nach Größengruppen der Gemeinden unter namentlicher Anführung der Gemeinden mit mehr als 5</seg>
                         <seg style="font-size:12pt">.</seg>
-                        <seg style="font-size:12pt">000 Einwohner sich im Drucke befinde. Dieses Heft sei inzwischen erschienen.</seg>
+                        <seg style="font-size:12pt" xml:space="preserve">000 Einwohner sich </seg>
+                        <seg style="font-size:12pt">im Drucke</seg>
+                        <seg style="font-size:12pt" xml:space="preserve"> befinde. Dieses Heft sei inzwischen erschienen.</seg>
                      </hi>
                   </p>
                   <p>
@@ -548,21 +550,27 @@
                         <seg style="font-size:12pt">Stöckle</seg>
                         <seg style="font-size:12pt" xml:space="preserve">r beschließt der Kabinettsrat, dass von der Erhebung einer Vorstellung gegen die Gesetzesbeschlüsse des </seg>
                         <seg style="font-size:12pt">Niederösterreichischen</seg>
-                        <seg style="font-size:12pt" xml:space="preserve"> Landtages vom 9. März 1920, betreffend die Regulierung des Moosbaches in den Katastralgemeinden Diesendorf</seg>
+                        <seg style="font-size:12pt" xml:space="preserve"> Landtages vom 9. März 1920, betreffend die Regulierung des Moosbaches in den Katastralgemeinden </seg>
+                        <seg style="font-size:12pt">Diesendorf</seg>
                      </hi>
                      <hi rend="Char_Style_51">
                         <seg style="font-size:12pt" xml:space="preserve"> und </seg>
                      </hi>
                      <hi rend="Char_Style_40">
-                        <seg style="font-size:12pt">Asperhofen (Ortsgemeinde Asperhofen) und betreffend die Regulierung des Pielach</seg>
+                        <seg style="font-size:12pt">Asperhofen</seg>
+                        <seg style="font-size:12pt" xml:space="preserve"> (Ortsgemeinde </seg>
+                        <seg style="font-size:12pt">Asperhofen</seg>
+                        <seg style="font-size:12pt">) und betreffend die Regulierung des Pielach</seg>
                      </hi>
                      <hi rend="Char_Style_3">
                         <seg rend="background(green)" style="font-size:12pt">|</seg>
                         <seg rend="background(green)" style="font-size:12pt">krp-0169_r-</seg>
                         <seg rend="background(green)" style="font-size:12pt">0023</seg>
                         <seg rend="background(green)" style="font-size:12pt">|</seg>
-                        <seg style="font-size:12pt" xml:space="preserve">flusses </seg>
-                        <seg style="font-size:12pt">in den Katastralgemeinden Loipersdorf und Völlerndorf (Ortsgemeinde Gerersdorf), abgesehen und der sofortigen Kundmachung dieser Gesetzesbeschlüsse unter Gegenzeichnung des Staatssekretärs für Land- und Forstwirtschaft zugestimmt werde.</seg>
+                        <seg style="font-size:12pt">flusses</seg>
+                        <seg style="font-size:12pt" xml:space="preserve">in den Katastralgemeinden Loipersdorf und </seg>
+                        <seg style="font-size:12pt">Völlerndorf</seg>
+                        <seg style="font-size:12pt" xml:space="preserve"> (Ortsgemeinde Gerersdorf), abgesehen und der sofortigen Kundmachung dieser Gesetzesbeschlüsse unter Gegenzeichnung des Staatssekretärs für Land- und Forstwirtschaft zugestimmt werde.</seg>
                      </hi>
                   </p>
                   <p>
@@ -743,11 +751,41 @@
                      <pb/>
                   </p>
                </div>
-               <div n="2">
-                  <head>|krp-0169_a01-0001|Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 169 von 9. April 1920.</head>
-               </div>
-               <div n="3">
-                  <head/>
+            </div>
+            <div type="anhänge">
+               <p>
+                  <pb n="1"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 169 von 9. April 1920.</p>
+               <div n="1">
+                  <head>Landtagswahlen in Kärnten.</head>
+                  <div type="protokoll">
+                     <p>Der Vorsitzende erstattet dem Kabinettsrat den beiliegenden vertraulichen Bericht, betreffend die Landtagswahlen in Kärnten. Der Kabinettsrat nimmt diesen Bericht zur Kenntnis.</p>
+                     <p>
+                        <hi rend="background(yellow)">BEILAGE: (ABER IST JA QUASI DER ANHANG)</hi>
+                     </p>
+                     <p>
+                        <pb n="2"/>
+                     </p>
+                     <div type="überschrift">
+                        <p>Mündlicher Vortrag für den Kabinettsrat<hi rend="Char_Style_3">
+                              <seg rend="italic">.</seg>
+                           </hi>
+                        </p>
+                     </div>
+                     <div type="vortrag">
+                        <p>Laut einer der Staatskanzlei zugekommenen Zuschrift des Staatsamtes für Äußeres meldete der österreichische Vertreter in Paris unter dem 28. März, der Präsident der Friedenskonferenz habe ihm in einer Note mitgeteilt, dass Österreich zu den Landtagswahlen in Kärnten angeblich auch die Bewohner der Abstimmungszone II heranziehen wolle, die laut Art. 50 des Friedensvertrages von St. Germain von Österreich besetzt und verwaltet wird. Die alliierten und assoziierten Mächte seien der Ansicht, dass vor der Durchführung der Volksabstimmung die Wähler der vorerwähnten Abstimmungszone unmöglich ihre Delegierten in einen österreichischen Vertretungskörper entsenden können; er erkläre daher namens aller Mächte, dass derartige Wahlen nicht zugelassen werden würden.</p>
+                        <p>Im Übrigen anerkennen die Mächte das Interesse Österreichs an einer raschen Regelung des Schicksals des Klagenfurter Beckens, dessen schwierige Situation ihnen aus unseren wiederholten Klagen und Protesten bekannt ist, und haben daher beschlossen, ohne das Inkrafttreten des Friedensvertrages abzuwarten, die Mitglieder der Plebiszitkommission zu ernennen und dieselben anzuweisen, sich ehebaldigst nach Klagenfurt zu begeben.</p>
+                        <p>Der österreichische Vertreter in Paris wird unter einem verständigt, dass aus außenpolitischen Gründen derzeit von der Vornahme der Landtagswahlen abgesehen wurde.</p>
+                        <p>Der Landesverweser von Kärnten wird unter einem in analogem Sinne verständigt. Am 16. März ist die nachstehende Zuschrift des Herrn Landesverwesers von Kärnten an den Herrn Staatskanzler gelangt:</p>
+                        <p>„Mit dem Gesetze vom 21. März 1919, LGBl. Nr. 20, wurde die Einberufung des verfassunggebenden Landtages von Kärnten angeordnet <pb n="3"/>und mit dem Art. IV dieses Gesetzes die Durchführung der Wahl innerhalb zweier Monate vom Tage der Kundmachung angesetzt. Die nach dem Zustandekommen dieses Gesetzes erfolgte Besetzung eines großen Teiles von Kärnten und sogar der Landeshauptstadt durch die Jugoslawen machte die Durchführung der Wahl in der oben festgesetzten Frist nicht möglich. Aber auch nach erfolgter Räumung von Klagenfurt durch die Jugoslawen und nach dem Abschlusse des Friedens von St. Germain erschien es notwendig, mit der Ausschreibung der Wahl bis zur Beendigung der Volksabstimmung und der durch diese gegebenen endgiltigen Entscheidung über das Schicksal und die geographischen Grenzen des Landes Kärnten zuzuwarten.</p>
+                        <p>Maßgebend war hiebei vor allem die Erwägung, dass das eingangs erwähnte Gesetz einen anderen Gebietsumfang Kärntens vorgesehen hatte und daher nicht nur eine Abänderung dieses Gesetzes überhaupt erfolgen muss, sondern auch für eine sofort vorzunehmende Wahl eine einstweilige gesetzliche Regelung erfolgen musste. Man hoffte damals auch allgemein, dass der Friedensvertrag von St. Germain in absehbarer Zeit von drei Großmächten ratifiziert und innerhalb dreier Monate nach Ratifizierung die Durchführung der Volksabstimmung erfolgen werde.</p>
+                        <p>Da sich diese Erwartung bisher nicht verwirklichte, wenn auch heute aller Voraussicht nach die Ratifikation des Friedensvertrages nicht mehr allzu lange auf sich warten lassen dürfte, wurde bereits mehrfach der Wunsch laut, nunmehr ohne Rücksicht auf den Zeitpunkt der Volksabstimmung sobald als möglich die Ausschreibung der Landtagswahlen zu veranlassen, um auch in Kärnten die Einberufung eines verfassunggebenden Landtages endlich zu ermöglichen.</p>
+                        <p>Bevor ich diese Angelegenheit den Kärntner Landesrate zur Schlussfassung vorlege, wäre es mir von großem Werte, Ihre Stellungnahme, sehr geehrter Herr Staatskanzler, namentlich auch in Ihrer Eigenschaft als Staatssekretär für Äußeres kennen zu lernen, wobei <pb n="4"/>ich jedoch meinen Bedenken insbesondere dahin Ausdruck geben möchte. dass seitens der Abstimmungskommission im Klagenfurter Becken, welche nach den neuesten Mitteilungen <hi rend="#u">in den allernächsten Tagen eintreffen dürfte</hi>, wohl kaum die Zustimmung zur Durchführung der Wahl in der Zone II des Abstimmungsgebietes zu erlangen sein wird, da über die Zugehörigkeit dieses Gebietes zu Österreich, bzw. zu Kärnten eben erst durch die Abstimmung entschieden werden soll.</p>
+                        <p>Über offiziöse Intervention der bisherigen interalliierten Mission tagt ja auch die Provisorische Landesversammlung nicht in Klagenfurt, sondern außerhalb des Abstimmungsgebietes in St. Veit [an der Glan]. Auf jeden Fall könnte ein Landtag, welcher unter Ausschaltung des ganzen Klagenfurter Gebietes oder auch nur der Zone I dieses Gebietes gewählt worden wäre, nur ein Rumpfparlament darstellen und könnte dessen Berechtigung, für das ganze Land bindende Entschlüsse zu fassen, mit Recht in Zweifel gezogen werden. </p>
+                        <p>Nach meiner persönlichen Meinung müsste daher in Berücksichtigung der außergewöhnlichen Verhältnisse in Kärnten mit der Durchführung der Wahlen unbedingt bis zur Beendigung der Volksabstimmung zugewartet werden müssen.</p>
+                        <p>Ich wäre Ihnen, sehr geehrter Herr Staatskanzler, für die baldige Bekanntgabe Ihres Standpunktes in dieser Angelegenheit sehr verbunden.“</p>
+                        <p>Der Herr Staatskanzler hat diese Zuschrift des Herrn Landesverwesers von Kärnten mit einem Schreiben vom 24. März 1920 zur Kenntnis genommen. Die Staatskanzlei glaubt, diesen Sachverhalt dem Kabinettsrate zur vertraulichen Kenntnis bringen zu sollen.</p>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>

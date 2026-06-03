@@ -28,7 +28,7 @@
         <revisionDesc>
             <listChange>
                 <change>
-                    <date>2026-06-02T07:46:31Z</date>
+                    <date>2026-06-02T13:33:54Z</date>
                     <name>Anna Holzer</name>
                 </change>
             </listChange>
@@ -42,7 +42,8 @@
                         <hi style="font-family:Aptos Display;font-size:28pt">121.</hi>
                     </titlePart>
                     <titlePart type="Subtitle">
-                        <hi rend="color(595959)" style="font-size:14pt">[Dienstag] 1919-11-11</hi>
+                        <hi rend="background(green)" style="font-size:12pt">|KRP0121_R0001||KRP0121_R0002|</hi>
+                        <hi style="font-size:14pt">[Dienstag] 1919-11-11</hi>
                     </titlePart>
                 </docTitle>
             </titlePage>
@@ -65,7 +66,7 @@
                         <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:16pt">Anwesend:</hi>
                     </head>
                     <p>
-                        <hi style="font-size:12pt">Deutsch, Eisler, Eldersch, Gl&#xF6;ckel, Hanusch, L&#xF6;wenfeld-Ru&#xDF;, Mayr, Miklas, Paul, Ramek, Reisch, Resch, St&#xF6;ckler, Tandler, Wai&#xDF;, Zerdik</hi>
+                        <hi style="font-size:12pt">Deutsch, Eisler, Eldersch, Gl&#xF6;ckel, Hanusch, Loewenfeld-Russ, Mayr, Miklas, Paul, Ramek, Reisch, Resch, St&#xF6;ckler, Tandler, Waiss, Zerdik</hi>
                     </p>
                 </div>
                 <div>
@@ -98,7 +99,7 @@
                     <hi rend="normalweight color(0F4761)" style="font-family:Aptos Display;font-size:20pt">Komponenten</hi>
                 </head>
                 <p>
-                    <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reinschrift, Konzept, Stenogramm (A, B), Entwurf der Tagesordnung </hi>
+                    <hi rend="italic" style="font-size:12pt" xml:space="preserve">Reinschrift, Konzept, Stenogramm (1, 2), Entwurf der Tagesordnung </hi>
                 </p>
             </div>
             <div>
