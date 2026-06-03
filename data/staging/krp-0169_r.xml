@@ -243,17 +243,13 @@
       <body>
          <div xml:id="doc-krp-0169.xml">
             <head type="dokument">
-               <title type="num"/>
-               <title type="desc"/>
-            </head>
-            <div>
-               <p rend="Title">169.<note place="foot" xml:id="ftn1" n="1">
+               <title type="num">169.<note place="foot" xml:id="ftn1" n="1">
                      <p rend="footnote text"> Das Protokoll trägt den Vermerk Vertraulich!</p>
                   </note>
-               </p>
-               <p rend="Subtitle">
-                  <pb n="3"/>[Freitag] 1920-04-09</p>
-            </div>
+               </title>
+               <title type="desc">[Freitag] 1920-04-09</title>
+            </head>
+            <pb n="3"/>
             <div type="dokumentkopf">
                <div type="vorsitz">
                   <head>Vorsitz:</head>
