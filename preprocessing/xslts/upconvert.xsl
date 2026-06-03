@@ -152,6 +152,9 @@
 
   <!-- suppress front element -->
   <xsl:template match="tei:front"/>
+  
+  <!-- suppress title-and-subtitle div if present -->
+  <xsl:template match="tei:body/tei:div[tei:p[@rend='Title']]"/>
 
   <xsl:template match="tei:body">
     <xsl:copy>
@@ -160,6 +163,12 @@
       <xsl:variable name="body-content" select="node()"/>
       <!-- save front element before xsl:copy changes context -->
       <xsl:variable name="front" select="../tei:front"/>
+      <xsl:variable name="title-container" select="if ($front)
+                then $front//tei:titlePart[@type='Title']
+                else ($body-content/self::tei:div)[1]/tei:p[@rend='Title']"/><!-- allow for both protcol-title containers present in model DOCXs -->
+      <xsl:variable name="subtitle-container" select="if ($front)
+                then $front//tei:titlePart[@type='Subtitle']
+                else ($body-content/self::tei:div)[1]/tei:p[@rend='Subtitle']"/><!-- allow for both protcol-subtitle containers present in model DOCXs -->
       <!-- wrap body content in outermost div from TEI-header document -->
       <xsl:copy select="$header-doc//tei:body/tei:div">
         <xsl:copy-of select="$header-doc//tei:body/tei:div/@*"/>
@@ -168,12 +177,16 @@
         <!-- ================================================================== -->
         <head type="dokument">
           <title type="num">
-            <xsl:value-of select="normalize-space($front//tei:titlePart[@type='Title'])"/>
+            <xsl:value-of select="normalize-space(
+                string-join($title-container//text()[not(ancestor::tei:note)], ''))"/><!-- grab text, but skip footnote -->
+            <xsl:apply-templates select="$title-container//tei:note[@place='foot']"/><!-- pass through footnote -->
           </title>
           <title type="desc"><!-- changed from MRP-style @type='descr' -->
-            <xsl:value-of select="normalize-space($front//tei:titlePart[@type='Subtitle'])"/>
+            <xsl:value-of select="normalize-space(
+                string-join($subtitle-container//text()[not(ancestor::tei:hi[contains(@rend,'background(green)')])], ''))"/><!-- grab text, but skip page markers -->
           </title>
         </head>
+        <xsl:apply-templates select="$subtitle-container//tei:hi[contains(@rend,'background(green)')]"/><!-- pass through page markers from subtitle container -->
         <xsl:apply-templates select="$body-content"/>
       </xsl:copy>
     </xsl:copy>

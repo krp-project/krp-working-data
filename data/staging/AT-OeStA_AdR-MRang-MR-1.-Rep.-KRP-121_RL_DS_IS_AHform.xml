@@ -244,8 +244,9 @@
          <div xml:id="doc-krp-0121.xml">
             <head type="dokument">
                <title type="num">121.</title>
-               <title type="desc">|KRP0121_R0001||KRP0121_R0002| [Dienstag] 1919-11-11</title>
+               <title type="desc">[Dienstag] 1919-11-11</title>
             </head>
+            <pb n="2"/>
             <div type="dokumentkopf">
                <div type="vorsitz">
                   <head>Vorsitz:</head>
