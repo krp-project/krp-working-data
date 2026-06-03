@@ -247,7 +247,10 @@
                <title type="desc"/>
             </head>
             <div>
-               <p rend="Title">169.</p>
+               <p rend="Title">169.<note place="foot" xml:id="ftn1" n="1">
+                     <p rend="footnote text"> Das Protokoll trägt den Vermerk Vertraulich!</p>
+                  </note>
+               </p>
                <p rend="Subtitle">
                   <pb n="3"/>[Freitag] 1920-04-09</p>
             </div>
@@ -276,19 +279,19 @@
                <head>Beilagen:</head>
                <list>
                   <item>
-                     <ref target="#krp-0169_topNaN">Zu TOP 2</ref>Beilage betreffend z. Zl. 61/18 St.K. ex 1920 über das Gesetz zur Aberkennung der Staatsbürgerschaft von Personen, die in fremden Armeen Dienst versehen</item>
+                     <ref target="#krp-0169_topNaN">Zu TOP 2</ref>zu Zl. 61/18 St.K./1920 über das Gesetz zur Aberkennung der Staatsbürgerschaft von Personen, die in fremden Armeen Dienst versehen</item>
                   <item>
-                     <ref target="#krp-0169_topNaN">Zu TOP 5</ref>Beilage betreffend Gesetz zur Aufhebung der Fideikommisse mit Begründung</item>
+                     <ref target="#krp-0169_topNaN">Zu TOP 5</ref>Gesetz zur Aufhebung der Fideikommisse mit Begründung</item>
                   <item>
-                     <ref target="#krp-0169_topNaN">Zu TOP 5</ref>Beilage betreffend Information für den Staatssekretär für Land- und Forstwirtschaft wegen der Aufhebung der Fideikommisse</item>
+                     <ref target="#krp-0169_topNaN">Zu TOP 5</ref>Information für den Staatssekretär für Land- und Forstwirtschaft betreffend die Aufhebung der Fideikommisse</item>
                   <item>
-                     <ref target="#krp-0169_topNaN">Zu TOP 6</ref>Beilage betreffend Entwurf des Krankenversicherungsgesetzes mit Begründung </item>
+                     <ref target="#krp-0169_topNaN">Zu TOP 6</ref>Entwurf des Krankenversicherungsgesetzes mit Begründung </item>
                   <item>
-                     <ref target="#krp-0169_topNaN">Zu TOP 8</ref>Beilage betreffend Vortrag und Entwurf der Vollzugsanweisung über die Durchführung des Pensionistengesetzes</item>
+                     <ref target="#krp-0169_topNaN">Zu TOP 8</ref>Vortrag und Entwurf der Vollzugsanweisung über die Durchführung des Pensionistengesetzes</item>
                   <item>
-                     <ref target="#krp-0169_topNaN">Zu TOP 8</ref>Beilage betreffend Vollzugsanweisung der Staatsregierung zum Pensionistengesetz</item>
+                     <ref target="#krp-0169_topNaN">Zu TOP 8</ref>Vollzugsanweisung zur Hinterbliebenenversorgungsnovelle</item>
                   <item>
-                     <ref target="#krp-0169_topNaN">Zu TOP 9</ref>Beilage betreffend Vorlage des Staatsamt für Land- und Forstwirtschaft z. Zl. 7290/1920 über mehrere Gesetzesbeschlüsse des Niederösterreichischen Landtages zur Regulierung mehrerer Wasserläufe</item>
+                     <ref target="#krp-0169_topNaN">Zu TOP 9</ref>Vorlage des Staatsamt für Land- und Forstwirtschaft zu Zl. 7290/1920 über mehrere Gesetzesbeschlüsse des Niederösterreichischen Landtages zur Regulierung mehrerer Wasserläufe</item>
                </list>
             </div>
             <div type="protokoll">
@@ -307,7 +310,7 @@
                   <head>
                      <label>
                         <num n="2">2.</num>
-                        <seg>Gesetzentwurf über die Aberkennung der Staatsbürgerschaft von Personen, die in der Wehrmacht eines fremden Staates militärische Dienste genommen haben, im Hinblick auf Art.   158 1.   Abs. des Staatsvertrages von St.   Germain.</seg>
+                        <seg>Gesetzentwurf über die Aberkennung der Staatsbürgerschaft von Personen, die in der Wehrmacht eines fremden Staates militärische Dienste genommen haben, im Hinblick auf Art. 158 1. Abs. des Staatsvertrages von St. Germain.</seg>
                      </label>
                   </head>
                   <p>Vizekanzler Fink unterbreitet dem Kabinettsrat den Entwurf eines Gesetzes über die Aberkennung der Staatsbürgerschaft von Personen, die in der Wehrmacht eines fremden Staates militärische Dienste genommen haben, im Hinblick auf Art. 158 1. Abs. des Staatsvertrages von St. Germain.</p>
@@ -332,13 +335,9 @@
                   <p>Staatssekretär Dr. Reisch verweist darauf, dass der vorliegende Entwurf bei Gesetzwerdung zweifellos Repressivmaßregeln bei den Sukzessionsstaaten auslösen würde, was aus staatsfinanziellen Gründen zu großen Bedenken Anlass gebe. Er beantrage, die Angelegenheit behufs Klarstellung der Konsequenzen zu vertagen.</p>
                   <p>Nachdem noch Unterstaatssekretär Dr. Resch den Ausführungen der Staatssekretäre Dr. Ramek und Dr. Reisch beigepflichtet hatte, beschließt der Kabinettsrat über Vorschlag des Vorsitzenden, den Gesetzentwurf einer Vorberatung durch eine aus dem Vizekanzler und den Staatssekretären für Justiz, für Finanzen, für Inneres und Unterricht und für Heereswesen bestehende Kabinettskonferenz unterziehen zu lassen.</p>
                   <p>
-                     <hi rend="Char_Style_3">
-                        <seg rend="background(green)">|</seg>
-                        <seg rend="background(green)">krp-0169_r-</seg>
-                        <seg rend="background(green)">00</seg>
-                        <seg rend="background(green)">12</seg>
-                        <seg rend="background(green)">|</seg>
-                     </hi>
+                     <seg rend="background(green)">|krp-0169_r-00</seg>
+                     <seg rend="background(green)">12</seg>
+                     <seg rend="background(green)">|</seg>
                   </p>
                </div>
                <div type="top" xml:id="krp-0169_top03">
@@ -348,7 +347,7 @@
                         <seg>Ausgestaltung der Redoutensäle für Zwecke der beiden Staatstheater.</seg>
                      </label>
                   </head>
-                  <p>Über Einladung des Vorsitzenden berichtet der Oberste Verwalter des Hofärars Sektionschef Dr. Beck, dass die aufgrund des Kabinettsratsbeschlusses vom 18. April 1919 eingesetzte Kommission in Verfolgung der Frage, auf welche Weise eine Sanierung der hofärarischen Theater erzielt werden könnte, erkannt habe, dass als einer der aussichtsreichsten Vorschläge zum Abbau des Defizits der vormaligen Hoftheater die von Hofrat Prof. Roller vorgeschlagene Ausgestaltung der Redoutensäle für Zwecke der beiden Staatstheater in Betracht käme. Dieses Projekt sei nach eingehender Überprüfung und nach kommissioneller Besichtigung der Redoutensäle mit Zustimmung zur Kenntnis genommen worden. Hiebei wurde ein Gutachten der hofärarischen Bauabteilung und eine annähernde Rentabilitätsberechnung vorgelegt, die eindringlich für eine Durchführung des Vorschlages Prof. Rollers sprachen, indem bei nur 100 Vorstellungen im Jahre mit einer Einnahme von etwa 1.400.000 K zu rechnen wäre, der nur 367.000 K an jährlichen Ausgaben gegenüberstünden. Wenn sich somit schon aufgrund dieser Be<pb n="13"/>rechnung ein jährlicher Reingewinn von etwa 1.000.000 K ergäbe, dürfe wohl erwartet werden, dass sich die Einnahmen in späteren Jahren durch Vermehrung der Vorstellungen noch wesentlich erhöhen ließen. Auch werde es möglich sein, die Redoutensäle an freien Abenden und Nachmittagen an künstlerisch hochwertige Unternehmungen (Konzerte u. dgl.) zu vermieten und dadurch einen weiteren bedeutenden Erlös zu erzielen. Sollte ferner die Anregung, im Anschlusse an den Theaterbetrieb ein Restaurant einzurichten, sich – wie es den Anschein habe – durchführen lassen, werde sich noch eine Pachtsumme von mindestens 100.000 K im Jahre erlösen lassen.</p>
+                  <p>Über Einladung des Vorsitzenden berichtet der Oberste Verwalter des Hofärars Sektionschef Dr. Beck, dass die aufgrund des Kabinettsratsbeschlusses vom 18. April 1919 eingesetzte Kommission in Verfolgung der Frage, auf welche Weise eine Sanierung der hofärarischen Theater erzielt werden könnte, erkannt habe, dass als einer der aussichtsreichsten Vorschläge zum Abbau des Defizits der vormaligen Hoftheater die von Hofrat Prof. Roller vorgeschlagene Ausgestaltung der Redoutensäle für Zwecke der beiden Staatstheater in Betracht käme. Dieses Projekt sei nach eingehender Überprüfung und nach kommissioneller Besichtigung der Redoutensäle mit Zustimmung zur Kenntnis genommen worden. Hiebei wurde ein Gutachten der hofärarischen Bauabteilung und eine annähernde Rentabilitätsberechnung vorgelegt, die eindringlich für eine Durchführung des Vorschlages Prof. Rollers sprachen, indem bei nur 100 Vorstellungen im Jahre mit einer Einnahme von etwa 1.400.000 K zu rechnen wäre, der nur 367.000 K an jährlichen Ausgaben gegenüberstünden. Wenn sich somit schon aufgrund dieser Be<pb n="13"/>rechnung ein jährlicher Reingewinn von etwa 1.000.000 K ergäbe, dürfe wohl erwartet werden, dass sich die Einnahmen in späteren Jahren durch Vermehrung der Vorstellungen noch wesentlich erhöhen ließen. Auch werde es möglich sein, die Redoutensäle an freien Abenden und Nachmittagen an künstlerisch hochwertige Unternehmungen (Konzerte u. dgl.) zu vermieten und dadurch einen weiteren bedeutenden Erlös zu erzielen. Sollte ferner die Anregung, im Anschlusse an den Theaterbetrieb ein Restaurant einzurichten, sich – wie es den Anschein habe – durchführen lassen, werde sich noch eine Pachtsumme von mindestens 100.000 K im Jahre erlösen lassen.</p>
                   <p>Die Aufwendungen für die Adaptierung der Säle seien mit 1.400.000 K veranschlagt worden.</p>
                   <p>Die Unterrichtsverwaltung, welche Anspruch auf die Redoutensäle für Zwecke der Hofbibliothek erhoben hatte, habe dieses Verlangen mit Rücksicht auf die aus Gründen der Denkmalpflege unbedingt notwendige Erhaltung der Redoutensäle in ihrer heutigen Gestalt unter der Voraussetzung zurückgezogen, dass für die Hofbibliothek andere Räume in der neuen Burg zur Verfügung gestellt werden.</p>
                   <p>Die bei diesem Anlasse neuerdings <pb n="14"/>erhobene Forderung des Unterrichtsamtes, die Staatstheater in Hinkunft in weiterem Maß als bisher der Volksbildung dienstbar zu machen, werde bei Durchführung des vorliegenden Vorschlages und infolge des damit verbundenen Abbaues des Defizites der Staatstheater der Verwirklichung sehr wesentlich näher gerückt werden.</p>
@@ -362,129 +361,16 @@
                         <seg>Wahlstatistik.</seg>
                      </label>
                   </head>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve">Der </seg>
-                        <seg style="font-size:12pt">Vorsitzend</seg>
-                        <seg style="font-size:12pt" xml:space="preserve">e teilt mit, dass die Nationalversammlung die Regierung aufgefordert hatte, die Statistik über die Wahlen zur Nationalversammlung </seg>
-                     </hi>
-                     <hi rend="Char_Style_32">
-                        <seg style="font-size:12pt" xml:space="preserve">vom 16. </seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">Februar</seg>
-                     </hi>
-                     <hi rend="Char_Style_32">
-                        <seg style="font-size:12pt" xml:space="preserve"> 1919</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> und über die nachher </seg>
-                        <seg rend="background(green)" style="font-size:12pt">|</seg>
-                        <seg rend="background(green)" style="font-size:12pt">krp-0169_r-</seg>
-                        <seg rend="background(green)" style="font-size:12pt">00</seg>
-                        <seg rend="background(green)" style="font-size:12pt">15</seg>
-                        <seg rend="background(green)" style="font-size:12pt">|</seg>
-                        <seg style="font-size:12pt">erfolgten Landtagswahl</seg>
-                        <seg style="font-size:12pt" xml:space="preserve">en </seg>
-                        <seg style="font-size:12pt">in den Ländern mit tunlichster Beschleunigung herausgeben zu</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> lassen,</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> und</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> zwar</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> in einer ersten Tabelle die Wahlergebnisse vom Februar nach autonomen Städten, Gerichtsbezirken und Wahlkreisen geordnet, in einer zweiten</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> Tabelle in</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> gleicher Weise die Landtagswahlen, endlich in einer dritten Tabelle eine Gegenüberstellung der Ergebnisse der Wahlen zur</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> Na</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">tionalversammlung und jener zum betreffenden Landtag nach Gemeinden und Gerichtsbezirken.</seg>
-                     </hi>
-                  </p>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">Der von</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> der</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> Statistischen Zentralkommission eingeholte Bericht verweise zunächst darauf, dass die vorläufigen Ergebnisse der Nationalratswahlen nach Wahlkreisen bereits im Sommer 1919 veröffentlicht</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> worden sei</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> und dass ein zweites Heft mit den Ergebnissen nach Städten mit eigenem Statut, nach Gerichts- und politischen Bezirken sowie nach Größengruppen der Gemeinden unter namentlicher Anführung der Gemeinden mit mehr als 5</seg>
-                        <seg style="font-size:12pt">.</seg>
-                        <seg style="font-size:12pt" xml:space="preserve">000 Einwohner sich </seg>
-                        <seg style="font-size:12pt">im Drucke</seg>
-                        <seg style="font-size:12pt" xml:space="preserve"> befinde. Dieses Heft sei inzwischen erschienen.</seg>
-                     </hi>
-                  </p>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">Die Ergebnisse der Landtagswahlen 1919 würden in</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> gleicher Weise</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> gegliedert, demnächst</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> veröffentlicht werden,</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> die Arbeiten hie</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt">zu</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> seien</seg>
-                     </hi>
-                     <hi rend="Char_Style_33">
-                        <seg style="font-size:12pt" xml:space="preserve"> im vollen Gang.</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt" xml:space="preserve"> Eine </seg>
-                        <seg rend="background(green)" style="font-size:12pt">|</seg>
-                        <seg rend="background(green)" style="font-size:12pt">krp-0169_r-</seg>
-                        <seg rend="background(green)" style="font-size:12pt">00</seg>
-                        <seg rend="background(green)" style="font-size:12pt">16</seg>
-                        <seg rend="background(green)" style="font-size:12pt">|</seg>
-                        <seg style="font-size:12pt">Tabelle zur Vergleichung der beiden Daten sei von Haus aus geplant gewesen.</seg>
-                     </hi>
-                  </p>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">Die Gegenüberstellung der beiden Ergebnisse nach Gemeinden durchgeführt, bezeichne die Statistische Zentralkommission zwar als bisher nicht üblich,</seg>
-                        <seg style="font-size:12pt">weil fachlich nicht empfehlenswert und ungemein kostspielig. Um aber dem ausdrücklichen Wunsche der Nationalversammlung Rechnung zu tragen, sei, da das Staatsamt für Inneres und Unterricht nunmehr erklärt habe, die Druckkosten für diese Veröffentlichung auf sein Budget übernehmen zu wollen, auch diese Arbeit in Angriff genommen worden.</seg>
-                     </hi>
-                  </p>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">Die Staatskanzlei beabsichtige, in diesem Sinne das Präsidium der Nationalversammlung in Kenntnis zu setzen.</seg>
-                     </hi>
-                  </p>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">Der Kabinettsrat nimmt diese Mitteilungen zustimmend zur Kenntnis.</seg>
-                     </hi>
-                  </p>
+                  <p>Der Vorsitzende teilt mit, dass die Nationalversammlung die Regierung aufgefordert hatte, die Statistik über die Wahlen zur Nationalversammlung vom 16. Februar 1919 und über die nachher <seg rend="background(green)" style="font-size:12pt">|krp-0169_r-00</seg>
+                     <seg rend="background(green)" style="font-size:12pt">15</seg>
+                     <seg rend="background(green)" style="font-size:12pt">|</seg>erfolgten Landtagswahlen in den Ländern mit tunlichster Beschleunigung herausgeben zu lassen, und zwar in einer ersten Tabelle die Wahlergebnisse vom Februar nach autonomen Städten, Gerichtsbezirken und Wahlkreisen geordnet, in einer zweiten Tabelle in gleicher Weise die Landtagswahlen, endlich in einer dritten Tabelle eine Gegenüberstellung der Ergebnisse der Wahlen zur Nationalversammlung und jener zum betreffenden Landtag nach Gemeinden und Gerichtsbezirken.</p>
+                  <p>Der von der Statistischen Zentralkommission eingeholte Bericht verweise zunächst darauf, dass die vorläufigen Ergebnisse der Nationalratswahlen nach Wahlkreisen bereits im Sommer 1919 veröffentlicht worden sei und dass ein zweites Heft mit den Ergebnissen nach Städten mit eigenem Statut, nach Gerichts- und politischen Bezirken sowie nach Größengruppen der Gemeinden unter namentlicher Anführung der Gemeinden mit mehr als 5.000 Einwohner sich im Drucke befinde. Dieses Heft sei inzwischen erschienen.</p>
+                  <p>Die Ergebnisse der Landtagswahlen 1919 würden in gleicher Weise gegliedert, demnächst veröffentlicht werden, die Arbeiten hiezu seien im vollen Gang. Eine <seg rend="background(green)" style="font-size:12pt">|krp-0169_r-00</seg>
+                     <seg rend="background(green)" style="font-size:12pt">16</seg>
+                     <seg rend="background(green)" style="font-size:12pt">|</seg>Tabelle zur Vergleichung der beiden Daten sei von Haus aus geplant gewesen.</p>
+                  <p>Die Gegenüberstellung der beiden Ergebnisse nach Gemeinden durchgeführt, bezeichne die Statistische Zentralkommission zwar als bisher nicht üblich,weil fachlich nicht empfehlenswert und ungemein kostspielig. Um aber dem ausdrücklichen Wunsche der Nationalversammlung Rechnung zu tragen, sei, da das Staatsamt für Inneres und Unterricht nunmehr erklärt habe, die Druckkosten für diese Veröffentlichung auf sein Budget übernehmen zu wollen, auch diese Arbeit in Angriff genommen worden.</p>
+                  <p>Die Staatskanzlei beabsichtige, in diesem Sinne das Präsidium der Nationalversammlung in Kenntnis zu setzen.</p>
+                  <p>Der Kabinettsrat nimmt diese Mitteilungen zustimmend zur Kenntnis.</p>
                </div>
                <div type="top" xml:id="krp-0169_top05">
                   <head>
@@ -500,7 +386,7 @@
                   <p>Unterstaatssekretär Dr. Eis1er pflichtet dieser Auffassung bei und gibt der Anschauung Ausdruck, dass den Bedenken des Staatssekretärs Stöckler etwa durch eine Ergänzung und Verschärfung des Grundverkehrsgesetzes Rechnung getragen werden könnte.</p>
                   <p>Unterstaatssekretär Miklas beantragt, behufs Aufrechterhaltung insbesondere der Patronatsverpflichtungen im § 3 Abs. 1 des Entwurfes nach dem Worte „gemeinnützige“ die Worte „oder öffentlichrechtliche“ einzuschalten. Der Ausdruck „reiner Wert“ im § 8 wäre entsprechend der Umschreibung dieses Begriffes im Gesetz über die große Vermögensabgabe zu ändern.</p>
                   <p>
-                     <pb n="19"/>Über Vorschlag des Vizekanzlers Fink beschließt der Kabinettsrat die Einsetzung einer aus den Staatssekretären für Justiz, für Land- und Forstwirtschaft und für Finanzen bestehenden Kabinettskonferenz, welche unter Beiziehung eines Vertreters der Staatskanzlei den Entwurf durchzuberaten und binnen längstens 14 Tagen dem Kabinettsrat Bericht zu erstatten haben wird. Die Führung in dieser Angelegenheit obliegt dem Staatssekretär für Justiz.</p>
+                     <pb n="19"/>Über Vorschlag des Vizekanzlers Fink beschließt der Kabinettsrat die Einsetzung einer aus den Staatssekretären für Justiz, für Land- und Forstwirtschaft und für Finanzen bestehenden Kabinettskonferenz, welche unter Beiziehung eines Vertreters der Staatskanzlei den Entwurf durchzuberaten und binnen längstens 14 Tagen dem Kabinettsrat Bericht zu erstatten haben wird. Die Führung in dieser Angelegenheit obliegt dem Staatssekretär für Justiz.</p>
                </div>
                <div type="top" xml:id="krp-0169_top06">
                   <head>
@@ -509,7 +395,7 @@
                         <seg>Gesetzentwurf über die Ausdehnung der Krankenversicherung (5. Novelle zum Krankenversicherungsgesetz).</seg>
                      </label>
                   </head>
-                  <p>Staatssekretär Hanusch unterbreitet dem Kabinettsrate den Entwurf eines Gesetzes über die Ausdehnung der Krankenversicherung (5. Novelle zum Krankenversicherungsgesetz) und bittet um die Ermächtigung, diese Vorlage, durch welche die Krankenversicherungspflicht auf alle unselbständig Erwerb[s]tätigen (u. a. die land- und forstwirtschaftlichen Arbeiter) ohne Rücksicht auf die rechtliche Stellung der Dienstgeber und auf einige dieser Maßnahme besonders bedürftige Gruppen von Halbselbstständigen ausgedehnt werden soll, in der Nationalversammlung einbringen zu dürfen.</p>
+                  <p>Staatssekretär Hanusch unterbreitet dem Kabinettsrate den Entwurf eines Gesetzes über die Ausdehnung der Krankenversicherung (5. Novelle zum Krankenversicherungsgesetz) und bittet um die Ermächtigung, diese Vorlage, durch welche die Krankenversicherungspflicht auf alle unselbständig Erwerb[s]tätigen (u. a. die land- und forstwirtschaftlichen Arbeiter) ohne Rücksicht auf die rechtliche Stellung der Dienstgeber und auf einige dieser Maßnahme besonders bedürftige Gruppen von Halbselbstständigen ausgedehnt werden soll, in der Nationalversammlung einbringen zu dürfen.</p>
                   <p>
                      <pb n="20"/>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
                </div>
@@ -520,10 +406,10 @@
                         <seg>Gesetzesbeschluss des Niederösterreichischen Landtages, betreffend die Einhebung einer Gemeindeabgabe von Spielen und Belustigungen für Zwecke der sozialen Fürsorge in Wiener Neustadt.</seg>
                      </label>
                   </head>
-                  <p>Staatssekretär Hanusch teilt mit, dass der Niederösterreichische Landtag in seiner Sitzung am 11. März d. J. einen Gesetzesbeschluss, betreffend die Einhebung einer Gemeindeabgabe von Spielen und Belustigungen für Zwecke der sozialen Fürsorge in Wiener Neustadt, gefasst habe.</p>
+                  <p>Staatssekretär Hanusch teilt mit, dass der Niederösterreichische Landtag in seiner Sitzung am 11. März d. J. einen Gesetzesbeschluss, betreffend die Einhebung einer Gemeindeabgabe von Spielen und Belustigungen für Zwecke der sozialen Fürsorge in Wiener Neustadt, gefasst habe.</p>
                   <p>Gegen diesen Beschluss bestehe das Bedenken, dass bereits in der Nationalversammlung eine Regierungsvorlage (Spielabgabengesetz) in Verhandlung stehe, worin für eine Reihe von gleichen Veranstaltungen eine ganz analoge Abgabe für besonders dringende Zwecke der sozialen Fürsorge, und zwar für Kriegsbeschädigte, Kriegerwitwen und Kriegerwaisen in Aussicht genommen sei.</p>
                   <p>Da nun die Fürsorge für diese Personen nach der bestehenden Verfassung in die staatliche Kompetenz falle, würde durch den vom Niederösterreichischen Landtag beschlossenen Gesetzentwurf eines Spielabgabengesetzes für Wiener Neustadt, soweit er mit der vorerwähnten Regierungsvorlage kollidiere, in den Bereich der staatli<pb n="21"/>chen Fürsorge sicherlich eingegriffen und das zweckmäßige Zustandekommen des staatlichen Spielabgabengesetzes beeinträchtigt werden, zumal auch allgemeine Zweckmäßigkeitserwägungen dagegen sprechen müssen, derartige Abgabengesetze für einzelne Orte zu erlassen und damit die Abgabenquelle gegen das Interesse der beteiligten Kreise und zum Nachteile einer gleichmäßigen Heranziehung der Bevölkerung zu diesen Lasten zu zersplittern.</p>
-                  <p>Es werde daher, vorbehaltlich der späteren genaueren Präzisierung dieser Bedenken vorläufig um die Ermächtigung gebeten, im Sinne des Art. 14 des Gesetzes vom 14. März 1919 über die Volksvertretung, StGB1. Nr. 179, gegen den in Rede stehenden Beschluss des Landtages namens der Staatsregierung Vorstellung zu erheben.</p>
+                  <p>Es werde daher, vorbehaltlich der späteren genaueren Präzisierung dieser Bedenken vorläufig um die Ermächtigung gebeten, im Sinne des Art. 14 des Gesetzes vom 14. März 1919 über die Volksvertretung, StGBl. Nr. 179, gegen den in Rede stehenden Beschluss des Landtages namens der Staatsregierung Vorstellung zu erheben.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
                </div>
                <div type="top" xml:id="krp-0169_top08">
@@ -534,7 +420,7 @@
                      </label>
                   </head>
                   <p>
-                     <anchor xml:id="bookmark16"/>Staatssekretär Dr. Reisch erbittet und erhält vom Kabinettsrat die Ermächtigung zur Erlassung einer Vollzugsanweisung der Staatsregierung zur Durchführung der die Ruhe-(Versorgungs-)genüsse der <pb n="22"/>Zivilstaatsangestellten und die Teuerungsmaßnahmen für diese Personen betreffenden Bestimmungen des Gesetzes vom 18. März 1920, StGBl. Nr. 132 (Pensionistengesetz), I., II. und VII. Hauptstück, sowie zur Erlassung einer Vollzugsanweisung der Staatsregierung, betreffend die Durchführung des Gesetzes vom 18. März 1920, StGBl. Nr. 131 (Hinterbliebenenversorgungsnovelle).</p>
+                     <anchor xml:id="bookmark16"/>Staatssekretär Dr. Reisch erbittet und erhält vom Kabinettsrat die Ermächtigung zur Erlassung einer Vollzugsanweisung der Staatsregierung zur Durchführung der die Ruhe-(Versorgungs-)genüsse der <pb n="22"/>Zivilstaatsangestellten und die Teuerungsmaßnahmen für diese Personen betreffenden Bestimmungen des Gesetzes vom 18. März 1920, StGBl. Nr. 132 (Pensionistengesetz), I., II. und VII. Hauptstück, sowie zur Erlassung einer Vollzugsanweisung der Staatsregierung, betreffend die Durchführung des Gesetzes vom 18. März 1920, StGBl. Nr. 131 (Hinterbliebenenversorgungsnovelle).</p>
                   <p>Gleichzeitig ermächtigt der Kabinettsrat den Staatssekretär für Finanzen, nach seinem Antrage zur Hinausgabe eines Erlasses an die Finanzlandesdirektionen, worin die gemäß § 39 des Pensionistengesetzes bis zur Anweisung der Pensionserhöhungen von der Finanzlandesbehörde flüssig zu machenden Vorschüsse auf die Erhöhungen festgesetzt werden.</p>
                </div>
                <div type="top" xml:id="krp-0169_top09">
@@ -544,44 +430,10 @@
                         <seg>Gesetzesbeschlüsse des Niederösterreichischen Landtages, betreffend die Regulierung mehrerer Wasserläufe.</seg>
                      </label>
                   </head>
+                  <p>Nach dem Antrag des StaatssekretärsStöckler beschließt der Kabinettsrat, dass von der Erhebung einer Vorstellung gegen die Gesetzesbeschlüsse des Niederösterreichischen Landtages vom 9. März 1920, betreffend die Regulierung des Moosbaches in den Katastralgemeinden Diesendorf und Asperhofen (Ortsgemeinde Asperhofen) und betreffend die Regulierung des Pielach<seg rend="background(green)" style="font-size:12pt">|krp-0169_r-0023|</seg>flussesin den Katastralgemeinden Loipersdorf und Völlerndorf (Ortsgemeinde Gerersdorf), abgesehen und der sofortigen Kundmachung dieser Gesetzesbeschlüsse unter Gegenzeichnung des Staatssekretärs für Land- und Forstwirtschaft zugestimmt werde.</p>
+                  <p>Schluss der Sitzung: 5 Uhr nachmittags.</p>
                   <p>
-                     <hi rend="Char_Style_40">
-                        <seg style="font-size:12pt">Nach dem Antrag des Staatssekretärs</seg>
-                        <seg style="font-size:12pt">Stöckle</seg>
-                        <seg style="font-size:12pt" xml:space="preserve">r beschließt der Kabinettsrat, dass von der Erhebung einer Vorstellung gegen die Gesetzesbeschlüsse des </seg>
-                        <seg style="font-size:12pt">Niederösterreichischen</seg>
-                        <seg style="font-size:12pt" xml:space="preserve"> Landtages vom 9. März 1920, betreffend die Regulierung des Moosbaches in den Katastralgemeinden </seg>
-                        <seg style="font-size:12pt">Diesendorf</seg>
-                     </hi>
-                     <hi rend="Char_Style_51">
-                        <seg style="font-size:12pt" xml:space="preserve"> und </seg>
-                     </hi>
-                     <hi rend="Char_Style_40">
-                        <seg style="font-size:12pt">Asperhofen</seg>
-                        <seg style="font-size:12pt" xml:space="preserve"> (Ortsgemeinde </seg>
-                        <seg style="font-size:12pt">Asperhofen</seg>
-                        <seg style="font-size:12pt">) und betreffend die Regulierung des Pielach</seg>
-                     </hi>
-                     <hi rend="Char_Style_3">
-                        <seg rend="background(green)" style="font-size:12pt">|</seg>
-                        <seg rend="background(green)" style="font-size:12pt">krp-0169_r-</seg>
-                        <seg rend="background(green)" style="font-size:12pt">0023</seg>
-                        <seg rend="background(green)" style="font-size:12pt">|</seg>
-                        <seg style="font-size:12pt">flusses</seg>
-                        <seg style="font-size:12pt" xml:space="preserve">in den Katastralgemeinden Loipersdorf und </seg>
-                        <seg style="font-size:12pt">Völlerndorf</seg>
-                        <seg style="font-size:12pt" xml:space="preserve"> (Ortsgemeinde Gerersdorf), abgesehen und der sofortigen Kundmachung dieser Gesetzesbeschlüsse unter Gegenzeichnung des Staatssekretärs für Land- und Forstwirtschaft zugestimmt werde.</seg>
-                     </hi>
-                  </p>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <seg style="font-size:12pt">Schluss der Sitzung: 5 Uhr nachmittags.</seg>
-                     </hi>
-                  </p>
-                  <p>
-                     <hi rend="Char_Style_3">
-                        <pb/>
-                     </hi>
+                     <pb/>
                   </p>
                </div>
             </div>
@@ -598,7 +450,7 @@
                   <p n="7">Entsprechend den Weisungen des Kabinettsrates habe ich mich in Verhandlungen bisher nicht eingelassen. Die Folge davon war, dass die Leute nervös </p>
                   <p n="8">geworden sind. Sie haben den Versuch gemacht, Verhandlungen einzuleiten. Die Folge der Zurückhaltung des Staatsamtes war, dass einzelne Abbröckelungen erfolgt sind, zum Beispiel Salzburg.</p>
                   <p n="9">Nun hat sich die Gewerkschaft der Staatsbeamten der Sache angenommen. Sie hat gefürchtet, dass es dem Prestige der Beamten abträglich ist, wenn dieser </p>
-                  <p n="10">Streik zusammenbricht. <hi rend="#s">Sie hat gestern</hi> - Heute ist eine Abordnung der Gewerkschaft mit Sch<hi rend="background(yellow)">[...]</hi> an der Spitze bei mir erschienen. Sie haben </p>
+                  <p n="10">Streik zusammenbricht. <hi rend="#s">Sie hat gestern</hi> - Heute ist eine Abordnung der Gewerkschaft mit Sch[...] an der Spitze bei mir erschienen. Sie haben </p>
                   <p n="11">sich für desinteressiert bezüglich einzelner Forderungen erklärt und insbesondere die Forderung von der Übersetzung aus der Gruppe E in C für ungerechtfertigt erklärt. </p>
                   <p n="12">Zu tun war ihnen um die formelle Behandlung des Streiks. Sie wollten, dass nicht der Streik in sich zusammenbricht, sondern dass vorher Verhandlungen </p>
                   <p n="13">zwischen den Streikenden und dem Staatsamt stattfinden. Ich habe den Vorschlag gemacht, dass ich bereit wäre, gewisse Forderungen als gerechtfertigt zu vertreten, soweit ich sie </p>
@@ -610,16 +462,16 @@
                   <p n="19">Ich erkläre, dass ich es für sehr gefährlich halten würde, wenn es uns nicht gelingt, diesen Streik zu lokalisieren und wenn er auch auf andere </p>
                   <p n="20">Ressorts hinüber greift. Wir müssten dann, vielleicht nicht nur im Justizressort, Zugeständnisse machen, die uns sehr schwer belasten würden. </p>
                   <p n="21">Vielleicht [käme es zu einer] Kraftprobe zwischen der Regierung und der ganzen Beamtenschaft.</p>
-                  <p n="22">Während ich mit dieser Zentralgewerkschaft verhandelt habe, hat der Präsident der Richtervereinigung im Verein mit <hi rend="background(yellow)">[...] ?Klag</hi> eine </p>
+                  <p n="22">Während ich mit dieser Zentralgewerkschaft verhandelt habe, hat der Präsident der Richtervereinigung im Verein mit [...] ?Klag eine </p>
                   <p n="23">Deputation der Streikenden und Diener, Unterbeamten, Gefangenenaufseher zu Paltauf geführt und dringendst ersucht, man möchte sie anhören. </p>
-                  <p n="24">Palt[auf] war vorher bei mir und hat mir mitgeteilt, dass [...] und <hi rend="background(yellow)">?Klag</hi> da seien, und ich habe ihn ersucht, er möge mit den Leuten </p>
+                  <p n="24">Palt[auf] war vorher bei mir und hat mir mitgeteilt, dass [...] und ?Klag da seien, und ich habe ihn ersucht, er möge mit den Leuten </p>
                   <p n="25">erst sprechen, wenn ich mit der Gewerkschaft gesprochen habe. Der hat das missverstanden. Wie ich die Gewerkschaft entlassen habe, habe ich ihn mitten in </p>
                   <p n="26">Verhandlungen gefunden. Mir ist nun nichts anderes übriggeblieben, als die nachträgliche Genehmigung zu dieser Verhandlung zu erteilen.</p>
                   <p n="27">Was das Meritorische anbelangt, so stehe ich auf dem Standpunkt, dass einer generellen Übernahme aller Kanzleibeamten aus E in C </p>
                   <p n="28">nicht die Zustimmung erteilt werden könne. Doch stelle ich mich auf dem Standpunkt, einzelnen, ausnahmsweise besonders qualifizierten, Kanzleibeamten insoweit eine Nachsicht der Studien zuzubilligen, dass sie in besonderen Fällen zur zweiten Kanzleiprüfung zugelassen werden. Diese Prüfung ist heute nur zugänglich </p>
                   <p n="29">den Absolventen einer Mittelschule. Vom finanziellen Standpunkt hat das weiter keine Konsequenzen. Denn besonders qualifizierte Kanzleikräfte, </p>
                   <p n="30">
-                     <pb n="2"/>die keine Mittelschule haben, werden schon heute Kanzleileiter. Sie sind <hi rend="background(yellow)">[...]</hi>-Off., kommen ad pens in die VIII. </p>
+                     <pb n="2"/>die keine Mittelschule haben, werden schon heute Kanzleileiter. Sie sind [...]-Off., kommen ad pens in die VIII. </p>
                   <p n="31">und erhalten den Titel Kanzleidirektor, ohne dass sie es sind. Man hat faktisch den Unterschied zwischen E und C auf Umwegen in </p>
                   <p n="32">individuellen Fällen zu umgehen gesucht. Dieser Zustand soll aufrechterhalten werden und nur [dadurch] ergänzt werden, dass man diese Leute auch zur 2. Prüfung </p>
                   <p n="33">zulässt und dass sie nicht nur den Titel bekommen, sondern auch wirklich Kanzleidirektoren werden und faktisch dann in der Gruppe C sind. </p>
@@ -760,30 +612,24 @@
                   <div type="protokoll">
                      <p>Der Vorsitzende erstattet dem Kabinettsrat den beiliegenden vertraulichen Bericht, betreffend die Landtagswahlen in Kärnten. Der Kabinettsrat nimmt diesen Bericht zur Kenntnis.</p>
                      <p>
-                        <hi rend="background(yellow)">BEILAGE: (ABER IST JA QUASI DER ANHANG)</hi>
-                     </p>
-                     <p>
                         <pb n="2"/>
                      </p>
                      <div type="überschrift">
-                        <p>Mündlicher Vortrag für den Kabinettsrat<hi rend="Char_Style_3">
-                              <seg rend="italic">.</seg>
-                           </hi>
-                        </p>
+                        <p>Mündlicher Vortrag für den Kabinettsrat.</p>
                      </div>
                      <div type="vortrag">
-                        <p>Laut einer der Staatskanzlei zugekommenen Zuschrift des Staatsamtes für Äußeres meldete der österreichische Vertreter in Paris unter dem 28. März, der Präsident der Friedenskonferenz habe ihm in einer Note mitgeteilt, dass Österreich zu den Landtagswahlen in Kärnten angeblich auch die Bewohner der Abstimmungszone II heranziehen wolle, die laut Art. 50 des Friedensvertrages von St. Germain von Österreich besetzt und verwaltet wird. Die alliierten und assoziierten Mächte seien der Ansicht, dass vor der Durchführung der Volksabstimmung die Wähler der vorerwähnten Abstimmungszone unmöglich ihre Delegierten in einen österreichischen Vertretungskörper entsenden können; er erkläre daher namens aller Mächte, dass derartige Wahlen nicht zugelassen werden würden.</p>
+                        <p>Laut einer der Staatskanzlei zugekommenen Zuschrift des Staatsamtes für Äußeres meldete der österreichische Vertreter in Paris unter dem 28. März, der Präsident der Friedenskonferenz habe ihm in einer Note mitgeteilt, dass Österreich zu den Landtagswahlen in Kärnten angeblich auch die Bewohner der Abstimmungszone II heranziehen wolle, die laut Art. 50 des Friedensvertrages von St. Germain von Österreich besetzt und verwaltet wird. Die alliierten und assoziierten Mächte seien der Ansicht, dass vor der Durchführung der Volksabstimmung die Wähler der vorerwähnten Abstimmungszone unmöglich ihre Delegierten in einen österreichischen Vertretungskörper entsenden können; er erkläre daher namens aller Mächte, dass derartige Wahlen nicht zugelassen werden würden.</p>
                         <p>Im Übrigen anerkennen die Mächte das Interesse Österreichs an einer raschen Regelung des Schicksals des Klagenfurter Beckens, dessen schwierige Situation ihnen aus unseren wiederholten Klagen und Protesten bekannt ist, und haben daher beschlossen, ohne das Inkrafttreten des Friedensvertrages abzuwarten, die Mitglieder der Plebiszitkommission zu ernennen und dieselben anzuweisen, sich ehebaldigst nach Klagenfurt zu begeben.</p>
                         <p>Der österreichische Vertreter in Paris wird unter einem verständigt, dass aus außenpolitischen Gründen derzeit von der Vornahme der Landtagswahlen abgesehen wurde.</p>
-                        <p>Der Landesverweser von Kärnten wird unter einem in analogem Sinne verständigt. Am 16. März ist die nachstehende Zuschrift des Herrn Landesverwesers von Kärnten an den Herrn Staatskanzler gelangt:</p>
-                        <p>„Mit dem Gesetze vom 21. März 1919, LGBl. Nr. 20, wurde die Einberufung des verfassunggebenden Landtages von Kärnten angeordnet <pb n="3"/>und mit dem Art. IV dieses Gesetzes die Durchführung der Wahl innerhalb zweier Monate vom Tage der Kundmachung angesetzt. Die nach dem Zustandekommen dieses Gesetzes erfolgte Besetzung eines großen Teiles von Kärnten und sogar der Landeshauptstadt durch die Jugoslawen machte die Durchführung der Wahl in der oben festgesetzten Frist nicht möglich. Aber auch nach erfolgter Räumung von Klagenfurt durch die Jugoslawen und nach dem Abschlusse des Friedens von St. Germain erschien es notwendig, mit der Ausschreibung der Wahl bis zur Beendigung der Volksabstimmung und der durch diese gegebenen endgiltigen Entscheidung über das Schicksal und die geographischen Grenzen des Landes Kärnten zuzuwarten.</p>
+                        <p>Der Landesverweser von Kärnten wird unter einem in analogem Sinne verständigt. Am 16. März ist die nachstehende Zuschrift des Herrn Landesverwesers von Kärnten an den Herrn Staatskanzler gelangt:</p>
+                        <p>„Mit dem Gesetze vom 21. März 1919, LGBl. Nr. 20, wurde die Einberufung des verfassunggebenden Landtages von Kärnten angeordnet <pb n="3"/>und mit dem Art. IV dieses Gesetzes die Durchführung der Wahl innerhalb zweier Monate vom Tage der Kundmachung angesetzt. Die nach dem Zustandekommen dieses Gesetzes erfolgte Besetzung eines großen Teiles von Kärnten und sogar der Landeshauptstadt durch die Jugoslawen machte die Durchführung der Wahl in der oben festgesetzten Frist nicht möglich. Aber auch nach erfolgter Räumung von Klagenfurt durch die Jugoslawen und nach dem Abschlusse des Friedens von St. Germain erschien es notwendig, mit der Ausschreibung der Wahl bis zur Beendigung der Volksabstimmung und der durch diese gegebenen endgiltigen Entscheidung über das Schicksal und die geographischen Grenzen des Landes Kärnten zuzuwarten.</p>
                         <p>Maßgebend war hiebei vor allem die Erwägung, dass das eingangs erwähnte Gesetz einen anderen Gebietsumfang Kärntens vorgesehen hatte und daher nicht nur eine Abänderung dieses Gesetzes überhaupt erfolgen muss, sondern auch für eine sofort vorzunehmende Wahl eine einstweilige gesetzliche Regelung erfolgen musste. Man hoffte damals auch allgemein, dass der Friedensvertrag von St. Germain in absehbarer Zeit von drei Großmächten ratifiziert und innerhalb dreier Monate nach Ratifizierung die Durchführung der Volksabstimmung erfolgen werde.</p>
                         <p>Da sich diese Erwartung bisher nicht verwirklichte, wenn auch heute aller Voraussicht nach die Ratifikation des Friedensvertrages nicht mehr allzu lange auf sich warten lassen dürfte, wurde bereits mehrfach der Wunsch laut, nunmehr ohne Rücksicht auf den Zeitpunkt der Volksabstimmung sobald als möglich die Ausschreibung der Landtagswahlen zu veranlassen, um auch in Kärnten die Einberufung eines verfassunggebenden Landtages endlich zu ermöglichen.</p>
                         <p>Bevor ich diese Angelegenheit den Kärntner Landesrate zur Schlussfassung vorlege, wäre es mir von großem Werte, Ihre Stellungnahme, sehr geehrter Herr Staatskanzler, namentlich auch in Ihrer Eigenschaft als Staatssekretär für Äußeres kennen zu lernen, wobei <pb n="4"/>ich jedoch meinen Bedenken insbesondere dahin Ausdruck geben möchte. dass seitens der Abstimmungskommission im Klagenfurter Becken, welche nach den neuesten Mitteilungen <hi rend="#u">in den allernächsten Tagen eintreffen dürfte</hi>, wohl kaum die Zustimmung zur Durchführung der Wahl in der Zone II des Abstimmungsgebietes zu erlangen sein wird, da über die Zugehörigkeit dieses Gebietes zu Österreich, bzw. zu Kärnten eben erst durch die Abstimmung entschieden werden soll.</p>
                         <p>Über offiziöse Intervention der bisherigen interalliierten Mission tagt ja auch die Provisorische Landesversammlung nicht in Klagenfurt, sondern außerhalb des Abstimmungsgebietes in St. Veit [an der Glan]. Auf jeden Fall könnte ein Landtag, welcher unter Ausschaltung des ganzen Klagenfurter Gebietes oder auch nur der Zone I dieses Gebietes gewählt worden wäre, nur ein Rumpfparlament darstellen und könnte dessen Berechtigung, für das ganze Land bindende Entschlüsse zu fassen, mit Recht in Zweifel gezogen werden. </p>
                         <p>Nach meiner persönlichen Meinung müsste daher in Berücksichtigung der außergewöhnlichen Verhältnisse in Kärnten mit der Durchführung der Wahlen unbedingt bis zur Beendigung der Volksabstimmung zugewartet werden müssen.</p>
                         <p>Ich wäre Ihnen, sehr geehrter Herr Staatskanzler, für die baldige Bekanntgabe Ihres Standpunktes in dieser Angelegenheit sehr verbunden.“</p>
-                        <p>Der Herr Staatskanzler hat diese Zuschrift des Herrn Landesverwesers von Kärnten mit einem Schreiben vom 24. März 1920 zur Kenntnis genommen. Die Staatskanzlei glaubt, diesen Sachverhalt dem Kabinettsrate zur vertraulichen Kenntnis bringen zu sollen.</p>
+                        <p>Der Herr Staatskanzler hat diese Zuschrift des Herrn Landesverwesers von Kärnten mit einem Schreiben vom 24. März 1920 zur Kenntnis genommen. Die Staatskanzlei glaubt, diesen Sachverhalt dem Kabinettsrate zur vertraulichen Kenntnis bringen zu sollen.</p>
                      </div>
                   </div>
                </div>
