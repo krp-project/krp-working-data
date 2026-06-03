@@ -123,6 +123,12 @@
       select="replace(., '^.*?(\d+)\|$', '$1')"/>
     <pb n="{number($page-number)}"/>
   </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- Strip transcribers' notes -->
+  <!-- ================================================================== -->
+  <!-- <xsl:template match="tei:hi[@rend='background(yellow)']">
+  </xsl:template> -->
 
   <!-- ================================================================== -->
   <!-- Upconvert input XML's text body -->
@@ -255,7 +261,7 @@
   <!-- ================================================================== -->
   <!-- 7. Transform Protokoll head into div[@type='protokoll'] -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]">
+  <xsl:template match="tei:body/tei:div[tei:head[normalize-space(.) = 'Protokoll']]"><!-- prevent mismatching with supplement divs with same -->
     <div type="protokoll">
       <xsl:apply-templates select="tei:div"/>
     </div>
@@ -309,7 +315,7 @@
   <!-- 10. Label non-agenda-item divs and flatten structure -->
   <!-- ================================================================== -->
   <!-- catch Protokoll child div that has no sub-div with a "TOP" header -->
-  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[not(tei:div/tei:head[normalize-space(.) = $top-header])]">
+  <xsl:template match="tei:body/tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[not(tei:div/tei:head[normalize-space(.) = $top-header])]">
     <xsl:variable name="padded-notop">
       <!-- number non-agenda-item siblings -->
       <xsl:number count="tei:div[not(tei:div/tei:head[normalize-space(.) = $top-header])]" format="01"/>
@@ -374,7 +380,53 @@
   </xsl:template>
   
   <!-- ================================================================== -->
-  <!-- 13. Reformat list using tab delimiter for labelling -->
+  <!-- 13. Transform Anhänge head into div[@type='anhänge'] -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]">
+    <div type="anhänge">
+      <xsl:apply-templates select="tei:p"/>
+      <xsl:apply-templates select="tei:div"/>
+    </div>
+  </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 14. Streamline structure within Anhänge divs -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]/tei:div">
+    <div n="{position()}">
+      <head>
+        <xsl:value-of select="replace(normalize-space(tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]/tei:p[1]), '\s+\.', '.')"/><!-- remove stray space before period resulting from TEI-Garage segmentation -->
+      </head>
+      <xsl:apply-templates select="tei:div except tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]"/>
+    </div>
+  </xsl:template>
+  
+  <xsl:template
+    match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]/tei:div/tei:div except tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]">
+    <div>
+      <xsl:variable name="div-head" select="lower-case(normalize-space(tei:head))"/>
+      <xsl:attribute name="type" select="$div-head"/>
+      <xsl:for-each select="tei:p">
+        <p>
+          <xsl:apply-templates/>
+        </p>
+      </xsl:for-each>
+      <xsl:for-each select="tei:div">
+        <div>
+          <xsl:variable name="div-head" select="lower-case(normalize-space(tei:head))"/>
+          <xsl:attribute name="type" select="$div-head"/>
+          <xsl:for-each select="tei:p">
+            <p>
+              <xsl:apply-templates/>
+            </p>
+          </xsl:for-each>
+        </div>
+      </xsl:for-each>
+    </div>
+  </xsl:template>
+
+  <!-- ================================================================== -->
+  <!-- 15. Reformat list using tab delimiter for labelling -->
   <!-- ================================================================== -->
   <!-- strip rend attribute from DOCX lists; pass through any other list -->
   <xsl:template match="tei:list[@rend]">
@@ -430,7 +482,7 @@
   </xsl:template>
   
   <!-- ================================================================== -->
-  <!-- 14. Strip TEIGarage style information from table -->
+  <!-- 16. Strip TEIGarage style information from table -->
   <!-- ================================================================== -->
   <xsl:template match="tei:table">
     <table>
