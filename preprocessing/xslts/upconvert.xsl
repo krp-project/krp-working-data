@@ -139,8 +139,8 @@
       select="replace(., '^.*?(\d+)\|$', '$1')"/>
     <pb n="{number($page-number)}"/>
   </xsl:template> -->
-  <!-- one <pb> per marker: split on "|" for several markers in same <hi>;
-       preserve full scan ID in @facs -->
+  <!-- one <pb> per marker: split on "|" for multiple markers in same <hi>;
+       preserve full image ID in @facs -->
   <xsl:template match="tei:hi[@rend='background(green)']">
     <xsl:for-each select="tokenize(., '\|')[normalize-space()]">
       <pb facs="{normalize-space(.)}"/>
@@ -294,17 +294,31 @@
   </xsl:template>
 
   <!-- beilagen mode: map external ref targets to supplement ID scheme -->
-  <xsl:template match="tei:ref[starts-with(@target, 'https://')]" mode="beilagen">
+  <xsl:template match="tei:ref[starts-with(@target, 'https://') or matches(@target, '^krp-\d{4}_b\d{2}$')]" mode="beilagen"><!-- allow for both modes of external-ref targeting present in model DOCXs -->
     <!-- <xsl:variable name="supplement-id"
                   select="replace(@target, 'https://', '')"/> -->
-    <xsl:variable name="raw" select="replace(@target, 'https://', '')"/>
-    <xsl:variable name="digits" select="replace($raw, '^krp-(\d+)_.*$', '$1')"/>
-    <xsl:variable name="suffix" select="replace($raw, '^krp-\d+(_.*)$', '$1')"/>
-    <xsl:variable name="supplement-id"
-                  select="concat('krp-', format-number(number($digits), '0000'), $suffix)"/>
-    <ref target="#{$supplement-id}"><!-- todo: subject to change according to IIIF setup -->
-      <xsl:value-of select="normalize-space(.)"/>
-    </ref>
+       <xsl:choose>
+        <xsl:when test="starts-with(@target, 'https://')">
+          <xsl:variable name="raw" select="replace(@target, 'https://', '')"/>
+          <xsl:variable name="digits" select="replace($raw, '^krp-(\d+)_.*$', '$1')"/>
+          <xsl:variable name="suffix" select="replace($raw, '^krp-\d+(_.*)$', '$1')"/>
+          <xsl:variable name="supplement-id"
+            select="concat('krp-', format-number(number($digits), '0000'), $suffix)"/>
+          <ref target="#{$supplement-id}"><!-- todo: subject to change according to IIIF setup -->
+            <xsl:value-of select="normalize-space(.)"/>
+          </ref>
+        </xsl:when>
+        <xsl:when test="matches(@target, '^krp-\d{4}_b\d{2}$')">
+          <xsl:variable name="supplement-id" select="@target"/>
+          <ref target="#{$supplement-id}">
+            <xsl:value-of select="normalize-space(.)"/>
+          </ref>
+        </xsl:when>
+        <!-- fail-loud pass through -->
+        <xsl:otherwise>
+          <xsl:copy-of select="."/>
+        </xsl:otherwise>
+       </xsl:choose>
   </xsl:template>
   
   <!-- ================================================================== -->
