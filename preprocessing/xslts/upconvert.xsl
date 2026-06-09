@@ -284,8 +284,10 @@
   <!-- ================================================================== -->
   <!-- beilagen mode: map internal ref targets to agenda-item ID scheme -->
   <xsl:template match="tei:ref[starts-with(@target, '#')]" mode="beilagen">
+    <!-- <xsl:variable name="top-number"
+                  select="replace(@target, '#(\d+)\.?', '$1')"/> -->
     <xsl:variable name="top-number"
-                  select="replace(@target, '#(\d+)\.?', '$1')"/>
+      select="replace(@target, '^#(\d+).*$', '$1')"/><!-- allow for both modes of internal-ref targeting present in model DOCXs -->
     <xsl:variable name="padded-top"
                   select="format-number(number($top-number), '00')"/>
     <ref target="#{$krp-number}_top{$padded-top}">
