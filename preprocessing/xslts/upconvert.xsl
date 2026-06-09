@@ -134,12 +134,32 @@
        adjacent child elements in mixed content (including adding newlines
        before </p> when pb is the last element in the paragraph) - this is
        expected and accepted -->
-  <xsl:template match="tei:hi[@rend='background(green)']">
+  <!-- <xsl:template match="tei:hi[@rend='background(green)']">
     <xsl:variable name="page-number"
       select="replace(., '^.*?(\d+)\|$', '$1')"/>
     <pb n="{number($page-number)}"/>
+  </xsl:template> -->
+  <!-- one <pb> per marker: split on "|" for several markers in same <hi>;
+       preserve full scan ID in @facs -->
+  <xsl:template match="tei:hi[@rend='background(green)']">
+    <xsl:for-each select="tokenize(., '\|')[normalize-space()]">
+      <pb facs="{normalize-space(.)}"/>
+    </xsl:for-each>
   </xsl:template>
   
+  <!-- if page marker is split across several <seg>s,
+       target first and join all segments -->
+  <xsl:template match="tei:seg[contains(@rend,'background(green)')]
+    [not(preceding-sibling::tei:seg[contains(@rend,'background(green)')])]">
+    <xsl:for-each select="tokenize(
+        string-join(../tei:seg[contains(@rend,'background(green)')], ''), '\|')[normalize-space()]">
+      <pb facs="{normalize-space(.)}"/>
+    </xsl:for-each>
+  </xsl:template>
+  <!-- drop following segs of same page marker that are already folded in -->
+  <xsl:template match="tei:seg[contains(@rend,'background(green)')]
+    [preceding-sibling::tei:seg[contains(@rend,'background(green)')]]"/>
+
   <!-- ================================================================== -->
   <!-- Strip transcribers' notes -->
   <!-- ================================================================== -->
