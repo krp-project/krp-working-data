@@ -130,6 +130,10 @@
   <!-- Transform page-beginning information -->
   <!-- ================================================================== -->
   
+  <!-- drop empty <pb> elements from transcribers' pagebreaks for visual separation
+       of transcription parts; reserve <pb> for source pagebreaks-->
+  <xsl:template match="tei:pb[not(@*)]"/>
+  
   <!-- note: Saxon indent="yes" inserts whitespace between parent tags and
        adjacent child elements in mixed content (including adding newlines
        before </p> when pb is the last element in the paragraph) - this is
