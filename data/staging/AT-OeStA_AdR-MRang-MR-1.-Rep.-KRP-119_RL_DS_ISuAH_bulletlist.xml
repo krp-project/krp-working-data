@@ -202,6 +202,7 @@
             <rendition xml:id="ow" scheme="css">text-decoration:line-through;text-decoration-style:double;</rendition>
             <rendition xml:id="r" scheme="css">display:block;text-align:right;</rendition>
             <rendition xml:id="letterspaced" scheme="css">letter-spacing:0.15em;</rendition>
+            <rendition xml:id="i" scheme="css">font-style:italic;</rendition>
          </tagsDecl>
          <editorialDecl>
             <hyphenation>
@@ -236,7 +237,7 @@
       </encodingDesc>
       <revisionDesc>
          <change who="#tfruehwirth" when-iso="2026-06-09">TEIGarage output upconverted with upconvert.xsl</change>
-         <change who="#tfruehwirth" when-iso="2026-05-19">TEI header populated with generate_tei_templates.py</change>
+         <change who="#tfruehwirth" when-iso="2026-06-09">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -331,7 +332,11 @@
                <pb facs="krp-0119_r-0008"/>Um den beteiligten Ländern den Zweck des angedeuteten organischen Aufbaues als im allseitigen Interesse gelegen zu erläutern, empfehle der sprechende Staatssekretär weiters, einen mit den Zielen der Grenzregelungsarbeiten vertrauten Beamten der Staatskanzlei unverzüglich nach Graz und Innsbruck zu entsenden, um dort mit den Vertretern der in den beiden Grenzgebieten interessierten Länder Fühlung zu nehmen und sich ihrer Zustimmung zu den in Aussicht genommenen außerordentlich dringenden Maßnahmen zu vergewissern. Auf diesem Weg könnte auch am einfachsten Klarheit darüber geschaffen werden, welche Persönlichkeiten als Mitglieder der in internationalen Grenzregelungsausschüsse für die italienische und jugoslawische Grenze in Betracht zu kommen hätten.</p>
             <p rend="Style 4" style="text-align: justify;">Sektionschef Dr. Grimm beantragt, unter die Mitglieder der Zentralgrenzkommission auch einen ständigen Vertreter des Staatsamtes für Finanzen aufzunehmen.</p>
             <p rend="Style 4" style="text-align: justify;">Die Anregung findet die Zustimmung des Kabinettsrates, der sodann den vom Staatssekretär für Inneres und Unterricht gleichzeitig vorgelegten, diesem Protokolle abschriftlich zuliegenden <pb facs="krp-0119_r-0009"/>Entwurf der organischen Bestimmungen für die Einrichtung des Dienstes zur Regelung und Festsetzung der neuen Staatsgrenze (Beilage A), sowie den Entwurf einer Geschäftsordnung der österreichischen Zentralgrenzkommission (Beilage B) mit der vom Sektionschef Dr. Grimm beantragten Ergänzung genehmigt. Gleichzeitig wurde die Staatskanzlei beauftragt, einen Beamten mit dem von Staatssekretär Eldersch gekennzeichneten Aufgabenkreisnach Graz und Innsbruck zu entsenden.<note place="foot" xml:id="ftn4" n="3">
-                  <p rend="Footnote Text" style="text-align: justify;">	„Renner: Wenn die internationale Kommission erscheint und auf der Landkarte im Detail einzeichnet, müssen die Vertreter der Gemeinde- und Wirtschaftsverbände vernommen und dazu von den politischen Verwaltungen schon jetzt vorgeschaut wird, um eine möglichst günstige Grenze zu erhalten. Italien und Paris hat zugesagt, dass die Grenze im Detail an vielen Stellen stark berichtigt werden soll, ist nötig zu verlangen. Die Länder sind aber bei der Abgrenzung ihrer Gebiete sehr empfindlich und neigen zu der Meinung, dass der Staat ihn, Interesse nicht entsprechend wahre. Daher ist ein solcher Apparat nötig. Allerdings dürfe er nicht mehr kosten. In den Ländern wird man freilich für die Agitation an der Grenze Unterstützungen fordern. Ich glaube, dass ein solches Regulativ und eine solche Geschäftsordnung erwünscht sind, damit von vornherein über alle Fragen Klarheit geschaffen wird und alle Teile wissen, dass sie gehört werden.“</p>
+                  <p rend="Footnote Text" style="text-align: justify;">
+                     <hi rend="#i">	„Renner: Wenn die internationale Kommission erscheint und auf der Landkarte im Detail einzeichnet, müssen die Vertreter der Gemeinde- und Wirtschaftsverbände vernommen und dazu von den politischen Verwaltungen schon jetzt vorgeschaut wird, um eine möglichst günstige Grenze zu erhalten. Italien und Paris hat zugesagt, dass die Grenze im Detail an vielen Stellen stark berichtigt werden soll, ist nötig zu verlangen. Die Länder sind aber bei der Abgrenzung ihrer Gebiete sehr empfindlich und neigen zu der Meinung, dass der Staat ihn</hi>
+                     <hi rend="#i">,</hi>
+                     <hi rend="#i"> Interesse nicht entsprechend wahre. Daher ist ein solcher Apparat nötig. Allerdings dürfe er nicht mehr kosten. In den Ländern wird man freilich für die Agitation an der Grenze Unterstützungen fordern. Ich glaube, dass ein solches Regulativ und eine solche Geschäftsordnung erwünscht sind, damit von vornherein über alle Fragen Klarheit geschaffen wird und alle Teile wissen, dass sie gehört werden.“</hi>
+                  </p>
                </note>
             </p>
             <p rend="Style 4" style="text-align: center;">2.</p>

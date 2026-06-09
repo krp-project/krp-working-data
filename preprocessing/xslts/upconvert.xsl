@@ -92,9 +92,17 @@
   <!-- suppress whitespace nodes resulting from discarding hi wrappers -->
   <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
   
-  <!-- strip italic/bold DOCX formatting noise; process children without preserving wrapper -->
+  <!-- strip italic/bold DOCX formatting; process children without preserving wrapper -->
   <xsl:template match="tei:hi[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
-    <xsl:apply-templates/>
+    <xsl:choose>
+      <!-- preserve italic formatting in editorial annotations -->
+      <xsl:when test="contains(@rend, 'italic') and ancestor::tei:note">
+        <hi rend="#i"><xsl:apply-templates/></hi>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <!-- handle underlines and strikethroughs, either individual or combined -->

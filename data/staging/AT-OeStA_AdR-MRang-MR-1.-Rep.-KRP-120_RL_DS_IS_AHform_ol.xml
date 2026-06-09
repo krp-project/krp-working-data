@@ -202,6 +202,7 @@
             <rendition xml:id="ow" scheme="css">text-decoration:line-through;text-decoration-style:double;</rendition>
             <rendition xml:id="r" scheme="css">display:block;text-align:right;</rendition>
             <rendition xml:id="letterspaced" scheme="css">letter-spacing:0.15em;</rendition>
+            <rendition xml:id="i" scheme="css">font-style:italic;</rendition>
          </tagsDecl>
          <editorialDecl>
             <hyphenation>
@@ -236,7 +237,7 @@
       </encodingDesc>
       <revisionDesc>
          <change who="#tfruehwirth" when-iso="2026-06-09">TEIGarage output upconverted with upconvert.xsl</change>
-         <change who="#tfruehwirth" when-iso="2026-05-19">TEI header populated with generate_tei_templates.py</change>
+         <change who="#tfruehwirth" when-iso="2026-06-09">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
    <text>
