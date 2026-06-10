@@ -470,19 +470,23 @@
   <!-- 14. Streamline structure within Anhänge divs -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]/tei:div">
-    <div n="{position()}">
+    <xsl:variable name="anhang-n" select="position()"/>
+    <div n="{$anhang-n}">
       <head>
         <xsl:value-of select="replace(normalize-space(tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]/tei:p[1]), '\s+\.', '.')"/><!-- remove stray space before period resulting from TEI-Garage segmentation -->
       </head>
-      <xsl:apply-templates select="tei:div except tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]"/>
+      <xsl:apply-templates select="tei:div except tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]">
+        <xsl:with-param name="anhang-n" select="$anhang-n" tunnel="yes"/>
+      </xsl:apply-templates>
     </div>
   </xsl:template>
   
   <xsl:template
     match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]/tei:div/tei:div except tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]">
+    <xsl:param name="anhang-n" tunnel="yes"/>
     <div>
       <xsl:variable name="div-head" select="lower-case(normalize-space(tei:head))"/>
-      <xsl:attribute name="type" select="$div-head"/>
+      <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
       <xsl:for-each select="tei:p">
         <p>
           <xsl:apply-templates/>
@@ -491,7 +495,7 @@
       <xsl:for-each select="tei:div">
         <div>
           <xsl:variable name="div-head" select="lower-case(normalize-space(tei:head))"/>
-          <xsl:attribute name="type" select="$div-head"/>
+          <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
           <xsl:for-each select="tei:p">
             <p>
               <xsl:apply-templates/>
