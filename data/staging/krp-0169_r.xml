@@ -236,7 +236,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="#tfruehwirth" when-iso="2026-06-09">TEIGarage output upconverted with upconvert.xsl</change>
+         <change who="#tfruehwirth" when-iso="2026-06-10">TEIGarage output upconverted with upconvert.xsl</change>
          <change who="#tfruehwirth" when-iso="2026-06-09">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
@@ -244,9 +244,7 @@
       <body>
          <div xml:id="doc-krp-0169.xml">
             <head type="dokument">
-               <title type="num">169.<note place="foot" xml:id="ftn1" n="1">
-                     <p rend="footnote text"> Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                     </p>
+               <title type="num">169.<note type="footnote" n="1" target="#fn_krp-0169_1">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
                   </note>
                </title>
                <title type="desc">[Freitag] 1920-04-09</title>
