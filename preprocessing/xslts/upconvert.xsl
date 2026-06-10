@@ -581,5 +581,25 @@
       <xsl:apply-templates/>
     </cell>
   </xsl:template>
+  
+  <!-- ================================================================== -->
+  <!-- 17. Align footnotes with MRP data model -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:body//tei:note">
+    <note type="footnote">
+      <xsl:copy-of select="@n"/>
+      <xsl:attribute name="target" select="concat('#fn_', $krp-number, '_', @n)"/>
+      <xsl:apply-templates/>
+    </note>
+  </xsl:template>
+
+  <xsl:template match="tei:body//tei:note/tei:p/text()[1][normalize-space()]"><!-- target not-whitespace-only text nodes to prevent conflict with <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/> above -->
+    <!-- strip leading space from DOCX formatting -->
+    <xsl:value-of select="replace(., '^\s+', '')"/>
+  </xsl:template>
+
+  <xsl:template match="tei:body//tei:note/tei:p">
+    <xsl:apply-templates/>
+  </xsl:template>
 
 </xsl:stylesheet>
