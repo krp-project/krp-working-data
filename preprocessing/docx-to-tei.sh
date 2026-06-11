@@ -88,15 +88,24 @@ for f in "${docx_files[@]}"; do
     continue
   fi
 
-  # Validate and pretty-print via a temp file to avoid clobbering on error
-  tmpfile="$outfile.tmp"
-  if ! XMLLINT_INDENT="    " xmllint --format "$outfile" -o "$tmpfile" 2>/dev/null; then
+  # # Validate and pretty-print via a temp file to avoid clobbering on error
+  # tmpfile="$outfile.tmp"
+  # if ! XMLLINT_INDENT="    " xmllint --format "$outfile" -o "$tmpfile" 2>/dev/null; then
+  #   echo "FAILED (invalid XML)"
+  #   rm -f -- "$tmpfile" "$outfile"
+  #   ((failed+=1))
+  #   continue
+  # fi
+  # mv -f -- "$tmpfile" "$outfile"
+  # echo "OK"
+  # Validate only, no pretty-printing, to preserve whitespace-only
+  # text nodes between runs (genuine inter-word spaces)
+  if ! xmllint --noout "$outfile" 2>/dev/null; then
     echo "FAILED (invalid XML)"
-    rm -f -- "$tmpfile" "$outfile"
+    rm -f -- "$outfile"
     ((failed+=1))
     continue
   fi
-  mv -f -- "$tmpfile" "$outfile"
   echo "OK"
 done
 
