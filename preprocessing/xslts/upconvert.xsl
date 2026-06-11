@@ -90,7 +90,7 @@
   </xsl:template>
   
   <!-- suppress whitespace nodes resulting from discarding hi wrappers -->
-  <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
+  <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/>not(normalize-space()) is true when text is whitespace-only
   
   <!-- strip italic/bold DOCX formatting; process children without preserving wrapper -->
   <xsl:template match="tei:hi[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
@@ -122,7 +122,7 @@
   <!-- drop pretty-print whitespace between seg fragments in <hi rend="Char_Style_N">-<seg> clusters -->
   <!-- note: when a split falls between two words, their space is dropped too and the words fuse;
        not detectable automatically and unfixable here. -->
-  <xsl:strip-space elements="tei:hi tei:seg"/>
+  <!-- <xsl:strip-space elements="tei:hi tei:seg"/> --><!-- obsolete after removing pretty-printing from docx-to-tei.sh -->
   
   <!-- strip character-style hi wrapper; process children (not value-of),
        so nested markup (like page markers) still reaches its templates -->

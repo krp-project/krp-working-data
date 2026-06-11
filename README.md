@@ -41,7 +41,7 @@ bash preprocessing/docx-to-tei.sh
 > Before conversion, all pending revisions in DOCX files need to be accepted or rejected; otherwise the track-changes residue will corrupt the TEIGarage conversion.
 
 > [!WARNING]
-> **Paragraph indentation loss.** The TEIGarage conversion does not preserve DOCX paragraph indentation. In the Stenogramm sections, speaker-turn grouping (via hanging indent in the DOCX) is lost.
+> The TEIGarage conversion does not preserve DOCX paragraph indentation. In the Stenogramm sections, speaker-turn grouping (via hanging indent in the DOCX) is lost.
 
 ### 3. Merge and upconvert to project-compliant TEI-XML
 
@@ -50,9 +50,6 @@ An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to e
 ```shell
 ant
 ```
-
-> [!WARNING]
-> **Occasional word fusion.** TEIGarage splits text into `<seg>` fragments, which `upconvert.xsl` rejoins. When such a split falls between two words, the space between them is dropped too and the words fuse. This is rare and cannot be undone automatically (the spacing info is gone before the XSLT runs).
 
 ### 4. Transfer to krp-data
 
