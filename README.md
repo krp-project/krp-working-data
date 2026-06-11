@@ -51,6 +51,9 @@ An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to e
 ant
 ```
 
+> [!NOTE]
+> Italics and bold (transcribers' layout conventions) are deliberately not transferred from the DOCX transcriptions; these parts' formatting will be handled downstream. Source-material-relevant underline and strikethrough, as well as editorial-footnote italics, are retained as `#u`/`#s`/`#i` rendition values.
+
 ### 4. Transfer to krp-data
 
 The files in `data/staging/` (which preserve the transcription DOCX filenames) are ready for being copied into [`data/editions/`](https://github.com/krp-project/krp-data/tree/main/data/editions) in the `krp-data` repo and renamed to `krp-???.xml` for editorial work.
