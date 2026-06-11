@@ -90,7 +90,7 @@
   </xsl:template>
   
   <!-- suppress whitespace nodes resulting from discarding hi wrappers -->
-  <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/>not(normalize-space()) is true when text is whitespace-only
+  <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
   
   <!-- strip italic/bold DOCX formatting; process children without preserving wrapper -->
   <xsl:template match="tei:hi[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
