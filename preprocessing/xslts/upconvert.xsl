@@ -136,6 +136,9 @@
     [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)'))]">
     <xsl:apply-templates/>
   </xsl:template>
+  
+  <!-- drop DOCX-bookmark anchors -->
+  <xsl:template match="tei:anchor"/>
    
   <!-- ================================================================== -->
   <!-- Transform page-beginning information -->
