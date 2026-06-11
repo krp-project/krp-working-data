@@ -103,6 +103,7 @@
         <xsl:apply-templates/>
       </xsl:otherwise>
     </xsl:choose>
+    
   </xsl:template>
 
   <!-- handle underlines and strikethroughs, either individual or combined -->
@@ -119,6 +120,8 @@
   </xsl:template>
   
   <!-- drop pretty-print whitespace between seg fragments in <hi rend="Char_Style_N">-<seg> clusters -->
+  <!-- note: when a split falls between two words, their space is dropped too and the words fuse;
+       not detectable automatically and unfixable here. -->
   <xsl:strip-space elements="tei:hi tei:seg"/>
   
   <!-- strip character-style hi wrapper; process children (not value-of),
@@ -175,6 +178,7 @@
   <!-- ================================================================== -->
   <!-- Strip transcribers' notes -->
   <!-- ================================================================== -->
+  
   <!-- <xsl:template match="tei:hi[@rend='background(yellow)']">
   </xsl:template> -->
 
