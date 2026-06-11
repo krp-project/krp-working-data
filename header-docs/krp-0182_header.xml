@@ -222,7 +222,7 @@
       </editorialDecl>
     </encodingDesc>
     <revisionDesc>
-      <change who="#tfruehwirth" when-iso="2026-06-09">TEI header populated with generate_tei_templates.py</change>
+      <change who="#tfruehwirth" when-iso="2026-06-11">TEI header populated with generate_tei_templates.py</change>
     </revisionDesc>
   </teiHeader>
   <facsimile>

@@ -280,7 +280,9 @@
           <item>
             <!-- process only element children, no whitespace ("select='*'");
             only apply templates of beilagen mode -->
-            <xsl:apply-templates select="*" mode="beilagen"/>
+            <!-- <xsl:apply-templates select="node()" mode="beilagen"/> -->
+            <!-- process everything so loose text comes through too -->
+            <xsl:apply-templates select="node()" mode="beilagen"/>
           </item>
         </xsl:for-each>
       </list>
@@ -293,6 +295,25 @@
   <!-- beilagen mode: strip hi wrapper, keep text as-is -->
   <xsl:template match="tei:hi" mode="beilagen">
     <xsl:value-of select="."/>
+  </xsl:template>
+  
+  <!-- beilagen mode: loose text nodes - keep interior text verbatim,
+       but strip list marker at entry start and whitespace at entry's edges -->
+  <xsl:template match="text()" mode="beilagen">
+    <xsl:variable name="lead-trimmed" select="
+      if (empty(preceding-sibling::node()[normalize-space()]
+          [not(self::tei:hi[starts-with(normalize-space(.), '–')])]))
+        then replace(., '^\s*–\s*|^\s+', '')
+      else string(.)"/>
+    <xsl:value-of select="
+      if (empty(following-sibling::node()[normalize-space()]))
+        then replace($lead-trimmed, '\s+$', '')
+      else $lead-trimmed"/>
+  </xsl:template>
+  
+  <!-- beilagen mode: safety guard - convert page markers instead of leaking them -->
+  <xsl:template match="tei:hi[contains(@rend, 'background(green)')]" mode="beilagen">
+    <pb facs="{replace(., '\|', '')}"/>
   </xsl:template>
   
   <!-- ================================================================== -->
