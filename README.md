@@ -13,7 +13,7 @@ preprocessing/
     └── upconvert.xsl           XSLT 3.0 stylesheet for upconversion
 header-docs/                    TEI headers generated from JSON metadata
 saxon/                          Saxon HE 12.5 + xmlresolver
-data/staging/                 project-compliant TEI-XML output files
+data/staging/                   project-compliant TEI-XML output files
 src/
 └── generate_tei_templates.py   Python script for generating header-docs
 build.xml                       Ant for running upconvert.xsl via Saxon
@@ -25,7 +25,7 @@ build.xml                       Ant for running upconvert.xsl via Saxon
 
 A Python script fetches protocol metadata from a [Baserow JSON dump](https://github.com/krp-project/krp-baserow-dump/blob/main/json_dumps/protocols.json) and generates one header file per protocol into `header-docs/` (naming: `krp-???_header.xml`).
 
-```
+```shell
 uv run src/generate_tei_templates.py
 ```
 
@@ -33,7 +33,7 @@ uv run src/generate_tei_templates.py
 
 Transcription DOCX files placed in `input/` are converted to generic TEI-XML via a local [TEIGarage](https://github.com/TEIC/TEIGarage) Docker container. Output goes to `preprocessing/teigarage-out/`.
 
-```
+```shell
 bash preprocessing/docx-to-tei.sh
 ```
 
@@ -41,18 +41,18 @@ bash preprocessing/docx-to-tei.sh
 > Before conversion, all pending revisions in DOCX files need to be accepted or rejected; otherwise the track-changes residue will corrupt the TEIGarage conversion.
 
 > [!WARNING]
-> The TEIGarage conversion does not preserve DOCX paragraph indentation. In the Stenogramm sections, speaker-turn grouping (via hanging indent in the DOCX) is lost.
+> **Paragraph indentation loss.** The TEIGarage conversion does not preserve DOCX paragraph indentation. In the Stenogramm sections, speaker-turn grouping (via hanging indent in the DOCX) is lost.
 
 ### 3. Merge and upconvert to project-compliant TEI-XML
 
 An Ant build applies `upconvert.xsl` (XSLT 3.0, processed by Saxon HE 12.5) to each generic TEI-XML in `preprocessing/teigarage-out/`. The XSLT automatically merges the matching header-doc and transforms the body into a project-compliant structure. Output goes to `data/staging/`.
 
-```
+```shell
 ant
 ```
 
-> [!CAUTION]
-> The `upconvert.xsl` stylesheet is work in progress and does not yet generate actionable basic XMLs for editorial markup.
+> [!WARNING]
+> **Occasional word fusion.** TEIGarage splits text into `<seg>` fragments, which `upconvert.xsl` rejoins. When such a split falls between two words, the space between them is dropped too and the words fuse. This is rare and cannot be undone automatically (the spacing info is gone before the XSLT runs).
 
 ### 4. Transfer to krp-data
 
