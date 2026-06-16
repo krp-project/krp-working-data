@@ -2,8 +2,10 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns="http://www.tei-c.org/ns/1.0"
                 xmlns:tei="http://www.tei-c.org/ns/1.0"
+                xmlns:krp="https://www.oeaw.ac.at/krp/ns"
+                xmlns:xs="http://www.w3.org/2001/XMLSchema"
                 version="3.0"
-                exclude-result-prefixes="tei">
+                exclude-result-prefixes="tei krp xs">
 
   <xsl:output method="xml" indent="yes"/>
 
@@ -29,6 +31,19 @@
 
   <!-- Load and parse header doc, return document node; otherwise fail -->
   <xsl:variable name="header-doc" select="document($header-path)"/>
+  
+  <!-- ================================================================== -->
+  <!-- Define function for ASCII-folding of umlaut/ß characters for @type -->
+  <!-- ================================================================== -->
+  
+  <xsl:function name="krp:ascii-fold" as="xs:string">
+    <xsl:param name="in" as="xs:string"/>
+    <xsl:sequence select="
+      replace(replace(replace(replace(replace(replace(replace($in,
+                    'ä','ae'), 'ö','oe'), 'ü','ue'),
+              'Ä','Ae'), 'Ö','Oe'), 'Ü','Ue'),
+        'ß','ss')"/>
+  </xsl:function>
 
   <!-- ================================================================== -->
   <!-- Kick off processing;
@@ -245,7 +260,7 @@
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Dokumentkopf']]/tei:div">
     <xsl:variable name="type-value"
-                  select="lower-case(replace(normalize-space(tei:head), ':\s*$', ''))"/>
+                  select="krp:ascii-fold(lower-case(replace(normalize-space(tei:head), ':\s*$', '')))"/>
     <div type="{$type-value}">
       <head>
         <xsl:value-of select="normalize-space(tei:head)"/>
@@ -488,7 +503,7 @@
   <!-- 13. Transform Anhänge head into div[@type='anhänge'] -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]">
-    <div type="anhänge">
+    <div type="anhaenge">
       <xsl:apply-templates select="tei:p"/>
       <xsl:apply-templates select="tei:div"/>
     </div>
@@ -513,7 +528,7 @@
     match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]/tei:div/tei:div except tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]">
     <xsl:param name="anhang-n" tunnel="yes"/>
     <div>
-      <xsl:variable name="div-head" select="lower-case(normalize-space(tei:head))"/>
+      <xsl:variable name="div-head" select="krp:ascii-fold(lower-case(normalize-space(tei:head)))"/>
       <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
       <xsl:for-each select="tei:p">
         <p>
@@ -522,7 +537,7 @@
       </xsl:for-each>
       <xsl:for-each select="tei:div">
         <div>
-          <xsl:variable name="div-head" select="lower-case(normalize-space(tei:head))"/>
+          <xsl:variable name="div-head" select="krp:ascii-fold(lower-case(normalize-space(tei:head)))"/>
           <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
           <xsl:for-each select="tei:p">
             <p>
