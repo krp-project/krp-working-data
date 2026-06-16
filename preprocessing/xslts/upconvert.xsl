@@ -133,7 +133,7 @@
   <!-- strip seg wrapper inside character-style hi wrapper;
        leave page markers and transcribers' notes intact -->
   <xsl:template match="tei:hi[starts-with(@rend, 'Char_Style_')]/tei:seg
-    [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)'))]">
+    [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)')) and not(contains(@rend, 'background(red)'))]">
     <xsl:apply-templates/>
   </xsl:template>
   
@@ -183,7 +183,7 @@
   <!-- ================================================================== -->
   
   <!-- <xsl:template match="tei:hi[@rend='background(yellow)']">
-  </xsl:template> -->
+  </xsl:template> --><!-- not stripped to draw attention to unprocessed editorial notes -->
 
   <!-- ================================================================== -->
   <!-- Upconvert input XML's text body -->
@@ -633,5 +633,29 @@
   <xsl:template match="tei:body//tei:note/tei:p">
     <xsl:apply-templates/>
   </xsl:template>
-
+  
+  <!-- ================================================================== -->
+  <!-- 18. Preserve character-spacing information from DOCX color-coding -->
+  <!-- ================================================================== -->
+  <xsl:template match="tei:hi[@rend='background(red)']">
+    <hi rend="#letterspaced">
+      <xsl:apply-templates/>
+    </hi>
+  </xsl:template>
+  
+  <!-- if color-coded string is split across several <seg>s,
+       target first and join all segments -->
+  <xsl:template match="tei:seg[contains(@rend,'background(red)')]
+    [not(preceding-sibling::tei:seg[contains(@rend,'background(red)')])]">
+    <xsl:for-each select="
+        string-join(../tei:seg[contains(@rend,'background(red)')], '')[normalize-space()]">
+      <hi rend="#letterspaced">
+        <xsl:copy-of select="normalize-space(.)"/>
+      </hi>
+    </xsl:for-each>
+  </xsl:template>
+  <!-- drop following segs of same color-coded string that are already folded in -->
+  <xsl:template match="tei:seg[contains(@rend,'background(red)')]
+    [preceding-sibling::tei:seg[contains(@rend,'background(red)')]]"/>
+  
 </xsl:stylesheet>

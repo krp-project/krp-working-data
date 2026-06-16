@@ -236,7 +236,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="#tfruehwirth" when-iso="2026-06-11">TEIGarage output upconverted with upconvert.xsl</change>
+         <change who="#tfruehwirth" when-iso="2026-06-16">TEIGarage output upconverted with upconvert.xsl</change>
          <change who="#tfruehwirth" when-iso="2026-06-11">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
