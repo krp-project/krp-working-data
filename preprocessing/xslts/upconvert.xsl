@@ -154,6 +154,11 @@
   
   <!-- drop DOCX-bookmark anchors -->
   <xsl:template match="tei:anchor"/>
+  
+  <!-- strip DOCX text-color formatting; process only content -->
+  <xsl:template match="tei:hi[starts-with(@rend, 'color(')]">
+    <xsl:apply-templates/>
+  </xsl:template>
    
   <!-- ================================================================== -->
   <!-- Transform page-beginning information -->
@@ -235,12 +240,15 @@
                 string-join($title-container//text()[not(ancestor::tei:note)], ''))"/><!-- grab text, but skip footnote -->
             <xsl:apply-templates select="$title-container//tei:note[@place='foot']"/><!-- pass through footnote -->
           </title>
-          <title type="desc"><!-- changed from MRP-style @type='descr' -->
+          <!-- <title type="desc">
             <xsl:value-of select="normalize-space(
-                string-join($subtitle-container//text()[not(ancestor::tei:hi[contains(@rend,'background(green)')])], ''))"/><!-- grab text, but skip page markers -->
+                string-join($subtitle-container//text()[not(ancestor::tei:hi[contains(@rend,'background(green)')])], ''))"/>
+          </title> -->
+          <title type="desc"><!-- changed from MRP-style @type='descr' -->
+            <xsl:apply-templates select="$subtitle-container/node()"/>
           </title>
         </head>
-        <xsl:apply-templates select="$subtitle-container//tei:hi[contains(@rend,'background(green)')]"/><!-- pass through page markers from subtitle container -->
+        <!-- <xsl:apply-templates select="$subtitle-container//tei:hi[contains(@rend,'background(green)')]"/> -->
         <xsl:apply-templates select="$body-content"/>
       </xsl:copy>
     </xsl:copy>
