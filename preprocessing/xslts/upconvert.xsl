@@ -75,6 +75,8 @@
       <!-- <xsl:copy-of select="$header-doc/tei:TEI/tei:teiHeader"/> -->
       <!-- hand header content to template system -->
       <xsl:apply-templates select="$header-doc/tei:TEI/tei:teiHeader"/>
+      <!-- carry facsimile placeholder through from header doc -->
+      <xsl:apply-templates select="$header-doc/tei:TEI/tei:facsimile"/>
       <!-- apply upconversion to text element in input doc (converted from DOCX with TEIGarage) -->
       <xsl:apply-templates select="$input-text"/>
     </xsl:copy>
