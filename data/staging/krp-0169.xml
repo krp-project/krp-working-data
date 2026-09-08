@@ -236,10 +236,13 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="#tfruehwirth" when-iso="2026-06-18">TEIGarage output upconverted with upconvert.xsl</change>
+         <change who="#tfruehwirth" when-iso="2026-09-08">TEIGarage output upconverted with upconvert.xsl</change>
          <change who="#tfruehwirth" when-iso="2026-06-18">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
+   <facsimile>
+      <surface/>
+   </facsimile>
    <text>
       <body>
          <div xml:id="doc-krp-0169.xml">
