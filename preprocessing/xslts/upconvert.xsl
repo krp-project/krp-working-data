@@ -181,7 +181,7 @@
   </xsl:template> -->
   <!-- one <pb> per marker: split on "|" for multiple markers in same <hi>;
        preserve full image ID in @facs -->
-  <xsl:template match="tei:hi[@rend='background(green)']">
+  <xsl:template match="tei:hi[contains(@rend, 'background(green)')]" priority="1">
     <xsl:for-each select="tokenize(., '\|')[normalize-space()]">
       <pb facs="{normalize-space(.)}"/>
     </xsl:for-each>
@@ -669,7 +669,7 @@
   <!-- ================================================================== -->
   <!-- 18. Preserve character-spacing information from DOCX color-coding -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:hi[@rend='background(red)']">
+  <xsl:template match="tei:hi[contains(@rend, 'background(red)')]" priority="1">
     <hi rend="#letterspaced">
       <xsl:apply-templates/>
     </hi>
