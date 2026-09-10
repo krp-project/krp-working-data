@@ -640,12 +640,12 @@
   </xsl:template>
   
   <!-- ================================================================== -->
-  <!-- 17. Align footnotes with MRP data model -->
+  <!-- 17. Repack footnotes -->
   <!-- ================================================================== -->
   <xsl:template match="tei:body//tei:note">
     <note type="footnote">
-      <xsl:copy-of select="@n"/>
-      <xsl:attribute name="target" select="concat('#fn_', $krp-number, '_', @n)"/>
+      <!-- <xsl:copy-of select="@n"/>
+      <xsl:attribute name="target" select="concat('#fn_', $krp-number, '_', @n)"/> --><!-- diverge from MRP data model as additional footnotes will be created in XMLs, so numbers/targets carried over from DOCXs would go stale -->
       <xsl:apply-templates/>
     </note>
   </xsl:template>
