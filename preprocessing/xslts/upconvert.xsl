@@ -135,6 +135,12 @@
   <xsl:template match="tei:hi[contains(@rend, 'underline') and contains(@rend, 'strikethrough')]">
     <hi rend="#u"><hi rend="#s"><xsl:apply-templates/></hi></hi>
   </xsl:template>
+    
+  <!-- strip all subscript formatting, but preserve content; set to low priority for the sake of other formatting -->
+  <xsl:template match="tei:hi[contains(@rend, 'subscript')] | tei:seg[contains(@rend, 'subscript')]" priority="-1">
+   <xsl:apply-templates/>
+  </xsl:template>
+
   
   <!-- drop pretty-print whitespace between seg fragments in <hi rend="Char_Style_N">-<seg> clusters -->
   <!-- note: when a split falls between two words, their space is dropped too and the words fuse;
