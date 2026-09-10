@@ -361,7 +361,7 @@
   </xsl:template>
 
   <!-- beilagen mode: map external ref targets to supplement ID scheme -->
-  <xsl:template match="tei:ref[starts-with(@target, 'https://') or matches(@target, '^krp-\d{4}_b\d{2}$')]" mode="beilagen"><!-- allow for both modes of external-ref targeting present in model DOCXs -->
+  <xsl:template match="tei:ref[not(starts-with(@target, '#'))]" mode="beilagen"><!-- catch every non-internal ref, so that unexpected target forms reach the fail-loud branch -->
     <!-- <xsl:variable name="supplement-id"
                   select="replace(@target, 'https://', '')"/> -->
        <xsl:choose>
@@ -377,6 +377,13 @@
         </xsl:when>
         <xsl:when test="matches(@target, '^krp-\d{4}_b\d{2}$')">
           <xsl:variable name="supplement-id" select="@target"/>
+          <ref target="#{$supplement-id}">
+            <xsl:value-of select="normalize-space(.)"/>
+          </ref>
+        </xsl:when>
+        <!-- for targets that end in supplement ID (file:///\\share...\krp-0038_b01), take that ID -->
+        <xsl:when test="matches(@target, 'krp-\d{4}_b\d{2}$')">
+          <xsl:variable name="supplement-id" select="replace(@target, '^.*(krp-\d{4}_b\d{2})$', '$1')"/>
           <ref target="#{$supplement-id}">
             <xsl:value-of select="normalize-space(.)"/>
           </ref>
