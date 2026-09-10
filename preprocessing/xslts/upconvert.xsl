@@ -135,9 +135,9 @@
   <xsl:template match="tei:hi[contains(@rend, 'underline') and contains(@rend, 'strikethrough')]">
     <hi rend="#u"><hi rend="#s"><xsl:apply-templates/></hi></hi>
   </xsl:template>
-    
-  <!-- strip all subscript formatting, but preserve content; set to low priority for the sake of other formatting -->
-  <xsl:template match="tei:hi[contains(@rend, 'subscript')] | tei:seg[contains(@rend, 'subscript')]" priority="-1">
+  
+  <!-- strip all subscript and small-caps formatting, but preserve content; set to low priority for the benefit of other formatting -->
+  <xsl:template match="tei:hi[matches(@rend, 'subscript|smallcaps')] | tei:seg[matches(@rend, 'subscript|smallcaps')]" priority="-1">
    <xsl:apply-templates/>
   </xsl:template>
 
