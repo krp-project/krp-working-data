@@ -400,7 +400,7 @@
   <!-- ================================================================== -->
   <xsl:template match="tei:body/tei:div[tei:head[normalize-space(.) = 'Protokoll']]"><!-- prevent mismatching with supplement divs with same -->
     <div type="protokoll">
-      <xsl:apply-templates select="tei:div"/>
+      <xsl:apply-templates select="tei:p/node() | tei:div"/><!-- also process paragraphs before first TOP for page markers -->
     </div>
   </xsl:template>
   
