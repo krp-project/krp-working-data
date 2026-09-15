@@ -163,6 +163,11 @@
   <!-- drop DOCX-bookmark anchors -->
   <xsl:template match="tei:anchor"/>
   
+  <!-- unwrap Word field codes that TEIGarage turns into refs; keep displayed characters -->
+  <xsl:template match="tei:ref[matches(@target, '^\s*[A-Z]+(\s|\\|$)')]" mode="#all" priority="1">
+    <xsl:apply-templates mode="#current"/>
+  </xsl:template>
+
   <!-- strip DOCX text-color formatting; process only content -->
   <xsl:template match="tei:hi[starts-with(@rend, 'color(')]">
     <xsl:apply-templates/>
