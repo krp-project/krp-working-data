@@ -558,19 +558,35 @@
     <div>
       <xsl:variable name="div-head" select="krp:ascii-fold(lower-case(normalize-space(tei:head)))"/>
       <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
-      <xsl:for-each select="tei:p">
-        <p>
-          <xsl:apply-templates/>
-        </p>
+      <!-- paragraphs and lists, in document order -->
+      <xsl:for-each select="tei:p | tei:list">
+        <xsl:choose>
+          <xsl:when test="self::tei:list">
+            <xsl:apply-templates select="."/>
+          </xsl:when>
+          <xsl:otherwise>
+            <p>
+              <xsl:apply-templates/>
+            </p>
+          </xsl:otherwise>
+        </xsl:choose>
       </xsl:for-each>
       <xsl:for-each select="tei:div">
         <div>
           <xsl:variable name="div-head" select="krp:ascii-fold(lower-case(normalize-space(tei:head)))"/>
           <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
-          <xsl:for-each select="tei:p">
-            <p>
-              <xsl:apply-templates/>
-            </p>
+          <!-- paragraphs and lists, in document order -->
+          <xsl:for-each select="tei:p | tei:list">
+            <xsl:choose>
+              <xsl:when test="self::tei:list">
+                <xsl:apply-templates select="."/>
+              </xsl:when>
+              <xsl:otherwise>
+                <p>
+                  <xsl:apply-templates/>
+                </p>
+              </xsl:otherwise>
+            </xsl:choose>
           </xsl:for-each>
         </div>
       </xsl:for-each>
@@ -599,12 +615,14 @@
           <xsl:attribute name="n">
             <xsl:number count="tei:item"/>
           </xsl:attribute>
+          <!-- process child nodes before first text node (e.g. pagemarker), keeping their position -->
+          <xsl:apply-templates select="$text/preceding-sibling::node()"/>
           <label><xsl:value-of select="substring-before($text, '&#x9;')"/></label>
           <!-- collapse tab into single space -->
           <xsl:text> </xsl:text>
           <xsl:value-of select="substring-after($text, '&#x9;')"/>
           <!-- process remaining child nodes (text or otherwise) after first text node -->
-          <xsl:apply-templates select="node()[position() > 1]"/>
+          <xsl:apply-templates select="$text/following-sibling::node()"/>
         </item>
       </xsl:when>
       <!-- assemble item node when tab is nested inside descendant element
