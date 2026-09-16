@@ -141,7 +141,6 @@
    <xsl:apply-templates/>
   </xsl:template>
 
-  
   <!-- drop pretty-print whitespace between seg fragments in <hi rend="Char_Style_N">-<seg> clusters -->
   <!-- note: when a split falls between two words, their space is dropped too and the words fuse;
        not detectable automatically and unfixable here. -->
@@ -172,7 +171,10 @@
   <xsl:template match="tei:hi[starts-with(@rend, 'color(')]">
     <xsl:apply-templates/>
   </xsl:template>
-   
+  
+  <!-- strip DOCX style information -->
+  <xsl:template match="@style"/>
+
   <!-- ================================================================== -->
   <!-- Transform page-beginning information -->
   <!-- ================================================================== -->
@@ -532,7 +534,18 @@
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]">
     <div type="anhaenge">
-      <xsl:apply-templates select="tei:p"/>
+      <xsl:for-each select="tei:p | tei:list">
+        <xsl:choose>
+          <xsl:when test="self::tei:list">
+            <xsl:apply-templates select="."/>
+          </xsl:when>
+          <xsl:otherwise>
+            <p>
+              <xsl:apply-templates/>
+            </p>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:for-each>
       <xsl:apply-templates select="tei:div"/>
     </div>
   </xsl:template>

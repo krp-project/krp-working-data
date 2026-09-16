@@ -236,7 +236,7 @@
          </editorialDecl>
       </encodingDesc>
       <revisionDesc>
-         <change who="#tfruehwirth" when-iso="2026-09-15">TEIGarage output upconverted with upconvert.xsl</change>
+         <change who="#tfruehwirth" when-iso="2026-09-16">TEIGarage output upconverted with upconvert.xsl</change>
          <change who="#tfruehwirth" when-iso="2026-09-15">TEI header populated with generate_tei_templates.py</change>
       </revisionDesc>
    </teiHeader>
@@ -447,7 +447,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p style="text-align: justify;">
+               <p>
                   <pb facs="krp-0039_a01-0001"/>Streng vertraulicher Anhang zu dem Kabinettsprotokoll Nr. 39 vom 11. Februar 1919.</p>
                <div n="1">
                   <head/>
