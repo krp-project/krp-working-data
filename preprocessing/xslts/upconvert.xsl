@@ -445,10 +445,10 @@
   <!-- 9. Flatten structure within agenda-item divs -->
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Protokoll']]/tei:div[tei:div/tei:head[normalize-space(.) = $top-header]]/tei:div[tei:head[normalize-space(.) = 'Text']]">
-    <xsl:for-each select="tei:p | tei:list">
+    <xsl:for-each select="tei:p | tei:list | tei:table">
       <xsl:choose>
-        <xsl:when test="self::tei:list">
-          <!-- apply templates to the list element -->
+        <xsl:when test="self::tei:list or self::tei:table">
+          <!-- apply templates to the list or table element -->
           <xsl:apply-templates select="."/>
         </xsl:when>
         <xsl:otherwise>
@@ -476,9 +476,9 @@
           <xsl:value-of select="normalize-space(tei:head)"/>
         </label>
       </head>
-      <xsl:for-each select="tei:div[tei:head[normalize-space(.) = 'Text']]/(tei:p | tei:list)">
+      <xsl:for-each select="tei:div[tei:head[normalize-space(.) = 'Text']]/(tei:p | tei:list | tei:table)">
         <xsl:choose>
-          <xsl:when test="self::tei:list">
+          <xsl:when test="self::tei:list or self::tei:table">
             <xsl:apply-templates select="."/>
           </xsl:when>
           <xsl:otherwise>
@@ -515,9 +515,9 @@
       <head>
         <xsl:value-of select="normalize-space(tei:div[tei:head[normalize-space(.) = 'Steno-&#xDC;berschrift']]/tei:p[1])"/>
       </head>
-      <xsl:for-each select="tei:div[tei:head[normalize-space(.) = 'Text']]/(tei:p | tei:list)">
+      <xsl:for-each select="tei:div[tei:head[normalize-space(.) = 'Text']]/(tei:p | tei:list | tei:table)">
         <xsl:choose>
-          <xsl:when test="self::tei:list">
+          <xsl:when test="self::tei:list or self::tei:table">
             <xsl:apply-templates select="."/>
           </xsl:when>
           <xsl:otherwise>
@@ -535,9 +535,9 @@
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]">
     <div type="anhaenge">
-      <xsl:for-each select="tei:p | tei:list">
+      <xsl:for-each select="tei:p | tei:list | tei:table">
         <xsl:choose>
-          <xsl:when test="self::tei:list">
+          <xsl:when test="self::tei:list or self::tei:table">
             <xsl:apply-templates select="."/>
           </xsl:when>
           <xsl:otherwise>
@@ -572,10 +572,10 @@
     <div>
       <xsl:variable name="div-head" select="krp:ascii-fold(lower-case(normalize-space(tei:head)))"/>
       <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
-      <!-- paragraphs and lists, in document order -->
-      <xsl:for-each select="tei:p | tei:list">
+      <!-- paragraphs, tables, and lists, in document order -->
+      <xsl:for-each select="tei:p | tei:list | tei:table">
         <xsl:choose>
-          <xsl:when test="self::tei:list">
+          <xsl:when test="self::tei:list or self::tei:table">
             <xsl:apply-templates select="."/>
           </xsl:when>
           <xsl:otherwise>
@@ -589,10 +589,10 @@
         <div>
           <xsl:variable name="div-head" select="krp:ascii-fold(lower-case(normalize-space(tei:head)))"/>
           <xsl:attribute name="type" select="concat('a', format-number(number($anhang-n), '00'), '_', $div-head)"/>
-          <!-- paragraphs and lists, in document order -->
-          <xsl:for-each select="tei:p | tei:list">
+          <!-- paragraphs, tables, and lists, in document order -->
+          <xsl:for-each select="tei:p | tei:list | tei:table">
             <xsl:choose>
-              <xsl:when test="self::tei:list">
+              <xsl:when test="self::tei:list or self::tei:table">
                 <xsl:apply-templates select="."/>
               </xsl:when>
               <xsl:otherwise>
@@ -682,11 +682,18 @@
     </row>
   </xsl:template>
   
-  <xsl:template match="tei:table/tei:row/tei:cell"> 
+  <xsl:template match="tei:table/tei:row/tei:cell">
     <cell>
       <xsl:copy-of select="@cols | @rows"/>
       <xsl:apply-templates/>
     </cell>
+  </xsl:template>
+
+  <!-- strip TEIGarage style attributes from p elements inside table cells -->
+  <xsl:template match="tei:table/tei:row/tei:cell/tei:p">
+    <p>
+      <xsl:apply-templates/>
+    </p>
   </xsl:template>
   
   <!-- ================================================================== -->
