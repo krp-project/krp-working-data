@@ -507,11 +507,6 @@
   <xsl:template match="tei:div[tei:head[normalize-space(.) = $shorthand-header]]/tei:div[tei:head]">
     <!-- number divs through shorthand attribute value template -->
     <div n="{position()}">
-      <!-- original solution based on first model files (including krp-0169-model.xml): -->
-      <!-- <xsl:variable name="descriptor" select="if (tei:head/tei:hi[2]) then tei:head/tei:hi[2] else tei:p[1]"/>
-      <head>
-        <xsl:value-of select="normalize-space($descriptor)"/>
-      </head> -->
       <head>
         <xsl:value-of select="normalize-space(tei:div[tei:head[normalize-space(.) = 'Steno-&#xDC;berschrift']]/tei:p[1])"/>
       </head>
