@@ -192,26 +192,23 @@
       select="replace(., '^.*?(\d+)\|$', '$1')"/>
     <pb n="{number($page-number)}"/>
   </xsl:template> -->
-  <!-- one <pb> per marker: split on "|" for multiple markers in same <hi>;
-       preserve full image ID in @facs -->
-  <xsl:template match="tei:hi[contains(@rend, 'background(green)')]" priority="1">
-    <xsl:for-each select="tokenize(., '\|')[normalize-space()]">
-      <pb facs="{normalize-space(.)}"/>
-    </xsl:for-each>
-  </xsl:template>
   
-  <!-- if page marker is split across several <seg>s,
-       target first and join all segments -->
-  <xsl:template match="tei:seg[contains(@rend,'background(green)')]
-    [not(preceding-sibling::tei:seg[contains(@rend,'background(green)')])]">
+  <!-- if page marker is split across several neighboring <seg>s or <hi>s,
+       target first and join all segments;
+       one <pb> per marker: split on "|" for multiple markers in same <hi>;
+       preserve full image ID in @facs -->
+  <xsl:template match="(tei:hi | tei:seg)[contains(@rend,'background(green)')]
+    [not(preceding-sibling::node()[1][contains(@rend,'background(green)')])]" priority="1">
+    <xsl:variable name="stop" select="following-sibling::node()[not(contains(@rend,'background(green)'))][1]"/>
+    <xsl:variable name="run" select=". | following-sibling::*[contains(@rend,'background(green)')][empty($stop) or . &lt;&lt; $stop]"/>
     <xsl:for-each select="tokenize(
-        string-join(../tei:seg[contains(@rend,'background(green)')], ''), '\|')[normalize-space()]">
+        string-join($run, ''), '\|')[normalize-space()]">
       <pb facs="{normalize-space(.)}"/>
     </xsl:for-each>
   </xsl:template>
-  <!-- drop following segs of same page marker that are already folded in -->
-  <xsl:template match="tei:seg[contains(@rend,'background(green)')]
-    [preceding-sibling::tei:seg[contains(@rend,'background(green)')]]"/>
+  <!-- drop following <seg>s or <hi>s of same page marker that are already folded in -->
+  <xsl:template match="(tei:hi | tei:seg)[contains(@rend,'background(green)')]
+    [preceding-sibling::node()[1][contains(@rend,'background(green)')]]" priority="1"/>
 
   <!-- ================================================================== -->
   <!-- Strip transcribers' notes -->
@@ -714,25 +711,18 @@
   <!-- ================================================================== -->
   <!-- 18. Preserve character-spacing information from DOCX color-coding -->
   <!-- ================================================================== -->
-  <xsl:template match="tei:hi[contains(@rend, 'background(red)')]" priority="1">
+  <!-- if color-coded string is split across several <seg>s or <hi>s,
+       target first and join all segments (see green-background handling above) -->
+  <xsl:template match="(tei:hi | tei:seg)[contains(@rend,'background(red)')]
+    [not(preceding-sibling::node()[1][contains(@rend,'background(red)')])]" priority="1">
+    <xsl:variable name="stop" select="following-sibling::node()[not(contains(@rend,'background(red)'))][1]"/>
+    <xsl:variable name="run" select=". | following-sibling::*[contains(@rend,'background(red)')][empty($stop) or . &lt;&lt; $stop]"/>
     <hi rend="#letterspaced">
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="$run/node()"/>
     </hi>
   </xsl:template>
-  
-  <!-- if color-coded string is split across several <seg>s,
-       target first and join all segments -->
-  <xsl:template match="tei:seg[contains(@rend,'background(red)')]
-    [not(preceding-sibling::tei:seg[contains(@rend,'background(red)')])]">
-    <xsl:for-each select="
-        string-join(../tei:seg[contains(@rend,'background(red)')], '')[normalize-space()]">
-      <hi rend="#letterspaced">
-        <xsl:copy-of select="normalize-space(.)"/>
-      </hi>
-    </xsl:for-each>
-  </xsl:template>
-  <!-- drop following segs of same color-coded string that are already folded in -->
-  <xsl:template match="tei:seg[contains(@rend,'background(red)')]
-    [preceding-sibling::tei:seg[contains(@rend,'background(red)')]]"/>
+  <!-- drop following <seg>s or <hi>s of same color-coded string that are already folded in -->
+  <xsl:template match="(tei:hi | tei:seg)[contains(@rend,'background(red)')]
+    [preceding-sibling::node()[1][contains(@rend,'background(red)')]]" priority="1"/>
   
 </xsl:stylesheet>
