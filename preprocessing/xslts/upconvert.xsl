@@ -611,8 +611,14 @@
   </xsl:template>
 
   <xsl:template match="tei:list[@rend]/tei:item">
-    <!-- capture first text node child of item's text content -->
-    <xsl:variable name="text" select="text()[1]"/>
+    <!-- process item content before looking for tab (so that wrappers get stripped and pagemarkers resolved) -->
+    <xsl:variable name="content">
+      <xsl:apply-templates/>
+    </xsl:variable>
+    <!-- capture first top-level text node of processed content that contains a tab -->
+    <xsl:variable name="text" select="$content/text()[contains(., '&#x9;')][1]"/>
+    <!-- capture first tab-containing text node one level down, i.e. inside a preserved wrapper -->
+    <xsl:variable name="inner" select="$content/*/text()[contains(., '&#x9;')][1]"/>
     <xsl:choose>
       <!-- test presence of tab character -->
       <xsl:when test="contains($text, '&#x9;')">
@@ -621,28 +627,34 @@
           <xsl:attribute name="n">
             <xsl:number count="tei:item"/>
           </xsl:attribute>
-          <!-- process child nodes before first text node (e.g. pagemarker), keeping their position -->
-          <xsl:apply-templates select="$text/preceding-sibling::node()"/>
+          <xsl:copy-of select="$text/preceding-sibling::node()"/>
           <label><xsl:value-of select="substring-before($text, '&#x9;')"/></label>
           <!-- collapse tab into single space -->
           <xsl:text> </xsl:text>
           <xsl:value-of select="substring-after($text, '&#x9;')"/>
-          <!-- process remaining child nodes (text or otherwise) after first text node -->
-          <xsl:apply-templates select="$text/following-sibling::node()"/>
+          <xsl:copy-of select="$text/following-sibling::node()"/>
         </item>
       </xsl:when>
-      <!-- assemble item node when tab is nested inside descendant element
-           (such as in the case of additional character formatting) -->
-      <xsl:when test="contains(string(.), '&#x9;')"><!-- test for tab across all (concatenated) descendant text nodes -->
-        <xsl:variable name="full-text" select="string-join(descendant::text()[normalize-space()], '')"/><!-- concatenate text nodes anywhere in this element with no separator, drop whitespace nodes -->
+      <!-- test presence of tab character inside a preserved wrapper (such as underline) -->
+      <xsl:when test="$inner">
+        <!-- capture preserved wrapper element around the tab-containing text node -->
+        <xsl:variable name="wrapper" select="$inner/.."/>
+        <!-- assemble item node -->
         <item>
           <xsl:attribute name="n">
             <xsl:number count="tei:item"/>
           </xsl:attribute>
-          <label><xsl:value-of select="normalize-space(substring-before($full-text, '&#x9;'))"/></label>
+          <xsl:copy-of select="$wrapper/preceding-sibling::node()"/>
+          <label><xsl:value-of select="substring-before($inner, '&#x9;')"/></label>
           <!-- collapse tab into single space -->
           <xsl:text> </xsl:text>
-          <xsl:value-of select="normalize-space(substring-after($full-text, '&#x9;'))"/>
+          <!-- rebuild wrapper around text after tab -->
+          <xsl:element name="{name($wrapper)}">
+            <xsl:copy-of select="$wrapper/@*"/>
+            <xsl:value-of select="substring-after($inner, '&#x9;')"/>
+            <xsl:copy-of select="$inner/following-sibling::node()"/>
+          </xsl:element>
+          <xsl:copy-of select="$wrapper/following-sibling::node()"/>
         </item>
       </xsl:when>
       <!-- fallback: if outside expected format, pass through as-is -->
@@ -651,7 +663,7 @@
           <xsl:attribute name="n">
             <xsl:number count="tei:item"/>
           </xsl:attribute>
-          <xsl:apply-templates/>
+          <xsl:copy-of select="$content"/>
         </item>
       </xsl:otherwise>
     </xsl:choose>
