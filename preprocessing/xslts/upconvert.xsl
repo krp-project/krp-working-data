@@ -171,6 +171,11 @@
   <xsl:template match="tei:hi[starts-with(@rend, 'color(')]">
     <xsl:apply-templates/>
   </xsl:template>
+
+  <!-- strip DOCX font-weight formatting; process only content -->
+  <xsl:template match="tei:hi[@rend = 'normalweight']">
+    <xsl:apply-templates/>
+  </xsl:template>
   
   <!-- strip DOCX style information -->
   <xsl:template match="@style"/>
