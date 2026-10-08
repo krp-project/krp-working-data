@@ -548,10 +548,26 @@
   <!-- ================================================================== -->
   <xsl:template match="tei:div[tei:head[normalize-space(.) = 'Anh&#xE4;nge']]/tei:div">
     <xsl:variable name="anhang-n" select="position()"/>
+    <!-- process intro paragraphs directly under annex heading -->
+    <xsl:variable name="intro">
+      <xsl:for-each select="tei:p">
+        <p>
+          <xsl:apply-templates/>
+        </p>
+      </xsl:for-each>
+    </xsl:variable>
     <div n="{$anhang-n}">
+      <!-- place pagemarkers of intro paragraphs before head -->
+      <xsl:copy-of select="$intro/tei:p/tei:pb"/>
       <head>
         <xsl:value-of select="replace(normalize-space(tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]/tei:p[1]), '\s+\.', '.')"/><!-- remove stray space before period resulting from TEI-Garage segmentation -->
       </head>
+      <!-- place intro paragraphs after head, without pagemarkers -->
+      <xsl:for-each select="$intro/tei:p">
+        <p>
+          <xsl:copy-of select="node() except tei:pb"/>
+        </p>
+      </xsl:for-each>
       <xsl:apply-templates select="tei:div except tei:div[tei:head[normalize-space(.) = '&#xDC;berschrift']]">
         <xsl:with-param name="anhang-n" select="$anhang-n" tunnel="yes"/>
       </xsl:apply-templates>
