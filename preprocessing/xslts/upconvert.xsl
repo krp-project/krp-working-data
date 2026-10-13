@@ -7,7 +7,7 @@
                 version="3.0"
                 exclude-result-prefixes="tei krp xs">
 
-  <xsl:output method="xml" indent="yes"/>
+  <xsl:output method="xml" indent="yes" suppress-indentation="tei:p tei:item tei:cell tei:note"/>
 
   <!-- identity transform: recursively copy as-is by default; requires XSLT 3.0 -->
   <xsl:mode on-no-match="shallow-copy"/>
@@ -105,9 +105,11 @@
   <xsl:template match="tei:hi[@style and not(@rend)]">
     <xsl:apply-templates/>
   </xsl:template>
-  
+
+  <!-- the following lines have been discarded;
+       TEIGarage output is no longer pretty-printed; whitespace-only text is real space -->
   <!-- suppress whitespace nodes resulting from discarding hi wrappers -->
-  <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/><!-- not(normalize-space()) is true when text is whitespace-only -->
+  <!--<xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/>--><!-- not(normalize-space()) is true when text is whitespace-only -->
   
   <!-- strip italic/bold DOCX formatting; process children without preserving wrapper -->
   <xsl:template match="tei:hi[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
@@ -193,7 +195,8 @@
   <!-- drop empty <pb> elements from transcribers' pagebreaks for visual separation
        of transcription parts; reserve <pb> for source pagebreaks-->
   <xsl:template match="tei:pb[not(@*)]"/>
-  
+
+  <!-- the following no longer holds inside paragraphs, list items, cells, footnotes: -->
   <!-- note: Saxon indent="yes" inserts whitespace between parent tags and
        adjacent child elements in mixed content (including adding newlines
        before </p> when pb is the last element in the paragraph) - this is
@@ -382,10 +385,12 @@
   </xsl:template>
 
   <!-- beilagen mode: map external ref targets to supplement ID scheme -->
-  <xsl:template match="tei:ref[not(starts-with(@target, '#'))]" mode="beilagen"><!-- catch every non-internal ref, so that unexpected target forms reach the fail-loud branch -->
+  <xsl:template match="tei:ref[not(starts-with(@target, '#'))][not(preceding-sibling::node()[1][@target = current()/@target])]" mode="beilagen"><!-- catch every non-internal ref, so that unexpected target forms reach the fail-loud branch -->
     <!-- <xsl:variable name="supplement-id"
                   select="replace(@target, 'https://', '')"/> -->
-       <xsl:choose>
+    <xsl:variable name="stop" select="following-sibling::node()[not(@target = current()/@target)][1]"/>
+    <xsl:variable name="run" select=". | following-sibling::tei:ref[@target = current()/@target][empty($stop) or . &lt;&lt; $stop]"/>
+      <xsl:choose>
         <xsl:when test="starts-with(@target, 'https://')">
           <xsl:variable name="raw" select="replace(@target, 'https://', '')"/>
           <xsl:variable name="digits" select="replace($raw, '^krp-(\d+)_.*$', '$1')"/>
@@ -393,28 +398,31 @@
           <xsl:variable name="supplement-id"
             select="concat('krp-', format-number(number($digits), '0000'), $suffix)"/>
           <ref target="#{$supplement-id}"><!-- todo: subject to change according to IIIF setup -->
-            <xsl:value-of select="normalize-space(.)"/>
+          <xsl:value-of select="normalize-space(string-join($run, ''))"/>
           </ref>
         </xsl:when>
         <xsl:when test="matches(@target, '^krp-\d{4}_b\d{2}$')">
           <xsl:variable name="supplement-id" select="@target"/>
           <ref target="#{$supplement-id}">
-            <xsl:value-of select="normalize-space(.)"/>
+          <xsl:value-of select="normalize-space(string-join($run, ''))"/>
           </ref>
         </xsl:when>
         <!-- for targets that end in supplement ID (file:///\\share...\krp-0038_b01), take that ID -->
         <xsl:when test="matches(@target, 'krp-\d{4}_b\d{2}$')">
           <xsl:variable name="supplement-id" select="replace(@target, '^.*(krp-\d{4}_b\d{2})$', '$1')"/>
           <ref target="#{$supplement-id}">
-            <xsl:value-of select="normalize-space(.)"/>
+          <xsl:value-of select="normalize-space(string-join($run, ''))"/>
           </ref>
         </xsl:when>
         <!-- fail-loud pass through -->
         <xsl:otherwise>
-          <xsl:copy-of select="."/>
+          <xsl:copy-of select="$run"/>
         </xsl:otherwise>
        </xsl:choose>
   </xsl:template>
+  <!-- drop following pieces of same link already folded in -->
+  <xsl:template match="tei:ref[not(starts-with(@target, '#'))][preceding-sibling::node()[1][@target = current()/@target]]" mode="beilagen"/>
+
   
   <!-- ================================================================== -->
   <!-- 7. Transform Protokoll head into div[@type='protokoll'] -->
@@ -738,7 +746,7 @@
     </note>
   </xsl:template>
 
-  <xsl:template match="tei:body//tei:note/tei:p/text()[1][normalize-space()]"><!-- target not-whitespace-only text nodes to prevent conflict with <xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/> above -->
+  <xsl:template match="tei:body//tei:note/tei:p/text()[1][normalize-space()]">
     <!-- strip leading space from DOCX formatting -->
     <xsl:value-of select="replace(., '^\s+', '')"/>
   </xsl:template>
