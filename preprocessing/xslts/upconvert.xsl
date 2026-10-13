@@ -184,7 +184,12 @@
   <xsl:template match="tei:hi[@rend = 'normalweight']">
     <xsl:apply-templates/>
   </xsl:template>
-  
+
+  <!-- strip mailto links; process only content -->
+  <xsl:template match="tei:ref[starts-with(@target, 'mailto:')]">
+    <xsl:apply-templates/>
+  </xsl:template>
+
   <!-- strip DOCX style information -->
   <xsl:template match="@style"/>
 
