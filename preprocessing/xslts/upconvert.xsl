@@ -112,10 +112,10 @@
   <!--<xsl:template match="tei:body//tei:p/text()[not(normalize-space())]"/>--><!-- not(normalize-space()) is true when text is whitespace-only -->
   
   <!-- strip italic/bold DOCX formatting; process children without preserving wrapper -->
-  <xsl:template match="tei:hi[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
+  <xsl:template match="(tei:hi | tei:seg)[(contains(@rend, 'italic') or contains(@rend, 'bold')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough'))]">
     <xsl:choose>
       <!-- preserve italic formatting in editorial annotations -->
-      <xsl:when test="contains(@rend, 'italic') and ancestor::tei:note">
+      <xsl:when test="contains(@rend, 'italic') and (ancestor::tei:note or ends-with(preceding::text()[1], '['))">
         <hi rend="#i"><xsl:apply-templates/></hi>
       </xsl:when>
       <xsl:otherwise>
@@ -161,9 +161,10 @@
   </xsl:template>
   
   <!-- strip seg wrapper inside character-style hi wrapper;
-       leave page markers, transcribers' notes, underlines, strikethroughs, superscript intact -->
+       leave page markers, transcribers' notes, underlines, strikethroughs, and superscript intact;
+       leave italics and bold to italic/bold template -->
   <xsl:template match="tei:hi[starts-with(@rend, 'Char_Style_')]/tei:seg
-    [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)')) and not(contains(@rend, 'background(red)')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough')) and not(contains(@rend, 'superscript'))]">
+    [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)')) and not(contains(@rend, 'background(red)')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough')) and not(contains(@rend, 'superscript')) and not(contains(@rend, 'italic')) and not(contains(@rend, 'bold'))]">
     <xsl:apply-templates/>
   </xsl:template>
   
