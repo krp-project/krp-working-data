@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0046.xml">
             <head type="dokument">
-               <title type="num">46.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">46.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0046_r-0001"/>[Donnerstag] 1919-02-27</title>
@@ -281,9 +280,7 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0046_top02">Zu TOP 2</ref>: <ref target="#krp-0046_b01">Einigung mit dem Reichsvollzugsausschuss der Soldatenräte vom 23. Februar hinsichtlich der Aufgaben der Soldaten- und Krankenräte in den früheren Militär-Sanitätsanstalten</ref>
-                  </item>
+                  <item><ref target="#krp-0046_top02">Zu TOP 2</ref>: <ref target="#krp-0046_b01">Einigung mit dem Reichsvollzugsausschuss der Soldatenräte vom 23. Februar hinsichtlich der Aufgaben der Soldaten- und Krankenräte in den früheren Militär-Sanitätsanstalten</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -314,19 +311,13 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Kaup</hi> bespricht den Fortgang des Abbaues der Militärsanitätsanstalten, die gegenwärtig noch 12.000 Kranke und 4.000 männ<pb facs="krp-0046_r-0006"/>liche Sanitätspersonen aufweisen. Die Vertrauensmänner hätten sich bereit erklärt, bei einem Abbau mitzuwirken, es sei aber dringend notwendig, gewissen Erscheinungen entgegenzutreten, die bei der Abwicklung dieser Aktion zutage treten. Redner verspreche sich eine nachhaltige Stärkung der mit dieser Aufgabe befassten staatlichen Behörde durch einen formellen Beitritt des Kabinettsrates zu der einvernehmlich mit dem Präsidenten des Reichsvollzugsausschusses der Soldatenräte zustande gekommenen Umschreibung des Aufgabenkreises der Soldaten- und Krankenräte in den früheren Militärsanitätsanstalten. Diese Vereinbarung hat folgenden Wortlaut:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Der Aufgabenkreis der Soldaten- und Krankenräte in den früheren Militärsanitätsanstalten ist für die Zeit der Umwandlung – spätestens 10. März – mit Erlass des Staatsamtes für Volksgesundheit vom 7. Februar d. J., Zl. 1721, im Einvernehmen mit dem Reichsvollzugsausschusse des Soldatenrates fixiert.</item>
-                     <item n="2">
-                        <label>2.)</label> An weiteren Aufgaben kommt dem Soldaten- und Krankenrat das Beschwerde- und Kontrollrecht in allen wirtschaftlichen Angelegenheiten bis zur Kündigung am 31. März d. J. zu.</item>
+                     <item n="1"><label>1.)</label> Der Aufgabenkreis der Soldaten- und Krankenräte in den früheren Militärsanitätsanstalten ist für die Zeit der Umwandlung – spätestens 10. März – mit Erlass des Staatsamtes für Volksgesundheit vom 7. Februar d. J., Zl. 1721, im Einvernehmen mit dem Reichsvollzugsausschusse des Soldatenrates fixiert.</item>
+                     <item n="2"><label>2.)</label> An weiteren Aufgaben kommt dem Soldaten- und Krankenrat das Beschwerde- und Kontrollrecht in allen wirtschaftlichen Angelegenheiten bis zur Kündigung am 31. März d. J. zu.</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0046_r-0007"/>
-                  </p>
+                  <p><pb facs="krp-0046_r-0007"/></p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> In Heilanstalten erscheint im Interesse der Durchführung einer geregeltem Heilfürsorge eine Einmengung in den Aufgabenkreis der ärztlichen Leitung und Führung, wie z. B. Entlassung und Aufnahme von Kranken u. dgl. nicht zulässig.</item>
-                     <item n="2">
-                        <label>4.)</label> Überschreitungen des Aufgabenkreises der Soldaten- und Krankenräte, wie selbständige Ernennung von Spitalsdirektoren, widersprechen dem Ernennungsrechte der staatlichen Behörden.</item>
+                     <item n="1"><label>3.)</label> In Heilanstalten erscheint im Interesse der Durchführung einer geregeltem Heilfürsorge eine Einmengung in den Aufgabenkreis der ärztlichen Leitung und Führung, wie z. B. Entlassung und Aufnahme von Kranken u. dgl. nicht zulässig.</item>
+                     <item n="2"><label>4.)</label> Überschreitungen des Aufgabenkreises der Soldaten- und Krankenräte, wie selbständige Ernennung von Spitalsdirektoren, widersprechen dem Ernennungsrechte der staatlichen Behörden.</item>
                   </list>
                   <p>Nach einer kurzen Wechselrede, an der sich der <hi rend="#letterspaced">Vorsitzende</hi>, der <hi rend="#letterspaced">Referent</hi> und Staatssekretär <hi rend="#letterspaced">Hanusch</hi> beteiligen, pflichtet der Kabinettsrat dem Vorschlage des Staatssekretärs für Volksgesundheit bei.</p>
                </div>

@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0197.xml">
             <head type="dokument">
-               <title type="num">197.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">197.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0197_r-0001"/>[Freitag] 1920-07-02</title>
@@ -281,24 +280,12 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0197_top01">Zu TOP 1</ref>: <ref target="#krp-0197_b01">Parte des Staatssekretärs für Verkehrswesen Ludwig Paul</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0197_top06">Zu TOP 6</ref>: <ref target="#krp-0197_b02">Vortrag des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten z. Zl. 15.627/XXI b-Arb.-1920 über den Gesetzesbeschluss des Salzburger Landtages zu den gewerblichen Fortbildungsschulen im Land Salzburg</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0197_top07">Zu TOP 7</ref>: <ref target="#krp-0197_b03">Gesetzesentwurf mit Begründung zu St.A.Z. 15.516-1920 über die Dienstverhältnisse der unter Art. IV des Gesetzes vom 25. Jänner 1914 RGBl. Nr. 15 fallenden Postdienerschaft mit Dienstprüfung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0197_top09">Zu TOP 9</ref>: <ref target="#krp-0197_b04">Vortrag des Staatsamtes für Finanzen über die Erlassung einer Vollzugsanweisung für den Verkehr mit Edelmetallen und Edelmetallwaren mit Vollzugsanweisung zu Zl. 41.705/1920</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0197_top10">Zu TOP 10</ref>: <ref target="#krp-0197_b05">Vortrag des Staatsamtes für Finanzen Zl. 53.534 über die Erhöhung der Gnadengaben</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0197_top11">Zu TOP 11</ref>: <ref target="#krp-0197_b06">Vorlage des Staatsamtes für Volksernährung über die Beibehaltung der gegenwärtigen Preisspannung beim Kleinverkauf von Rindfleisch in Wien</ref>
-                  </item>
+                  <item><ref target="#krp-0197_top01">Zu TOP 1</ref>: <ref target="#krp-0197_b01">Parte des Staatssekretärs für Verkehrswesen Ludwig Paul</ref></item>
+                  <item><ref target="#krp-0197_top06">Zu TOP 6</ref>: <ref target="#krp-0197_b02">Vortrag des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten z. Zl. 15.627/XXI b-Arb.-1920 über den Gesetzesbeschluss des Salzburger Landtages zu den gewerblichen Fortbildungsschulen im Land Salzburg</ref></item>
+                  <item><ref target="#krp-0197_top07">Zu TOP 7</ref>: <ref target="#krp-0197_b03">Gesetzesentwurf mit Begründung zu St.A.Z. 15.516-1920 über die Dienstverhältnisse der unter Art. IV des Gesetzes vom 25. Jänner 1914 RGBl. Nr. 15 fallenden Postdienerschaft mit Dienstprüfung</ref></item>
+                  <item><ref target="#krp-0197_top09">Zu TOP 9</ref>: <ref target="#krp-0197_b04">Vortrag des Staatsamtes für Finanzen über die Erlassung einer Vollzugsanweisung für den Verkehr mit Edelmetallen und Edelmetallwaren mit Vollzugsanweisung zu Zl. 41.705/1920</ref></item>
+                  <item><ref target="#krp-0197_top10">Zu TOP 10</ref>: <ref target="#krp-0197_b05">Vortrag des Staatsamtes für Finanzen Zl. 53.534 über die Erhöhung der Gnadengaben</ref></item>
+                  <item><ref target="#krp-0197_top11">Zu TOP 11</ref>: <ref target="#krp-0197_b06">Vorlage des Staatsamtes für Volksernährung über die Beibehaltung der gegenwärtigen Preisspannung beim Kleinverkauf von Rindfleisch in Wien</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -339,8 +326,7 @@
                   <p>Es sei gelungen, diesfalls ein Einverständnis herbeizuführen, so dass die Hoffnung gerechtfertigt erscheine, dass sich nunmehr der Bahnverkehr wieder glatt abwickeln werde.</p>
                   <p>Die Stellung der Regierung gegenüber Ungarn habe dadurch eine wesentliche Erleichterung erfahren, dass die dortige Regierung von Staats wegen eine Verkehrssperre gegen Österreich anordnete und sich damit in der Boykottfrage im Gegensatze zur österreichischen Regierung als Partei erklärte.</p>
                   <p>Trotz dieser Haltung der ungarischen Regierung, trage die Einstellung des Eisenbahnverkehres nach Ungarn aber lediglich den Charakter einer aus technischen Gründen unabwendbar gewordenen Notverfügung, die sofort wieder aufgehoben werde, sobald die innerhalb des Personals aufgetretenen Streitfragen bereinigt sein werden. Redner beabsichtige, bei der tschechoslowakischen und jugoslawischen Regierung anzufragen, welche Maßnahmen dort im Zusammenhange mit dem internationalen Verkehrsboykott getroffen wurden, damit in diesem Belange von den drei Nachbarstaaten Ungarns ein einheitliches Vorgehen beobachtet werde.</p>
-                  <p>
-                     <pb facs="krp-0197_r-0006"/>In der sich hieran anschließenden Debatte wurde unter anderem die Frage erörtert, in welcher Weise Sendungen nach Ungarn, die dem Verderben ausgesetzt sind und infolge der Verkehrseinstellung nicht weiterrollen können, behandelt werden sollen. Der Kabinettsrat einigt sich in der Auffassung, dass in dieser Hinsicht nach den Bestimmungen des Eisenbahnbetriebsreglements vorzugehen sei.</p>
+                  <p><pb facs="krp-0197_r-0006"/>In der sich hieran anschließenden Debatte wurde unter anderem die Frage erörtert, in welcher Weise Sendungen nach Ungarn, die dem Verderben ausgesetzt sind und infolge der Verkehrseinstellung nicht weiterrollen können, behandelt werden sollen. Der Kabinettsrat einigt sich in der Auffassung, dass in dieser Hinsicht nach den Bestimmungen des Eisenbahnbetriebsreglements vorzugehen sei.</p>
                   <p>Der Kabinettsrat nimmt schließlich den Bericht des Vorsitzenden zustimmend zur Kenntnis.</p>
                </div>
                <div type="top" xml:id="krp-0197_top04">
@@ -377,9 +363,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> bespricht die wesentlichsten Bestimmungen des vom Salzburger Landtag in der Sitzung vom 8. Juni l. J. beschlossenen Gesetzes, betreffend die gewerblichen Fortbildungsschulen im Lande Salzburg, und bemerkt, dass gegen den Gesetzesbeschluss, der in gedeihlichster Weise die Weiterentwicklung des Fortbildungsschulwesens in Salzburg fördere, in sachlicher oder formaler Hinsicht kein Bedenken vorliege. Bloß bezüglich der Vollzugsklausel, welche mit der Durchführung die Staatssekretäre für Handel und Gewerbe, Industrie und Bauten und für Inneres und Unterricht, sowie die Landesregierung in Salzburg betraue, solle über Wunsch des Unterrichtsamtes der Landesregierung aus prinzipiellen Gründen nahegelegt werden, von der Anführung der Landesregierung abzusehen.</p>
                   <p>Nach dem Antrage des sprechenden Staatssekretärs beschließt der Kabinettsrat von der Erhebung einer Vorstellung gegen den Gesetzesbeschluss abzusehen und der sofortigen Kundmachung des Gesetzes zuzustimmen.</p>
-                  <p>
-                     <pb facs="krp-0197_r-0010"/>
-                  </p>
+                  <p><pb facs="krp-0197_r-0010"/></p>
                </div>
                <div type="top" xml:id="krp-0197_top07">
                   <head>
@@ -392,8 +376,7 @@
                   <p>Die staatliche Postverwaltung habe sich der grundsätzlichen Berechtigung dieser mit Nachdruck geltend gemachten Bestrebungen, mit Rücksicht auf den schwierigen und verantwortungsvollen Dienst der Postdienerschaft nicht verschließen können, sie sei jedoch im Interesse der Schonung der Staatsfinanzen bemüht gewesen, zu weitgehende Forderungen der Angestellten in dieser Richtung auf das entsprechende Maß zurückzuführen. Aus solchen Erwägungen staatsfinanzieller Natur musste insbesondere die ursprüngliche Forderung der Personalvertretung der Postangestellten Österreichs nach Ernennung sämtlicher Postunterbeamten und Postamtsdiener mit Unterbeamtenprüfung zu Staatsbeamten ohne Rangsklasse Bedenken erregen. Schließlich sei nach langwierigen Verhandlungen zwischen der Verwaltung und den Vertretern des beteiligten Personales eine Vereinbarung zustande gekommen, die den Kreis der für die Ernennung zu Staatsbeamten in Betracht kommenden Angestellten entsprechend ein<pb facs="krp-0197_r-0011"/>schränke und die Unterlage des dem Kabinettsrate unterbreiteten Gesetzentwurfes bilde. Durch die darin vorgesehene Beschränkung der Ernennung auf solche Postunterbeamte und geprüfte Postamtsdiener, die ständig auf gehobenen Dienstposten verwendet werden, bei gleichzeitiger Bindung noch an einzelne weitere Voraussetzungen sowie die ausdrückliche Betonung im Gesetzentwurfe, dass die Ablegung der Dienstprüfung allein noch keinen Anspruch auf eine Verwendung auf gehobenen Dienstposten und daher auch nicht auf die Ernennung zum Staatsbeamten begründe, schaffe eine ausreichende Gewähr dafür, dass die Übernahme in den Stand der Staatsbeamten nicht auf sämtliche Angestellte mit Dienstprüfung ausgedehnt werden könne, sondern auf etwa die Hälfte des Gesamtstandes beschränkt bleibe.</p>
                   <p>Unter qualifizierten Voraussetzungen solle ferner solchen aus dem Stande der Unterbeamten und Diener hervorgegangenen Beamten ohne Rangsklasse die Möglichkeit der Ernennung zu Staatsbeamten der Zeitbeförderungsgruppe E eröffnet werden. Trotz der für die Übergangszeit vorgesehenen Erleichterungen dürften sich Fälle solcher Ernennungen im Hinblicke auf die geforderte Ablegung einer schwierigen Fachprüfung und den Abzug eines Zeitraumes von zwölf Jahren von der Gesamtdienstzeit für die Einreihung in das Besoldungsschema nicht allzu häufig ergeben.</p>
                   <p>Da durch den Gesetzentwurf eine weit in die Zeit vor dem 1. Jänner 1920 zurückreichende Forderung erfüllt werden solle, der nur infolge des Umstandes, dass die zur Herbeiführung einer Einigung zwischen der Verwaltung und dem Personal notwendig gewesenen schwierigen Verhandlungen längere Zeit in Anspruch nahmen, erst jetzt Rechnung getragen werden könne, erscheine es billig, die nach dem Gesetze vorzunehmenden Beamtenernennungen mit der Rechtswirksamkeit vom 31. Dezember 1919 auszustatten. Abschließend erbittet Redner im Namen des Staatsamtes für Verkehrswesen die Ermächtigung zur Einbringung des Gesetzentwurfes in der Nationalversammlung.</p>
-                  <p>
-                     <pb facs="krp-0197_r-0012"/>Der Kabinettsrat erteilt die erbetene Ermächtigung, jedoch mit der Abänderung, dass als Termin der Ernennungen nicht der 31. Dezember 1919, sondern erst der 30. Juni 1920 festzusetzen ist.</p>
+                  <p><pb facs="krp-0197_r-0012"/>Der Kabinettsrat erteilt die erbetene Ermächtigung, jedoch mit der Abänderung, dass als Termin der Ernennungen nicht der 31. Dezember 1919, sondern erst der 30. Juni 1920 festzusetzen ist.  </p>
                </div>
                <div type="top" xml:id="krp-0197_top08">
                   <head>
@@ -427,17 +410,12 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> führt aus, dass mit Rücksicht auf die durch das Pensionistengesetz und die Hinterbliebenenversorgungsnovelle erfolgten Aufbesserungen der normalmäßigen Versorgungsgenüsse es billig erscheine, auch die derzeit bereits im Bezüge von Gnadenversorgungsgenüssen (Gnadengaben) stehenden Personen einer den gegenwärtigen erschwerten Lebensverhältnissen wenigstens teilweise Rechnung tragenden Aufbesserung ihrer Bezüge teilhaftig werden zu lassen, sowie die in Hinkunft mit Gnadenversorgungsgenüssen (Gnadengaben) zu beteilenden Personen mit höheren Bezügen zu bedenken. Hiemit würde zugleich einer Anregung des Hauptausschusses, die Gnadenversorgungsgenüsse (Gnadengaben) in eine gewisse Relation zu den neuen Versorgungsgenüssen zu bringen, Rechnung getragen.</p>
                   <p>Redner beabsichtige daher, beim Präsidenten der Nationalversammlung</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> vor allem die Bewilligung einer generellen Aufbesserung der derzeitigen Bezüge der mit Gnadenversorgungsgenüssen (Gnadengaben) beteiligten Personen zu beantragen, und zwar:</item>
-                     <item n="2">
-                        <label>a)</label> durch Erhöhung der derzeitigen Gnadenversorgungsgenüsse (Gnadengaben) um 100 % des derzeitigen Ausmaßes und</item>
+                     <item n="1"><label>1.)</label> vor allem die Bewilligung einer generellen Aufbesserung der derzeitigen Bezüge der mit Gnadenversorgungsgenüssen (Gnadengaben) beteiligten Personen zu beantragen, und zwar:</item>
+                     <item n="2"><label>a)</label> durch Erhöhung der derzeitigen Gnadenversorgungsgenüsse (Gnadengaben) um 100 % des derzeitigen Ausmaßes und</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0197_r-0015"/>
-                  </p>
+                  <p><pb facs="krp-0197_r-0015"/></p>
                   <list>
-                     <item n="1">
-                        <label>b)</label> durch Gewährung einer abbaufähigen Teuerungszulage gegen Einstellung der derzeitigen (laufenden) Aushilfe, je nach dem Wohnsitze der Partei in Wien oder in einem in die I. oder II. Aktivitätszulagenklasse eingereihten Orte oder in einem anderen Orte im Jahresbetrage von 1.008 K, 804 K oder 600 K.</item>
+                     <item n="1"><label>b)</label> durch Gewährung einer abbaufähigen Teuerungszulage gegen Einstellung der derzeitigen (laufenden) Aushilfe, je nach dem Wohnsitze der Partei in Wien oder in einem in die I. oder II. Aktivitätszulagenklasse eingereihten Orte oder in einem anderen Orte im Jahresbetrage von 1.008 K, 804 K oder 600 K.</item>
                   </list>
                   <p>Der gedachten Aufbesserung hätten nur jene Personen teilhaftig zu werden und zu bleiben, welche, bzw. solange sie die österreichische Staatsbürgerschaft besitzen.</p>
                   <p>Durch die 100%ige Aufbesserung der Gnadenversorgungsgenüsse (Gnadengaben) würden dieselben den im § 5 des Pensionistengesetzes festgesetzten Ausmaßen der aufgebesserten Versorgungsgenüsse wesentlich nähergebracht.</p>
@@ -445,8 +423,7 @@
                   <p>Als Anfangstermin der Auszahlung der 100%igen Erhöhung und der Teuerungszulage wäre der 1. Juli 1920 festzusetzen.</p>
                   <p>Der voraussichtliche Mehraufwand aus dieser Aktion dürfte für das erste Jahr mit 5–6 Millionen K zu veranschlagen sein, und werde durch den natürlichen Abfall an Perzipienten von Jahr zu Jahr eine Verminderung erfahren.</p>
                   <list>
-                     <item n="1">
-                        <label>2.)</label> Weiters beabsichtige der sprechende Staatssekretär hinsichtlich der in Hinkunft mit Gnadenversorgungsgenüssen (Gnadengaben) zu beteilenden Personen die Genehmigung des Präsidenten der Nationalversammlung zu erbitten, dass, je nachdem es sich um Angestellte, die in den Dienst der Republik Österreich übernommen wurden oder nicht, bzw. um Hinterbliebene übernommener oder nichtübernommener Angestellter handelt, die Gnadenversorgungsgenüsse (Gnadengaben) für diese Personen in einem Ausmaße beantragt werden dürfen, welches in einem entsprechenden Verhältnisse zu den nach den eingangs er<pb facs="krp-0197_r-0016"/>wähnten Gesetzen sich ergebenden normalmäßigen Versorgungsgenüssen steht. Auch diesen Personen wäre neben dem bewilligten Gnadenversorgungsgenusse (der Gnadengabe) die oben erwähnte abbaufähige Teuerungszulage flüssig zu machen.</item>
+                     <item n="1"><label>2.)</label> Weiters beabsichtige der sprechende Staatssekretär hinsichtlich der in Hinkunft mit Gnadenversorgungsgenüssen (Gnadengaben) zu beteilenden Personen die Genehmigung des Präsidenten der Nationalversammlung zu erbitten, dass, je nachdem es sich um Angestellte, die in den Dienst der Republik Österreich übernommen wurden oder nicht, bzw. um Hinterbliebene übernommener oder nichtübernommener Angestellter handelt, die Gnadenversorgungsgenüsse (Gnadengaben) für diese Personen in einem Ausmaße beantragt werden dürfen, welches in einem entsprechenden Verhältnisse zu den nach den eingangs er<pb facs="krp-0197_r-0016"/>wähnten Gesetzen sich ergebenden normalmäßigen Versorgungsgenüssen steht. Auch diesen Personen wäre neben dem bewilligten Gnadenversorgungsgenusse (der Gnadengabe) die oben erwähnte abbaufähige Teuerungszulage flüssig zu machen.</item>
                   </list>
                   <p>Der Kabinettsrat stimmt der Erstattung dieser Anträge zu.</p>
                </div>

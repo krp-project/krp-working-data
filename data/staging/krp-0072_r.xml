@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0072.xml">
             <head type="dokument">
-               <title type="num">72.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">72.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0072_r-0001"/>
@@ -282,36 +281,16 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0072_top01">Zu TOP 1</ref>: <ref target="#krp-0072_b01">Ergebnis der fünften Länderkonferenz über den Reise- und Sommerverkehr</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top02">Zu TOP 2</ref>: <ref target="#krp-0072_b02">Telegrammabschrift wegen der Vertretung Deutschsüdmährens bei der Friedenskonferenz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top05">Zu TOP 5</ref>: <ref target="#krp-0072_b03">Stellungnahme von Dr. Harpner zur Flüssigmachung der den vormaligen Erzherzoge Peter Ferdinand und Heinrich Ferdinand vom ehemaligen Kaiser bewilligten Unterstützungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top07">Zu TOP 7</ref>: <ref target="#krp-0072_b04">Darstellung der in den Staatsämtern bisher getroffenen bzw. beabsichtigten Verfügungen hinsichtlich Urlaube des angestellten Personals im Jahre 1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top09">Zu TOP 9</ref>: <ref target="#krp-0072_b05">Übernahmeregelungen für im Dienste Bosniens und der Herzegowina stehenden deutschösterreichischen Beamten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top11">Zu TOP 11</ref>: <ref target="#krp-0072_b06">Gesetzesbeschluss der Provisorischen Steiermärkischen Landesversammlung über die Einführung einer Wertzuwachsabgabe</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top14">Zu TOP 14</ref>: <ref target="#krp-0072_b07">Beendigung des Obersten Sanitätsrates und des Obersten Lebensmittelbeirates</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top15">Zu TOP 15</ref>: <ref target="#krp-0072_b08">Gesetzesentwurf zu Zl. 20989 Staatsamt für Volksernährung über die Regelung des Verkehres mit Getreide und Mahlprodukten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top15">Zu TOP 15</ref>: <ref target="#krp-0072_b09">Begründung des Gesetzesentwurfes über die Regelung des Verkehres mit Getreide und Mahlprodukten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0072_top15">Zu TOP 15</ref>: <ref target="#krp-0072_b10">Vollzugsanweisung zu Zl. 20989 über die Regelung des Verkehres mit Getreide und Mahlprodukten</ref>
-                  </item>
+                  <item><ref target="#krp-0072_top01">Zu TOP 1</ref>: <ref target="#krp-0072_b01">Ergebnis der fünften Länderkonferenz über den Reise- und Sommerverkehr</ref></item>
+                  <item><ref target="#krp-0072_top02">Zu TOP 2</ref>: <ref target="#krp-0072_b02">Telegrammabschrift wegen der Vertretung Deutschsüdmährens bei der Friedenskonferenz</ref></item>
+                  <item><ref target="#krp-0072_top05">Zu TOP 5</ref>: <ref target="#krp-0072_b03">Stellungnahme von Dr. Harpner zur Flüssigmachung der den vormaligen Erzherzoge Peter Ferdinand und Heinrich Ferdinand vom ehemaligen Kaiser bewilligten Unterstützungen</ref></item>
+                  <item><ref target="#krp-0072_top07">Zu TOP 7</ref>: <ref target="#krp-0072_b04">Darstellung der in den Staatsämtern bisher getroffenen bzw. beabsichtigten Verfügungen hinsichtlich Urlaube des angestellten Personals im Jahre 1919</ref></item>
+                  <item><ref target="#krp-0072_top09">Zu TOP 9</ref>: <ref target="#krp-0072_b05">Übernahmeregelungen für im Dienste Bosniens und der Herzegowina stehenden deutschösterreichischen Beamten</ref></item>
+                  <item><ref target="#krp-0072_top11">Zu TOP 11</ref>: <ref target="#krp-0072_b06">Gesetzesbeschluss der Provisorischen Steiermärkischen Landesversammlung über die Einführung einer Wertzuwachsabgabe</ref></item>
+                  <item><ref target="#krp-0072_top14">Zu TOP 14</ref>: <ref target="#krp-0072_b07">Beendigung des Obersten Sanitätsrates und des Obersten Lebensmittelbeirates</ref></item>
+                  <item><ref target="#krp-0072_top15">Zu TOP 15</ref>: <ref target="#krp-0072_b08">Gesetzesentwurf zu Zl. 20989 Staatsamt für Volksernährung über die Regelung des Verkehres mit Getreide und Mahlprodukten</ref></item>
+                  <item><ref target="#krp-0072_top15">Zu TOP 15</ref>: <ref target="#krp-0072_b09">Begründung des Gesetzesentwurfes über die Regelung des Verkehres mit Getreide und Mahlprodukten</ref></item>
+                  <item><ref target="#krp-0072_top15">Zu TOP 15</ref>: <ref target="#krp-0072_b10">Vollzugsanweisung zu Zl. 20989 über die Regelung des Verkehres mit Getreide und Mahlprodukten</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -355,15 +334,10 @@
                   </head>
                   <p>Der Kabinettsrat findet über Antrag des <hi rend="#letterspaced">Vorsitzenden</hi> gegen nachstehende, von der Nationalversammlung beschlossene Gesetze keine Vorstellung zu erheben:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Gesetz über das Verbot der Nachtarbeit der Frauen und Jugendlichen in gewerblichen Betrieben;</item>
-                     <item n="2">
-                        <label>2.)</label> Gesetz, betreffend die definitive Anstellung der Bezirksschulinspektoren;<pb facs="krp-0072_r-0006"/>
-                     </item>
-                     <item n="3">
-                        <label>3.)</label> Gesetz, betreffend die Errichtung von Betriebsräten;</item>
-                     <item n="4">
-                        <label>4.)</label> Gesetz über die Mindestruhezeit, den Ladenschluss und die Sonntagsruhe in Handelsgewerben und anderen Betrieben.</item>
+                     <item n="1"><label>1.)</label> Gesetz über das Verbot der Nachtarbeit der Frauen und Jugendlichen in gewerblichen Betrieben;</item>
+                     <item n="2"><label>2.)</label> Gesetz, betreffend die definitive Anstellung der Bezirksschulinspektoren;<pb facs="krp-0072_r-0006"/></item>
+                     <item n="3"><label>3.)</label> Gesetz, betreffend die Errichtung von Betriebsräten;</item>
+                     <item n="4"><label>4.)</label> Gesetz über die Mindestruhezeit, den Ladenschluss und die Sonntagsruhe in Handelsgewerben und anderen Betrieben.</item>
                   </list>
                   <p>Die Gesetzesbeschlüsse sind daher von den zuständigen Mitgliedern der Staatsregierung gegenzuzeichnen und dem Präsidenten zur Fertigung vorzulegen.</p>
                </div>
@@ -378,9 +352,7 @@
                   <p>Dr. Harpner stehe auf dem Standpunkt, dass die Erträgnisse des übernommenen Vermögens bis zum Zeitpunkte des Inkrafttretens des erwähnten Gesetzes nach allgemeinen Rechtsgrundsätzen dem früheren Eigentümer, dem vormaligen Kaiser gehören, also kein Anstand bestehe, die von den beiden genannten vormaligen Erzherzogen angesprochenen, ihnen seinerzeit bewilligten Unterstützungen flüssig zu machen, soferne die Flüssigmachung aus den Erträgnissen erfolgen könne, die das übernommene Vermögen vor dem Inkrafttreten des zitierten Gesetzes abgeworfen hat.</p>
                   <p>Dr. Harpner beabsichtige hienach die Unterstützungen ans den gedachten Erträgnissen und gegen Nachweisung der seinerzeitigen Verfügung des vormaligen Kaisers flüssig zu machen.</p>
                   <p>Der Kabinettsrat erhebt gegen diese beabsichtigte Maßnahme keine Einwendung.</p>
-                  <p>
-                     <pb facs="krp-0072_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0072_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0072_top06">
                   <head>
@@ -389,7 +361,7 @@
                         <seg>Vollzugsanweisung über die Änderung der Bezeichnung des Kreisgerichtes Feldkirch in „Landesgericht Feldkirch“.</seg>
                      </label>
                   </head>
-                  <p>Staatssekretär Dr. <hi rend="#letterspaced">Bratusch</hi>erbittet und erhält die Zustimmung des Kabinettsrates zur Erlassung einer Vollzugsanweisung des Staatsamtes für Justiz über die Änderung der Bezeichnung des Kreisgerichtes Feldkirch in „Landesgericht Feldkirch".</p>
+                  <p>Staatssekretär Dr. <hi rend="#letterspaced">Bratusch</hi> erbittet und erhält die Zustimmung des Kabinettsrates zur Erlassung einer Vollzugsanweisung des Staatsamtes für Justiz über die Änderung der Bezeichnung des Kreisgerichtes Feldkirch in „Landesgericht Feldkirch".</p>
                </div>
                <div type="top" xml:id="krp-0072_top07">
                   <head>
@@ -400,9 +372,7 @@
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> führt aus, dass es wünschenswert wäre, die Frage der den Staatsbediensteten im heurigen Jahre zu gewährenden Erholungsurlaube nach einheitlichen Grundsätzen zu regeln.</p>
                   <p>Nach einer kurzen Debatte beschließt der Kabinettsrat, dass bei der Gewährung der Erholungsurlaube an den in der Dienstpragmatik festgesetzten Ausmaßen festzuhalten ist, den Amtsvorständen jedoch die Ermächtigung erteilt wird, den einzelnen Angestellten nach Maßgabe ihrer Inanspruchnahme und ihrer sonstigen Dienstleistung Urlaubsverlängerungen in der Dauer von 8–14 Tagen zuzubilligen.</p>
-                  <p>
-                     <pb facs="krp-0072_r-0009"/>
-                  </p>
+                  <p><pb facs="krp-0072_r-0009"/></p>
                </div>
                <div type="top" xml:id="krp-0072_top08">
                   <head>
@@ -425,23 +395,16 @@
                   <p>Was andererseits die infolge der Auflösung des personellen Zusammenhanges mit dem Staatsamt für Heer[es]wesen aktuell gewordene Frage der Führung der Personalangelegenheiten der mehrerwähnten Beamten anbelange, so kämen diesbezüglich zwei Wege in Betracht: Entweder <pb facs="krp-0072_r-0014"/>wäre die Entscheidung zu treffen, dass die Personalangelegenheiten dieser Bediensteten auch nach der in der Stellung des vormaligen Ministeriums für Landesverteidigung eingetretenen Änderung noch vom Staatssekretär für Heer[es]wesen zu führen wären, oder es wäre der Vorgang zu wählen, dass der rangsälteste deutschösterreichische Staatsbedienstete im liquidierenden Ministerium für Landesverteidigung durch Beschluss der Staatsregierung ermächtigt würde, die Personalangelegenheiten mit den sonst dem Leiter eines deutschösterreichischen Staatsamtes bezüglich Personalien zustehenden Befugnissen zu führen.</p>
                   <p>Zusammengefasst werden sohin folgende Anträge dem Kabinettsrate zur Beschlussfassung unterbreitet:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die aufgrund der Kabinettsratsbeschlüsse vom 23. November 1918 für den deutschösterreichischen Staat angelobten und sohin in den deutschösterreichischen Staatsdienst übernommenen, im jetzigen liquidierenden Ministerium für Landesverteidigung in Verwendung stehenden Zivilstaatsbediensteten sind gleich den angelobten Angestellten aller übrigen ehemals öster<pb facs="krp-0072_r-0015"/>reichischen Zentralstellen in jeder Beziehung als deutschösterreichische Staatsbedienstete zu behandeln.</item>
-                     <item n="2">
-                        <label>2.)</label> Den bezeichneten Bediensteten gebühren daher alle den deutschösterreichischen Staatsbediensteten nach den jeweils geltenden Vorschriften zukommenden Bezüge, so insbesondere auch der außerordentliche Übergangsbeitrag vom 1. April bis Ende August l. J. und der einmalige Zuschuss pro Mai l. J.</item>
-                     <item n="3">
-                        <label>3.)</label> Die Flüssigmachung der letzterwähnten Zuwendungen, die zum Nachteil der betroffenen Bediensteten nicht länger aufgeschoben werden kann, hat vorläufig zu Lasten des deutschösterreichischen Staates, jedoch nur unter ausdrücklichem Vorbehalt des Ersatzanspruches gegenüber den anderen Nationalstaaten zu erfolgen.</item>
-                     <item n="4">
-                        <label>4)</label> Zur Geltendmachung dieses Ersatzanspruches und zwecks allgemeiner Anerkennung des Grundsatzes, dass sämtliche durch die Verwendung der in Rede stehenden deutschösterreichischen Staatsbediensteten im liquidierenden Ministerium für Landesverteidigung nach den deutschösterreichischen Bezugsvorschriften erwachsenden Auslagen auf gemeinsame Rechnung zu gehen haben, hat der deutschösterreichische Vertreter in der internationalen Liquidierungs<pb facs="krp-0072_r-0016"/>kommission unverzüglich das Erforderliche zu veranlassen.</item>
-                     <item n="5">
-                        <label>5.)</label> Zur Führung der Personalangelegenheiten der betreffenden Bediensteten wird der rangsälteste deutschösterreichische Staatsbedienstete im liquidierenden Ministerium für Landesverteidigung mit den sonst dem Leiter eines deutschösterreichischen Staatsamtes in Personalangelegenheiten zustehenden Befugnissen ermächtigt. (Eventualantrag: Die Personalangelegenheiten der betreffenden Bediensteten des liquidierenden Ministeriums für Landesverteidigung sind vom Staatssekretär für Heer[es]wesen zu führen.)</item>
-                     <item n="6">
-                        <label>6.)</label> Um den deutschösterreichischen Standpunkt bei den nach Pkt. 4 zu führenden Verhandlungen nicht zu erschweren, ist der prinzipielle Beschluss ad Pkt. 1, und in weiterer Folge auch der Beschluss ad Pkt. 5 nach außen hin, also insbesondere auch dem liquidierenden Ministerium für Landesverteidigung selbst gegenüber vorläufig nicht zu verlautbaren.</item>
+                     <item n="1"><label>1.)</label> Die aufgrund der Kabinettsratsbeschlüsse vom 23. November 1918 für den deutschösterreichischen Staat angelobten und sohin in den deutschösterreichischen Staatsdienst übernommenen, im jetzigen liquidierenden Ministerium für Landesverteidigung in Verwendung stehenden Zivilstaatsbediensteten sind gleich den angelobten Angestellten aller übrigen ehemals öster<pb facs="krp-0072_r-0015"/>reichischen Zentralstellen in jeder Beziehung als deutschösterreichische Staatsbedienstete zu behandeln.</item>
+                     <item n="2"><label>2.)</label> Den bezeichneten Bediensteten gebühren daher alle den deutschösterreichischen Staatsbediensteten nach den jeweils geltenden Vorschriften zukommenden Bezüge, so insbesondere auch der außerordentliche Übergangsbeitrag vom 1. April bis Ende August l. J. und der einmalige Zuschuss pro Mai l. J.</item>
+                     <item n="3"><label>3.)</label> Die Flüssigmachung der letzterwähnten Zuwendungen, die zum Nachteil der betroffenen Bediensteten nicht länger aufgeschoben werden kann, hat vorläufig zu Lasten des deutschösterreichischen Staates, jedoch nur unter ausdrücklichem Vorbehalt des Ersatzanspruches gegenüber den anderen Nationalstaaten zu erfolgen.</item>
+                     <item n="4"><label>4)</label> Zur Geltendmachung dieses Ersatzanspruches und zwecks allgemeiner Anerkennung des Grundsatzes, dass sämtliche durch die Verwendung der in Rede stehenden deutschösterreichischen Staatsbediensteten im liquidierenden Ministerium für Landesverteidigung nach den deutschösterreichischen Bezugsvorschriften erwachsenden Auslagen auf gemeinsame Rechnung zu gehen haben, hat der deutschösterreichische Vertreter in der internationalen Liquidierungs<pb facs="krp-0072_r-0016"/>kommission unverzüglich das Erforderliche zu veranlassen.</item>
+                     <item n="5"><label>5.)</label> Zur Führung der Personalangelegenheiten der betreffenden Bediensteten wird der rangsälteste deutschösterreichische Staatsbedienstete im liquidierenden Ministerium für Landesverteidigung mit den sonst dem Leiter eines deutschösterreichischen Staatsamtes in Personalangelegenheiten zustehenden Befugnissen ermächtigt. (Eventualantrag: Die Personalangelegenheiten der betreffenden Bediensteten des liquidierenden Ministeriums für Landesverteidigung sind vom Staatssekretär für Heer[es]wesen zu führen.)</item>
+                     <item n="6"><label>6.)</label> Um den deutschösterreichischen Standpunkt bei den nach Pkt. 4 zu führenden Verhandlungen nicht zu erschweren, ist der prinzipielle Beschluss ad Pkt. 1, und in weiterer Folge auch der Beschluss ad Pkt. 5 nach außen hin, also insbesondere auch dem liquidierenden Ministerium für Landesverteidigung selbst gegenüber vorläufig nicht zu verlautbaren.</item>
                   </list>
                   <p>Im Zuge der sich hierüber entwickelnden eingehenden Debatte, an welcher sich nahezu sämtliche Kabinettsmitglieder beteiligten, führt Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> aus, dass die in <pb facs="krp-0072_r-0017"/>Rede stehenden Beamten durch die Angelobung in den deutschösterreichischen Staatsdienst bis zur definitiven Regelung ihres Dienstverhältnisses übernommen worden seien. Diese Regelung ihres Dienstverhältnisses sei nun in der Weise erfolgt, dass sie der liquidierenden Stelle zur Dienstleistung zugewiesen wurden, wodurch sie ihre Eigenschaft als deutschösterreichische Staatsbedienstete verloren haben. Infolgedessen könnten auch ihre Bezüge vom deutschösterreichischen Staate nicht getragen werden.</p>
                   <p>Demgegenüber weisen die übrigen Redner darauf hin, dass die ehemals dem Ministerium für Landesverteidigung angehörenden Angestellten mit Rücksicht darauf, dass sie seinerzeit für den deutschösterreichischen Staat angelobt und in den deutschösterreichischen Staatsdienst übernommen wurden, noch immer als deutschösterreichische Staatsangestellte zu gelten hätten, woran auch der Umstand nichts ändere, dass sie einer unter internationaler Leitung stehenden liquidierenden Stelle zur Dienstleistung zur Verfügung gestellt wurden. Demgemäß seien ihre Bezüge unbeschadet allfälliger Regressansprüche nach wie vor vom deutschösterreichischen Staate zu tragen.</p>
-                  <p>
-                     <pb facs="krp-0072_r-0018"/>Der Kabinettsrat schließt sich dieser Auffassung an und fasst den Beschluss, die Bezüge dieser Beamten einschließlich aller den deutschösterreichischen Staatsbediensteten zugebilligten außerordentlichen Zuwendungen vorläufig zu Lasten des deutschösterreichischen Staates flüssig zu machen, gleichzeitig aber den deutschösterreichischen Vertreter in der Internationalen Liquidierungskommission anzuweisen, den Ersatz dieser Auslagen unverzüglich anzusprechen. In ihrer dienstlichen Verwendung sind diese Beamten der liquidierenden Stelle zugewiesen, wogegen sie hinsichtlich ihrer Personalien dem Staatssekretär für Heer[es]wesen unterstehen.</p>
+                  <p><pb facs="krp-0072_r-0018"/>Der Kabinettsrat schließt sich dieser Auffassung an und fasst den Beschluss, die Bezüge dieser Beamten einschließlich aller den deutschösterreichischen Staatsbediensteten zugebilligten außerordentlichen Zuwendungen vorläufig zu Lasten des deutschösterreichischen Staates flüssig zu machen, gleichzeitig aber den deutschösterreichischen Vertreter in der Internationalen Liquidierungskommission anzuweisen, den Ersatz dieser Auslagen unverzüglich anzusprechen. In ihrer dienstlichen Verwendung sind diese Beamten der liquidierenden Stelle zugewiesen, wogegen sie hinsichtlich ihrer Personalien dem Staatssekretär für Heer[es]wesen unterstehen.</p>
                </div>
                <div type="top" xml:id="krp-0072_top09">
                   <head>
@@ -453,20 +416,15 @@
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass die Beamtenschaft deutscher Nationalität Bosniens und der Herzegowina der Staatskanzlei durch eine Abordnung eine Denkschrift überreicht habe, in welcher unter Hinweis auf die Unhaltbarkeit ihrer Lage im jugoslawischen Dienste die Bitte gestellt wird, den im Verwaltungsdienst Bosniens und der <pb facs="krp-0072_r-0019"/>Herzegowina stehenden Beamten und Angestellten deutscher Nationalität die Übernahme in den deutschösterreichischen Staatsdienst unter den gleichen Modalitäten zu ermöglichen, wie dies aufgrund des Beschlusses des Kabinettsrates vom 7. April d. J. den im bosnisch-herzegowinischen Dienste stehenden Eisenbahnbediensteten deutschösterreichischer Heimatszuständigkeit zugesichert wurde. Es handle sich im Ganzen um 161 Beamte und sonstige Bedienstete. Nach Ansicht des Vorsitzenden entspreche es einem Gebote der Billigkeit, die vorgetragene Bitte nicht abzuweisen und die in Rede stehenden Verwaltungsbeamten nicht ungünstiger zu behandeln als die bosnisch-herzegowinischen Eisenbahnbeamten.</p>
                   <p>Nach einigen aufklärenden Bemerkungen des Sektionschefs Dr. <hi rend="#letterspaced">Grimm</hi> beschließt der Kabinettsrat wie folgt:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die im Verwaltungsdienst Bosniens und der Herzegowina angestellten Beamten und Bediensteten unzweifelhaft deutscher Volkszugehörigkeit die in einer Gemeinde Deutschösterreichs heimatszuständig sind, sind im Sinne des III. Abschnittes des Kabinettsratsbeschlusses vom 23. November 1918 gleich <pb facs="krp-0072_r-0020"/>den ehemals österreichischen Staatsbediensteten deutscher Nationalität außerhalb des deutschösterreichischen Staatsgebietes zu behandeln. Insoweit solche Beamte und Staatsbedienstete von der Nationalregierung SHS vorzeitig in den Ruhestand versetzt wurden, wird der Ruhegenuss in die auszuzahlenden Beihilfen einzurechnen sein.</item>
-                     <item n="2">
-                        <label>2.)</label> Für die Beförderung, sowohl der Personen als auch der ganzen Übersiedlungseffekten der in Verwendung zu nehmenden Beamten und Bediensteten von ihrem alten Dienstorte in ihren neuen Dienstort ist durch die Beistellung von Sonderzügen für den staffelweisen Abtransport Vorsorge zu treffen. </item>
+                     <item n="1"><label>1.)</label> Die im Verwaltungsdienst Bosniens und der Herzegowina angestellten Beamten und Bediensteten unzweifelhaft deutscher Volkszugehörigkeit die in einer Gemeinde Deutschösterreichs heimatszuständig sind, sind im Sinne des III. Abschnittes des Kabinettsratsbeschlusses vom 23. November 1918 gleich <pb facs="krp-0072_r-0020"/>den ehemals österreichischen Staatsbediensteten deutscher Nationalität außerhalb des deutschösterreichischen Staatsgebietes zu behandeln. Insoweit solche Beamte und Staatsbedienstete von der Nationalregierung SHS vorzeitig in den Ruhestand versetzt wurden, wird der Ruhegenuss in die auszuzahlenden Beihilfen einzurechnen sein.</item>
+                     <item n="2"><label>2.)</label> Für die Beförderung, sowohl der Personen als auch der ganzen Übersiedlungseffekten der in Verwendung zu nehmenden Beamten und Bediensteten von ihrem alten Dienstorte in ihren neuen Dienstort ist durch die Beistellung von Sonderzügen für den staffelweisen Abtransport Vorsorge zu treffen. </item>
                   </list>
                   <p>In gleicher Weise ist auch hinsichtlich der Abbeförderung der Pensionisten, welche eine weitere Verwendung im deutschösterreichischen Dienst nicht mehr anstreben und der noch in Bosnien und Herzegowina wohnhaften Altpensionisten in ihre Heimat vorzugehen. </p>
                   <p>Bezüglich der Übersiedlungsgebühren sind diese Beamten, Bediensteten und Pensionisten in gleicher Weise zu behandeln, wie jene Beamten deutsch<pb facs="krp-0072_r-0021"/>österreichischer Staatsangehörigkeit, welche aus den Gebieten der ehemaligen österreichischen Reichshälfte in den Dienst der deutschösterreichischen Republik in Verwendung genommen wurden und dorthin übersiedeln müssen.</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Wegen Regelung und Sicherstellung der Ruhegenüsse der erwähnten bosnisch-herzegowinischen Beamten und Bediensteten einschließlich der Altpensionisten sind zwischenstaatliche Verhandlungen in die Wege zu leiten.</item>
-                     <item n="2">
-                        <label>4.)</label> Die sich auf den staffelweisen Abtransport beziehenden Einzelfragen sind nötigenfalls durch einen besonderen Bevollmächtigten mit der bosnisch-herzegowinischen Landesregierung zu bereinigen.</item>
-                     <item n="3">
-                        <label>5.)</label> Von diesem Beschlusse ist die Abordnung der bosnisch-herzegowinischen deutschen Verwaltungsbeamten schriftlich im Wege der Staatskanzlei zu verständigen.</item>
+                     <item n="1"><label>3.)</label> Wegen Regelung und Sicherstellung der Ruhegenüsse der erwähnten bosnisch-herzegowinischen Beamten und Bediensteten einschließlich der Altpensionisten sind zwischenstaatliche Verhandlungen in die Wege zu leiten.</item>
+                     <item n="2"><label>4.)</label> Die sich auf den staffelweisen Abtransport beziehenden Einzelfragen sind nötigenfalls durch einen besonderen Bevollmächtigten mit der bosnisch-herzegowinischen Landesregierung zu bereinigen.</item>
+                     <item n="3"><label>5.)</label> Von diesem Beschlusse ist die Abordnung der bosnisch-herzegowinischen deutschen Verwaltungsbeamten schriftlich im Wege der Staatskanzlei zu verständigen.</item>
                   </list>
                </div>
                <div type="top" xml:id="krp-0072_top10">
@@ -501,14 +459,10 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> führt aus, dass die Nationalversammlung in ihrer Sitzung am 14. Mai d. J. die Regierung aufgefordert habe, mit vollverbindlicher Deutlichkeit zu erklären, bei welchen Betrieben sie eine Sozialisierung beabsichtige. Der sprechende Staatssekretär stellt den Antrag, dass Vizekanzler <hi rend="#letterspaced">Fink</hi> in der morgigen Sitzung der Nationalversammlung im Namen der Staatsregierung folgende Erklärung abgebe:</p>
                   <p>„Nach den Absichten der Regierung sollen folgende Privatunternehmungen enteignet und in den Besitz und Betrieb gemeinwirtschaftlicher Anstalten überführt werden:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Diejenigen Kohlenbergbaue, welche nicht ausschließlich der örtlichen Versorgung oder der Versorgung einer einzelnen Unternehmung, deren Bestandteil sie bilden, dienen. Im Zu<pb facs="krp-0072_r-0025"/>sammenhange mit der Sozialisierung dieser Kohlenbergbaue soll auch der Kohlengroßhandel sozialisiert und zu diesem Zwecke eine besondere gemeinwirtschaftliche Anstalt gegründet werden.</item>
-                     <item n="2">
-                        <label>2.)</label> Die Eisenerzgewinnung und die Roheisenerzeugung sowie die damit unmittelbar verbundene Weiterverarbeitung und die Gewinnung anderer nutzbarer Metalle.</item>
-                     <item n="3">
-                        <label>3.)</label> Die Elektrizitätswirtschaft und die hiezu erforderliche Ausnützung der Wasserkräfte, soweit sie nicht ausschließlich örtlichen Bedürfnissen dienen.</item>
-                     <item n="4">
-                        <label>4.)</label> Die großen Forste nebst der Holzindustrie und der Großhandel mit Holz.</item>
+                     <item n="1"><label>1.)</label> Diejenigen Kohlenbergbaue, welche nicht ausschließlich der örtlichen Versorgung oder der Versorgung einer einzelnen Unternehmung, deren Bestandteil sie bilden, dienen. Im Zu<pb facs="krp-0072_r-0025"/>sammenhange mit der Sozialisierung dieser Kohlenbergbaue soll auch der Kohlengroßhandel sozialisiert und zu diesem Zwecke eine besondere gemeinwirtschaftliche Anstalt gegründet werden.</item>
+                     <item n="2"><label>2.)</label> Die Eisenerzgewinnung und die Roheisenerzeugung sowie die damit unmittelbar verbundene Weiterverarbeitung und die Gewinnung anderer nutzbarer Metalle.</item>
+                     <item n="3"><label>3.)</label> Die Elektrizitätswirtschaft und die hiezu erforderliche Ausnützung der Wasserkräfte, soweit sie nicht ausschließlich örtlichen Bedürfnissen dienen.</item>
+                     <item n="4"><label>4.)</label> Die großen Forste nebst der Holzindustrie und der Großhandel mit Holz.</item>
                   </list>
                   <p>Es sollen also die beiden wichtigsten Kraftquellen, Kohle und Elektrizität, und die beiden wichtigsten Rohstoffe, Eisen und Holz, sozialisiert werden. Auf diese Weise wird die Gesellschaft die Verfügung über die wichtigsten Produktivkräfte erlangen.</p>
                   <p>Die Vergesellschaftung soll gemeinsam durch den Staat und die Länder erfolgen. An der Verwaltung der gemeinwirtschaftlichen Anstalten, die den Kohlenbergbau und die Großeisenindustrie übernehmen sollen, sollen neben der <pb facs="krp-0072_r-0026"/>Staatsregierung auch die Landesverwaltungen teilnehmen. Die Elektrizitätswirtschaft und die Forstwirtschaft sollen Landesanstalten übertragen werden, die sich zur Verwaltung gemeinsamer Angelegenheiten zu Staatsverbänden vereinigen.</p>
@@ -528,8 +482,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> gibt eine Darstellung über die Organisation des Büros der Sozialisierungskommission. Hienach gliedert sich das Büro in eine volkswirtschaftliche und eine <pb facs="krp-0072_r-0028"/>legistische Abteilung. Mit der Leitung der volkswirtschaftlichen Abteilung wurde Prof. Dr. Emil Lederer, mit der Leitung der legistischen Abteilung Sektionschef Dr. Krasny betraut. Als Fachmann steht noch Prof. Amon in Verwendung. Bei diesen Funktionären handle es sich um keine ständige Bestellung, sondern nur um eine vorübergehende Verwendung.</p>
                   <p>Rücksichtlich des Sektionschefs Dr. Krasny, der im Vorjahre über sein Ansuchen in den dauernden Ruhestand übernommen worden sei, beantragt der sprechende Staatssekretär dessen Reaktivierung. Dr. Krasny sei bereit, nach Beendigung seiner Funktion bei der Sozialisierungskommission oder wenn er das 30. Dienstjahr erreicht hätte, neuerlich um seine Pensionierung einzuschreiten.</p>
                   <p>Für die Prof. Dr. Lederer und Amon beantrage er die Festsetzung eines monatlichen Honorars von 1.500 K, ferner die Gewährung einer Zulage aus dem Kredite der Sozialisierungskommission für Prof. Dr. Lederer, als Vergütung für außerordentliche Auslagen, die ihm infolge seines vorübergehenden Aufenthaltes in Wien erwachsen.</p>
-                  <p>
-                     <pb facs="krp-0072_r-0029"/>Die übrigen im Büro in Verwendung stehenden Beamten hätten ihre normalen Bezüge als Staatsbeamte zu Lasten des Kredits der Sozialisierungskommission zu erhalten. Infolge ihrer außerordentlichen Inanspruchnahme sei beabsichtigt, ihnen ständige monatliche Zulagen zu gewähren.</p>
+                  <p><pb facs="krp-0072_r-0029"/>Die übrigen im Büro in Verwendung stehenden Beamten hätten ihre normalen Bezüge als Staatsbeamte zu Lasten des Kredits der Sozialisierungskommission zu erhalten. Infolge ihrer außerordentlichen Inanspruchnahme sei beabsichtigt, ihnen ständige monatliche Zulagen zu gewähren.</p>
                   <p>Der Kabinettsrat nimmt diese Ausführungen mit der Maßgabe zustimmend zur Kenntnis, dass von einer Reaktivierung des Sektionschefs Dr. Krasny abzusehen und ihm stattdessen für die Dauer seiner Verwendung bei der Sozialisierungskommission ein Zuschuss zu seinem Ruhegenuss im Ausmaße der Differenz zwischen seinen Pensionsbezügen und jenen Bezügen zu gewähren sei, die ihm im Falle seines Verbleibens in der Aktivität gebühren würden.</p>
                   <p>Den zugeteilten Beamten können anstelle der in Aussicht genommenen ständigen Zulagen fallweise Remunerationen gewährt werden.</p>
                </div>
@@ -564,8 +517,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0072_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 72 vom 20. Mai 1919.</p>
+               <p><pb facs="krp-0072_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 72 vom 20. Mai 1919.</p>
                <div n="1">
                   <head>Bericht über die bisher von der Friedensdelegation in St. Germain eingelangten Nachrichten.</head>
                   <div type="a01_protokoll">
@@ -582,8 +534,7 @@
                   <div type="a02_protokoll">
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> teilt mit, dass Oberstleutnant Cunningham in der letzten Zeit wie<pb facs="krp-0072_a01-0004"/>derholt dem ihm zugeteilten Verbindungsoffizier gegenüber erklärt habe, Deutschösterreich dürfe sich dem Hilferufe Westungarns nicht länger verschließen und müsse nunmehr eine militärische Aktion einleiten.</p>
                      <p>Von einem Einmarsch nach Westungarn sei vorläufig insbesondere aus dem Grunde abgesehen worden, weil nach den erfolglosen Verhandlungen mit den Jugoslawen ein starker Angriff in Kärnten zu erwarten stehe. Es scheine sich übrigens hier lediglich um eine Sonderaktion des Oberstleutnants Cunningham zu handeln, was schon daraus hervorgehe, dass der Chef der italienischen Militärmission General Segré erklärt habe, von einem diesbezüglichen Wunsch der Entente nichts zu wissen. Von seinem (Segrés) Standpunkt müsse er auch einer militärischen Aktion gegenüber Westungarn abraten. Mit Rücksicht auf diese Sachlage sei nach Ansicht des sprechenden Staatssekretärs die größte Zurückhaltung am Platze; immerhin seien alle Vorbereitungen zu einem Einmarsch nach Westungarn für den Fall getroffen, dass die Räteregierung in Ungarn gestürzt und dort Anarchie eintreten würde.</p>
-                     <p>
-                        <pb facs="krp-0072_a01-0005"/>Anknüpfend daran verweist Staatssekretär <hi rend="#letterspaced">Eldersch</hi> auf die Notwendigkeit, die Aufrichtung der Verwaltung in den westungarischen Komitaten schon jetzt vorzubereiten, zu welchem Zwecke eine Kommission einzusetzen wäre, welche sich mit den Vorstudien hiefür zu befassen hätte.</p>
+                     <p><pb facs="krp-0072_a01-0005"/>Anknüpfend daran verweist Staatssekretär <hi rend="#letterspaced">Eldersch</hi> auf die Notwendigkeit, die Aufrichtung der Verwaltung in den westungarischen Komitaten schon jetzt vorzubereiten, zu welchem Zwecke eine Kommission einzusetzen wäre, welche sich mit den Vorstudien hiefür zu befassen hätte.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> pflichtet der Anregung des Vorredners bei, weist aber darauf hin, dass die Stellungnahme der Entente in dieser Frage durchaus nicht einmütig sei, weshalb es geboten sei, dass die Kommission ihre Studien in unauffälliger und streng vertraulicher Weise betreibe.</p>
                      <p>Staatssekretär <hi rend="#letterspaced">Pau1</hi> und Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> stellen das Ersuchen, dass in diese Kommission auch Vertreter der Staatsämter für Verkehrswesen und für Finanzen entsendet werden.</p>
                      <p>Der Kabinettsrat nimmt den Bericht des Staatssekretärs Dr. Deutsch zur Kenntnis und ermächtigt den Staatssekretär Eldersch, die von ihm beabsichtigte Studienkommission unter den vom Staatsamt für Äußeres gekennzeichneten Vorsichten einzusetzen.</p>

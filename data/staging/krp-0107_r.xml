@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0107.xml">
             <head type="dokument">
-               <title type="num">107.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Streng vertraulich!</hi>
-                  </note>
+               <title type="num">107.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Streng vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0107_r-0001"/>
@@ -282,49 +281,21 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0107_top01">Zu TOP 1</ref>: <ref target="#krp-0107_b01">Frage der Zulassung von Geldsammlungen in den Volksschulen und mittleren Lehranstalten zur Fortsetzung der Kinderausspeisungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top02">Zu TOP 2</ref>: <ref target="#krp-0107_b02">Übernahme der Infanterie-Kadettenschule Graz-Liebenau als Staatserziehungsanstalt in die Zivilverwaltung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top05">Zu TOP 5</ref>: <ref target="#krp-0107_b03">Abgabe von Kriegsmaterial an Polen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top06">Zu TOP 6</ref>: <ref target="#krp-0107_b04">Abänderung des deutschösterreichischen Staatsbürgerrechts und die zeitweise Unzulässigkeit von Aufnahmen in den Heimatverband samt Gesetzesentwurf</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top07">Zu TOP 7</ref>: <ref target="#krp-0107_b05">Gesetzesentwurf über die Errichtung von Einigungsämtern und über kollektive Arbeitsverträge samt erläuternden Bemerkungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top08">Zu TOP 8</ref>: <ref target="#krp-0107_b06">Gesetzesentwurf über die Errichtung der deutschösterreichischen Staatserziehungsanstalten samt Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top09">Zu TOP 9</ref>: <ref target="#krp-0107_b07">Auszug des Staatsamtes für Inneres und Unterricht für den Vortrag Zl. 31.415 über den Gesetzesbeschluss des Salzburger Landtages zur Einhebung einer Maut auf der Gemeindestraße I. Klasse in Vordersee – Faistenau – Hof</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top10">Zu TOP 10</ref>: <ref target="#krp-0107_b08">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 32.778 über das Ansuchen des Liebenauer Männergesangsvereines auf Führung des steirischen Landeswappens</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top11">Zu TOP 11</ref>: <ref target="#krp-0107_b09">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 35.713 über die Beschlüsse des Niederösterreichischen Landesausschusses, -rates und -landtages zur Einhebung von 100 % übersteigenden Umlagen in mehreren Gemeinden Niederösterreichs</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top12">Zu TOP 12</ref>: <ref target="#krp-0107_b10">Schreiben des Staatsamtes für Finanzen Zl. 61.145 samt Gesetzesentwurf über die Verwendbarkeit der von der Gemeinde Wien aufgrund des mit dem niederösterreichischen Landesgesetzes vom 16. Juli 1919 LGBl. Nr. 280 bewilligten Anlehens auszugebender Schatzscheine zur fruchtbringenden Anlegung von Stiftungs-, Pupillar- und ähnlichen Kapitalien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top13">Zu TOP 13</ref>: <ref target="#krp-0107_b11">Vortrag des Staatssekretärs für Äußeres über die Errichtung einer gemeinwirtschaftlichen Anstalt unter der Firma „Vereinigte Leder- und Schuhfabriken, g.w.A.“ samt Satzungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top15">Zu TOP 15</ref>: <ref target="#krp-0107_b12">Vorlage des Staatsamtes für Land- und Forstwirtschaft Zl. 18.765/1919 des Gesetzesbeschlusses des Oberösterreichischen Landtages über die Ausnützung der Wasserkräfte der Donau</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0107_top16">Zu TOP 16</ref>: <ref target="#krp-0107_b13">Antrag des Staatsamtes für soziale Verwaltung zu Zl. 24.226/1919 über die Bewilligung eines Staatsvorschusses von 10 Millionen K für den Wiener Krankenanstaltenfonds</ref>
-                  </item>
+                  <item><ref target="#krp-0107_top01">Zu TOP 1</ref>: <ref target="#krp-0107_b01">Frage der Zulassung von Geldsammlungen in den Volksschulen und mittleren Lehranstalten zur Fortsetzung der Kinderausspeisungen</ref></item>
+                  <item><ref target="#krp-0107_top02">Zu TOP 2</ref>: <ref target="#krp-0107_b02">Übernahme der Infanterie-Kadettenschule Graz-Liebenau als Staatserziehungsanstalt in die Zivilverwaltung</ref></item>
+                  <item><ref target="#krp-0107_top05">Zu TOP 5</ref>: <ref target="#krp-0107_b03">Abgabe von Kriegsmaterial an Polen</ref></item>
+                  <item><ref target="#krp-0107_top06">Zu TOP 6</ref>: <ref target="#krp-0107_b04">Abänderung des deutschösterreichischen Staatsbürgerrechts und die zeitweise Unzulässigkeit von Aufnahmen in den Heimatverband samt Gesetzesentwurf</ref></item>
+                  <item><ref target="#krp-0107_top07">Zu TOP 7</ref>: <ref target="#krp-0107_b05">Gesetzesentwurf über die Errichtung von Einigungsämtern und über kollektive Arbeitsverträge samt erläuternden Bemerkungen</ref></item>
+                  <item><ref target="#krp-0107_top08">Zu TOP 8</ref>: <ref target="#krp-0107_b06">Gesetzesentwurf über die Errichtung der deutschösterreichischen Staatserziehungsanstalten samt Begründung</ref></item>
+                  <item><ref target="#krp-0107_top09">Zu TOP 9</ref>: <ref target="#krp-0107_b07">Auszug des Staatsamtes für Inneres und Unterricht für den Vortrag Zl. 31.415 über den Gesetzesbeschluss des Salzburger Landtages zur Einhebung einer Maut auf der Gemeindestraße I. Klasse in Vordersee – Faistenau – Hof</ref></item>
+                  <item><ref target="#krp-0107_top10">Zu TOP 10</ref>: <ref target="#krp-0107_b08">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 32.778 über das Ansuchen des Liebenauer Männergesangsvereines auf Führung des steirischen Landeswappens</ref></item>
+                  <item><ref target="#krp-0107_top11">Zu TOP 11</ref>: <ref target="#krp-0107_b09">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 35.713 über die Beschlüsse des Niederösterreichischen Landesausschusses, -rates und -landtages zur Einhebung von 100 % übersteigenden Umlagen in mehreren Gemeinden Niederösterreichs</ref></item>
+                  <item><ref target="#krp-0107_top12">Zu TOP 12</ref>: <ref target="#krp-0107_b10">Schreiben des Staatsamtes für Finanzen Zl. 61.145 samt Gesetzesentwurf über die Verwendbarkeit der von der Gemeinde Wien aufgrund des mit dem niederösterreichischen Landesgesetzes vom 16. Juli 1919 LGBl. Nr. 280 bewilligten Anlehens auszugebender Schatzscheine zur fruchtbringenden Anlegung von Stiftungs-, Pupillar- und ähnlichen Kapitalien</ref></item>
+                  <item><ref target="#krp-0107_top13">Zu TOP 13</ref>: <ref target="#krp-0107_b11">Vortrag des Staatssekretärs für Äußeres über die Errichtung einer gemeinwirtschaftlichen Anstalt unter der Firma „Vereinigte Leder- und Schuhfabriken, g.w.A.“ samt Satzungen</ref></item>
+                  <item><ref target="#krp-0107_top15">Zu TOP 15</ref>: <ref target="#krp-0107_b12">Vorlage des Staatsamtes für Land- und Forstwirtschaft Zl. 18.765/1919 des Gesetzesbeschlusses des Oberösterreichischen Landtages über die Ausnützung der Wasserkräfte der Donau</ref></item>
+                  <item><ref target="#krp-0107_top16">Zu TOP 16</ref>: <ref target="#krp-0107_b13">Antrag des Staatsamtes für soziale Verwaltung zu Zl. 24.226/1919 über die Bewilligung eines Staatsvorschusses von 10 Millionen K für den Wiener Krankenanstaltenfonds</ref></item>
                   <item>Zum streng vertraulichen Anhang:</item>
-                  <item>
-                     <ref target="#krp-0107_b14">Vortrag des Staatskanzlers über die Liquidierung der deutschösterreichischen Regierungsstellen für die Sudetenländer</ref>
-                  </item>
+                  <item><ref target="#krp-0107_b14">Vortrag des Staatskanzlers über die Liquidierung der deutschösterreichischen Regierungsstellen für die Sudetenländer</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -347,8 +318,7 @@
                      </label>
                   </head>
                   <p>Unterstaatssekretär Glöckel teilt mit, dass das Unterrichtsamt in Ausführung des Kabinettsratsbeschlusses vom 9. September mit dem Staatsamte für Heer[es]wesen wegen Übernahme der Infanterie-Kadettenschule in Liebenau Verhandlungen gepflogen habe. Nach eingehender Erörterung aller in Betracht kommenden Gesichtspunkte und Anhörung der beteiligten lokalen Kreise an Ort und Stelle sei eine Einigung hinsichtlich der Zuweisung dieser Schule an die Unterrichtsverwaltung zwecks Errichtung einer Staatserziehungsanstalt mit vier Klassen erzielt worden. Redner erbitte sich daher demgemäß vom Kabinettsrate die Zustimmung zur tatsächlichen Übernahme dieser Anstalt für den gedachten Zweck.</p>
-                  <p>
-                     <pb facs="krp-0107_r-0005"/>Staatssekretär [Dr.] <hi rend="#letterspaced">Deutsch</hi> verweist auf die besonderen Schwierigkeiten, die sich diesem Antrage augenblicklich infolge mangelnder Unterkünfte für die gegenwärtig in Liebenau untergebrachte Gendarmeriemannschaft entgegenstellen und ersucht die endgiltige Entscheidung um einige Tage zu verschieben.</p>
+                  <p><pb facs="krp-0107_r-0005"/>Staatssekretär [Dr.] <hi rend="#letterspaced">Deutsch</hi> verweist auf die besonderen Schwierigkeiten, die sich diesem Antrage augenblicklich infolge mangelnder Unterkünfte für die gegenwärtig in Liebenau untergebrachte Gendarmeriemannschaft entgegenstellen und ersucht die endgiltige Entscheidung um einige Tage zu verschieben.</p>
                   <p>Über Antrag des <hi rend="#letterspaced">Vorsitzenden</hi> beschließt der Kabinettsrat, den Staatssekretär Dr. Deutsch sowie die Unterstaatssekretäre Glöckel und Dr. Tandler zu ermächtigen, über diese Frage unter Intervention des Staatskanzlers neuerlich zu beraten und dem Kabinettsrate in dessen nächster Sitzung einen Beschlussantrag zu unterbreiten; die Genannten werden überdies ermächtigt, für den Fall unausweichlicher Dringlichkeit über diese Angelegenheit selbständig zu entscheiden und sodann nachträglich die Zustimmung des Kabinettsrates einzuholen.</p>
                </div>
                <div type="top" xml:id="krp-0107_top03">
@@ -375,9 +345,7 @@
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> kommt in diesem Zusammenhange auf die dem Großteil der Bevölkerung aus der 8 Uhr-Haustorsperre durch die Entrichtung des Sperrgeldes erwachsende finanzielle Schädigung zu sprechen und regt eine Abänderung der bezüglichen Vorschriften an.</p>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> verweist auf die diesfalls der Niederösterreichischen Landesregierung zustehende Kompetenz, erklärt sich aber bereit, letztere im kürzesten Wege auf diese offenkundige Unbilligkeit aufmerksam zu machen und sie aufzufordern, schleunigst eine entsprechende Abhilfe in die Wege zu leiten.</p>
                   <p>Der Kabinettsrat beschließt sohin rücksichtlich der vom Staatssekretär Ing. Zerdik aufgeworfenen Fragen im Sinne der Stellungnahme des Staatssekretärs Eldersch und pflichtet weiters der Absicht des Vorsitzenden hinsichtlich der vom Unterstaatssekretär Glöckel gemachten Anregung bei.</p>
-                  <p>
-                     <pb facs="krp-0107_r-0010"/>
-                  </p>
+                  <p><pb facs="krp-0107_r-0010"/></p>
                </div>
                <div type="top" xml:id="krp-0107_top05">
                   <head>
@@ -388,9 +356,7 @@
                   </head>
                   <p>Der Vorsitzende teilt mit, dass die hiesige polnische Gesandtschaft in den letzten Tagen wiederholt an das Staatsamt für Äußeres mit dem Ersuchen herangetreten sei, es möge die Zustimmung zur Abgabe von Kriegsmaterialien verschiedenster Art aus den deutschösterreichischen Beständen an den polnischen Staat erteilt werden. Es werfe sich nun die Frage auf, ob aus Erwägungen außenpolitischer Natur im gegenwärtigen Zeitpunkte, insbesondere im Hinblick auf die noch offene Teschener Frage, eine Lieferung von Kriegsmaterial einseitig an Polen ratsam wäre, ohne Rekriminationen des tschechoslowakischen Staates, welche in der Folge die Gefahr einer neuen bzw. verschärften Kohlensperre hervorrufen könnten, befürchten zu müssen.</p>
                   <p>Nach einer kurzen Debatte, an der sich außer dem Vorsitzenden Staatssekretär Ing. <hi rend="#letterspaced">Zerdik</hi> und Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> beteiligten, gelangt der Kabinettsrat zu dem Beschlusse, diese Angelegenheit dem Staatsamt für Handel und Gewerbe, Industrie und Bauten zur weiteren Verfügung abzutreten.</p>
-                  <p>
-                     <pb facs="krp-0107_r-0011"/>
-                  </p>
+                  <p><pb facs="krp-0107_r-0011"/></p>
                </div>
                <div type="top" xml:id="krp-0107_top06">
                   <head>
@@ -413,21 +379,15 @@
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> erbittet vom Kabinettsrate die Ermächtigung zur Einbringung eines Gesetzentwurfes über die Errichtung von Einigungsämtern <pb facs="krp-0107_r-0013"/>und über kollektive Arbeitsverträge. Redner verweist darauf, dass im Zuge der zwischenstaatsamtlichen Besprechungen seitens des Handelsamtes eine Reihe von Bedenken gegen die ursprünglich in Aussicht genommene Fassung dieser Gesetzesvorlage erhoben worden sei, denen der sprechende Staatsekretär nach Möglichkeit Rechnung getragen habe. Ebenso seien mehrfache Einwendungen der Gewerkschaftskommission und der Industrievertreter berücksichtigt worden.</p>
                   <p>Staatssekretär Ing. <hi rend="#letterspaced">Zerdik</hi> führt aus, dass von ihm vertretene Staatsamt müsse gegen jenen Teil der tarifämtlichen Tätigkeit der Einigungsämter Stellung nehmen, durch welchen diesen die autoritäre Regelung der Lohn- und Arbeitsbedingungen in Form der Erlassung von „Satzungen“ übertragen werde, weshalb Redner die völlige Streichung des Abschnittes V beantrage. Wenn er auch keineswegs verkenne, dass die autoritäre Lohnregelung geeignet sein könne, sozialen Frieden sowie ruhige Arbeits- und Produktionsbedingungen zu sichern, so gelte dies doch nur für normale Wirtschaftszeiten. Die Bestimmungen des V. Abschnittes über die Satzungen übersehen jedoch völlig die jetzigen abnormalen <pb facs="krp-0107_r-0014"/>Zustände in der Produktion. Auch dürfe nicht verkannt werden, dass die Lebensbedingungen von Ort zu Ort verschieden und großen Schwankungen unterworfen seien, weshalb es zu ernster Gefährdung der Produktion führen müsste, wollte man durch Satzungen Verhältnisse, die dermalen für einen Ort angemessen sind, dauernd auch für andere Orte schaffen. In der Praxis dürfte es weiters wohl kaum schwierig sein, einen Beschluss des Einigungs- oder Obereinigungsamtes auf Festsetzung einer Satzung zu erwirken; entscheidend dürfte hiebei im Hinblicke auf die Bestimmungen des Entwurfes zumeist die Stimme des Vorsitzenden sein, dem aber – als richterlichem Funktionär – der Einblick in die wirtschaftlichen Betriebe in der Regel fehlen dürfte. Durch die Bestimmungen des Gesetzentwurfes könnte weiters für die Zukunft auch jedweder Abbau der Löhne infolge des Verhaltens der Arbeiter unmöglich gemacht werden. Für den Fall nun, dass dem Wunsche des sprechenden Staatssekretärs nach völliger Eliminierung des V. Abschnittes nicht Rechnung getragen werden sollte, müsste unbedingt die fallweise Anpassung der Lohn- und Arbeitsbedingungen an die jeweilige Wirtschaftslage sichergestellt werden. Dies wäre nur zu <pb facs="krp-0107_r-0015"/>erreichen, dass,</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> falls es bei der autoritären Lohnregelung bleiben sollte, im Gesetze bestimmt werde, dass für Beschlüsse auf Festsetzung einer Satzung die Einstimmigkeit des Senates notwendig sei;</item>
-                     <item n="2">
-                        <label>2.)</label> wäre die Beiziehung eines oder mehrerer Stimmberechtigter, fachlich vorgebildeter Vertreter der einzelnen Staatsämter, die nicht Beamte sein müssten, wünschenswert;</item>
-                     <item n="3">
-                        <label>3.)</label> das Recht zur Antragstellung auf Festsetzung, Abänderung oder Aufhebung einer Satzung (§ 18 Abs. 2) müsste auch dem einzelnen Betriebsinhaber zuerkannt werden. Sollte diesem Antrage nicht entsprochen werden können, so müsste wenigstens die Bestimmung aufgenommen werden, dass die Verhandlung über die Abänderung oder Aufhebung einer Satzung vom Einigungs- oder Obereinigungsamte nicht verweigert werden könne, wenn ein bezüglicher Antrag seitens eines einzelnen Betriebsunternehmers gestellt wird und sechs Monate seit der Rechtskraft der Satzung verflossen seien.</item>
+                     <item n="1"><label>1.)</label> falls es bei der autoritären Lohnregelung bleiben sollte, im Gesetze bestimmt werde, dass für Beschlüsse auf Festsetzung einer Satzung die Einstimmigkeit des Senates notwendig sei;</item>
+                     <item n="2"><label>2.)</label> wäre die Beiziehung eines oder mehrerer Stimmberechtigter, fachlich vorgebildeter Vertreter der einzelnen Staatsämter, die nicht Beamte sein müssten, wünschenswert;</item>
+                     <item n="3"><label>3.)</label> das Recht zur Antragstellung auf Festsetzung, Abänderung oder Aufhebung einer Satzung (§ 18 Abs. 2) müsste auch dem einzelnen Betriebsinhaber zuerkannt werden. Sollte diesem Antrage nicht entsprochen werden können, so müsste wenigstens die Bestimmung aufgenommen werden, dass die Verhandlung über die Abänderung oder Aufhebung einer Satzung vom Einigungs- oder Obereinigungsamte nicht verweigert werden könne, wenn ein bezüglicher Antrag seitens eines einzelnen Betriebsunternehmers gestellt wird und sechs Monate seit der Rechtskraft der Satzung verflossen seien.</item>
                   </list>
                   <p>Die prinzipiellen Bedenken gegen den erwähnten Abschnitt V hege der sprechende Staatssekretär auch rücksichtlich jener Bestimmungen des Abschnittes VI, welche <pb facs="krp-0107_r-0016"/>die Befugnis des Obereinigungsamtes zur Festsetzung von Satzungen enthalten, die den Wirkungskreis mehrerer Einigungsämter berühren. Hier komme als erschwerend noch der Umstand hinzu, dass es dem Obereinigungsamte freistehe, eine Satzung allenfalls für das ganze Gebiet des Staates als bindend zu erklären. Redner ersuche daher um die Ausscheidung dieser Funktion des Obereinigungsamtes. Falls dies grundsätzlich als unmöglich erklärt würde, so müsste auch für die durch das Obereinigungsamt für den Wirkungsbereich mehrerer Einigungsämter zu erlassenden Satzungen jene Sicherheit geboten werden, die Redner zum Abschnitt V gefordert habe, das sei also:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Stimmeneinhelligkeit des Senates,</item>
-                     <item n="2">
-                        <label>2.)</label> Beiziehung fachlich gebildeter Vertreter der Staatsämter und</item>
-                     <item n="3">
-                        <label>3.)</label> Verpflichtung des Obereinigungsamtes zur Revision der von ihm erlassenen Satzungen – jeweils sechs Monate nach Rechtskraft – über Verlangen einer Partei, und zwar auch eines einzelnen Betriebsunternehmers.</item>
+                     <item n="1"><label>1.)</label> Stimmeneinhelligkeit des Senates,</item>
+                     <item n="2"><label>2.)</label> Beiziehung fachlich gebildeter Vertreter der Staatsämter und</item>
+                     <item n="3"><label>3.)</label> Verpflichtung des Obereinigungsamtes zur Revision der von ihm erlassenen Satzungen – jeweils sechs Monate nach Rechtskraft – über Verlangen einer Partei, und zwar auch eines einzelnen Betriebsunternehmers.</item>
                   </list>
                   <p>Weiters müsse die Gewähr dafür geboten sein, dass auch bei der Organisation des Obereinigungsamtes die Bergbauunter<pb facs="krp-0107_r-0017"/>nehmer und die Bergarbeiter entsprechend vertreten seien.</p>
                   <p>Der sprechende Staatssekretär beantragt sodann noch einige spezielle Änderungen der vorliegenden Fassung des Gesetzentwurfes; so sollte im § 2 die Möglichkeit der Errichtung besonderer Einigungsämter auch für einzelne Betriebsgruppen vorgesehen werden. Im § 6 Abs. 1 wären die Bestimmungen über die Verhandlungs- und Beschlussfähigkeit des Senates dahin zu ergänzen, dass alle Mitglieder desselben zu jeder Verhandlung zu laden sind, zumal es nach der vorliegenden Fassung dem sprechenden Staatssekretär möglich erschiene, dass der Vorsitzende durch die Auswahl der zu ladenden Mitglieder von vornherein einen Einfluss auf das Ergebnis der Verhandlung nimmt. Die im § 11 Abs. 2 und 3 gegebene Definition des Kollektivvertrages lasse die Erklärung vermissen, welche Berufsorganisationen auf der Arbeiterseite zum Abschlusse von Kollektivverträgen berechtigt seien und wie vorzugehen wäre, wenn mehrere Organisationen nebeneinander dieses Recht für sich in Anspruch nehmen würden. Nach § 10 solle die Entscheidung des Einigungsamtes eine endgiltige sein. Die <pb facs="krp-0107_r-0018"/>Möglichkeit der Berufung an das Obereinigungsamt wäre wenigstens in den Fällen, welche für das künftige Arbeitsverhältnis von besonderer Bedeutung sind, oder wenn es sich um örtlich verschieden gelegene Betriebe eines und desselben Unternehmens handelt, vorzusehen. In Anbetracht der gegenwärtigen unstabilen wirtschaftlichen Verhältnisse halte Redner schließlich die im § 14 Abs. 3 festgesetzte Geltungsdauer des Kollektivvertrages (einschließlich der Kündigungsfrist ein ½ Jahre) für zu lange; er beantrage eine Kürzung auf sechs Monate bei zweimonatlicher Kündigungsfrist (insgesamt sohin acht Monate).</p>
@@ -443,13 +403,10 @@
                      </label>
                   </head>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> erbittet in einer eingehenden Begründung vom Kabinettsrate die Ermächtigung zur Einbringung eines Gesetzentwurfes über die Errichtung der deutschösterreichischen Staatserziehungsanstalten.</p>
-                  <p>
-                     <pb facs="krp-0107_r-0020"/>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> verweist darauf, dass die Finanzverwaltung im Texte des Gesetzentwurfes die taxative Auszählung jener militärischen Anstalten vermisse, die vorliegenden Falles von der Unterrichtsverwaltung für die Überführung in Staatserziehungsanstalten in Anspruch genommen werden.</p>
+                  <p><pb facs="krp-0107_r-0020"/>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> verweist darauf, dass die Finanzverwaltung im Texte des Gesetzentwurfes die taxative Auszählung jener militärischen Anstalten vermisse, die vorliegenden Falles von der Unterrichtsverwaltung für die Überführung in Staatserziehungsanstalten in Anspruch genommen werden.</p>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> bemerkt hiezu, dass ein Hinausgehen über den rücksichtlich dieser Aktion mit dem Finanzamte bereits vereinbarten Rahmen schon deshalb unmöglich erschiene, weil hiezu stets eine budgetäre Bedeckung erforderlich wäre, die ohne Zustimmung des Finanzamtes nicht erlangbar sei.</p>
                   <p>Nachdem Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> angeregt hatte, das Staatsamt für Inneres und Unterricht möge bereits gelegentlich der Beratung dieses Gesetzentwurfes im Ausschusse das genaue Programm der Unterrichtsverwaltung im Einzelnen bereithalten, und Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> dies zugesagt hatte, erteilt der Kabinettsrat Letzterem die erbetene Ermächtigung.</p>
-                  <p>
-                     <pb facs="krp-0107_r-0021"/>
-                  </p>
+                  <p><pb facs="krp-0107_r-0021"/></p>
                </div>
                <div type="top" xml:id="krp-0107_top09">
                   <head>
@@ -481,9 +438,7 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> erbittet die Zustimmung des Kabinettsrates zur Genehmigung von Beschlüssen des Niederösterreichischen Landesausschusses bzw. Landesrates vom 19. Februar 1918, bzw. vom 18. März und 8. April 1919, endlich von Beschlüssen des Niederösterreichischen Landtages vom 11. Juni und 3. Juli 1919, betreffend die Einhebung von 100 % übersteigenden Umlagen in einer Reihe von Gemeinden Niederösterreichs.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Zustimmung.</p>
-                  <p>
-                     <pb facs="krp-0107_r-0023"/>
-                  </p>
+                  <p><pb facs="krp-0107_r-0023"/></p>
                </div>
                <div type="top" xml:id="krp-0107_top12">
                   <head>
@@ -537,8 +492,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0107_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 107, vom 19. September 1919.</p>
+               <p><pb facs="krp-0107_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 107, vom 19. September 1919.</p>
                <div n="1">
                   <head>Liquidierungsfragen in den Sudetenländern.</head>
                   <div type="a01_protokoll">
@@ -561,8 +515,7 @@
                      <p>Nach Überwindung der Aufnahmeschwierigkeiten werde die Schwierigkeit des Abbaues der Volkswehr folgen. Redner vermeine, dass man den Leuten wirtschaftlich sehr entgegenkommen werde müssen. Er bitte daher schon jetzt, das Finanzamt um tunlichstes Entgegenkommen.</p>
                      <p>Abschließend ersuche er den Kabinettsrat um die Ermächtigung, dieser ungemein dringenden Arbeiten auf Grundlage der dargelegten Richtlinien weiterführen zu dürfen.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> ersucht, in allen finanziellen Fragen mit dem Finanzamte zeitgerecht das Einvernehmen zu pflegen, sowie gleichzeitig auch die Abschaffung des militärischen Sondergerichtsstandes in Strafsachen einzuleiten.</p>
-                     <p>Der Vorsitzende, Staatssekretär Dr. <pb facs="krp-0107_a01-0010"/>
-                        <hi rend="#letterspaced">Bratusch</hi>, bemerkt hiezu, dass an den Vorlagen über die Abschaffung dieses militärischen Gerichtsstandes bereits gearbeitet werde.</p>
+                     <p>Der Vorsitzende, Staatssekretär Dr. <pb facs="krp-0107_a01-0010"/><hi rend="#letterspaced">Bratusch</hi>, bemerkt hiezu, dass an den Vorlagen über die Abschaffung dieses militärischen Gerichtsstandes bereits gearbeitet werde.</p>
                      <p>Staatssekretär <hi rend="#letterspaced">Stöckler</hi> regt an, die Frage der Ausgestaltung der neuen Wehrmacht zum Gegenstande einer eigenen Kabinettssitzung zu machen.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> stellt die Frage, ob es nicht möglich wäre, dass die Kabinettsmitglieder vor dieser Kabinettsratssitzung bereits in Kenntnis der einzelnen legislativen Entwürfe gelangen.</p>
                      <p>Der Kabinettsrat ermächtigt schließlich den Staatssekretär Dr. Deutsch, die erforderlichen Arbeiten für die Aufstellung der neuen Wehrmacht in dem von ihm skizzierten Sinne weiterzuführen und beauftragt ihn gleichzeitig, über Fragen finanziellen Charakters jeweils mit dem Staatssekretär für Finanzen das Einvernehmen zu pflegen. Weiters beschließt der Kabinettsrat, dass über den vorliegenden Gegenstand demnächst eine eigene Kabinettsratssitzung abzuhalten sein wird, vor welcher den Kabinettsmitgliedern die einschlägigen legistischen Entwürfe zuzumitteln sein werden.</p>

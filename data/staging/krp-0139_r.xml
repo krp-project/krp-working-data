@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0139.xml">
             <head type="dokument">
-               <title type="num">139.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">139.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0139_r-0001"/>[Dienstag] 1919-01-20</title>
@@ -281,13 +280,8 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0139_top07">Zu TOP 7</ref>: <ref target="#krp-0139_b01">Gesetz über die Begebung einer ausländischen Anleihe gegen Sicherstellung auf das Erträgnis des österreichischen Tabakmonopols</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0139_top09">Zu TOP 9:</ref>
-                     <ref target="#krp-0139_b02">Bericht und Antrag des Schulausschusses betreffend die Abänderung des von der Provisorischen Tiroler Landesversammlung beschlossenen Gesetzentwurf über die Gleichstellung der Lehrerinnen mit den Lehrern und die begünstigte Anrechnung der Kriegsjahre</ref>
-                  </item>
+                  <item><ref target="#krp-0139_top07">Zu TOP 7</ref>: <ref target="#krp-0139_b01">Gesetz über die Begebung einer ausländischen Anleihe gegen Sicherstellung auf das Erträgnis des österreichischen Tabakmonopols</ref></item>
+                  <item><ref target="#krp-0139_top09">Zu TOP 9:</ref> <ref target="#krp-0139_b02">Bericht und Antrag des Schulausschusses betreffend die Abänderung des von der Provisorischen Tiroler Landesversammlung beschlossenen Gesetzentwurf über die Gleichstellung der Lehrerinnen mit den Lehrern und die begünstigte Anrechnung der Kriegsjahre</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -301,9 +295,7 @@
                   </head>
                   <p>Über Vorschlag des <hi rend="#letterspaced">Vorsitzenden</hi> erhebt der Kabinettsrat gegen das von der Nationalversammlung beschlossene Gesetz, womit einige Bestimmungen des Militärstrafgesetzes abgeändert und ergänzt werden (2. Militärstrafgesetznovelle) keine Vorstellung.</p>
                   <p>Das Gesetz ist demgemäß nach Gegenzeichnung durch den Staatskanzler und den Staatssekretär für Heer[es]wesen dem Präsidenten der Nationalversammlung zur Fertigung vorzulegen.</p>
-                  <p>
-                     <pb facs="krp-0139_r-0003"/>
-                  </p>
+                  <p><pb facs="krp-0139_r-0003"/></p>
                </div>
                <div type="top" xml:id="krp-0139_top02">
                   <head>
@@ -323,10 +315,8 @@
                   </head>
                   <p>Vizekanzler <hi rend="#letterspaced">Fink</hi> bringt Telegramme des Landeshauptmannes von Vorarlberg und der christlichsozialen Parteileitung von Kärnten zur Verlesung, welche sich dagegen wenden, dass das Staatsamt für Heereswesen bereits mit der Anwerbung für das neue Heer begonnen habe, obwohl das Wehrgesetz erst im Entwurf vorliege und von der Nationalversammlung noch nicht beschlossen worden sei. Redner verweist auf die Ausführungen des Staatssekretärs Dr. Ramek bei der Beratung des <pb facs="krp-0139_r-0004"/>Wehrgesetzentwurfes in der Kabinettssitzung vom 9. Jänner und verlangt die Einhaltung des damals gefassten Beschlusses, dass bis zur Aufnahme der Werbetätigkeit für die neue Wehrmacht auch die Abfertigungsbedingungen für die Angehörigen der Volkswehr bekanntgegeben worden sein müssen. Er stellt dementsprechend den Antrag:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Das Staatsamt für Heereswesen wird beauftragt, im Einvernehmen mit dem Staatsamte für Finanzen dem Kabinettsrate mit möglichster Beschleunigung eine Vollzugsanweisung vorzulegen, betreffend die Abfertigung jener Volkswehrmänner, welche nicht mehr in die neue Wehrmacht eintreten.</item>
-                     <item n="2">
-                        <label>2.)</label> Das Staatsamt für Heereswesen hat Vorsorge zu treffen, dass die bereits eingeleiteten Anmeldungen für die Aufnahme in die neue Wehrmacht insolange eingestellt werden, bis die Abfertigungsvollzugsanweisung erlassen und hinausgegeben worden ist, worauf eine gleichlange Frist für die Anmeldung zur Aufnahme in die neue Wehrmacht wie für die Anmeldung auf den Austritt aus der Volkswehr und den Anspruch auf die Abfertigung festzusetzen ist.</item>
+                     <item n="1"><label>1.)</label> Das Staatsamt für Heereswesen wird beauftragt, im Einvernehmen mit dem Staatsamte für Finanzen dem Kabinettsrate mit möglichster Beschleunigung eine Vollzugsanweisung vorzulegen, betreffend die Abfertigung jener Volkswehrmänner, welche nicht mehr in die neue Wehrmacht eintreten.</item>
+                     <item n="2"><label>2.)</label> Das Staatsamt für Heereswesen hat Vorsorge zu treffen, dass die bereits eingeleiteten Anmeldungen für die Aufnahme in die neue Wehrmacht insolange eingestellt werden, bis die Abfertigungsvollzugsanweisung erlassen und hinausgegeben worden ist, worauf eine gleichlange Frist für die Anmeldung zur Aufnahme in die neue Wehrmacht wie für die Anmeldung auf den Austritt aus der Volkswehr und den Anspruch auf die Abfertigung festzusetzen ist.</item>
                   </list>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> erwidert, dass es sich jetzt bloß um vorläufige Anmeldungen handelt, damit <pb facs="krp-0139_r-0005"/>ein Überblick gewonnen werden könne, wie viel Leute sich um die Aufnahme in das Heer bewerben werden, und um die Behörden in den Stand zu setzen, rechtzeitig Leumundserhebungen über die Aufnahmswerber zu pflegen. Mit diesem Vorgange hätte sich das Koalitionskomitee ausdrücklich einverstanden erklärt. Gleichzeitig mit der beantragten Hinausgabe einer Vollzugsanweisung über die Abfertigungssätze müsste auch die Vollzugsanweisung über die Gebührensätze für das neue Heer erlassen werden. Über diese beiden Punkte stünden aber erst die Verhandlungen mit dem Staatsamte für Finanzen bevor, so dass für die Vorbereitung der Aufstellung des neuen Heeres zu viel Zeit verstrichen wäre, hätte man die Anmeldungen bis zu deren Abschluss aufgeschoben. Jetzt die Anmeldungen wieder einzustellen, erscheine dem Redner ganz unmöglich, da dies ein Bruch der Vereinbarungen im Koalitionskomitee bedeuten und in der Öffentlichkeit die Meinung aufkommen lassen würde, dass es hinsichtlich der Wehrvorlage zu ernsten Schwierigkeiten zwischen den Parteien gekommen sei. Er müsse daher die Verantwortung für einen etwaigen Beschluss im Sinne der Einstellung der Anmeldungen strikte ablehnen. Anstatt dessen möchte er empfehlen, den <pb facs="krp-0139_r-0006"/>Staatsämtern für Heereswesen und für Finanzen einen bestimmten Termin zu setzen, innerhalb dessen sie dem Kabinettsrat die Vollzugsanweisungen sowohl über die Abfertigungssätze für ausscheidende Volkswehrmänner als über die Gebühren im neuen Heer vorzulegen haben. Über die bisher festgestellten Grundsätze teilt der sprechende Staatssekretär mit, dass eine Grundabfertigung von 200 K mit einer Steigerung von 50 K für jeden zurückgelegten Volkswehrmonat und schließlich die Gewährung der normalen Kündigungsgebühr in Aussicht genommen sei, so dass jeder ausscheidende Volkswehrmann einen Betrag von ca. 1.200 K ausbezahlt bekäme. Die Gebühren für die Angehörigen des neuen Heeres seien ungefähr in der Höhe der Gendarmeriegebühren gedacht.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ramek</hi> erläutert seine Ausführungen in der Kabinettssitzung vom 9. Jänner dahin, dass für ihn das Schwergewicht nicht in der Anwerbung als der behördlichen Entscheidung über die Aufnahmsbegehren, sondern in der Anmeldung als solcher gelegen sei und er die Gewähr dafür wünsche, dass jeder Volkswehrmann beim Vollzuge schon dieser Anmeldung wisse, was er entweder <pb facs="krp-0139_r-0007"/>als Abfertigung oder als Gebühr im neuen Heere zu erwarten habe. Bei Festsetzung der Abfertigungsbeträge solle nicht kleinlich vorgegangen werden, weil es sich jetzt darum handle, das neue Heer von anrüchigen Elementen zu reinigen. Derzeit befänden sich in der Volkswehr eine erhebliche Anzahl vorbestrafter Individuen und die Kriminalität unter den Volkswehrleuten sei eine derart hohe, dass die Zahl der Straffälle unter den etwa 30.000 Mann Volkswehr im Monat ungefähr der Zahl der Straffälle im Sprengel des Landesgerichtes für Strafsachen in Wien gleichkomme.</p>
@@ -334,14 +324,10 @@
                   <p>Nach einer längeren Debatte, an welcher sich außer dem <hi rend="#letterspaced">Vorsitzenden</hi> der <hi rend="#letterspaced">Vizekanzler</hi>, die Staatssekretäre Dr. <hi rend="#letterspaced">Deutsch</hi> und <hi rend="#letterspaced">Eldersch</hi>, Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> und Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> beteiligen, macht Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> den Vorschlag, den Staatsämtern für Heereswesen und für Finanzen einen kurzfristigen Termin für die Vorlage der Vollzugsanweisungen über die Abfertigung und die Gebühren an den Kabinettsrat zu stellen und den Termin für die Anmeldungen bis zum 15. März zu erstrecken, so dass von der Veröffentlichung der Abfertigungs- und Gebührensätze an bis zum Ablauf des Anmeldungs<pb facs="krp-0139_r-0009"/>termines noch immer ein Zeitraum von etwa sechs Wochen gegeben sei, innerhalb dessen jeder die Möglichkeit habe, sich in voller Kenntnis der Bedingungen sowohl im Falle des Ausscheidens aus der Volkswehr als auch des Eintrittes in die neue Wehrmacht entweder für das eine oder das andere zu entscheiden.</p>
                   <p>Der Kabinettsrat fasst sohin folgenden Beschluss:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Das Staatsamt für Heereswesen wird beauftragt im Einvernehmen mit dem Staatsamte für Finanzen dem Kabinettsrate bis ersten Februar eine Vollzugsanweisung vorzulegen betreffend die Abfertigung jener Volkswehrmänner, welche nicht mehr in die neue Wehrmacht eintreten, und die laufenden Gebühren jener, die in die neue Wehrmacht aufgenommen werden.</item>
-                     <item n="2">
-                        <label>2.)</label> Der Anmeldetermin für die neue Wehrmacht ist auf den 15. März zu erstrecken, damit die sich Abmeldenden sowohl über die Abfertigung beim Ausscheiden aus der Volkswehr als über die laufenden Gebühren in der neuen Wehrmacht sich rechtzeitig informieren und schlüssig werden können.</item>
+                     <item n="1"><label>1.)</label> Das Staatsamt für Heereswesen wird beauftragt im Einvernehmen mit dem Staatsamte für Finanzen dem Kabinettsrate bis ersten Februar eine Vollzugsanweisung vorzulegen betreffend die Abfertigung jener Volkswehrmänner, welche nicht mehr in die neue Wehrmacht eintreten, und die laufenden Gebühren jener, die in die neue Wehrmacht aufgenommen werden.</item>
+                     <item n="2"><label>2.)</label> Der Anmeldetermin für die neue Wehrmacht ist auf den 15. März zu erstrecken, damit die sich Abmeldenden sowohl über die Abfertigung beim Ausscheiden aus der Volkswehr als über die laufenden Gebühren in der neuen Wehrmacht sich rechtzeitig informieren und schlüssig werden können.</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0139_r-0010"/>
-                  </p>
+                  <p><pb facs="krp-0139_r-0010"/></p>
                </div>
                <div type="top" xml:id="krp-0139_top04">
                   <head>
@@ -416,16 +402,13 @@
                   </head>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">G1öckel</hi> teilt mit, dass der Tiroler Landtag in der Sitzung vom 11. Dezember 1919 den Gesetzesbeschluss der Tiroler Landesversammlung vom 7. April 1919, womit einige Bestimmungen der Gesetze vom 7. Juni 1910, LGBl. Nr. 52, und vom 27. Juli 1918, LGBl. Nr. 55 und 56, abgeändert werden, in eine neue Fassung gebracht habe.</p>
                   <p>Der ursprüngliche Gesetzesbeschluss, welcher die Lehrerinnen in ihren Bezügen den Lehrern gleichgestellt und Bestimmungen über die begünstigte Anrechnung der Kriegsjahre 1914 bis 1918 trifft, sei bereits in der Sitzung des Kabinettsrates vom 23. Mai 1919 verhandelt worden. Der Kabinettsrat hätte damals den sprechenden Unterstaatssekretär [ermächtigt] von der Erhebung einer Vorstellung abzusehen, die Landesregierung aber zu ersuchen, einzelne formelle Änderungen beim Landesrate anzuregen und diesen einzuladen, das entsprechend geänderte Gesetz behufs Beisetzung der Gegenzeichnung wieder vorzulegen.</p>
-                  <p>
-                     <pb facs="krp-0139_r-0027"/>Die Wesentlichste der begehrten Änderungen hätte darin bestanden, dass mit der Durchführung des Gesetzes an Stelle der Landesregierung der Staatssekretär für Inneres und Unterricht zu betrauen sei.</p>
-                  <p>Die Tiroler Landesregierung habe daraufhin dem Unterrichtsamte einen neuen Gesetzesentwurf zur Stellungnahme vorgelegt, in welchem den Wünschen der Staatsregierung Rechnung getragen und überdies eine weitere meritorische Änderung vorgenommen war; diese bestand darin, dass den Lehrpersonen, die in den Jahren 1914 bis 1918 eine im Gesetze näher qualifizierte militärische Dienstleistung zurückgelegt haben, für jedes der betreffenden Kalenderjahre je 1 Jahr statt nur ½ Jahr zugerechnet werden sollte. Das Unterrichtsamt habe sich mit der Einbringung der Gesetzesvorlage in der beabsichtigten Form einverstanden erklärt und diese sei nunmehr vom Tiroler Landtag in der Sitzung vom 11. Dezember 1919 zum Beschluss erhoben worden. Da der Gesetzesbeschluss vollkommen entspricht, stelle Redner den Antrag, ihn zu der Mitteilung an die Tiroler Landesregierung zu ermächtigen, dass seitens der Staatsregierung von der Erhebung einer Vorstellung gegen den Gesetzesbeschluss abgesehen <pb facs="krp-0139_r-0028"/>werde und dessen sofortiger Kundmachung zugestimmt werde.<note type="footnote">Korrektur aus „[…] dessen sofortiger Kundmachung mit der Gegenzeichnung des Leiters des Unterrichtsamtes zugestimmt werde.“</note>
-                  </p>
+                  <p><pb facs="krp-0139_r-0027"/>Die Wesentlichste der begehrten Änderungen hätte darin bestanden, dass mit der Durchführung des Gesetzes an Stelle der Landesregierung der Staatssekretär für Inneres und Unterricht zu betrauen sei.</p>
+                  <p>Die Tiroler Landesregierung habe daraufhin dem Unterrichtsamte einen neuen Gesetzesentwurf zur Stellungnahme vorgelegt, in welchem den Wünschen der Staatsregierung Rechnung getragen und überdies eine weitere meritorische Änderung vorgenommen war; diese bestand darin, dass den Lehrpersonen, die in den Jahren 1914 bis 1918 eine im Gesetze näher qualifizierte militärische Dienstleistung zurückgelegt haben, für jedes der betreffenden Kalenderjahre je 1 Jahr statt nur ½ Jahr zugerechnet werden sollte. Das Unterrichtsamt habe sich mit der Einbringung der Gesetzesvorlage in der beabsichtigten Form einverstanden erklärt und diese sei nunmehr vom Tiroler Landtag in der Sitzung vom 11. Dezember 1919 zum Beschluss erhoben worden. Da der Gesetzesbeschluss vollkommen entspricht, stelle Redner den Antrag, ihn zu der Mitteilung an die Tiroler Landesregierung zu ermächtigen, dass seitens der Staatsregierung von der Erhebung einer Vorstellung gegen den Gesetzesbeschluss abgesehen <pb facs="krp-0139_r-0028"/>werde und dessen sofortiger Kundmachung zugestimmt werde.<note type="footnote">Korrektur aus „[…] dessen sofortiger Kundmachung mit der Gegenzeichnung des Leiters des Unterrichtsamtes zugestimmt werde.“</note></p>
                   <p/>
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0139_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll. Nr. 139 vom 20. Jänner 1920.</p>
+               <p><pb facs="krp-0139_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll. Nr. 139 vom 20. Jänner 1920.</p>
                <div n="1">
                   <head/>
                   <div type="a01_protokoll">

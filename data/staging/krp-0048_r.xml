@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0048.xml">
             <head type="dokument">
-               <title type="num">48.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">48.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0048_r-0001"/>
@@ -282,24 +281,12 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0048_top06">Zu TOP 6</ref>: <ref target="#krp-0048_b01">Vorschlag des Staatsamtes der Finanzen im Einvernehmen mit dem Staatsamt für Heerwesen hinsichtlich Richtlinien für die nach Böhmen, Mähren und Schlesien zuständigen Offiziere und Unteroffiziere, die zum Eintritt in die tschechoslowakische Armee angehalten werden sowie Regelung der Bezüge bzw. Versorgungsgebühren bis auf Weiteres</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b02">Vereinbarungen der zwischenstaatlichen Kommission zur Regelung von Staatsbedienstetenfragen vom 14. Februar 1919 hinsichtlich Ruhestandsversetzung ehemaliger österreichischer Staatsbediensteter sowie Regelung der Auszahlung eines einmaligen Teuerungszuschusses für Bedienstete im Ruhestand, Witwen und Waisen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b03">Vorschläge der zwischenstaatlichen Kommission zur Regelung von Staatsbedienstetenfragen vom 18. Februar 1919 hinsichtlich der Aufbesserung für aktive und pensionierte Bedienstete der früheren k. u. k. Zivilresorts und für deren Witwen und Waisen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b04">Erklärung der zwischenstaatlichen Kommission zur Regelung von Staatsbedienstetenfragen vom 19. Februar 1919 zwischen der tschechoslowakischen Republik, der westukrainischen Volksrepublik der rumänischen Nationalregierung in der Bukowina und der Republik Deutschösterreich über die Fortzahlung von Beihilfen (Vorschüssen) an die enthobenen ehemals österreichischen Staatsbediensteten (Staatsbahnbediensteten) tschechoslowakischer, ukrainischer, rumänischer, italienischer und deutscher Nationalität</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b05">Vereinbarung mit der rumänischen Nationalregierung in der Bukowina über die Sicherstellung deutschösterreichischer Forderungen hinsichtlich des vom ehem. österreichischen Finanzminister Dr. Redlich aufgenommenen Darlehens</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b06">Vereinbarung jener ehemals österreichischen Minister, deren Wiederverwendung anlässlich ihrer Enthebung vorbehalten wurde</ref>
-                  </item>
+                  <item><ref target="#krp-0048_top06">Zu TOP 6</ref>: <ref target="#krp-0048_b01">Vorschlag des Staatsamtes der Finanzen im Einvernehmen mit dem Staatsamt für Heerwesen hinsichtlich Richtlinien für die nach Böhmen, Mähren und Schlesien zuständigen Offiziere und Unteroffiziere, die zum Eintritt in die tschechoslowakische Armee angehalten werden sowie Regelung der Bezüge bzw. Versorgungsgebühren bis auf Weiteres</ref></item>
+                  <item><ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b02">Vereinbarungen der zwischenstaatlichen Kommission zur Regelung von Staatsbedienstetenfragen vom 14. Februar 1919 hinsichtlich Ruhestandsversetzung ehemaliger österreichischer Staatsbediensteter sowie Regelung der Auszahlung eines einmaligen Teuerungszuschusses für Bedienstete im Ruhestand, Witwen und Waisen</ref></item>
+                  <item><ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b03">Vorschläge der zwischenstaatlichen Kommission zur Regelung von Staatsbedienstetenfragen vom 18. Februar 1919 hinsichtlich der Aufbesserung für aktive und pensionierte Bedienstete der früheren k. u. k. Zivilresorts und für deren Witwen und Waisen</ref></item>
+                  <item><ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b04">Erklärung der zwischenstaatlichen Kommission zur Regelung von Staatsbedienstetenfragen vom 19. Februar 1919 zwischen der tschechoslowakischen Republik, der westukrainischen Volksrepublik der rumänischen Nationalregierung in der Bukowina und der Republik Deutschösterreich über die Fortzahlung von Beihilfen (Vorschüssen) an die enthobenen ehemals österreichischen Staatsbediensteten (Staatsbahnbediensteten) tschechoslowakischer, ukrainischer, rumänischer, italienischer und deutscher Nationalität</ref></item>
+                  <item><ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b05">Vereinbarung mit der rumänischen Nationalregierung in der Bukowina über die Sicherstellung deutschösterreichischer Forderungen hinsichtlich des vom ehem. österreichischen Finanzminister Dr. Redlich aufgenommenen Darlehens</ref></item>
+                  <item><ref target="#krp-0048_top10">Zu TOP 10</ref>: <ref target="#krp-0048_b06">Vereinbarung jener ehemals österreichischen Minister, deren Wiederverwendung anlässlich ihrer Enthebung vorbehalten wurde</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -344,9 +331,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> und Unterstaatssekretär <hi rend="#letterspaced">Riedl</hi> berichten über das Ergebnis der in Weimar und Berlin in der Anschlussfrage gepflogenen Verhandlungen.</p>
                   <p>Der Kabinettsrat nimmt diesen Bericht, der als streng geheim erklärt wird, zur Kenntnis.</p>
-                  <p>
-                     <pb facs="krp-0048_r-0006"/>
-                  </p>
+                  <p><pb facs="krp-0048_r-0006"/></p>
                </div>
                <div type="top" xml:id="krp-0048_top05">
                   <head>
@@ -368,12 +353,9 @@
                   <p>Staatssekretär <hi rend="#letterspaced">Mayer</hi> teilt mit, dass die tschechoslowakische Regierung eine Verfügung getroffen habe, wonach alle Berufs- und nichtaktiven Gagisten, ferner alle Ruhestandsgagisten bis 10. März d. J. die Anmeldung um Aufnahme in den Verband der tschechoslowakischen Armee als Gagisten zu überreichen hätten, widrigenfalls sie alle Ansprüche als Gagi<pb facs="krp-0048_r-0007"/>sten, insbesondere auch die Ansprüche auf Auszahlung der Pensionsbezüge verlieren würden. Dieser Termin sei über Intervention der deutschösterreichischen Regierung auf den 24. März verschoben worden.</p>
                   <p>Das Staatsamt für Heer[es]wesen beabsichtige im Einvernehmen mit dem Staatsamte der Finanzen in dieser Angelegenheit folgendermaßen Stellung zu nehmen:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Gegen die Anmeldung bei der tschechoslowakischen Armee seitens der nach den Gebieten der ehemals österreichischen Länder, Böhmen, Mähren und Schlesien zuständigen Gagisten und längerdienenden Unteroffiziere deutschösterreichischer Staatsbürgerschaft, die sich zum Eintritte in die deutschösterreichische Wehrmacht gemeldet haben, erhebt die deutschösterreichische Regierung keine Einwendung und wird ihnen die Zusicherung gegeben, dass ihnen, soweit sie nachweislich deutscher Nationalität sind, bei Räumung der besetzten Gebiete durch die Tschechoslowaken aus dieser Anmeldung gegenüber den übrigen deutschösterreichischen Gagisten gleicher Kategorie und länger dienenden Unteroffiziere <pb facs="krp-0048_r-0008"/>kein Nachteil erwächst, vorausgesetzt, dass die Anmeldung nach der Publikation d. i. nach dem 21. Februar 1919 erfolgt ist.</item>
-                     <item n="2">
-                        <label>2.)</label> Falls solche Personen des militärischen Berufsstandes von der tschechoslowakischen Regierung nicht in Dienst gestellt, sondern pensioniert oder sonst auf geringere Bezüge gesetzt werden, erhalten sie bis auf Weiteres von der deutschösterreichischen Regierung die Ergänzung auf die Gebühren der übrigen nichteingeteilten deutschösterreichischen Gagisten und länger dienenden Unteroffiziere soferne diese höher sein sollten, als die von ihnen im tschechoslowakischen Staate bezogenen Gebühren.<lb/>Diejenigen Berufsoffiziere und Unteroffiziere deutschösterreichischer Staatsbürgerschaft, die nach den ehemaligen österreichischen Ländern Böhmen, Mähren und Schlesien zuständig, nachweislich deutscher Nationalität sind und sich für den Eintritt in die deutschösterreichische Wehrmacht gemeldet haben, den tschechoslowakischen Eid aber nicht leisten, werden bis zur endgiltigen Regelung der Frage nach der Tragung der Ver<pb facs="krp-0048_r-0009"/>sorgungsgebühren der Militärpersonen der gewesenen k. u. k. Armee, bzw. k. k. Landwehr, soferne sie sich im nichtbesetzten Gebiet bei einem liquidierenden Kader im Sinne des Kriegsministeriumserlasses, Abt. 10, Nr. 352.000 melden, ebenso behandelt, wie in freien Gebieten Deutschösterreichs heimatszuständige überzählige deutschösterreichische Gagisten und Unteroffiziere.</item>
-                     <item n="3">
-                        <label>3.)</label> Allen deutschösterreichischen Gagisten des Ruhestandes, Witwen und Waisen, die im ehemaligen Böhmen, Mähren und Schlesien heimatzuständig sind, wird für alle Fälle nahegelegt, sich im Interesse des ungestörten Fortbezuges ihrer Versorgungsgebühren beim tschechoslowakischen Staat anzumelden. Durch diese Anmeldung wird nach Räumung der besetzten Gebiete diesen Personen seitens Deutschösterreichs kein Nachteil erwachsen.</item>
+                     <item n="1"><label>1.)</label> Gegen die Anmeldung bei der tschechoslowakischen Armee seitens der nach den Gebieten der ehemals österreichischen Länder, Böhmen, Mähren und Schlesien zuständigen Gagisten und längerdienenden Unteroffiziere deutschösterreichischer Staatsbürgerschaft, die sich zum Eintritte in die deutschösterreichische Wehrmacht gemeldet haben, erhebt die deutschösterreichische Regierung keine Einwendung und wird ihnen die Zusicherung gegeben, dass ihnen, soweit sie nachweislich deutscher Nationalität sind, bei Räumung der besetzten Gebiete durch die Tschechoslowaken aus dieser Anmeldung gegenüber den übrigen deutschösterreichischen Gagisten gleicher Kategorie und länger dienenden Unteroffiziere <pb facs="krp-0048_r-0008"/>kein Nachteil erwächst, vorausgesetzt, dass die Anmeldung nach der Publikation d. i. nach dem 21. Februar 1919 erfolgt ist.</item>
+                     <item n="2"><label>2.)</label> Falls solche Personen des militärischen Berufsstandes von der tschechoslowakischen Regierung nicht in Dienst gestellt, sondern pensioniert oder sonst auf geringere Bezüge gesetzt werden, erhalten sie bis auf Weiteres von der deutschösterreichischen Regierung die Ergänzung auf die Gebühren der übrigen nichteingeteilten deutschösterreichischen Gagisten und länger dienenden Unteroffiziere soferne diese höher sein sollten, als die von ihnen im tschechoslowakischen Staate bezogenen Gebühren.<lb/>Diejenigen Berufsoffiziere und Unteroffiziere deutschösterreichischer Staatsbürgerschaft, die nach den ehemaligen österreichischen Ländern Böhmen, Mähren und Schlesien zuständig, nachweislich deutscher Nationalität sind und sich für den Eintritt in die deutschösterreichische Wehrmacht gemeldet haben, den tschechoslowakischen Eid aber nicht leisten, werden bis zur endgiltigen Regelung der Frage nach der Tragung der Ver<pb facs="krp-0048_r-0009"/>sorgungsgebühren der Militärpersonen der gewesenen k. u. k. Armee, bzw. k. k. Landwehr, soferne sie sich im nichtbesetzten Gebiet bei einem liquidierenden Kader im Sinne des Kriegsministeriumserlasses, Abt. 10, Nr. 352.000 melden, ebenso behandelt, wie in freien Gebieten Deutschösterreichs heimatszuständige überzählige deutschösterreichische Gagisten und Unteroffiziere.</item>
+                     <item n="3"><label>3.)</label> Allen deutschösterreichischen Gagisten des Ruhestandes, Witwen und Waisen, die im ehemaligen Böhmen, Mähren und Schlesien heimatzuständig sind, wird für alle Fälle nahegelegt, sich im Interesse des ungestörten Fortbezuges ihrer Versorgungsgebühren beim tschechoslowakischen Staat anzumelden. Durch diese Anmeldung wird nach Räumung der besetzten Gebiete diesen Personen seitens Deutschösterreichs kein Nachteil erwachsen.</item>
                   </list>
                   <p>Der Kabinettsrat genehmigt diese Richtlinien.</p>
                </div>
@@ -385,7 +367,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Mayer weist darauf hin, dass sich im Bildamte des liquidierenden Kriegsministeriums <pb facs="krp-0048_r-0010"/>eine Reihe, vom historischen Standpunkte, sehr wertvoller Bilder befinde. Es wäre anstrebenswert, wenn diese Bilder nicht in die Liquidierungsmasse einbezogen und somit auf die einzelnen Nationalstaaten verteilt würden, sondern dem Staate Deutschösterreich erhalten bleiben könnten.</p>
-                  <p>Der Kabinettsrat ermächtigt nach einer kurzen Debatte das Staatsamt für Heerwesen, die entsprechenden Veranlassungen zu treffen, soferne damit nicht erhebliche Kosten verbunden wären.</p>
+                  <p>Der Kabinettsrat ermächtigt nach einer kurzen Debatte das Staatsamt für Heerwesen, die entsprechenden Veranlassungen zu treffen, soferne damit nicht erhebliche Kosten verbunden wären.   </p>
                </div>
                <div type="top" xml:id="krp-0048_top08">
                   <head>
@@ -398,10 +380,8 @@
                   <p>Im Zuge der sich hierüber entwickelnden Debatte, an welcher sich die Staatssekretäre <hi rend="#letterspaced">Mayer</hi>, Dr. <hi rend="#letterspaced">Steinwender</hi>, Dr. <hi rend="#letterspaced">Bauer</hi>, Dr. <hi rend="#letterspaced">Urban</hi> und Dr. <hi rend="#letterspaced">Roller</hi> beteiligten, stellt Unterstaatssekretär Dr. von <hi rend="#letterspaced">Grimm</hi> den Antrag, es sei sowohl dem Staatsamte für Heerwesen wie auch allen anderen Staatsämtern nahezulegen, sich bei der Inanspruchnahme der Sachdemobilisierungsgüter der größten Zurückhaltung zu befleißen, damit möglichst viele Vorräte der heimischen Volkswirtschaft zugeführt werden können.</p>
                   <p>Der Kabinettsrat erhebt diesen Antrag zum Beschluss und gelangt hinsichtlich der Ansprüche der Heeresverwaltung zu folgender Auffassung:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Das eigentliche Kriegsgerät verbleibt im Sinne des italienischen Waffenstillstandsvertrages in der Verfügung des Staatsamtes für Heer[es]wesen.</item>
-                     <item n="2">
-                        <label>2.)</label> Das für einen Effektivstand von 50.000 Mann erforderliche Aus<pb facs="krp-0048_r-0012"/>rüstungsmateriale wird dem Staatsamte für Heerwesen überlassen. Seine diesbezüglichen Ansprüche hätte das genannte Staatsamt in einer Liste bekanntzugeben.</item>
+                     <item n="1"><label>1.)</label> Das eigentliche Kriegsgerät verbleibt im Sinne des italienischen Waffenstillstandsvertrages in der Verfügung des Staatsamtes für Heer[es]wesen.</item>
+                     <item n="2"><label>2.)</label> Das für einen Effektivstand von 50.000 Mann erforderliche Aus<pb facs="krp-0048_r-0012"/>rüstungsmateriale wird dem Staatsamte für Heerwesen überlassen. Seine diesbezüglichen Ansprüche hätte das genannte Staatsamt in einer Liste bekanntzugeben.</item>
                   </list>
                </div>
                <div type="top" xml:id="krp-0048_top09">
@@ -414,8 +394,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Roller</hi> teilt mit, dass demnächst eine zwischenstaatsamtliche Verhandlung stattfinden werde, welche sich mit der Frage der allfälligen Aufhebung der Überwachung ausländischer, auf deutschösterreichischem Boden befindlicher Unternehmungen und Liegenschaften befassen wird. Er erbitte sich die Stellungnahme des Kabinettsrates zu dieser Frage.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> spricht sich für die Aufhebung der Beschränkung, welcher derartige Liegenschaften und Unternehmungen gegenwärtig unterliegen, aus, da es nach seiner Anschauung ganz aussichtslos sei, dass wir aus diesem Titel einen Druck auf das Ausland in der Richtung der Freigebung unserer sequestrierten Vermögenschaften ausüben könnten.</p>
                   <p>Der Kabinettsrat schließt sich dieser Anschauung an.</p>
-                  <p>
-                     <pb facs="krp-0048_r-0013"/>Das Staatsamt für Justiz wird ersucht, das Ergebnis der Besprechung dem Staatsamte des Äußern bekanntzugeben, damit letzteres in die Lage käme, hievon den ausländischen Regierungen Mitteilung zu machen.</p>
+                  <p><pb facs="krp-0048_r-0013"/>Das Staatsamt für Justiz wird ersucht, das Ergebnis der Besprechung dem Staatsamte des Äußern bekanntzugeben, damit letzteres in die Lage käme, hievon den ausländischen Regierungen Mitteilung zu machen.</p>
                </div>
                <div type="top" xml:id="krp-0048_top10">
                   <head>
@@ -426,33 +405,27 @@
                   </head>
                   <p>Unterstaatssekretär Dr. von <hi rend="#letterspaced">Beck</hi> berichtet über nachstehende Vereinbarungen, welche in der gemäß einem Beschlusse der Gesandtenkonferenz eingesetzten zwischenstaatlichen Kommission zur Regelung von Staatesbediensteten-Angelegenheiten getroffen wurden:</p>
                   <list>
-                     <item n="1">
-                        <label> 1.)</label> Vereinbarung vom 14. Februar 1919, betreffend Versetzung in den Ruhestand von ehemals österreichischen Staatsbediensteten im allgemeinem und bei Berücksichtigung der begünstigten Anrechnung der Dienstzeit während des Krieges zur Bemessung des Ruhegenusses im besonderem (siehe Pkt I. der Protokollsbeilage A).</item>
+                     <item n="1"><label> 1.)</label> Vereinbarung vom 14. Februar 1919, betreffend Versetzung in den Ruhestand von ehemals österreichischen Staatsbediensteten im allgemeinem und bei Berücksichtigung der begünstigten Anrechnung der Dienstzeit während des Krieges zur Bemessung des Ruhegenusses im besonderem (siehe Pkt I. der Protokollsbeilage A).</item>
                   </list>
                   <p>Der Kabinettsrat nimmt diese Vereinbarung zur Kenntnis.</p>
                   <list>
-                     <item n="1">
-                        <label>2.)</label> Vereinbarung vom 14. Februar 1919 über die Auszahlung eines „einmaligen“ Zuschusses zu den (Teuerungs-[)]<pb facs="krp-0048_r-0014"/>Aushilfen an ehemals österreichische Staatsbedienstete sowie an Personen, die Gnadengaben beziehen. (siehe Punkt II. der Protokollsbeilage A)</item>
+                     <item n="1"><label>2.)</label> Vereinbarung vom 14. Februar 1919 über die Auszahlung eines „einmaligen“ Zuschusses zu den (Teuerungs-[)]<pb facs="krp-0048_r-0014"/>Aushilfen an ehemals österreichische Staatsbedienstete sowie an Personen, die Gnadengaben beziehen. (siehe Punkt II. der Protokollsbeilage A)</item>
                   </list>
                   <p>Der Kabinettsrat genehmigt diese Vereinbarung.</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Vereinbarung vom 18. Februar 1919, betreffend Aufbesserungen für aktive und pensionierte Bedienstete der früheren k. u. k. gemeinsamen Zivilressorts und für die Witwen und Waisen nach solchen Bediensteten (siehe Protokollsbeilage B).</item>
+                     <item n="1"><label>3.)</label> Vereinbarung vom 18. Februar 1919, betreffend Aufbesserungen für aktive und pensionierte Bedienstete der früheren k. u. k. gemeinsamen Zivilressorts und für die Witwen und Waisen nach solchen Bediensteten (siehe Protokollsbeilage B).</item>
                   </list>
                   <p>Der Kabinettsrat genehmigt diese Vereinbarung.</p>
                   <list>
-                     <item n="1">
-                        <label>4.)</label> Erklärung vom 19. Februar 1919, betreffend die Fortzahlung der Beihilfen (Vorschüsse) an die enthobenen, ehemals österreichischen Staatsbediensteten (Staatsbahnbediensteten) tschechoslowakischer, ukrainischer, rumänischer und deutscher Nationalität sowie an Staatsbedienstete dieser Nationalstaaten, welche infolge Unmöglichkeit der Rückkehr in ihren Dienstort sich noch im Gebiete irgendeines der vier Nationalstaaten aufhalten (siehe Protokollsbeilage C).</item>
+                     <item n="1"><label>4.)</label> Erklärung vom 19. Februar 1919, betreffend die Fortzahlung der Beihilfen (Vorschüsse) an die enthobenen, ehemals österreichischen Staatsbediensteten (Staatsbahnbediensteten) tschechoslowakischer, ukrainischer, rumänischer und deutscher Nationalität sowie an Staatsbedienstete dieser Nationalstaaten, welche infolge Unmöglichkeit der Rückkehr in ihren Dienstort sich noch im Gebiete irgendeines der vier Nationalstaaten aufhalten (siehe Protokollsbeilage C).</item>
                   </list>
-                  <p>Der Kabinettsrat nimmt diese Erklärung zur Kenntnis bzw. genehmigt die Fortzahlung der<pb facs="krp-0048_r-0015"/>Beihilfen über den März 1919 hinaus.</p>
+                  <p>Der Kabinettsrat nimmt diese Erklärung zur Kenntnis bzw. genehmigt die Fortzahlung der <pb facs="krp-0048_r-0015"/>Beihilfen über den März 1919 hinaus.</p>
                   <list>
-                     <item n="1">
-                        <label>5.)</label> Vereinbarung vom 22. Februar 1919 mit dem Vertreter der rumänischen Nationalregierung in der Bukowina, betreffend die Vormerkung der Sicherstellung der Forderungen der Republik Deutschösterreich auf der auf die Bukowina aus dem Titel „allgemeine Pensionen und Unterhaltsbeiträge“ entfallenden Quote von 6.200.000 K aus dem vom ehemaligen österreichischen Finanzminister Dr. Redlich aufgenommenen Darlehen (siehe Protokollsbeilage D).</item>
+                     <item n="1"><label>5.)</label> Vereinbarung vom 22. Februar 1919 mit dem Vertreter der rumänischen Nationalregierung in der Bukowina, betreffend die Vormerkung der Sicherstellung der Forderungen der Republik Deutschösterreich auf der auf die Bukowina aus dem Titel „allgemeine Pensionen und Unterhaltsbeiträge“ entfallenden Quote von 6.200.000 K aus dem vom ehemaligen österreichischen Finanzminister Dr. Redlich aufgenommenen Darlehen (siehe Protokollsbeilage D).</item>
                   </list>
                   <p>Der Kabinettsrat nimmt diese Vereinbarung zur Kenntnis.</p>
                   <list>
-                     <item n="1">
-                        <label>6.)</label> Vereinbarung vom 19. Februar 1919 betreffend die Behandlung jener ehemals österreichischen Minister, deren Wiederverwendung anlässlich ihrer Enthebung vorbehalten wurde (siehe Protokollsbeilage E).</item>
+                     <item n="1"><label>6.)</label> Vereinbarung vom 19. Februar 1919 betreffend die Behandlung jener ehemals österreichischen Minister, deren Wiederverwendung anlässlich ihrer Enthebung vorbehalten wurde (siehe Protokollsbeilage E).</item>
                   </list>
                   <p>Der Kabinettsrat genehmigt die getroffene Vereinbarung.</p>
                   <p>Unterstaatssekretär von <hi rend="#letterspaced">Beck</hi> berichtet ferner über den Stand der Verhandlungen mit Vertretern der südslawischen Regierung, betreffend die Auszahlung der Beihilfen an ehemals <pb facs="krp-0048_r-0016"/>österreichische Bedienstete deutscher Nationalität im Machtbereich des südslawischen Staates.</p>
@@ -463,8 +436,7 @@
                   <p>Am 28. Februar 1919 abends habe eine Verhandlung mit dem Vertreter des südslawischen Staates statt gefundenen, in deren Verlauf er ein Telegramm der Nationalregierung in Laibach folgenden Inhaltes zur Kenntnis brachte: „Bitte deutschösterreichisches Staatsamt der Finanzen eröffnen: Da sich bisheriges Verfahren wegen Auszahlung von Beihilfen und Versorgungsgenüssen infolge andauernder Missverständnisse, technischer Zahlungsschwierigkeiten und Einbeziehung nicht zur Sache gehöriger Momente wie Approvisio<pb facs="krp-0048_r-0019"/>nierung und Wohnungsfrage als ungeeignet erwiesen hat, um den entlassenen Staatsangestellten und Pensionisten die Existenz zu sichern, betrachtet Laibacher Regierung bisherige Vereinbarung mit deutschösterreichischer Regierung als erledigt und verfügt Auszahlung rückständiger und künftiger Genüsse an entlassene aktive Staatsangestellte südslawischer Nationalität durch ihre eigenen Organe“. Die sofort eingeleiteten Verhandlungen führten mit Rücksicht auf den schroff ablehnenden Standpunkt des Vertreters dar südslawischen Regierung zu keinem Ergebnisse.</p>
                   <p>In einer in jüngster Zeit mit dem Vertreter der südslawischen Regierung stattgefundenen Besprechung habe dieser zugesagt, bezüglich der Beihilfen für den März 1919 im versöhnlichen Sinne zu berichten und die getroffene Entscheidung seiner Regierung dem deutschösterreichischen Staatsamte der Finanzen mitzuteilen. Eine solche Mitteilung habe das deutschösterreichische Staatsamt der Finanzen bisher nicht erhalten.</p>
                   <p>Der Kabinettsrat nimmt diesen Bericht zur Kenntnis.</p>
-                  <p>
-                     <pb facs="krp-0048_r-0020"/>Unterstaatssekretär von Beck berichtet weiters über die mit den Vertretern des Schutzkomitees für die Bevölkerung in dem italienischen Okkupationsgebiete eingeleiteten Verhandlungen, betreffend die Auszahlung der Beihilfen für den Monat März 1919.</p>
+                  <p><pb facs="krp-0048_r-0020"/>Unterstaatssekretär von Beck berichtet weiters über die mit den Vertretern des Schutzkomitees für die Bevölkerung in dem italienischen Okkupationsgebiete eingeleiteten Verhandlungen, betreffend die Auszahlung der Beihilfen für den Monat März 1919.</p>
                   <p>Der Kabinettsrat nimmt diesen Bericht zur Kenntnis.</p>
                   <p>Unterstaatssekretär von Beck erörtert schließlich aus Anlass einer in einem konkreten Falle vom Vertreter des tschechoslowakischen Staates gestellten Forderung die Frage der Ausfolgung von Personaldokumenten von Staatsbediensteten an fremde Nationalstaaten und beantragt, den einschlägigen Kabinettsratsbeschluss vom 9.  Jänner 1919 abzuändern, wie folgt:</p>
                   <p>„Wenn Dienstesdokumente solcher Staatsbediensteter, deren Dienstort in strittigem Gebiete liegt, von jenem Nationalstaate abverlangt werden, welcher tatsächlich die Herrschaft in diesem strittigen Gebiete ausübt, so sind Abschriften dieser Personaldokumente (Standesausweise und Qualifikationstabellen) von dem das Gebiet in Anspruch nehmenden Nationalstaate – <pb facs="krp-0048_r-0021"/>jedoch unter ausdrücklicher Betonung, dass dies ohne Präjudiz für den vom deutschösterreichischen Staate eingenommenen Rechtsstandpunkt geschieht – dem ansuchenden Nationalstaate auszufolgen.“</p>
@@ -473,8 +445,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0048_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 48.</p>
+               <p><pb facs="krp-0048_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 48.</p>
                <div n="1">
                   <head/>
                   <div type="a01_protokoll">

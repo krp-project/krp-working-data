@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0063.xml">
             <head type="dokument">
-               <title type="num">63.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">63.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0063_r-0001"/>[Freitag] 1919-04-18</title>
@@ -303,8 +302,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> erbittet die Ermächtigung des Kabinettsrates, den Entwurf eines Gesetzes über die Errichtung und Unterbringung von Volkspflegestätten in der Nationalversammlung einbringen zu dürfen.</p>
-                  <p>
-                     <pb facs="krp-0063_r-0003"/>Nach einer längeren Debatte, in welcher insbesondere von Seite der Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi> und Dr. <hi rend="#letterspaced">Schumpeter</hi> mehrfache Abänderungs- und Ergänzungsanträge gestellt wurden, erteilt der Kabinettsrat dem sprechenden Staatssekretär die erbetene Ermächtigung. Die im Zuge der Debatte gemachten Anregungen werden den Gegenstand der Beratung der Gesetzesvorlage im Ausschusse bilden.</p>
+                  <p><pb facs="krp-0063_r-0003"/>Nach einer längeren Debatte, in welcher insbesondere von Seite der Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi> und Dr. <hi rend="#letterspaced">Schumpeter</hi> mehrfache Abänderungs- und Ergänzungsanträge gestellt wurden, erteilt der Kabinettsrat dem sprechenden Staatssekretär die erbetene Ermächtigung. Die im Zuge der Debatte gemachten Anregungen werden den Gegenstand der Beratung der Gesetzesvorlage im Ausschusse bilden.</p>
                </div>
                <div type="top" xml:id="krp-0063_top03">
                   <head>
@@ -353,22 +351,16 @@
                   <p>Ebenso wäre eine besondere Kommission unter derselben Leitung behufs Behandlung der Frage der Zukunft und Sanierung der ehemaligen Hoftheater zu bestellen.</p>
                   <p>Nach einer kurzen Debatte, an welcher sich außer dem Referenten noch Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> beteiligte, beschließt der Kabinettsrat:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Der Bericht wird genehmigend zur Kenntnis genommen;</item>
-                     <item n="2">
-                        <label>2.)</label> es wird grundsätzlich beschlossen, dass vom Zeitraume des Inkrafttretens des Gesetzes vom 3. April 1919, StGBl. Nr. 209, alle Lasten, die mit der Übernahme des hofärarischen Vermögens in das deutschösterreichische Staatseigentum notwendigerweise verbunden sind und daher insbesondere die Verwaltung, Erhaltung, Nutzung, Verbesserung u. dgl. dieses hofärarischen Vermögens betreffen, vom <pb facs="krp-0063_r-0009"/>deutschösterreichischen Staate zu übernehmen sind;</item>
-                     <item n="3">
-                        <label>3.)</label> der deutschösterreichische Staat ist insbesondere bereit, bezüglich der ehemaligen Hoftheater vom Zeitpunkte des Inkrafttretens des erwähnten Gesetzes die Lasten, soweit hiefür nicht etwa bestehende Fonds, wie Pensionsinstitute etc. aufzukommen haben, zu übernehmen, dies jedoch unbeschadet der Frage der Art der Sanierung dieser Kunstinstitute;</item>
-                     <item n="4">
-                        <label>4.)</label> Schaffung einer ständigen zwischenstaatsamtlichen Kommission unter Leitung des obersten Verwalters des Hofärars zum Zwecke der Beratung, Antragstellung eventuell Beschließung in Fragen, die sich auf das hofärarische Vermögen beziehen;</item>
-                     <item n="5">
-                        <label>5.)</label> Einsetzung einer besonderen Kommission, die sich unter Leitung des obersten Verwalters des Hofärars mit den Fragen der Zukunft und Sanierung der ehemaligen Hoftheater zu befassen hat.</item>
+                     <item n="1"><label>1.)</label> Der Bericht wird genehmigend zur Kenntnis genommen;</item>
+                     <item n="2"><label>2.)</label> es wird grundsätzlich beschlossen, dass vom Zeitraume des Inkrafttretens des Gesetzes vom 3. April 1919, StGBl. Nr. 209, alle Lasten, die mit der Übernahme des hofärarischen Vermögens in das deutschösterreichische Staatseigentum notwendigerweise verbunden sind und daher insbesondere die Verwaltung, Erhaltung, Nutzung, Verbesserung u. dgl. dieses hofärarischen Vermögens betreffen, vom <pb facs="krp-0063_r-0009"/>deutschösterreichischen Staate zu übernehmen sind;</item>
+                     <item n="3"><label>3.)</label> der deutschösterreichische Staat ist insbesondere bereit, bezüglich der ehemaligen Hoftheater vom Zeitpunkte des Inkrafttretens des erwähnten Gesetzes die Lasten, soweit hiefür nicht etwa bestehende Fonds, wie Pensionsinstitute etc. aufzukommen haben, zu übernehmen, dies jedoch unbeschadet der Frage der Art der Sanierung dieser Kunstinstitute;</item>
+                     <item n="4"><label>4.)</label> Schaffung einer ständigen zwischenstaatsamtlichen Kommission unter Leitung des obersten Verwalters des Hofärars zum Zwecke der Beratung, Antragstellung eventuell Beschließung in Fragen, die sich auf das hofärarische Vermögen beziehen;</item>
+                     <item n="5"><label>5.)</label> Einsetzung einer besonderen Kommission, die sich unter Leitung des obersten Verwalters des Hofärars mit den Fragen der Zukunft und Sanierung der ehemaligen Hoftheater zu befassen hat.</item>
                   </list>
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0063_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 63.</p>
+               <p><pb facs="krp-0063_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 63.</p>
                <div n="1">
                   <head>Kommunistische Demonstrationen in Wien</head>
                   <div type="a01_protokoll">
@@ -379,9 +371,7 @@
                      <p>Durch die vorerwähnten schweren Verbrechen sind die im § 430 der Strafprozessordnung vorgeschriebenen Bedingungen für die Anordnung des standrechtlichen Verfahrens gegeben.</p>
                      <p>Im Vollgefühle meiner Verantwortung für die Aufrechterhaltung der Ruhe und Ordnung in Wien stelle ich daher unter Hinweis auf die Bestimmungen des zitierten Paragrafen der Strafprozessordnung beim Herrn Staatskanzler als Leiter des Staatsamtes für Inneres und Unterricht hiemit den Antrag, im Einverständnisse mit dem Herrn Staatssekretär für Justiz ohne Verzug das standrechtliche Verfahren anzuordnen.“</p>
                      <p>Der Vorsitzende stellt fest, dass der heutige Tag in voller Ruhe verlaufen ist, weshalb seiner Ansicht nach die Voraussetzungen für die Verhängung des Standrechtes derzeit nicht gegeben seien. Er beabsichtige daher, von der beantragten Maßnahme abzusehen.</p>
-                     <p>Nach einer längeren Debatte, an welcher sich die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi> und Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi>, ferner Unterstaatssekretär Dr. <hi rend="#letterspaced">Waiss</hi> sowie der der Verhandlung zugezogene <hi rend="#letterspaced">Präsi</hi>
-                        <pb facs="krp-0063_a01-0003"/>
-                        <hi rend="#letterspaced">dent der Polizeidirektion</hi> beteiligten, nimmt der Kabinettsrat zur Kenntnis, dass von der Verhängung des Standrechtes im gegenwärtigen Zeitpunkte Umgang genommen werde.</p>
+                     <p>Nach einer längeren Debatte, an welcher sich die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi> und Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi>, ferner Unterstaatssekretär Dr. <hi rend="#letterspaced">Waiss</hi> sowie der der Verhandlung zugezogene <hi rend="#letterspaced">Präsi</hi><pb facs="krp-0063_a01-0003"/><hi rend="#letterspaced">dent der Polizeidirektion</hi> beteiligten, nimmt der Kabinettsrat zur Kenntnis, dass von der Verhängung des Standrechtes im gegenwärtigen Zeitpunkte Umgang genommen werde.</p>
                      <p>Was die für morgen angekündigte neuerliche Versammlung der Arbeitslosen, Invaliden und Heimkehrer im Zirkus „Busch“ betrifft, so wird es von Seite des Kabinettsrates übereinstimmend als zweckmäßig erkannt, die Abhaltung dieser Versammlung nicht zu verbieten und lediglich geeignete Vorsorgen dafür zu treffen, dass ein Abströmen der Versammlungsteilnehmer in die Innere Stadt hintangehalten werde.	</p>
                   </div>
                </div>

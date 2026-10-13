@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0143.xml">
             <head type="dokument">
-               <title type="num">143.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">143.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0143_r-0001"/>
@@ -282,33 +281,15 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0143_top04">Zu TOP 4</ref>: <ref target="#krp-0143_b01">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 3908 über die Genehmigung von Landtagsbeschlüssen von Steiermark, Kärnten, Tirol, Oberösterreich und Niederösterreich hinsichtlich Landeszuschläge</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top07">Zu TOP 7</ref>: <ref target="#krp-0143_b02">Vortrag des Staatsamtes für Land- und Forstwirtschaft über den Gesetzesbeschluss des Salzburger Landtages zur Aufhebung bzw. Ablösung der Jagdrechte auf fremden Grund und Boden einschließend authentischer Interpretation</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top08">Zu TOP 8</ref>: <ref target="#krp-0143_b03">Antrag der Forst- und Domänendirektion Wien namens des oberösterreichischen Religionsfonds um Erklärung einer geplanten Waldbahn bei Reichraming zum begünstigten Bau</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top09">Zu TOP 9</ref>: <ref target="#krp-0143_b04">Entwurf des Heeresgebührengesetzes sowie die Abfertigung für ausscheidende Volkswehrmänner</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top10">Zu TOP 10</ref>: <ref target="#krp-0143_b05">Gesetzesentwurf über die Arbeitslosenunterstützung mit erläuternden Bemerkungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top11">Zu TOP 11</ref>: <ref target="#krp-0143_b06">Vorlage des Staatsamtes für soziale Verwaltung über einen Gesetzesentwurf der Kärntner Landesversammlung für die Einrichtung es Gesundheitsdienstes in den Gemeinden</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top14">Zu TOP 14</ref>: <ref target="#krp-0143_b07">Auflegung einer Prämienanleihe</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top16">Zu TOP 16</ref>: <ref target="#krp-0143_b08">Forderungen der Postbediensteten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0143_top17">Zu TOP 17</ref>: <ref target="#krp-0143_b09">Vortrag des Unterstaatssekretärs Miklas betreffend die Aufnahme eines Hypothekardarlehens per 500.000 K durch das Benediktinerstift Altenburg</ref>
-                  </item>
+                  <item><ref target="#krp-0143_top04">Zu TOP 4</ref>: <ref target="#krp-0143_b01">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 3908 über die Genehmigung von Landtagsbeschlüssen von Steiermark, Kärnten, Tirol, Oberösterreich und Niederösterreich hinsichtlich Landeszuschläge</ref></item>
+                  <item><ref target="#krp-0143_top07">Zu TOP 7</ref>: <ref target="#krp-0143_b02">Vortrag des Staatsamtes für Land- und Forstwirtschaft über den Gesetzesbeschluss des Salzburger Landtages zur Aufhebung bzw. Ablösung der Jagdrechte auf fremden Grund und Boden einschließend authentischer Interpretation</ref></item>
+                  <item><ref target="#krp-0143_top08">Zu TOP 8</ref>: <ref target="#krp-0143_b03">Antrag der Forst- und Domänendirektion Wien namens des oberösterreichischen Religionsfonds um Erklärung einer geplanten Waldbahn bei Reichraming zum begünstigten Bau</ref></item>
+                  <item><ref target="#krp-0143_top09">Zu TOP 9</ref>: <ref target="#krp-0143_b04">Entwurf des Heeresgebührengesetzes sowie die Abfertigung für ausscheidende Volkswehrmänner</ref></item>
+                  <item><ref target="#krp-0143_top10">Zu TOP 10</ref>: <ref target="#krp-0143_b05">Gesetzesentwurf über die Arbeitslosenunterstützung mit erläuternden Bemerkungen</ref></item>
+                  <item><ref target="#krp-0143_top11">Zu TOP 11</ref>: <ref target="#krp-0143_b06">Vorlage des Staatsamtes für soziale Verwaltung über einen Gesetzesentwurf der Kärntner Landesversammlung für die Einrichtung es Gesundheitsdienstes in den Gemeinden</ref></item>
+                  <item><ref target="#krp-0143_top14">Zu TOP 14</ref>: <ref target="#krp-0143_b07">Auflegung einer Prämienanleihe</ref></item>
+                  <item><ref target="#krp-0143_top16">Zu TOP 16</ref>: <ref target="#krp-0143_b08">Forderungen der Postbediensteten</ref></item>
+                  <item><ref target="#krp-0143_top17">Zu TOP 17</ref>: <ref target="#krp-0143_b09">Vortrag des Unterstaatssekretärs Miklas betreffend die Aufnahme eines Hypothekardarlehens per 500.000 K durch das Benediktinerstift Altenburg</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -322,14 +303,10 @@
                   </head>
                   <p>Vizekanzler <hi rend="#letterspaced">Fink</hi> gibt bekannt, dass das Koalitionskomitee den Wunsch nach Einbringung folgender Gesetzentwürfe in der Nationalversammlung geäußert habe:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> betreffend die Ermächtigung des Präsidenten der Nationalversammlung über Vorschlag der Staatsregierung Beamten anlässlich der Übernahme in den dauernden Ruhestand in besonders berücksichtigungswürdigen Fällen Zulagen zu den gesetzlichen Ruhegenüssen zu gewähren;</item>
-                     <item n="2">
-                        <label>2.)</label> betreffend die Überweisung der Regelung der Bezüge sämtlicher staatlicher Angestellten sowie der Tarife der staatlichen Monopole und Regalien in den Wirkungskreis der Nationalversammlung;</item>
-                     <item n="3">
-                        <label>3.)</label> betreffend eine Änderung des Gesetzes über die Geschäftsordnung der Nationalversammlung, wonach Anträge von Abgeordneten und Ausschüssen, welche eine finanzielle Mehrbelastung des Staates im Gefolge haben, nur unter der Voraussetzung der geschäftsordnungsmäßigen Behandlung zugeführt werden dürfen, dass sie mit Vorschlägen über die Bedeckung des Mehraufwandes verbunden sind;</item>
-                     <item n="4">
-                        <label>4.)</label> betreffend die Einsetzung einer <pb facs="krp-0143_r-0004"/>von der Nationalversammlung zu berufenden Kommission von Abgeordneten und Beamten zur Kontrolle des staatlichen Verwaltungsapparates behufs Feststellung aller Ersparungsmöglichkeiten.</item>
+                     <item n="1"><label>1.)</label> betreffend die Ermächtigung des Präsidenten der Nationalversammlung über Vorschlag der Staatsregierung Beamten anlässlich der Übernahme in den dauernden Ruhestand in besonders berücksichtigungswürdigen Fällen Zulagen zu den gesetzlichen Ruhegenüssen zu gewähren;</item>
+                     <item n="2"><label>2.)</label> betreffend die Überweisung der Regelung der Bezüge sämtlicher staatlicher Angestellten sowie der Tarife der staatlichen Monopole und Regalien in den Wirkungskreis der Nationalversammlung;</item>
+                     <item n="3"><label>3.)</label> betreffend eine Änderung des Gesetzes über die Geschäftsordnung der Nationalversammlung, wonach Anträge von Abgeordneten und Ausschüssen, welche eine finanzielle Mehrbelastung des Staates im Gefolge haben, nur unter der Voraussetzung der geschäftsordnungsmäßigen Behandlung zugeführt werden dürfen, dass sie mit Vorschlägen über die Bedeckung des Mehraufwandes verbunden sind;</item>
+                     <item n="4"><label>4.)</label> betreffend die Einsetzung einer <pb facs="krp-0143_r-0004"/>von der Nationalversammlung zu berufenden Kommission von Abgeordneten und Beamten zur Kontrolle des staatlichen Verwaltungsapparates behufs Feststellung aller Ersparungsmöglichkeiten.</item>
                   </list>
                   <p>Der letzterwähnte Gesetzentwurf wäre von der Regierung auszuarbeiten, jedoch dem Finanz- und Budgetausschuss zur Einbringung in der Nationalversammlung zu übergeben.</p>
                   <p>Der Kabinettsrat nimmt diese Anregungen zur Kenntnis und überweist sie dem Vorsitzenden zur Durchführung.</p>
@@ -343,23 +320,15 @@
                   </head>
                   <p>Nach einer Mitteilung des Vizekanzlers Fink wurde aus den Kreisen Kärntner Abgeordneter auf die Notwendigkeit hingewiesen, entsprechende Vorkehrungen für die bevorstehende Volksabstimmung in Kärnten zu treffen, von welcher es abhängen werde, ob die Zone A, die in wirtschaftlicher Hinsicht für Deutschösterreich von großer Bedeutung sei, sich für uns erklären werde. Es seien in dieser Beziehung folgende Vorschläge gemacht worden:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die Vermögensabgabe dürfe erst nach erfolgter Abstimmung durchgeführt werden.</item>
+                     <item n="1"><label>1.)</label> Die Vermögensabgabe dürfe erst nach erfolgter Abstimmung durchgeführt werden.</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0143_r-0005"/>
-                  </p>
+                  <p><pb facs="krp-0143_r-0005"/></p>
                   <list>
-                     <item n="1">
-                        <label>2.)</label> In der Zone A solle die Vermögensabgabe überhaupt nicht durchgeführt werden; denn stimmt Zone A gegen Deutschösterreich, so könne die Vermögensabgabe dort überhaupt nicht platzgreifen; entscheide sich aber die Zone A für uns, so sei der moralische und wirtschaftliche Erfolg ein derart großer, dass er den Ertrag der eventuellen Vermögensabgabe um ein Vielfaches übersteige.</item>
-                     <item n="2">
-                        <label>3.)</label> In der Zone B sollen den Bewohnern bezüglich der Vermögensabgabe bedeutende Vorteile zugesichert werden; denn es sei nicht gleichgiltig, ein wie großer Prozentsatz der Bevölkerung sich für Deutschösterreich erkläre, ob 70 % oder 95 %.</item>
-                     <item n="3">
-                        <label>4.)</label> Mit allen Mitteln müsse danach gestrebt werden, dass die Flüchtlinge endlich in die Zone A zurückkehren können, weil dies von wesentlicher Bedeutung für eine für uns günstige Abstimmung sei.</item>
-                     <item n="4">
-                        <label>5.)</label> Jenen Bewohnern, welche in der Zone B durch die jugoslawische Offensive im Mai und Juni des verflossenen Jahres auf das schwerste geschädigt worden sind, solle zur Einrichtung ihrer zerstörten Wirtschaft und zur Beschaffung notwendiger Fahrnisse ein Kredit von <pb facs="krp-0143_r-0006"/>2 Millionen [K] bewilligt werden.</item>
-                     <item n="5">
-                        <label>6.)</label> Wegen der Einlösung der Zinsscheine in der Zone A solle das Staatsamt der Finanzen baldigst das Erforderliche veranlassen.</item>
+                     <item n="1"><label>2.)</label> In der Zone A solle die Vermögensabgabe überhaupt nicht durchgeführt werden; denn stimmt Zone A gegen Deutschösterreich, so könne die Vermögensabgabe dort überhaupt nicht platzgreifen; entscheide sich aber die Zone A für uns, so sei der moralische und wirtschaftliche Erfolg ein derart großer, dass er den Ertrag der eventuellen Vermögensabgabe um ein Vielfaches übersteige.</item>
+                     <item n="2"><label>3.)</label> In der Zone B sollen den Bewohnern bezüglich der Vermögensabgabe bedeutende Vorteile zugesichert werden; denn es sei nicht gleichgiltig, ein wie großer Prozentsatz der Bevölkerung sich für Deutschösterreich erkläre, ob 70 % oder 95 %.</item>
+                     <item n="3"><label>4.)</label> Mit allen Mitteln müsse danach gestrebt werden, dass die Flüchtlinge endlich in die Zone A zurückkehren können, weil dies von wesentlicher Bedeutung für eine für uns günstige Abstimmung sei.</item>
+                     <item n="4"><label>5.)</label> Jenen Bewohnern, welche in der Zone B durch die jugoslawische Offensive im Mai und Juni des verflossenen Jahres auf das schwerste geschädigt worden sind, solle zur Einrichtung ihrer zerstörten Wirtschaft und zur Beschaffung notwendiger Fahrnisse ein Kredit von <pb facs="krp-0143_r-0006"/>2 Millionen [K] bewilligt werden.</item>
+                     <item n="5"><label>6.)</label> Wegen der Einlösung der Zinsscheine in der Zone A solle das Staatsamt der Finanzen baldigst das Erforderliche veranlassen.</item>
                   </list>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> erklärt, dass diese Vorschläge im Wege der Staatskanzlei den zuständigen Ressorts werden bekanntgegeben werden. Die auf die Gewährung von Steuerbegünstigungen abzielenden Vorschläge werden an den Finanzausschuss der Nationalversammlung weitergeleitet werden.</p>
                </div>
@@ -382,8 +351,7 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> teilt mit, dass die Landesregierungen in Steiermark, bzw. in Kärnten, Tirol, Oberösterreich und Niederösterreich um die Erwirkung der Genehmigung der Staatsregierung für die Beschlüsse des Landtages in Steiermark vom 2. Oktober, Kärnten vom 16. Dezember, Tirol vom 30. August und 20. Dezember, Oberösterreich vom 11. Dezember und Niederösterreich vom 22. Oktober 1919, betreffend die Einhebung von Landeszuschlägen, angesucht haben.</p>
                   <p>Die Landesregierung von Steiermark habe überdies die Genehmigung des Landtagsbeschlusses vom 21. November 1919, betreffend den Verkauf eines Grundstreifens der Realität der steiermärkischen Landschaft EZ 313 Katastralgemeinde Knittelfeld an den Bezirk Knittelfeld für Straßenzwecke, und die Genehmigung des Landtagsbeschlusses vom 17. Oktober 1919, betreffend die Einhebung einer Umlage von 205 % im Bezirke Birkfeld, beantragt.</p>
-                  <p>
-                     <pb facs="krp-0143_r-0008"/>Über Vorschlag des sprechenden Staatssekretärs genehmigt der Kabinettsrat die bezeichneten Beschlüsse, und zwar den Beschluss des Steiermärkischen Landtages vom 2. Oktober 1919 unter der Voraussetzung, dass die Vorschreibung, Einhebung und Eintreibung der sich aufgrund dieses Beschlusses ergebenden Nachträge an Umlagen für das Jahr 1919 erst gemeinsam mit der Vorschreibung, Einhebung und Eintreibung der Umlagen für das Jahr 1920 erfolgt, und den Beschluss des Oberösterreichischen Landtages mit der Einschränkung, dass die Einhebung von Zuschlägen zur Rentensteuer auf die aufgrund von Bekenntnissen vorgeschriebene Rentensteuer beschränkt bleibt.</p>
+                  <p><pb facs="krp-0143_r-0008"/>Über Vorschlag des sprechenden Staatssekretärs genehmigt der Kabinettsrat die bezeichneten Beschlüsse, und zwar den Beschluss des Steiermärkischen Landtages vom 2. Oktober 1919 unter der Voraussetzung, dass die Vorschreibung, Einhebung und Eintreibung der sich aufgrund dieses Beschlusses ergebenden Nachträge an Umlagen für das Jahr 1919 erst gemeinsam mit der Vorschreibung, Einhebung und Eintreibung der Umlagen für das Jahr 1920 erfolgt, und den Beschluss des Oberösterreichischen Landtages mit der Einschränkung, dass die Einhebung von Zuschlägen zur Rentensteuer auf die aufgrund von Bekenntnissen vorgeschriebene Rentensteuer beschränkt bleibt.</p>
                </div>
                <div type="top" xml:id="krp-0143_top05">
                   <head>
@@ -393,8 +361,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> erbittet die Meinungsäußerung des Kabinettsrates zu der Frage der Vornahme weiterer Erhöhungen der Lebensmittelpreise. Das Staatsamt der Finanzen wünsche nach der kürzlich vorgenommenen Verteuerung von Brot, Mehl, Fleisch und Fett in der Angleichung der Lebensmittelpreise an die Gestehungskosten fortzuschreiten, doch trage Redner Bedenken, sich diesem Standpunkte anzu<pb facs="krp-0143_r-0009"/>schließen, da schon die jetzt geltenden Preisansätze die Kaufkraft der Bevölkerung übersteigen. Zudem erscheine es ihm fraglich, ob das Prinzip, die staatlichen Zuschüsse zu den Lebensmittelankäufen mit einem möglichst großen Anteil auf den Konsum zu überwälzen, dem Staate Vorteil bringe; vielmehr glaube er, dass die durch diese Überwälzung bewirkte Lebensmittelteuerung dem Staate auf den verschiedensten Gebieten derartige Mehraufwendungen verursachen, dass dadurch die erzielte Verlustdeckung mindestens aufgewogen werde. Aber auch abgesehen davon seien die staatlichen Lebensmittelzuschüsse nicht so hoch, dass sie vom Staate unter keinen Umständen mehr getragen werden könnten, und hielten sich nicht unwesentlich hinter den dafür im Budget eingestellten Ziffern, schließlich dürfe nicht übersehen werden, dass wir jetzt einige Hoffnung auf Erlangung ausländischer Kredite haben, welche die Valuta verbessern und billigere Einkaufsmöglichkeiten schaffen müssten. Der Augenblick sei daher für ein Hinaufsetzen der Verkaufspreise durchaus ungünstig, denn es würden dadurch Lohnerhöhungen verursacht, die dann nicht entsprechend der Senkung der Lebensmittelpreise wieder abgebaut werden könnten.</p>
-                  <p>
-                     <pb facs="krp-0143_r-0010"/>Angesichts dieser Umstände möchte der sprechende Staatssekretär vorschlagen, der Staat solle vorläufig die Verluste an den Lebensmitteln noch auf sich nehmen und vor weiteren Steigerungen die Entwicklung der Preisgestaltung in der nächsten Zeit abwarten.</p>
+                  <p><pb facs="krp-0143_r-0010"/>Angesichts dieser Umstände möchte der sprechende Staatssekretär vorschlagen, der Staat solle vorläufig die Verluste an den Lebensmitteln noch auf sich nehmen und vor weiteren Steigerungen die Entwicklung der Preisgestaltung in der nächsten Zeit abwarten.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> beruft sich zur Begründung des Standpunktes der Finanzverwaltung darauf, dass die Ungleichung der Lebensmittelpreise an die Gestehungskosten einen Punkt des Koalitionsprogrammes darstelle. Er könne daher von einem allmählichen Abbau der staatlichen Zuschüsse nicht abgehen und nur insoferne ein Entgegenkommen an den Standpunkt des Vorredners bekunden, als er sich mit einer gewissen Verlangsamung bei Vornahme weiterer Preiserhöhungen einverstanden erkläre. Die ausländischen Kredite ließen zwar eine Verbilligung der Gestehungskosten erwarten, in keiner Weise aber würden sie so einschneidend wirken, dass mit einem Herabgehen der Selbstkosten auf die derzeitigen Verkaufspreise gerechnet werden dürfe. Es würden vielmehr für den Staat noch immer Verluste erübrigen, auf deren Einbringung die Finanzverwaltung nicht verzichten könne, soll nicht die staatliche Finanzwirtschaft in kürzester Zeit ganz <pb facs="krp-0143_r-0011"/>zusammenbrechen. Die Annahme, dass die Verlustdeckungen aus den Preiserhöhungen durch die gleichzeitig eintretenden Mehraufwendungen aufgezehrt würde, sei nicht zutreffend; denn der Staat habe doch nur an seine eigenen Angestellten eine Rückvergütung für die höheren Preise zu leisten und gewinne die darüber hinausgehenden Aufzahlungen der gesamten übrigen Bevölkerung.</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi>, der <hi rend="#letterspaced">Vorsitzende</hi> und Staatssekretär Dr. <hi rend="#letterspaced">Mayr</hi> erklären es als notwendig, mit den Preissteigerungen für einige Zeit innezuhalten und sie auch künftighin der Leistungsfähigkeit der Bevölkerung anzupassen.</p>
                   <p>Staatssekretär Dr. Mayr bemerkt hiezu noch, dass bei Aufstellung des Koalitionsprogrammes eine derartige Entwicklung der Preise, wie sie sich jetzt gezeigt habe, nicht vorausgesehen werden konnte; jedenfalls dürfe die Durchführung des Programmes nicht in einer Weise erfolgen, dass dadurch die bedenkliche Unruhe in der Bevölkerung noch vermehrt werde.</p>
@@ -432,10 +399,8 @@
                         <seg>Waldbahn Reichraming; Erklärung als begünstigter Bau.</seg>
                      </label>
                   </head>
-                  <p>Nach dem Antrage des Staatssekretärs Stöckler beschließt der Kabinettsrat, die Ausführung des von der Forst- und Domänendirektion Wien geplanten Baues einer Waldbahn im Forstwirtschaftsbezirke Reichraming (politischer Bezirk Steyr) als begünstigen Bau im Sinne der Verordnung vom 16. Oktober 1914, RGBl. Nr. 284, zu erklären.</p>
-                  <p>
-                     <pb facs="krp-0143_r-0017"/>
-                  </p>
+                  <p>Nach dem Antrage des Staatssekretärs Stöckler beschließt der Kabinettsrat, die Ausführung des von der Forst- und Domänendirektion Wien geplanten Baues einer Waldbahn im Forstwirtschaftsbezirke Reichraming (politischer Bezirk Steyr) als begünstigen Bau im Sinne der Verordnung vom 16. Oktober 1914, RGBl. Nr. 284, zu erklären. </p>
+                  <p><pb facs="krp-0143_r-0017"/></p>
                </div>
                <div type="top" xml:id="krp-0143_top09">
                   <head>
@@ -446,8 +411,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> unterbreitet dem Kabinettsrate den Entwurf eines Gesetzes über die Gebühren der Personen des Heeres (Heeresgebührengesetz) sowie die Ansätze der Abfertigung für die nicht in die neue Wehrmacht übertretenden Volkswehrmänner.</p>
                   <p>Die Abfertigung solle bestehen bei einer Volkswehrdienstzeit bis zu drei Monaten aus dem normalen Kündigungsgeld (für Wien 238 K), bei einer Volkswehrdienstzeit von drei bis inklusive sechs Monaten aus dem Kündigungsgeld und dem Betrage von 65 K für jeden der sechs Monate, und schließlich bei einer Volkswehrdienstzeit von über sechs Monaten bis inklusive 15 Monaten aus dem Kündigungsgelde, dazu einen Betrag von 200 K und weiters für jeden der 15 Monate noch 65 K. Überdies solle jeder der nicht übertretenden Volkswehrmänner bis 15. April 1920 mit vollen Gebühren, einschließlich des Unterhaltsbeitrages in militärischen Diensten verbleiben können, sodass eine Verlängerung der Kündigungsfrist um diese Zeit einträte; für die Abfertigung dagegen hätte nur die Zeit bis zum 15. Februar 1920 in Anschlag zu kommen.</p>
-                  <p>
-                     <pb facs="krp-0143_r-0018"/>Die Gebühren im neuen Heere seien den Gendarmerie- und Polizeigebühren zwar nachgebildet worden, ohne sie aber, wenigstens was die ledige Mannschaft betreffe, zu erreichen; die verheirateten Wehrmänner stünden den verheirateten Gendarmeriepersonen jetzt ungefähr gleich, würden aber hinter ihnen zurückbleiben, sobald die Besoldungsreform bei der Gendarmerie durchgeführt sein wird. Diese Niedrigkeit der Ansätze finde ihre Erklärung darin, dass als Grundlage die Gebühren der Volkswehr genommen wurden, die weit geringer seien als die sonst in öffentlichen Diensten geleistete Entlohnung. Wegen des Missverhältnisses zu den jetzt üblichen Arbeitslöhnen und im Hinblick auf die in Durchführung begriffene Besoldungsreform der Gendarmerie werde sich mit den vorgesehenen Heeresgebühren wahrscheinlich nur kurze Zeit das Auslangen finden lassen. Der sprechende Staatssekretär möchte daher empfehlen, die Gebührenregelung nicht im Gesetzgebungswege, sondern vorläufig nur mit provisorischer Geltung etwa vom 1. April 1920 bis 1. April 1921 durch Vollzugsanweisung vorzunehmen, damit notwendig werdende Abänderun<pb facs="krp-0143_r-0019"/>gen daran leichter durchgeführt werden können.</p>
+                  <p><pb facs="krp-0143_r-0018"/>Die Gebühren im neuen Heere seien den Gendarmerie- und Polizeigebühren zwar nachgebildet worden, ohne sie aber, wenigstens was die ledige Mannschaft betreffe, zu erreichen; die verheirateten Wehrmänner stünden den verheirateten Gendarmeriepersonen jetzt ungefähr gleich, würden aber hinter ihnen zurückbleiben, sobald die Besoldungsreform bei der Gendarmerie durchgeführt sein wird. Diese Niedrigkeit der Ansätze finde ihre Erklärung darin, dass als Grundlage die Gebühren der Volkswehr genommen wurden, die weit geringer seien als die sonst in öffentlichen Diensten geleistete Entlohnung. Wegen des Missverhältnisses zu den jetzt üblichen Arbeitslöhnen und im Hinblick auf die in Durchführung begriffene Besoldungsreform der Gendarmerie werde sich mit den vorgesehenen Heeresgebühren wahrscheinlich nur kurze Zeit das Auslangen finden lassen. Der sprechende Staatssekretär möchte daher empfehlen, die Gebührenregelung nicht im Gesetzgebungswege, sondern vorläufig nur mit provisorischer Geltung etwa vom 1. April 1920 bis 1. April 1921 durch Vollzugsanweisung vorzunehmen, damit notwendig werdende Abänderun<pb facs="krp-0143_r-0019"/>gen daran leichter durchgeführt werden können.</p>
                   <p>Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> tritt dafür ein, die Gebühren der Wehrmänner hinsichtlich der fixen Löhnung und des Kostgeldes niedriger zu halten und dafür als Ausgleich einen abbaufähigen prozentuellen Zuschlag zu gewähren. Ferner weist er darauf hin, dass die Abfertigung beim Austritt aus dem künftigen Heer mit monatlich 50 K angesetzt sei, wogegen die Abfertigung für die jetzigen Zertifikatisten nur 40 K betrage. Da dieser Unterschied in der Entschädigung zu Schwierigkeiten bei dem Abbau der Berufsunteroffiziere der alten Armee führen könnte, scheine ihm die Herabsetzung der Abfertigung auf den Betrag der Zertifikatistenentschädigung von 40 K geboten. Endlich werde die Familienzulage für die Ehegattin und für jedes Kind bemessen, abweichend vom Besoldungsübergangsgesetz, das nur für die Kinder, nicht aber auch für die Ehegattin eine Familienzulage kenne. Es sollte daher Übereinstimmung mit dem Besoldungsübergangsgesetz hergestellt werden.</p>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> wendet gegen den Entwurf ein, dass in § 9 <pb facs="krp-0143_r-0020"/>unentgeltliche Behandlung und Beistellung der Arzneien u. dgl., abgesehen von Infektionskrankheiten nur für den Fall einer im Dienste zugezogenen Erkrankung vorgesehen werde. Dies bedeute eine Benachteiligung der Wehrmänner gegenüber den übrigen staatlichen Angestellten, die jetzt die Gewährung unentgeltlicher Behandlung und Medikamentenbeistellung für alle Krankheitsfälle anstreben. Die gleiche Vorsorge müsse daher wohl auch für die Heeresangehörigen getroffen werden.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> tritt dem Verlangen des Sektionschefs Dr. Grimm nach Herabsetzung der fixen Gebühren mit dem Hinweis auf die Niedrigkeit der Ansätze entgegen. Dagegen stimmt er der Bemessung der Abfertigung mit 40 K zu, um nicht den Zertifikatisten Anlass zu Beispielsfolgerungen zu bieten. Bezüglich der Familienzulage bietet er die Aufklärung, dass sie einen Ausgleich für die den Angehörigen der Volkswehrmänner zufließenden Unterhaltsbeiträge darstelle, daher auch die Ehegattin miteinbeziehen müsse. Dafür betrage die Familienzulage pro Kopf auch nur 730 K gegenüber 1.200 K nach dem Besoldungsübergangsgesetz. <pb facs="krp-0143_r-0021"/>Mit dem Abänderungsantrage des Unterstaatssekretärs Dr. Resch erkläre sich Redner einverstanden.</p>
@@ -473,14 +437,10 @@
                   </head>
                   <p>Staatssekretär Hanusch teilt mit, dass die Landesversammlung in Kärnten einen Gesetzesbeschluss, betreffend die Einrichtung des Gesundheitsdienstes in den Gemeinden, giltig für das Land Kärnten mit Ausnahme der Landeshauptstadt Klagenfurt, gefasst habe. Gegen den § 9 dieses Gesetzesbeschlusses obwalten nachstehende Bedenken:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Der bezeichnete § bezwecke eine authentische Interpre<pb facs="krp-0143_r-0023"/>tation des Epidemiegesetzes vom 14. April 1913, RGBl. Nr. 65; ein Staatsgesetz könne aber nur durch ein Staatsgesetz authentisch interpretiert werden.</item>
-                     <item n="2">
-                        <label>2.)</label> Die Interpretation, welche durch das Landesgesetz dem Staatsgesetze zuteil werden soll, sei unrichtig, weil im § 36 des Epidemiegesetzes die Fälle, in welchen der Staat für die Kosten der Erhebung herangezogen werden soll, taxativ aufgezählt seien und die Erhebungen durch die Gemeindeärzte nicht unter diese Kosten fallen.</item>
-                     <item n="3">
-                        <label>3.)</label> An dem Grundsatze, dass der Staatsschatz für die im übertragenen Wirkungskreis auflaufenden Kosten nicht aufzukommen habe, sei in dem bisherigen Landesgesetze festgehalten worden. Es wäre höchst bedenklich an diesem Grundsatze zu rütteln.</item>
-                     <item n="4">
-                        <label>4.)</label> Durch die Handhabung der im Gesetze enthaltenen neuen Bestimmungen würden dem Staatsschatze neue Lasten erwachsen. Diese neue Belastung könnte dem Staatsschatze nur mit Zustimmung der Staatsregierung aufgebürdet werden. Da die bemängelte Bestimmung als Vorbild vermutlich von den anderen Ländern übernommen werden <pb facs="krp-0143_r-0024"/>würde, sei es auch vom staatsfinanziellen Standpunkte aus dringend geboten, dem Versuche, durch die Landesgesetzgebung dem Staate Lasten aufzuerlegen, die in der Staatsgesetzgebung nicht begründet sind, entgegenzutreten.</item>
+                     <item n="1"><label>1.)</label> Der bezeichnete § bezwecke eine authentische Interpre<pb facs="krp-0143_r-0023"/>tation des Epidemiegesetzes vom 14. April 1913, RGBl. Nr. 65; ein Staatsgesetz könne aber nur durch ein Staatsgesetz authentisch interpretiert werden.</item>
+                     <item n="2"><label>2.)</label> Die Interpretation, welche durch das Landesgesetz dem Staatsgesetze zuteil werden soll, sei unrichtig, weil im § 36 des Epidemiegesetzes die Fälle, in welchen der Staat für die Kosten der Erhebung herangezogen werden soll, taxativ aufgezählt seien und die Erhebungen durch die Gemeindeärzte nicht unter diese Kosten fallen.</item>
+                     <item n="3"><label>3.)</label> An dem Grundsatze, dass der Staatsschatz für die im übertragenen Wirkungskreis auflaufenden Kosten nicht aufzukommen habe, sei in dem bisherigen Landesgesetze festgehalten worden. Es wäre höchst bedenklich an diesem Grundsatze zu rütteln.</item>
+                     <item n="4"><label>4.)</label> Durch die Handhabung der im Gesetze enthaltenen neuen Bestimmungen würden dem Staatsschatze neue Lasten erwachsen. Diese neue Belastung könnte dem Staatsschatze nur mit Zustimmung der Staatsregierung aufgebürdet werden. Da die bemängelte Bestimmung als Vorbild vermutlich von den anderen Ländern übernommen werden <pb facs="krp-0143_r-0024"/>würde, sei es auch vom staatsfinanziellen Standpunkte aus dringend geboten, dem Versuche, durch die Landesgesetzgebung dem Staate Lasten aufzuerlegen, die in der Staatsgesetzgebung nicht begründet sind, entgegenzutreten.</item>
                   </list>
                   <p>Der sprechende Staatssekretär erbitte sich daher vom Kabinettsrate die Ermächtigung, gegen die Bestimmung des § 9 des in Rede stehenden Gesetzesbeschlusses gemäß Art. 14 des Gesetzes vom 14. März 1919, StGBl. Nr. 179, Vorstellung zu erheben.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
@@ -517,10 +477,8 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. Reisch gibt dem Kabinettsrate die Begebungsbedingungen der im Gesetze vom 23. Jänner 1920, [StGBl. Nr. 42], betreffend Kreditoperationen, vorgesehenen Prämienanleihe bekannt. </p>
-                  <p>Der Kabinettsrat nimmt diese Mitteilungen zur Kenntnis.</p>
-                  <p>
-                     <pb facs="krp-0143_r-0028"/>
-                  </p>
+                  <p>Der Kabinettsrat nimmt diese Mitteilungen zur Kenntnis. </p>
+                  <p><pb facs="krp-0143_r-0028"/></p>
                </div>
                <div type="top" xml:id="krp-0143_top15">
                   <head>
@@ -548,27 +506,19 @@
                   <p>Über Veranlassung des Besoldungsausschusses habe am 24. Jänner l. J. eine Sitzung, zu der Redner als Vertreter des Staatsamtes für Finanzen berufen worden sei, stattgefunden, die sich mit den Abänderungsanträgen des Besoldungsausschusses zur Vollzugsanweisung über die Durchführung des Besoldungsübergangsgesetzes zu beschäftigen hatte. Bei dieser Sitzung seien drei Forderungen der Postbediensteten unerledigt geblieben, weil ihnen Redner als gegen das Besoldungsübergangsgesetz verstoßend, nicht zustimmen konnte.</p>
                   <p>Sie betrafen:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Gewährung eines Ortszuschlages für die Praktikanten der Postverwaltung,</item>
-                     <item n="2">
-                        <label>2.)</label> Abstandnahme von der gesetzlich vorgesehenen Kürzung der Gesamtdienstzeit der Unterbeamten und Diener für den Anfall der Gehaltserhöhungen um drei Jahre und schließlich</item>
-                     <item n="3">
-                        <label>3.)</label> Bewilligung des Ortszuschlages von Wien auch für andere Orte mit großer Teuerung.</item>
+                     <item n="1"><label>1.)</label> Gewährung eines Ortszuschlages für die Praktikanten der Postverwaltung,</item>
+                     <item n="2"><label>2.)</label> Abstandnahme von der gesetzlich vorgesehenen Kürzung der Gesamtdienstzeit der Unterbeamten und Diener für den Anfall der Gehaltserhöhungen um drei Jahre und schließlich</item>
+                     <item n="3"><label>3.)</label> Bewilligung des Ortszuschlages von Wien auch für andere Orte mit großer Teuerung.</item>
                   </list>
                   <p>Bei Fortsetzung der Verhandlungen <pb facs="krp-0143_r-0033"/>am 30. Jänner hätten die Mitglieder des Besoldungsausschusses vom Vertreter des Staatsamtes für Finanzen eine bindende Zusage hinsichtlich dieser drei Punkte verlangt und da eine solche nicht erteilt werden konnte, eine schriftliche Erklärung abgegeben, derzufolge der Besoldungsausschuss bis Samstag, den 31. Jänner um 10 Uhr vormittags den Beginn der endgiltigen Verhandlungen unter Teilnahme eines zur Abgabe von bindenden Erklärungen ermächtigten Vertreters des Staatsamtes für Finanzen erwarte. Sollte dieser Erwartung nicht entsprochen werden, so müssten die Mitglieder des Besoldungsausschusses jede Verantwortung für etwaige Folgen ablehnen.</p>
                   <p>Ferner sei angekündigt worden, dass noch weitere 14 Forderungen zur Verhandlung gelangen sollen, ohne dass diese aber bisher dem Staatsamt für Verkehrswesen noch jenem für Finanzen zur Kenntnis gebracht worden wären.</p>
                   <p>Dieser Vorgang, dass Angestelltenorganisationen Vertreter des Staatsamtes für Finanzen zu Sitzungen berufen, um mit ihnen bindend über Forderungen zu verhandeln, die der eigenen Ressortbehörde noch gar nicht bekanntgegeben wurden, erscheine jedenfalls unzulässig.</p>
-                  <p>
-                     <pb facs="krp-0143_r-0034"/>Für die vorläufige Stellungnahme des Vertreters des Staatsamtes für Finanzen bei den Verhandlungen mit den Organisationen der Post- und der Telegrafenangestellten würden nun vom Kabinettsrat folgende Richtlinien erbeten:</p>
+                  <p><pb facs="krp-0143_r-0034"/>Für die vorläufige Stellungnahme des Vertreters des Staatsamtes für Finanzen bei den Verhandlungen mit den Organisationen der Post- und der Telegrafenangestellten würden nun vom Kabinettsrat folgende Richtlinien erbeten:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die Einberufung und Leitung der Verhandlung hat nur durch das Staatsamt für Verkehrswesen (Postsektion, Telegrafensektion) zu geschehen; womöglich wären die zu verhandelnden Gegenstände wenigstens 24 Stunden vorher schriftlich dem Staatsamt für Finanzen mitzuteilen.</item>
-                     <item n="2">
-                        <label>2.)</label> Zugeständnisse können nur insoweit gemacht werden, soferne sie</item>
-                     <item n="3">
-                        <label>a)</label> in den Besonderheiten des Post-, bzw. Telegrafendienstes gegründet sind,</item>
-                     <item n="4">
-                        <label>b)</label> soweit sie nicht mit dem Gesetze in Widerspruch stehen. </item>
+                     <item n="1"><label>1.)</label> Die Einberufung und Leitung der Verhandlung hat nur durch das Staatsamt für Verkehrswesen (Postsektion, Telegrafensektion) zu geschehen; womöglich wären die zu verhandelnden Gegenstände wenigstens 24 Stunden vorher schriftlich dem Staatsamt für Finanzen mitzuteilen.</item>
+                     <item n="2"><label>2.)</label> Zugeständnisse können nur insoweit gemacht werden, soferne sie</item>
+                     <item n="3"><label>a)</label> in den Besonderheiten des Post-, bzw. Telegrafendienstes gegründet sind,</item>
+                     <item n="4"><label>b)</label> soweit sie nicht mit dem Gesetze in Widerspruch stehen. </item>
                   </list>
                   <p>Soweit diese Voraussetzungen nicht, zutreffen, müsste die Entscheidung der Regierung ad a) wegen der Rückwirkungen auf andere Gruppen ad b) wegen der Unmöglichkeit gesetzwidrige Verfügungen im Verordnungswege zu erlassen, eingeholt werden.</p>
                   <p>Staatssekretär Hanusch wendet sich gegen ein derartiges selbstständiges Vorgehen von Staatsbe<pb facs="krp-0143_r-0035"/>diensteten und beantragt einen Beschluss des Kabinettsrates, dass Verhandlungen über Forderungen der Angestellten eines Ressorts nur von diesem Ressort selbst, und zwar wo es sich um finanzielle Fragen handelt, unter Zuziehung eines Vertreters des Staatsamtes für Finanzen gepflogen werden dürfen.</p>

@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0155.xml">
             <head type="dokument">
-               <title type="num">155.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">155.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0155_r-0001"/>[Sonntag] 1920-03-07</title>
@@ -295,16 +294,11 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> berichtet über den bisherigen Gang der vom Hauptausschuss im Auftrage der Nationalversammlung eingeleiteten kontradiktorischen Verhandlungen zwischen den öffentlichen Haushaltungen und den Vertretern der öffentlichen Angestellten. Die paritätische Lohnkommission habe folgende Forderungen aufgestellt:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Der Mindestbezug eines in der niedersten Gehaltsstufe stehenden ledigen Bediensteten in Wien muss, Gehalt, Ortszuschlag, Teuerungszulage und gleitende Zulage zusammengenommen, 24.000 [K] jährlich betragen.</item>
-                     <item n="2">
-                        <label>2.)</label> Auf vorstehenden Mindestbezug von 24.000 K bauen sich alle weiteren Bezugsstufen (Erhöhungen) in gleicher Weise wie im bestehenden Gehaltsschema auf.</item>
-                     <item n="3">
-                        <label>3.)</label> Der verheiratete Bedienstete erhält außerdem für die Frau und für jedes Kind eine Teuerungszulage von 1.200 K jährlich.</item>
-                     <item n="4">
-                        <label>4.)</label> Der Ortszuschlag ist für Wien mit 30 %, für die erste Ortsklasse mit 27 %, für die zweite Ortsklasse mit 24 %, für die dritte Ortsklasse mit 21 %, für die vierte Ortsklasse mit 18 % vom Gehalt samt Erhöhungen zu bemessen.</item>
-                     <item n="5">
-                        <label>5.)</label> Die gegenüber den Teuerungsverhältnissen vom 1. März 1920 sich ergeben<pb facs="krp-0155_r-0003"/>den weiteren Preissteigerungen sind aufgrund einer Indexziffer zuzuschlagen, welche aus den notwendigen Bedürfnissen an Nahrung, Kleidung und Wohnung einvernehmlich zwischen Dienstgebern und Dienstnehmern allmonatlich ermittelt wird. Die so ermittelte Differenz ist jeweils längstens am 15. des folgenden Monats auszugleichen.</item>
+                     <item n="1"><label>1.)</label> Der Mindestbezug eines in der niedersten Gehaltsstufe stehenden ledigen Bediensteten in Wien muss, Gehalt, Ortszuschlag, Teuerungszulage und gleitende Zulage zusammengenommen, 24.000 [K] jährlich betragen.</item>
+                     <item n="2"><label>2.)</label> Auf vorstehenden Mindestbezug von 24.000 K bauen sich alle weiteren Bezugsstufen (Erhöhungen) in gleicher Weise wie im bestehenden Gehaltsschema auf.</item>
+                     <item n="3"><label>3.)</label> Der verheiratete Bedienstete erhält außerdem für die Frau und für jedes Kind eine Teuerungszulage von 1.200 K jährlich.</item>
+                     <item n="4"><label>4.)</label> Der Ortszuschlag ist für Wien mit 30 %, für die erste Ortsklasse mit 27 %, für die zweite Ortsklasse mit 24 %, für die dritte Ortsklasse mit 21 %, für die vierte Ortsklasse mit 18 % vom Gehalt samt Erhöhungen zu bemessen.</item>
+                     <item n="5"><label>5.)</label> Die gegenüber den Teuerungsverhältnissen vom 1. März 1920 sich ergeben<pb facs="krp-0155_r-0003"/>den weiteren Preissteigerungen sind aufgrund einer Indexziffer zuzuschlagen, welche aus den notwendigen Bedürfnissen an Nahrung, Kleidung und Wohnung einvernehmlich zwischen Dienstgebern und Dienstnehmern allmonatlich ermittelt wird. Die so ermittelte Differenz ist jeweils längstens am 15. des folgenden Monats auszugleichen.</item>
                   </list>
                   <p>Der sprechende Staatssekretär erklärt, dass eine Erfüllung dieser Forderungen die Summe von jährlich 3,3 Milliarden K erfordern würde. Für diesen Betrag sei im vorliegenden Budget keinerlei Bedeckung gegeben und er müsse, solange eine solche Bedeckung nicht vorliege, deren Erfüllung ablehnen. Das äußerste Zugeständnis, zu dem sich die Finanzverwaltung bereit erklären könne, sei eine Zuwendung im Gesamtausmaße von 1 ½ Milliarden K. Innerhalb dieses Rahmens könnte der Ortzuschlag für die I. Bezugsklasse (Wien) von 30 % auf 100%, für die II. Bezugsklasse von 20 [%] auf 50 % und für die III. Bezugsklasse von 10 [%] auf 30 %, ferner die Teuerungszulage sowie die Kinderzulage um 100 % erhöht und eine Frauenzulage von 1.200 K gewährt werden. Gleichzeitig müsste aber die gleitende Zulage <pb facs="krp-0155_r-0004"/>eingezogen werden. Die Bedeckung des vorerwähnten Betrages von 1 ½ Milliarden [K], in welchen auch bereits ein 50 % Zuschuss an die Länder und Statutargemeinden für die Bestreitung des ihnen erwachsenden Mehraufwandes eingerechnet sei, wäre durch eine Erhöhung des Preises der Tabakfabrikate sowie der Post-, Telegrafen- und Eisenbahntarife anzustreben.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> hegt die Befürchtung, dass infolge der vorerwähnten Maßnahmen den Anforderungen seines Ressorts nicht hinreichend werde Genüge geleistet werden können und wirft anschließend daran die Frage auf, ob seitens der Reparationskommission nicht ein Einspruch gegen die weitere Notenvermehrung werde erhoben werden.</p>
@@ -319,8 +313,7 @@
             <div type="stenogramme">
                <div n="1">
                   <head>[KRP 155, 7. März 1920, Stenogramm Fenz]</head>
-                  <p>
-                     <pb facs="krp-0155_s01-0001"/>155., 7. /III., ½ 9.</p>
+                  <p><pb facs="krp-0155_s01-0001"/>155., 7. /III., ½ 9.</p>
                   <p>[Zugezogen] Wilfling, Seitz, Grimm.</p>
                   <p>Reisch: [Ich habe] den denkbar schlechtesten Eindruck. Die Vertreter [der öffentlich Angestellten] haben nicht mehr die leiseste Erinnerung, dass sie Pflichten zum Staat haben, sondern [denken], dass sie Teil des Volkes sind und sie der </p>
                   <p>Staat zu erhalten hat. </p>
@@ -331,8 +324,7 @@
                   <p>Die Bedeckung [könnte] vielleicht durch die Erhöhung des Tabaks, der Fracht- und Posttarife [erfolgen].</p>
                   <p>Wir müssten heute durch die Gemeinde Wien etwas [...] lassen und wirklich trachten, die Staatsangestellten für dasselbe zu gewinnen. </p>
                   <p>[Denkbar wäre, dass man] den Ortszuschlag und die Teuerungszulage und die Kinderzulage in Wien entsprechend erhöht, gegen die gleichzeitige Einziehung der gleitenden Zulage. </p>
-                  <p>
-                     <hi rend="#s">Wenn dieser Grundzug bewilligt würde</hi> -. Die gegenwärtige gleitende Zulage wird abgelehnt von den Eisenbahnern und den Wiener Gemeindeangestellten. </p>
+                  <p><hi rend="#s">Wenn dieser Grundzug bewilligt würde</hi> -. Die gegenwärtige gleitende Zulage wird abgelehnt von den Eisenbahnern und den Wiener Gemeindeangestellten. </p>
                   <p>Man könnte den Ortszuschlag auf 100 % in Wien erhöhen, </p>
                   <p>die Teuerungszuschläge und die Kinderzulage wären [ebenso] um 100 % zu erhöhen. Vorzuschlagen wäre bei der Verhandlung natürlich weniger.</p>
                   <p>Wenn man rechnet, dass dann der Staat auch die Lehrergehaltserhöhung auf sich nehmen müsste in dem jetzt bestimmten Umfang (der Hälfte) und auch den Landeshauptstädten </p>
@@ -347,8 +339,7 @@
                   <p>Loewenfeld-Ruß: Die Milliarde hat die Finanzverwaltung nicht. Ich möchte fragen, ob Staatssekretär Reisch bei der Erhöhung dieser Gehälter die Anforderungen meines </p>
                   <p>Ressorts wird befriedigen können?</p>
                   <p>Ich möchte erinnern daran, an die ausdrückliche Bemerkung der Reparationskommission, den - [in] Paris wegen der Notenvermehrung. Die Reparationskommission hat gesagt, dass </p>
-                  <p>
-                     <pb facs="krp-0155_s01-0002"/>es damit ein Ende haben muss.</p>
+                  <p><pb facs="krp-0155_s01-0002"/>es damit ein Ende haben muss.</p>
                   <p>Paul: Wenn der ganze Betrag genehmigt werden müsste, den die Angestellten gestern gefordert haben -.</p>
                   <p>1.700 Millionen - Eisenbahnen</p>
                   <p>170 Millionen - Post - Tel[efon und Telegrafengebühren].</p>
@@ -373,8 +364,7 @@
                   <p>Ellenbogen: Man soll die Bedingung stellen, dass jetzt bis zu einer bestimmten Zeit Ruhe ist.</p>
                   <p>Eldersch: [Ich] warne davor, denn wenn sich die Teuerungsverhältnisse radikal ändern, so wird uns das doch nichts nützen. Im Gegenteil, es würde </p>
                   <p>uns nur jetzt mehr kosten. Man darf nicht mehr als 1 Milliarde sagen, denn man wird ja doch mehr geben müssen.</p>
-                  <p>
-                     <pb facs="krp-0155_s01-0003"/>Renner: Es muss auch erwähnt werden, dass Loewenfeld erklärt hat, dass diese Mehr[be]willigung es ganz unmöglich machen wird, Lebensmittel </p>
+                  <p><pb facs="krp-0155_s01-0003"/>Renner: Es muss auch erwähnt werden, dass Loewenfeld erklärt hat, dass diese Mehr[be]willigung es ganz unmöglich machen wird, Lebensmittel </p>
                   <p>im Ausland zu kaufen.</p>
                   <p>Paul: Bei der Verhandlung wurde nie das Parlament, sondern immer die Regierung als Gegenpartei angesehen.</p>
                   <p>Renner: Es muss gesagt werden, die Regierung hat sich pflichtgemäß die Mühe gegeben, was unter welchen Bedingungen gegeben werden kann. Sie glaubt, 1 Milliarde geht noch </p>
@@ -389,17 +379,14 @@
                   <p>in der dritten Klasse auf 30 %.</p>
                   <p>Die Teuerungszulage soll überhaupt um 100 % erhöht werden, in Wien auf 9.600 Kronen.</p>
                   <p>Die Kinderzulage gleichfalls um 100 % auf 2.400 Kronen. </p>
-                  <p>Der Frau müsste man die Kinderzulage geben, <hi rend="#s">wenn es verlangt wird.</hi>
-                  </p>
+                  <p>Der Frau müsste man die Kinderzulage geben, <hi rend="#s">wenn es verlangt wird.</hi></p>
                   <p>Die gleitende Zulage wäre für die Zukunft nicht nur nicht auszugestalten, sondern einzuziehen.</p>
                   <p>Miklas: Ich glaube, dass die Abstufung der Ortsklassen wenigstens für Niederösterreich nicht glücklich [ist]. </p>
                   <p>Man sollte sagen, dass [es] in Niederösterreich nur Dienstorte gibt, die in der 1. und II. Klasse stehen. Man müsste die, die in der II. Klasse </p>
                   <p>sind in die 1. einreihen, alle übrigen in die II. Ich meine bei der 1. Klasse nicht Wien.</p>
                   <p>Paul: Das wäre Sache der paritätischen Landeskommission. Nur kann sie nicht - einen Ort nach Wien einzureihen.</p>
                   <p>Renner: Wir werden mitteilen, dass das Ortsklassensystem ausgestaltet werden soll.</p>
-                  <p>
-                     <pb facs="krp-0155_s01-0004"/>
-                     <hi rend="#s">Grimm</hi>: -.</p>
+                  <p><pb facs="krp-0155_s01-0004"/><hi rend="#s">Grimm</hi>: -.</p>
                   <p>Wilfling: Wenn man absieht von der Erhöhung – </p>
                   <p>die Erhöhung der Teuerungszulage tritt überall ein. Beim Ortszuschlag -.</p>
                   <p>Paul: Man soll sagen, in Wien wird der Ortszuschlag von 30% auf 100% erhöht, das steht fest. </p>
@@ -421,8 +408,7 @@
                   <p>Was aber das Technische anbelangt, so soll man jetzt die Verhandlungen führen über die Sache und nicht über die Form. Wenn man in der Sache einig ist, </p>
                   <p>dann wird man sagen, jetzt sind die Verhandlungen abgeschlossen. Dann wird es Sache der Regierung sein, die Vorlage im Parlament einzubringen.</p>
                   <p>Ermächtigungsgesetz zur Erhöhung der Tarife, insolange das Gesetz über die Mitwirkung nicht erledigt ist. Inkrafttreten am 1. III.</p>
-                  <p>
-                     <pb facs="krp-0155_s01-0005"/>Reisch: Eine eventuelle Frage wird sein, ob den besonderen Verhältnissen Wiens Rechnung getragen wird. Und wie die auton[omen] Finanzverwaltungen behandelt werden sollen. </p>
+                  <p><pb facs="krp-0155_s01-0005"/>Reisch: Eine eventuelle Frage wird sein, ob den besonderen Verhältnissen Wiens Rechnung getragen wird. Und wie die auton[omen] Finanzverwaltungen behandelt werden sollen. </p>
                   <p>Gegenwärtig stehen die aut[onomen] Finanzverwaltungen auf dem Standpunkt, dass ihre Beamten mit den Staatsbeamten gleichgestellt werden und da sie keine Mittel haben, der Staat </p>
                   <p>zahlen müsste.</p>
                   <p>Hauser: Ich kann die Rückwirkung auf das Land Oberösterreich nicht beurteilen. Ich sehe keine Möglichkeit, wie die 10 Millionen in </p>

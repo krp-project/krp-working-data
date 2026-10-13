@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0094.xml">
             <head type="dokument">
-               <title type="num">94.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">94.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0094_r-0001"/>
@@ -282,33 +281,15 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0094_top01">Zu TOP 1</ref>: <ref target="#krp-0094_b01">Ansuchen des Staatsamtes für Verkehrswesen Zl. 20282/19 um Übernahme einer zweiten Gruppe bosnisch-herzegowinischer Eisenbahner in den deutschösterreichischen Eisenbahndienst</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top02">Zu TOP 2</ref>: <ref target="#krp-0094_b02">Antrag des Staatsamtes für Verkehrswesen Zl. 1701/19 auf Erhöhung der Ruhe- und Versorgungsgenüsse bei den Staatsbahnen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top03">Zu TOP 3</ref>: <ref target="#krp-0094_b03">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 26816 über Beschlüsse des Kärntner Landesausschusses</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top04">Zu TOP 4</ref>: <ref target="#krp-0094_b04">Antrag des Staatsamtes für soziale Verwaltung zu Zl. 17717/19 über die Bewilligung eines Verwaltungskostenbeitrags und einer Stammeinlage für den Aktienfonds des Zentralbureaus für Seuchenbekämpfung in Wien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top07">Zu TOP 7</ref>: <ref target="#krp-0094_b05">Gewährung einer staatlichen Subvention an die Stadtgemeinde Graz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top08">Zu TOP 8</ref>: <ref target="#krp-0094_b06">Antrag auf Ermächtigung des Staatsamtes für Finanzen auf Einführung des Titels Steueramtsdirektor für die in die VII. Rangklasse eingereihten Steueroberverwalter</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top09">Zu TOP 9</ref>: <ref target="#krp-0094_b07">Antrag auf Ermächtigung des Staatsamtes für Finanzen auf Änderung der Amtstitelbezeichnung für die Lottoamtsbeamten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top10">Zu TOP 10</ref>: <ref target="#krp-0094_b08">Vollzugsanweisung der Staatsregierung über die Gewährung von Gebührenbegünstigungen für die aus Anlass des Überganges zur Friedenswirtschaft errichteten, öffentlichen Interessen dienenden Unternehmungen und Anstalten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0094_top12">Zu TOP 12</ref>: <ref target="#krp-0094_b09">Übernahme der Konsularakademie durch den deutschösterreichischen Staat</ref>
-                  </item>
+                  <item><ref target="#krp-0094_top01">Zu TOP 1</ref>: <ref target="#krp-0094_b01">Ansuchen des Staatsamtes für Verkehrswesen Zl. 20282/19 um Übernahme einer zweiten Gruppe bosnisch-herzegowinischer Eisenbahner in den deutschösterreichischen Eisenbahndienst</ref></item>
+                  <item><ref target="#krp-0094_top02">Zu TOP 2</ref>: <ref target="#krp-0094_b02">Antrag des Staatsamtes für Verkehrswesen Zl. 1701/19 auf Erhöhung der Ruhe- und Versorgungsgenüsse bei den Staatsbahnen</ref></item>
+                  <item><ref target="#krp-0094_top03">Zu TOP 3</ref>: <ref target="#krp-0094_b03">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 26816 über Beschlüsse des Kärntner Landesausschusses</ref></item>
+                  <item><ref target="#krp-0094_top04">Zu TOP 4</ref>: <ref target="#krp-0094_b04">Antrag des Staatsamtes für soziale Verwaltung zu Zl. 17717/19 über die Bewilligung eines Verwaltungskostenbeitrags und einer Stammeinlage für den Aktienfonds des Zentralbureaus für Seuchenbekämpfung in Wien</ref></item>
+                  <item><ref target="#krp-0094_top07">Zu TOP 7</ref>: <ref target="#krp-0094_b05">Gewährung einer staatlichen Subvention an die Stadtgemeinde Graz</ref></item>
+                  <item><ref target="#krp-0094_top08">Zu TOP 8</ref>: <ref target="#krp-0094_b06">Antrag auf Ermächtigung des Staatsamtes für Finanzen auf Einführung des Titels Steueramtsdirektor für die in die VII. Rangklasse eingereihten Steueroberverwalter</ref></item>
+                  <item><ref target="#krp-0094_top09">Zu TOP 9</ref>: <ref target="#krp-0094_b07">Antrag auf Ermächtigung des Staatsamtes für Finanzen auf Änderung der Amtstitelbezeichnung für die Lottoamtsbeamten</ref></item>
+                  <item><ref target="#krp-0094_top10">Zu TOP 10</ref>: <ref target="#krp-0094_b08">Vollzugsanweisung der Staatsregierung über die Gewährung von Gebührenbegünstigungen für die aus Anlass des Überganges zur Friedenswirtschaft errichteten, öffentlichen Interessen dienenden Unternehmungen und Anstalten</ref></item>
+                  <item><ref target="#krp-0094_top12">Zu TOP 12</ref>: <ref target="#krp-0094_b09">Übernahme der Konsularakademie durch den deutschösterreichischen Staat</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -322,9 +303,7 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Paul</hi> verweist auf die vom Kabinettsrate mit Beschluss vom 7. April d. J. zugestandene Übernahme von bosnisch-herzegowinischen Landesbahnbediensteten deutscher Volkszugehörigkeit in den deutschösterreichischen Eisenbahndienst, wodurch veranlasst, eine zweite Gruppe solcher Bediensteter, angeblich der Rest der bei den bosnisch-herzegowinischen Landesbahnen in Verwendung gestandenen Deutschen und zwar insgesamt 148 Personen, nunmehr um die gleiche Begünstigung eingeschritten sei. Im Hinblick auf das Präjudiz, das durch die Übernahme der ersten Gruppe sowie durch die mit Kabinettsratsbeschluss vom 20. Mai d. J. erfolgte weitere Übernahme von 160 Beamten und Bediensteten sonstiger bosnisch-herzegowinischer Verwaltungszweige in deutschösterreichischen Dienste geschaffen wurde, glaube der sprechende Staatssekretär das ihm vorliegende Ansuchen nicht zur Gänze ablehnen zu können; er beabsichtige aber dessen Erfüllung darauf einzuschränken, dass von den gegenwärtigen Bewerbern nur die einwandfrei guten und tüchtigen Kräfte zur Übernahme zugelassen werden. Demnach erbitte er vom Kabinettsrat die Ermäch<pb facs="krp-0094_r-0004"/>tigung, von den erwähnten 148 Bewerbern nach gewissenhafter Sichtung ausnahmsweise noch jene Bediensteten und Arbeiter deutscher Volkszugehörigkeit im Sinne des Kabinettsratsbeschlusses vom 30. November 1918 gleich den ehemaligen österreichischen Staatsbediensteten deutscher Volkszugehörigkeit außerhalb des deutschösterreichischen Staatsgebietes behandeln zu dürfen, die nach ihren persönlichen und fachlichen Eigenschaften der Übernahme würdig erscheinen, soferne für dieselben im deutschösterreichischen Staatsbahndienste eine entsprechende Verwendungsmöglichkeit vorhanden ist. Die Übernahme hätte sich im Übrigen in der gleichen Weise wie bei der ersten Bewerbergruppe zu vollziehen.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung, fügt ihr jedoch entsprechend einem Antrag des Unterstaatssekretärs <hi rend="#letterspaced">Miklas</hi> und des Sektionschefs Dr. <hi rend="#letterspaced">Grimm</hi> die Einschränkung bei, dass nur solche Angestellte Berücksichtigung finden dürfen, die unzweifelhaft deutscher Volkszugehörigkeit und in einer Gemeinde Deutschösterreichs innerhalb der durch den Friedensvertrag gezogenen Grenzen heimatzuständig sind.</p>
-                  <p>
-                     <pb facs="krp-0094_r-0005"/>
-                  </p>
+                  <p><pb facs="krp-0094_r-0005"/></p>
                </div>
                <div type="top" xml:id="krp-0094_top02">
                   <head>
@@ -386,14 +365,10 @@
                   </head>
                   <p>Staatssekretär Dr. Schumpeter erbittet und erhält nach eingehender Darstellung der Finanzlage der Stadt Graz und <pb facs="krp-0094_r-0012"/>Besprechung der ihr für die nächste Zeit bevorstehenden Investitionsauslagen für Assanierungs- und sonstige dringende Bauten (Schwemmkanalisation, Wasserwerk, Murbrücken, Bachregulierung), die Ermächtigung:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> dieser Gemeinde für die von ihr nachzuweisenden im Kriege erlittenen besonderen finanziellen Schäden eine Entschädigung bis zum Höchstausmaße von 10 Millionen K, worin die bereits vorschussweise angewiesenen 2 Millionen K einzurechnen sind, aus Staatsmitteln zu gewähren;</item>
-                     <item n="2">
-                        <label>2.)</label> der genannten Stadtgemeinde durch Überweisung der Differenz zwischen 20 und 26 2/3 % der Hauszinssteuer, das sind etwa 40 % des Hauszinssteuerertrages, dann durch die Überlassung des Ertrages der Linienverzehrungssteuer bei Erlass des Pachtschillings, ferner im Wege der Beteiligung der Gemeinde an der Einkommenssteuer gegen entsprechende Mitwirkung an deren Veranlagung, weiters durch Einführung einer Steuer vom gemeinen Wert der Liegenschaften unter Vermeidung eines Ausmaßes, das der Steuer den Charakter einer Vermögensabgabe verleihen könnte und schließlich durch die Einführung einer Abgabe von Kraftfahrzeugen, einer Beleuchtungsabgabe und anderer Luxusabgaben, neue Steuerquellen zu eröffnen, bzw. die hiefür erforderlichen Aktionen vorzubereiten. </item>
+                     <item n="1"><label>1.)</label> dieser Gemeinde für die von ihr nachzuweisenden im Kriege erlittenen besonderen finanziellen Schäden eine Entschädigung bis zum Höchstausmaße von 10 Millionen K, worin die bereits vorschussweise angewiesenen 2 Millionen K einzurechnen sind, aus Staatsmitteln zu gewähren;</item>
+                     <item n="2"><label>2.)</label> der genannten Stadtgemeinde durch Überweisung der Differenz zwischen 20 und 26 2/3 % der Hauszinssteuer, das sind etwa 40 % des Hauszinssteuerertrages, dann durch die Überlassung des Ertrages der Linienverzehrungssteuer bei Erlass des Pachtschillings, ferner im Wege der Beteiligung der Gemeinde an der Einkommenssteuer gegen entsprechende Mitwirkung an deren Veranlagung, weiters durch Einführung einer Steuer vom gemeinen Wert der Liegenschaften unter Vermeidung eines Ausmaßes, das der Steuer den Charakter einer Vermögensabgabe verleihen könnte und schließlich durch die Einführung einer Abgabe von Kraftfahrzeugen, einer Beleuchtungsabgabe und anderer Luxusabgaben, neue Steuerquellen zu eröffnen, bzw. die hiefür erforderlichen Aktionen vorzubereiten. </item>
                   </list>
-                  <p>
-                     <pb facs="krp-0094_r-0013"/>
-                  </p>
+                  <p><pb facs="krp-0094_r-0013"/></p>
                </div>
                <div type="top" xml:id="krp-0094_top08">
                   <head>

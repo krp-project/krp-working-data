@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0082.xml">
             <head type="dokument">
-               <title type="num">82.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">82.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0082_r-0001"/>
@@ -282,45 +281,19 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0082_top02">Zu TOP 2</ref>: <ref target="#krp-0082_b01">Referat des Staatskanzlers über die Kompetenz für die Beurlaubung des Präsidenten des Obersten Gerichtshofes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top03">Zu TOP 3</ref>: <ref target="#krp-0082_b02">Verzeichnis der erlassenen Vollzugsanweisungen 164/5 St.K.-1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top04">Zu TOP 4</ref>: <ref target="#krp-0082_b03">Referat der Staatskanzlei gegen eine Verfügung der Salzburger Landesregierung in Mieterschutzangelegenheiten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top05">Zu TOP 5</ref>: <ref target="#krp-0082_b04">Ansuchen des Vorarlberger Landesrates auf Durchführung einer Volksabstimmung über den Anschluss an die Schweiz zu Zl. 909/5-St.K.-1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top06">Zu TOP 6</ref>: <ref target="#krp-0082_b05">Exposé der Staatskanzlei über den Ersatz des Militärpensionsgesetzes durch ein Ermächtigungsgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top06">Zu TOP 6</ref>: <ref target="#krp-0082_b06">Text des Abänderungsvorschlages</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top07">Zu TOP 7</ref>: <ref target="#krp-0082_b07">Gesetzesvorlage der Staatsregierung über das Budgetprovisorium über das 2. Halbjahr 1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top08">Zu TOP 8</ref>: <ref target="#krp-0082_b08">Auszug für den Vortrag über den Gesetzesbeschluss der Steiermärkischen Landesversammlung zu Zl. 21.415/1919 über die Beitragsleistung der Heimatgemeinden zu den Verpflegskosten öffentlichen Kranken- und Irrenanstalten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top09">Zu TOP 9</ref>: <ref target="#krp-0082_b09">Entwurf einer Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Unterstützung arbeitsloser Arbeiter und Angestellter</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top10">Zu TOP 10</ref>: <ref target="#krp-0082_b10">Antrag des Staatsamtes für Volksernährung über Maßnahmen zum Schutz der Feldfrüchte gegen unbefugte Aneignung, Diebstahl und Raub</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top11">Zu TOP 11</ref>: <ref target="#krp-0082_b11">Auszug für den Vortrag des Staatssekretärs für Handel, und Gewerbe, Industrie und Bauten über den Beschluss des Niederösterreichischen Landtages über die Abänderung einiger Bestimmungen des niederösterreichischen Fortbildungsschulgesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top12">Zu TOP 12</ref>: <ref target="#krp-0082_b12">Antrag auf finanzielle Unterstützung des Vereins „Technisches Museum für Industrie und Gewerbe in Wien“</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0082_top13">Zu TOP 13</ref>: <ref target="#krp-0082_b13">Gesetzesvorlage der Staatsregierung über die Verlängerung der Funktionsdauer wirklicher Mitglieder der Handels- und Gewerbekammer</ref>
-                  </item>
+                  <item><ref target="#krp-0082_top02">Zu TOP 2</ref>: <ref target="#krp-0082_b01">Referat des Staatskanzlers über die Kompetenz für die Beurlaubung des Präsidenten des Obersten Gerichtshofes</ref></item>
+                  <item><ref target="#krp-0082_top03">Zu TOP 3</ref>: <ref target="#krp-0082_b02">Verzeichnis der erlassenen Vollzugsanweisungen 164/5 St.K.-1919</ref></item>
+                  <item><ref target="#krp-0082_top04">Zu TOP 4</ref>: <ref target="#krp-0082_b03">Referat der Staatskanzlei gegen eine Verfügung der Salzburger Landesregierung in Mieterschutzangelegenheiten</ref></item>
+                  <item><ref target="#krp-0082_top05">Zu TOP 5</ref>: <ref target="#krp-0082_b04">Ansuchen des Vorarlberger Landesrates auf Durchführung einer Volksabstimmung über den Anschluss an die Schweiz zu Zl. 909/5-St.K.-1919</ref></item>
+                  <item><ref target="#krp-0082_top06">Zu TOP 6</ref>: <ref target="#krp-0082_b05">Exposé der Staatskanzlei über den Ersatz des Militärpensionsgesetzes durch ein Ermächtigungsgesetz</ref></item>
+                  <item><ref target="#krp-0082_top06">Zu TOP 6</ref>: <ref target="#krp-0082_b06">Text des Abänderungsvorschlages</ref></item>
+                  <item><ref target="#krp-0082_top07">Zu TOP 7</ref>: <ref target="#krp-0082_b07">Gesetzesvorlage der Staatsregierung über das Budgetprovisorium über das 2. Halbjahr 1919</ref></item>
+                  <item><ref target="#krp-0082_top08">Zu TOP 8</ref>: <ref target="#krp-0082_b08">Auszug für den Vortrag über den Gesetzesbeschluss der Steiermärkischen Landesversammlung zu Zl. 21.415/1919 über die Beitragsleistung der Heimatgemeinden zu den Verpflegskosten öffentlichen Kranken- und Irrenanstalten</ref></item>
+                  <item><ref target="#krp-0082_top09">Zu TOP 9</ref>: <ref target="#krp-0082_b09">Entwurf einer Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Unterstützung arbeitsloser Arbeiter und Angestellter</ref></item>
+                  <item><ref target="#krp-0082_top10">Zu TOP 10</ref>: <ref target="#krp-0082_b10">Antrag des Staatsamtes für Volksernährung über Maßnahmen zum Schutz der Feldfrüchte gegen unbefugte Aneignung, Diebstahl und Raub</ref></item>
+                  <item><ref target="#krp-0082_top11">Zu TOP 11</ref>: <ref target="#krp-0082_b11">Auszug für den Vortrag des Staatssekretärs für Handel, und Gewerbe, Industrie und Bauten über den Beschluss des Niederösterreichischen Landtages über die Abänderung einiger Bestimmungen des niederösterreichischen Fortbildungsschulgesetzes</ref></item>
+                  <item><ref target="#krp-0082_top12">Zu TOP 12</ref>: <ref target="#krp-0082_b12">Antrag auf finanzielle Unterstützung des Vereins „Technisches Museum für Industrie und Gewerbe in Wien“</ref></item>
+                  <item><ref target="#krp-0082_top13">Zu TOP 13</ref>: <ref target="#krp-0082_b13">Gesetzesvorlage der Staatsregierung über die Verlängerung der Funktionsdauer wirklicher Mitglieder der Handels- und Gewerbekammer</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -345,11 +318,9 @@
                      </label>
                   </head>
                   <p>Über Aufforderung des <hi rend="#letterspaced">Vorsitzenden</hi> berichtet Sektionsrat Dr. <hi rend="#letterspaced">Froehlich</hi>, dass der Präsident des Obersten Gerichtshofes um die Erteilung eines zweimonatigen Urlaubes angesucht habe und sich nunmehr die Frage ergebe, ob die Entscheidung über dieses Ansuchen nach Art. 6 des Gesetzes vom 14. März d. J., StGBl. Nr. 180, in die Kompetenz der Staatsregierung falle. </p>
-                  <p>
-                     <pb facs="krp-0082_r-0005"/>In verfassungsrechtlicher Hinsicht käme nach Anschauung der Staatskanzlei hiezu Folgendes zu erinnern:</p>
+                  <p><pb facs="krp-0082_r-0005"/>In verfassungsrechtlicher Hinsicht käme nach Anschauung der Staatskanzlei hiezu Folgendes zu erinnern:</p>
                   <p>Gemäß § 70 der Gerichtsinstruktionen vom 3. Mai 1853, RGBl. Nr. 81, eine Gesetzesstelle, die durch § 19 des Gerichtsorganisationsgesetzes vom 27. November 1896, RGBl. Nr. 217, aufrechterhalten wurde, war bisher der Urlaub für den Präsidenten des Obersten Gerichtshofes vom Kaiser zu erteilen. Gemäß § 2 Abs. 1 des Gesetzes vom 25. Jänner 1919, StGBl. Nr. 41, wurden die Vorschriften des Kaiserlichen Patentes vom 7. August 1850, sowie alle übrigen, den ehemaligen Obersten Gerichts- und Kassationshof betreffenden Normen, soweit sie mit den übrigen Bestimmungen des Gesetzes nicht im Widerspruch stehen, aufrecht erhalten. Gemäß Abs. 2 der angeführten gesetzlichen Bestimmungen treten sinngemäß an Stelle der Organe und Einrichtungen des ehemaligen Österreichs die analogen Institutionen der Republik Deutschösterreich. Es war dies nach § 3 des Gesetzes über die Staats- und Regierungsform vom 12. November 1918, StGBl. Nr. 5, der Staatsrat und ist dies nunmehr nach § 6 des Gesetzes über die Staatsregierung vom 14. März 1919, StGBl. Nr. 180 die Staatsregierung.</p>
-                  <p>
-                     <pb facs="krp-0082_r-0006"/>Das Staatsamt für Justiz nehme den Standpunkt ein, dass zur Urlaubserteilung der Präsident der Nationalversammlung zuständig sei, indem es eine analoge Anwendung des ehemaligen Vorrechtes des Kaisers annimmt.</p>
+                  <p><pb facs="krp-0082_r-0006"/>Das Staatsamt für Justiz nehme den Standpunkt ein, dass zur Urlaubserteilung der Präsident der Nationalversammlung zuständig sei, indem es eine analoge Anwendung des ehemaligen Vorrechtes des Kaisers annimmt.</p>
                   <p>Die Präsidentschaftskanzlei vertrete zwar die Auffassung, dass nach dem strengen Wortlaute des Gesetzes die Staatsregierung zur Urlaubserteilung berufen wäre, dass jedoch die Forderung der vollen Unabhängigkeit des Chefs des Obersten Gerichtshofes von der Justizverwaltung dafür spreche, dass dieser Urlaub auch unter den neuen verfassungsrechtlichen Verhältnissen nicht durch die Staatsregierung, sondern durch das den Staat nach außen vertretende oberste Staatsorgan, d. i. den Präsidenten der Nationalversammlung, erteilt werde.</p>
                   <p>Die Staatskanzlei glaube den Standpunkt einnehmen zu sollen, dass im vorliegenden Falle ausschließlich die Staatsregierung kompetent sei, dass ihr von der Verfassung (§ 6 des Gesetzes über die Staatsregierung StGBl. Nr. 148) alle Rechte des Kaisers, bzw. des Staatsrates übertragen wurden, soweit sie nicht ausdrücklich dem Präsidenten vorbehalten worden <pb facs="krp-0082_r-0007"/>seien. Letztere Reservate seien aber taxativ im Gesetze aufgezählt und lasse Ihre Aufzählung als lex specialis keine erweiternde Auslegung zu. Die Stellungnahme im gegenwärtigen Falle sei übrigens präjudiziell für die Frage der Urlaubserteilung an die Präsidenten der übrigen höchsten Gerichte und insbesondere auch an die Staatssekretäre.</p>
                   <p>Nach Kennzeichnung des Standpunktes der Justizverwaltung durch Staatssekretär Dr. <hi rend="#letterspaced">Bratusch</hi> und kurzen Darlegungen der Staatssekretäre <hi rend="#letterspaced">Hanusch</hi>, Ing. <hi rend="#letterspaced">Zerdik</hi> und <hi rend="#letterspaced">Eldersch</hi> gelangt der Kabinettsrat zur Auffassung, dass – aus Opportunitätsgründen und nicht zuletzt aus dem Grunde der Wahrung voller Unabhängigkeit des Chefs des Obersten Gerichtshofes – die fragliche Erledigung des Urlaubsansuchens durch den Präsidenten der Nationalversammlung zu erfolgen hätte.</p>
@@ -372,9 +343,7 @@
                   </head>
                   <p>Über Aufforderung des Vorsitzenden teilt Sektionsrat Dr. <hi rend="#letterspaced">Froehlich</hi> mit, dass laut einer Mitteilung des Staatsamtes für Justiz die Landesregierung Salzburg im Landesgesetzblatte Nr. 39 ex 1919 unter Berufung auf das wirtschaftliche Ermächtigungsgesetz und auf einen Beschluss der Provisorischen Landesversammlung vom 18. März 1919 die Ministerialverordnung vom 26. Oktober 1918, RGBl. Nr. 381, über den Schutz der Mieter im § 7 Zl. 5, abgeändert und den dort vorgesehenen Kündigungsgrund, dass der Vermieter den Mietgegenstand selbst benötigt, von verschärften Voraussetzungen abhängig gemacht habe. Diese Kundmachung stehe mit den gegenwärtigen verfassungsrechtlichen Bestimmungen insoferne nicht im Einklänge, als unter der durch das Ermächtigungsgesetz zur Erlassung von wirtschaftlichen Verfügungen bevollmächtigten „Regierung“ nur die Staatsregierung oder ein einzelnes Staatsamt, nicht aber <pb facs="krp-0082_r-0009"/>eine Landesregierung verstanden werden könne. Da die Mieterschutzverordnung in dem fraglichen Punkte von den <hi rend="#u">Gerichten</hi> anzuwenden sei und diese berechtigt und verpflichtet seien, Verordnungen auf ihre Giltigkeit zu prüfen, ergebe sich aus der bezeichneten verfassungswidrigen Verfügung das weitere Bedenken, dass die Gerichte die in Rede stehende Verordnung der Landesregierung Salzburg als ungiltig erklären und behandeln werden. Die Staatskanzlei beabsichtige, die Landesregierung auf dieses verfassungswidrige Vorgehen und dessen voraussichtliche Folgen aufmerksam zu machen und ihr den Widerruf dieser Verfügung nahezulegen.</p>
                   <p>Nachdem Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> eine schärfere Fassung der Stellungnahme der Staatskanzlei angeregt hatte, beschließt der Kabinettsrat über Antrag des Staatssekretärs Dr. <hi rend="#letterspaced">Bratusch</hi>, die Landesregierung auf die vorerwähnten Bedenken aufmerksam zu machen und sie anzuweisen, innerhalb einer bestimmten Frist über die sohin getroffenen Verfügungen zu berichten.</p>
-                  <p>
-                     <pb facs="krp-0082_r-0010"/>
-                  </p>
+                  <p><pb facs="krp-0082_r-0010"/></p>
                </div>
                <div type="top" xml:id="krp-0082_top05">
                   <head>
@@ -428,9 +397,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> erbittet und erhält vom Kabinettsrate die Ermächtigung zur Erlassung einer Vollzugsanweisung, wonach die Bestimmungen der Vollzugsanweisungen vom 14. Februar 1919, StGBl. Nr. 120 und 121, betreffend die Unterstützung der arbeitslosen Arbeiter sowie betreffend die arbeitslosen Angestellten, in ihrer Geltungsdauer bis einschließlich 31. August 1919 – mit gewissen Einschränkungen – erstreckt werden sollen.</p>
-                  <p>
-                     <pb facs="krp-0082_r-0016"/>
-                  </p>
+                  <p><pb facs="krp-0082_r-0016"/></p>
                </div>
                <div type="top" xml:id="krp-0082_top10">
                   <head>
@@ -441,8 +408,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> unterbreitet dem Kabinettsrate den diesem Protokolle als Beilage D angeschlossenen Antrag, betreffend Maßnahmen zum Schutze der Feldfrüchte gegen unbefugte Aneignung, Diebstahl und Raub.</p>
                   <p>Bei der sich hierüber entwickelnden Debatte werden seitens der Staatssekretäre <hi rend="#letterspaced">Eldersch</hi> und <hi rend="#letterspaced">Hanusch</hi> gewisse Bedenken gegen eine Bewaffnung von Ortsbewohnern geltend gemacht; insbesondere verweist Staatssekretär Eldersch darauf, dass aller Voraussicht nach der gegenwärtig von der Gendarmerie versehene starke Grenzschutz in der nächsten Zeit einen Abbau erfahren dürfte, wodurch die Möglichkeit gegeben wäre, die verfügbar werdende Gendarmeriemannschaft für die vom Staatssekretär für Volksernährung beantragte Maßnahme zu verwenden. Demgegenüber betonen die Staatssekretäre Ing. <hi rend="#letterspaced">Zerdik</hi> und <hi rend="#letterspaced">Stöckler</hi> die Notwendigkeit einer sofortigen straffen Organisierung des Feldschutzdienstes zum Schutze der Kulturen.</p>
-                  <p>
-                     <pb facs="krp-0082_r-0017"/>Der Kabinettsrat genehmigt schließlich den vorliegenden Antrag, wonach die Staatsämter für Heer[es]wesen, für Inneres, für Land- und Forstwirtschaft und für Volksernährung beauftragt werden, über die notwendigen Verfügungen im Gegenstande mit aller Beschleunigung schlüssig zu werden und das hienach Erforderliche ungesäumt anzuordnen.</p>
+                  <p><pb facs="krp-0082_r-0017"/>Der Kabinettsrat genehmigt schließlich den vorliegenden Antrag, wonach die Staatsämter für Heer[es]wesen, für Inneres, für Land- und Forstwirtschaft und für Volksernährung beauftragt werden, über die notwendigen Verfügungen im Gegenstande mit aller Beschleunigung schlüssig zu werden und das hienach Erforderliche ungesäumt anzuordnen.</p>
                </div>
                <div type="top" xml:id="krp-0082_top11">
                   <head>
@@ -452,8 +418,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Ing. <hi rend="#letterspaced">Zerdik</hi> teilt mit, dass die Provisorische Landesversammlung in Niederösterreich am 9. April d. J. die Abänderung einiger Bestimmungen des niederösterreichischen Fortbildungsschulgesetzes beschlossen habe, wogegen vom Standpunkte des ihm unterstellten Ressorts sowie auch vom Staatsamte für Inneres und Unterricht keinerlei Bedenken bestehen. Demgemäß beabsichtige der sprechende Staatssekretär gegen diesen Gesetzesbeschluss namens der Staatsregierung keine Vorstellung zu erheben und der sofortigen Kundmachung dieses Landesgesetzes zuzustimmen. </p>
-                  <p>
-                     <pb facs="krp-0082_r-0018"/>Der Kabinettsrat erteilt hiezu seine Zustimmung.</p>
+                  <p><pb facs="krp-0082_r-0018"/>Der Kabinettsrat erteilt hiezu seine Zustimmung.</p>
                </div>
                <div type="top" xml:id="krp-0082_top12">
                   <head>
@@ -463,9 +428,7 @@
                      </label>
                   </head>
                   <p>Nach eingehender Darstellung der Sachlage erbittet und erhält Staatssekretär Ing. Zerdik vom Kabinettsrate die Ermächtigung, dem Vereine „Technisches Museum für Industrie und Gewerbe in Wien" für die Zeit vom 1. Juli 1919 bis Ende Juni 1920 eine staatliche Subvention im Betrage von 473.124 K sowie zur Regulierung der Personalbezüge der Angestellten ab 1. Mai 1919 eine weitere außerordentliche Zuwendung im Betrage von 67.397 K, demnach im Ganzen eine einmalige Subvention von 540.521 K zuerkennen zu dürfen. Gemäß dem Voranschlagsentwurfe des Technischen Museums wird der Betrag von 478.624 K für Personalkosten und der Betrag von 394.500 K für Sachausgaben (Musealtechnischer Dienst, Betriebsdienst und Hausverwaltung sowie Kanzleidienst) zu verwenden und die Subvention in zwei gleich hohen Raten am 1. Juli und am 15. Dezember 1919 flüssig zu machen sein.</p>
-                  <p>
-                     <pb facs="krp-0082_r-0019"/>
-                  </p>
+                  <p><pb facs="krp-0082_r-0019"/></p>
                </div>
                <div type="top" xml:id="krp-0082_top13">
                   <head>

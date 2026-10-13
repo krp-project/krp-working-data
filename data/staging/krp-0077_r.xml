@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0077.xml">
             <head type="dokument">
-               <title type="num">77.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">77.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0077_r-0001"/>
@@ -282,39 +281,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0077_top02">Zu TOP 2</ref>: <ref target="#krp-0077_b01">Vortrag des Staatsamtes für Heereswesen über die Militärdienstpragmatik</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top03">Zu TOP 3</ref>: <ref target="#krp-0077_b02">Gesetz über die Rechtsfolgen von Übertretungen der Vollzugsanweisungen über die Anmeldung und Kontrolle gewisser Vermögenschaften und die Sicherung der Vermögensabgabe</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top04">Zu TOP 4</ref>: <ref target="#krp-0077_b03">Antrag des Staatsamtes für soziale Verwaltung Zl. 11.137/1919 V.G. über die Wiener Krankenanstalten hinsichtlich Anwendung des letzten Gesetzes samt Vollzugsanweisung auf das Kanzleihilfspersonal bzw. auf die Fondsangestellten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top05">Zu TOP 5</ref>: <ref target="#krp-0077_b04">Bericht des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über den Stand der Ratifikation des Handelsabkommens mit der tschechoslowakischen Republik vom 12. März 1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top06">Zu TOP 6</ref>: <ref target="#krp-0077_b05">Vortrag des Staatsamtes für Verkehrswesen Zl. 16.772 über die Bereitstellung eines Kredits von 2 Millionen K für die Fortführung des Bahnbaues Landeck – Pfunds</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top07">Zu TOP 7</ref>: <ref target="#krp-0077_b06">Gesetzesentwurf für die 4. Novelle zum Krankenversicherungsgesetz samt Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top08">Zu TOP 8</ref>: <ref target="#krp-0077_b07">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 19.615 über den Gesetzesbeschluss der Landesversammlung Oberösterreichs über der Vereinigung der politischen Ortsgemeinde Urfahr mit der Landeshauptstadt Linz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top09">Zu TOP 9</ref>: <ref target="#krp-0077_b08">Regierungsvorlage eines Gesetzes, mit welchem Maßnahmen für den Zivilstaatsdienst aus Anlass des Krieges getroffen werden</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top10">Zu TOP 10</ref>: <ref target="#krp-0077_b09">Auszug für den Vortrag über einen Gesetzesentwurf der Provisorischen Landesversammlung Salzburg für das Gemeindestatut der Landeshauptstadt Salzburg</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top11">Zu TOP 11</ref>: <ref target="#krp-0077_b10">Antrag des Direktoriums der WEWA auf Vorbereitung der Anlage von Wasserbüchern</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0077_top12">Zu TOP 12</ref>: <ref target="#krp-0077_b11">Auszug für den Vortrag über den Gesetzesbeschluss der Tiroler Landesversammlung über eine neue Gemeindewahlordnung für Innsbruck</ref>
-                  </item>
+                  <item><ref target="#krp-0077_top02">Zu TOP 2</ref>: <ref target="#krp-0077_b01">Vortrag des Staatsamtes für Heereswesen über die Militärdienstpragmatik</ref></item>
+                  <item><ref target="#krp-0077_top03">Zu TOP 3</ref>: <ref target="#krp-0077_b02">Gesetz über die Rechtsfolgen von Übertretungen der Vollzugsanweisungen über die Anmeldung und Kontrolle gewisser Vermögenschaften und die Sicherung der Vermögensabgabe</ref></item>
+                  <item><ref target="#krp-0077_top04">Zu TOP 4</ref>: <ref target="#krp-0077_b03">Antrag des Staatsamtes für soziale Verwaltung Zl. 11.137/1919 V.G. über die Wiener Krankenanstalten hinsichtlich Anwendung des letzten Gesetzes samt Vollzugsanweisung auf das Kanzleihilfspersonal bzw. auf die Fondsangestellten</ref></item>
+                  <item><ref target="#krp-0077_top05">Zu TOP 5</ref>: <ref target="#krp-0077_b04">Bericht des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über den Stand der Ratifikation des Handelsabkommens mit der tschechoslowakischen Republik vom 12. März 1919</ref></item>
+                  <item><ref target="#krp-0077_top06">Zu TOP 6</ref>: <ref target="#krp-0077_b05">Vortrag des Staatsamtes für Verkehrswesen Zl. 16.772 über die Bereitstellung eines Kredits von 2 Millionen K für die Fortführung des Bahnbaues Landeck – Pfunds</ref></item>
+                  <item><ref target="#krp-0077_top07">Zu TOP 7</ref>: <ref target="#krp-0077_b06">Gesetzesentwurf für die 4. Novelle zum Krankenversicherungsgesetz samt Begründung</ref></item>
+                  <item><ref target="#krp-0077_top08">Zu TOP 8</ref>: <ref target="#krp-0077_b07">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 19.615 über den Gesetzesbeschluss der Landesversammlung Oberösterreichs über der Vereinigung der politischen Ortsgemeinde Urfahr mit der Landeshauptstadt Linz</ref></item>
+                  <item><ref target="#krp-0077_top09">Zu TOP 9</ref>: <ref target="#krp-0077_b08">Regierungsvorlage eines Gesetzes, mit welchem Maßnahmen für den Zivilstaatsdienst aus Anlass des Krieges getroffen werden</ref></item>
+                  <item><ref target="#krp-0077_top10">Zu TOP 10</ref>: <ref target="#krp-0077_b09">Auszug für den Vortrag über einen Gesetzesentwurf der Provisorischen Landesversammlung Salzburg für das Gemeindestatut der Landeshauptstadt Salzburg</ref></item>
+                  <item><ref target="#krp-0077_top11">Zu TOP 11</ref>: <ref target="#krp-0077_b10">Antrag des Direktoriums der WEWA auf Vorbereitung der Anlage von Wasserbüchern</ref></item>
+                  <item><ref target="#krp-0077_top12">Zu TOP 12</ref>: <ref target="#krp-0077_b11">Auszug für den Vortrag über den Gesetzesbeschluss der Tiroler Landesversammlung über eine neue Gemeindewahlordnung für Innsbruck</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -328,21 +305,14 @@
                   </head>
                   <p>Über Antrag des <hi rend="#letterspaced">Vorsitzenden</hi> findet der Kabinettsrat gegen nachstehende, von der Nationalversammlung beschlossene Gesetze keine Vorstellung zu erheben:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Gesetz über die Erhöhung der Wertgrenzen im bürgerlichen Streitverfahren (Streitwertnovelle);</item>
-                     <item n="2">
-                        <label>2.)</label> Gesetz über das Verfahren bei der Enteignung von Wirtschaftsbetrieben;</item>
-                     <item n="3">
-                        <label>3.)</label> Gesetz über die Außerkraftsetzung des Gesetzes vom 22. November 1918, StGBl. Nr. 36, über die Verwendbarkeit der von der Salzburger Landesversammlung auszugebenden Teilschuldverschreibungen zur fruchtbringenden Anlegung von Stiftungs-, Pupillar- und ähnlichen Kapitalien;</item>
+                     <item n="1"><label>1.)</label> Gesetz über die Erhöhung der Wertgrenzen im bürgerlichen Streitverfahren (Streitwertnovelle);</item>
+                     <item n="2"><label>2.)</label> Gesetz über das Verfahren bei der Enteignung von Wirtschaftsbetrieben;</item>
+                     <item n="3"><label>3.)</label> Gesetz über die Außerkraftsetzung des Gesetzes vom 22. November 1918, StGBl. Nr. 36, über die Verwendbarkeit der von der Salzburger Landesversammlung auszugebenden Teilschuldverschreibungen zur fruchtbringenden Anlegung von Stiftungs-, Pupillar- und ähnlichen Kapitalien;</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0077_r-0004"/>
-                  </p>
+                  <p><pb facs="krp-0077_r-0004"/></p>
                   <list>
-                     <item n="1">
-                        <label>4.)</label> Gesetz über die Errichtung und Unterbringung von Volkspflegestätten;</item>
-                     <item n="2">
-                        <label>5.)</label> Gesetz über die Wiederbesiedelung gelegter Bauerngüter und Häusleranwesen (Wiederbesiedelungsgesetz).</item>
+                     <item n="1"><label>4.)</label> Gesetz über die Errichtung und Unterbringung von Volkspflegestätten;</item>
+                     <item n="2"><label>5.)</label> Gesetz über die Wiederbesiedelung gelegter Bauerngüter und Häusleranwesen (Wiederbesiedelungsgesetz).</item>
                   </list>
                   <p>Die Gesetzesbeschlüsse sind daher von den zuständigen Mitgliedern der Staatsregierung gegenzuzeichnen und dem Präsidenten zur Fertigung vorzulegen.</p>
                </div>
@@ -408,9 +378,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> erbittet und erhält vom Kabinettsrate die Ermächtigung, in der Nationalversammlung einen Gesetzentwurf betreffend Änderungen des Krankenversicherungsgesetzes (4. Novelle zum Krankenversicherungsgesetz), einbringen zu dürfen.</p>
-                  <p>
-                     <pb facs="krp-0077_r-0014"/>
-                  </p>
+                  <p><pb facs="krp-0077_r-0014"/></p>
                </div>
                <div type="top" xml:id="krp-0077_top08">
                   <head>
@@ -422,9 +390,7 @@
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> teilt mit, dass laut eines von der Landesversammlung für Oberösterreich beschlossenen Gesetzes die Ortsgemeinde Urfahr mit der Gemeinde Linz zu einer Ortsgemeinde unter dem gemeinschaftlichen Namen Linz vereinigt werden soll. Der Entwurf sei ähnlichen Gesetzen über die Erweiterung des Gemeindegebietes von Wien u. dgl. nachgebildet und gebe zu einer Einwendung keinen Anlass.</p>
                   <p>Im Hinblick darauf, dass seitens der Landesregierung in Linz auf die sofortige Verlautbarung dieses Gesetzes der größte Wert gelegt worden sei, habe der sprechende Staatssekretär in der Annahme des Beitrittes der Staatsregierung zu der Gesetzesvorlage der Landesregierung telefonisch bereits mitteilen lassen, dass eine Vorstellung gegen den Gesetzesbeschluss nicht erhoben und der sofortigen Kundmachung des Landesgesetzes zugestimmt werde.</p>
                   <p>Der Kabinettsrat genehmigt diese Verfügung des sprechenden Staatssekretärs.</p>
-                  <p>
-                     <pb facs="krp-0077_r-0015"/>
-                  </p>
+                  <p><pb facs="krp-0077_r-0015"/></p>
                </div>
                <div type="top" xml:id="krp-0077_top09">
                   <head>
@@ -446,9 +412,7 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> teilt mit, dass die Staatsregierung gegen einen von der Provisorischen Landesversammlung in Salzburg beschlossenen Entwurf eines Gesetzes, womit mehrere Bestimmungen des Gemeindestatutes für die Landeshauptstadt Salzburg vom 8. Dezember 1869, LGBl. Nr. 41, abgeändert werden, seinerzeit Vorstellung erhoben habe, weil in diesem Gesetzentwurf eine Verpflichtung des Staates zur Entschädigung der Gemeinde für die Besorgung der Geschäfte des übertragenen Wirkungskreises festgelegt worden sei. Nunmehr habe der Landesrat aufgrund besonderer Ermächtigung der Landesversammlung den Wünschen der Staatsregierung durch Streichung dieser Bestimmung Rechnung getragen.</p>
                   <p>Über Antrag des sprechenden Staatssekretärs beschließt der Kabinettsrat, dass gegen den bezogenen Gesetzentwurf nunmehr eine Vorstellung nicht zu erheben und der sofortigen Verlautbarung des Landesgesetzes zuzustimmen ist.</p>
-                  <p>
-                     <pb facs="krp-0077_r-0017"/>
-                  </p>
+                  <p><pb facs="krp-0077_r-0017"/></p>
                </div>
                <div type="top" xml:id="krp-0077_top11">
                   <head>

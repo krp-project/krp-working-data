@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0057.xml">
             <head type="dokument">
-               <title type="num">57.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">57.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0057_r-0001"/>[Freitag] 1919-04-04</title>
@@ -281,18 +280,10 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0057_top05">Zu TOP 5</ref>: <ref target="#krp-0057_b01">Bericht des Vizekanzlers Fink über das Ergebnis der Kabinettsbesprechung zur Brotauflage und die Frage der Preiserstellung für Mehl und Brot</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0057_top07">Zu TOP 7</ref>: <ref target="#krp-0057_b02">Bericht des Staatssekretärs für Volksernährung über die von einzelnen Ländern getroffenen Maßnahmen zur Verhinderung des Einreise- und Sommerfrischenverkehres</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0057_top08">Zu TOP 8</ref>: <ref target="#krp-0057_b03">Antrag des Staatsamtes für Justiz an den Präsidenten der Nationalversammlung auf Ermächtigung der Ehelicherklärung unehelicher Kinder gefallener oder verstorbener Soldaten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0057_top10">Zu TOP 10</ref>: <ref target="#krp-0057_b04">Entwurf einer Vollzugsanweisung über die Übertragung von Rechten zur Ausnützung von Wasserkräften</ref>
-                  </item>
+                  <item><ref target="#krp-0057_top05">Zu TOP 5</ref>: <ref target="#krp-0057_b01">Bericht des Vizekanzlers Fink über das Ergebnis der Kabinettsbesprechung zur Brotauflage und die Frage der Preiserstellung für Mehl und Brot</ref></item>
+                  <item><ref target="#krp-0057_top07">Zu TOP 7</ref>: <ref target="#krp-0057_b02">Bericht des Staatssekretärs für Volksernährung über die von einzelnen Ländern getroffenen Maßnahmen zur Verhinderung des Einreise- und Sommerfrischenverkehres</ref></item>
+                  <item><ref target="#krp-0057_top08">Zu TOP 8</ref>: <ref target="#krp-0057_b03">Antrag des Staatsamtes für Justiz an den Präsidenten der Nationalversammlung auf Ermächtigung der Ehelicherklärung unehelicher Kinder gefallener oder verstorbener Soldaten</ref></item>
+                  <item><ref target="#krp-0057_top10">Zu TOP 10</ref>: <ref target="#krp-0057_b04">Entwurf einer Vollzugsanweisung über die Übertragung von Rechten zur Ausnützung von Wasserkräften</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -306,17 +297,13 @@
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> bringt dem Kabinettsrate zur Kenntnis, dass Oberst Cunningham im Auftrage der großbritannischen Regierung folgende Mitteilung gemacht habe:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Vom 2. April 1919 wird die freie Einfuhr aller Waren nach Deutschösterreich mit Ausnahme einer beschränkten Anzahl von militärischen Artikeln zugelassen werden.</item>
-                     <item n="2">
-                        <label>2.)</label> Die Rückausfuhr aus Deutschösterreich nach Deutschland, <pb facs="krp-0057_r-0003"/>dem bolschewistischen Russland und Ungarn ist verboten. Ausnahmen von diesen Einschränkungen können nur von einer besonderen interalliierten Kommission gewährt werden, die zu diesem Zwecke in Wien zusammentreten wird.</item>
-                     <item n="3">
-                        <label>3.)</label> Diese Kommission wird angewiesen sein, an den in Betracht kommenden Punkten an der deutschen und an der ungarischen Grenze eine Überwachung zur Verhinderung der Wiederausfuhr einzurichten, dies im Zusammenwirken mit den deutschösterreichischen Zollbehörden.</item>
+                     <item n="1"><label>1.)</label> Vom 2. April 1919 wird die freie Einfuhr aller Waren nach Deutschösterreich mit Ausnahme einer beschränkten Anzahl von militärischen Artikeln zugelassen werden.</item>
+                     <item n="2"><label>2.)</label> Die Rückausfuhr aus Deutschösterreich nach Deutschland, <pb facs="krp-0057_r-0003"/>dem bolschewistischen Russland und Ungarn ist verboten. Ausnahmen von diesen Einschränkungen können nur von einer besonderen interalliierten Kommission gewährt werden, die zu diesem Zwecke in Wien zusammentreten wird.</item>
+                     <item n="3"><label>3.)</label> Diese Kommission wird angewiesen sein, an den in Betracht kommenden Punkten an der deutschen und an der ungarischen Grenze eine Überwachung zur Verhinderung der Wiederausfuhr einzurichten, dies im Zusammenwirken mit den deutschösterreichischen Zollbehörden.</item>
                   </list>
                   <p>Die deutschösterreichischen Behörden werden gehalten sein, die hiezu erforderlichen Erleichterungen zu gewähren, ferner auch zuzulassen, dass diese Kommission alle ihr notwendig erscheinenden Schritte einleiten kann, um die Herstellung vom Kriegsmaterial in den deutschösterreichischen Fabriken hintanzuhalten.</p>
                   <p>Zu Pkt. 3 bemerkt der Vorsitzende, dass die deutschösterreichische Regierung diesfalls erst dann Anlass zu Verfügungen haben werde, wenn von Seite der Ententestaaten konkrete Anträge vorliegen werden.</p>
-                  <p>
-                     <pb facs="krp-0057_r-0004"/>Der Kabinettsrat nimmt diese Mitteilung zur Kenntnis.</p>
+                  <p><pb facs="krp-0057_r-0004"/>Der Kabinettsrat nimmt diese Mitteilung zur Kenntnis.</p>
                </div>
                <div type="top" xml:id="krp-0057_top02">
                   <head>
@@ -337,8 +324,7 @@
                   </head>
                   <p>Der Kabinettsrat findet über Antrag des Vorsitzenden gegen die nachstehenden, von der Nationalversammlung beschlossenen Gesetze keine Vorstellung zu erheben:</p>
                   <p>Gesetz, womit die Aufgabe des ehemaligen Staatsgerichtshofes auf den deutschösterreichischen Verfassungsgerichtshof übertragen und das Gesetz vom 25. Jänner 1919, StGBl Nr. 48, über die Errichtung eines deutschösterreichischen Verfassungsgerichtshofes abgeändert und ergänzt wird;</p>
-                  <p>
-                     <pb facs="krp-0057_r-0005"/>Gesetz über die Begnadigung von russischen und finnischen Kriegsgefangenen und internierten Zivilangehörigen und die Nachsicht von Strafen wegen Verletzung des wirtschaftlichen Kampfrechtes im Verhältnisse zu Russland und Finnland;</p>
+                  <p><pb facs="krp-0057_r-0005"/>Gesetz über die Begnadigung von russischen und finnischen Kriegsgefangenen und internierten Zivilangehörigen und die Nachsicht von Strafen wegen Verletzung des wirtschaftlichen Kampfrechtes im Verhältnisse zu Russland und Finnland;</p>
                   <p>Gesetz über die Kriegsgefangenen- und Zivilinterniertenfürsorge;</p>
                   <p>Gesetz, betreffend Kreditoperationen;</p>
                   <p>Gesetz über die Regelung der Arbeit in den Betrieben zur Erzeugung von Backwaren (Bäckereiarbeitergesetz);</p>
@@ -347,9 +333,7 @@
                   <p>Gesetz über die Abschaffung der Todesstrafe im ordentlichen Verfahren;</p>
                   <p>Gesetz, betreffend die Landesverweisung und die Übernahme des Vermögens des Hauses Habsburg-Lothringen.</p>
                   <p>Die Gesetzesbeschlüsse sind daher von den zuständigen Mitgliedern der Staatsregierung gegenzuzeichnen und dem Präsidenten zur Fertigung vorzulegen.</p>
-                  <p>
-                     <pb facs="krp-0057_r-0006"/>
-                  </p>
+                  <p><pb facs="krp-0057_r-0006"/></p>
                </div>
                <div type="top" xml:id="krp-0057_top04">
                   <head>
@@ -390,16 +374,12 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> stellt aufgrund des dem Protokoll als Beilage 2 angeschlossenen Berichtes hinsichtlich der <pb facs="krp-0057_r-0008"/>Frage der Regelung des Einreise- und Sommerfrischenverkehres in den deutschösterreichischen Ländern folgende Anträge:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Der Kabinettsrat wolle der für den diesjährigen Sommer in Aussicht genommenen Versorgung der Heilbäder zustimmen.</item>
-                     <item n="2">
-                        <label>2.)</label>  Der Kabinettsrat wolle die in dem Berichte für den Reise-, Fremden- und Sommerfrischenverkehr entwickelten Grundsätze genehmigen und</item>
-                     <item n="3">
-                        <label>3.)</label> die zuständigen Staatssekretäre beauftragen, alle mit diesem Grundsätzen nicht zu vereinbarenden beschränkenden Verfügungen der Länder (insbesondere die Verordnung der Landesregierung für Tirol vom 25. Februar 1919, VBl. Nr. 14, und die Verordnungen der Landesregierung in Salzburg vom 18. März 1919, VBl. Nr. 33, und vom 17. März 1919, VBl. Nr. 34, ferner die bezüglichen Verlautbarungen der Landesregierung in Kärnten) als ungesetzlich außer Kraft setzen, bzw. die Landesregierungen anweisen, dass keine solchen Verfügungen getroffen werden.</item>
-                     <item n="4">
-                        <label>4.)</label> Der Kabinettsrat wolle zustimmen, dass der sprechende Staatssekretär die diesbezügliche Anfrage des Abgeord<pb facs="krp-0057_r-0009"/>neten Gürtler im Sinne der Darlegung seines Berichtes beantworte.</item>
+                     <item n="1"><label>1.)</label> Der Kabinettsrat wolle der für den diesjährigen Sommer in Aussicht genommenen Versorgung der Heilbäder zustimmen.</item>
+                     <item n="2"><label>2.)</label>  Der Kabinettsrat wolle die in dem Berichte für den Reise-, Fremden- und Sommerfrischenverkehr entwickelten Grundsätze genehmigen und</item>
+                     <item n="3"><label>3.)</label> die zuständigen Staatssekretäre beauftragen, alle mit diesem Grundsätzen nicht zu vereinbarenden beschränkenden Verfügungen der Länder (insbesondere die Verordnung der Landesregierung für Tirol vom 25. Februar 1919, VBl. Nr. 14, und die Verordnungen der Landesregierung in Salzburg vom 18. März 1919, VBl. Nr. 33, und vom 17. März 1919, VBl. Nr. 34, ferner die bezüglichen Verlautbarungen der Landesregierung in Kärnten) als ungesetzlich außer Kraft setzen, bzw. die Landesregierungen anweisen, dass keine solchen Verfügungen getroffen werden.</item>
+                     <item n="4"><label>4.)</label> Der Kabinettsrat wolle zustimmen, dass der sprechende Staatssekretär die diesbezügliche Anfrage des Abgeord<pb facs="krp-0057_r-0009"/>neten Gürtler im Sinne der Darlegung seines Berichtes beantworte.</item>
                   </list>
-                  <p>Nach einer längeren Debatte, an welcher sich Vizekanzler <hi rend="#letterspaced">Fink</hi>, ferner die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi>,<hi rend="#letterspaced">Stöckler</hi>, <hi rend="#letterspaced">Hanusch</hi>, Dr. <hi rend="#letterspaced">Deutsch</hi> und Dr. <hi rend="#letterspaced">Bratusch</hi> beteiligten und in der darauf hingewiesen wurde, dass die gegenständliche Angelegenheit auch bei der bevorstehenden Länderkonferenz zur Sprache gelangen werde, genehmigt der Kabinettsrat die gestellten Anträge. Gleichzeitig wird das Staatsamt für Justiz beauftragt, im Einvernehmen mit den beteiligten Staatsämtern einen Beschluss des Gesamtkabinetts vorzubereiten, wodurch alle während des Krieges erlassenen Ausnahmsverfügungen aufgehoben werden.</p>
+                  <p>Nach einer längeren Debatte, an welcher sich Vizekanzler <hi rend="#letterspaced">Fink</hi>, ferner die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi>, <hi rend="#letterspaced">Stöckler</hi>, <hi rend="#letterspaced">Hanusch</hi>, Dr. <hi rend="#letterspaced">Deutsch</hi> und Dr. <hi rend="#letterspaced">Bratusch</hi> beteiligten und in der darauf hingewiesen wurde, dass die gegenständliche Angelegenheit auch bei der bevorstehenden Länderkonferenz zur Sprache gelangen werde, genehmigt der Kabinettsrat die gestellten Anträge. Gleichzeitig wird das Staatsamt für Justiz beauftragt, im Einvernehmen mit den beteiligten Staatsämtern einen Beschluss des Gesamtkabinetts vorzubereiten, wodurch alle während des Krieges erlassenen Ausnahmsverfügungen aufgehoben werden.</p>
                </div>
                <div type="top" xml:id="krp-0057_top08">
                   <head>
@@ -431,17 +411,12 @@
                   </head>
                   <p>Staatssekretär Ing. <hi rend="#letterspaced">Zerdik</hi> führt aus, dass er von der ihm mit Beschluss des Kabinettsrates vom 21.  März 1919 erteilten Ermächtigung zur Erlassung einer Vollzugsanweisung, betreffend die Übertragung von Rechten zur Ausnützung von Wasserkräften, aus <pb facs="krp-0057_r-0012"/>folgenden Erwägungen keinen Gebrauch gemacht habe:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Aus politischen Rücksichten sei es bedenklich aufgrund des allgemeinen [Kriegs-]Wirtschafts-Ermächtigungsgesetzes vom 25. Juli 1917, RGBl. Nr. 307 durch Verordnung in Abänderung der geltenden wasserrechtlichen Vorschriften neue Bedingungen für die Kraftausnützung von Gewässern aufzustellen. Damit würde die Staatsregierung Anordnungen auf einem Gebiete treffen, bzgl. dessen das Gesetzgebungsrecht bisher den Landtagen zustand, wobei die Länder gerade gegenwärtig über die Wahrung dieser Kompetenz besonders eifersüchtig wachen.</item>
-                     <item n="2">
-                        <label>2.)</label> Würde die Übertragung der wasserrechtlichen Bewilligung zur Kraftausnützung von öffentlichen oder privaten Gewässern, sowie die Veräußerung von Privatgewässern an eine besondere staatliche Bewilligung geknüpft werden, so könnte dies auf die Unternehmungslust zur Errichtung von Wasserkraftanlagen, welche mit Rücksicht auf die gegenwärtige Lage der einheimischen Energiewirtschaft Deutschösterreichs mit allem Nachdruck gefördert werden muss, hemmend einwirken.</item>
+                     <item n="1"><label>1.)</label> Aus politischen Rücksichten sei es bedenklich aufgrund des allgemeinen [Kriegs-]Wirtschafts-Ermächtigungsgesetzes vom 25. Juli 1917, RGBl. Nr. 307 durch Verordnung in Abänderung der geltenden wasserrechtlichen Vorschriften neue Bedingungen für die Kraftausnützung von Gewässern aufzustellen. Damit würde die Staatsregierung Anordnungen auf einem Gebiete treffen, bzgl. dessen das Gesetzgebungsrecht bisher den Landtagen zustand, wobei die Länder gerade gegenwärtig über die Wahrung dieser Kompetenz besonders eifersüchtig wachen.</item>
+                     <item n="2"><label>2.)</label> Würde die Übertragung der wasserrechtlichen Bewilligung zur Kraftausnützung von öffentlichen oder privaten Gewässern, sowie die Veräußerung von Privatgewässern an eine besondere staatliche Bewilligung geknüpft werden, so könnte dies auf die Unternehmungslust zur Errichtung von Wasserkraftanlagen, welche mit Rücksicht auf die gegenwärtige Lage der einheimischen Energiewirtschaft Deutschösterreichs mit allem Nachdruck gefördert werden muss, hemmend einwirken.</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0057_r-0013"/>
-                  </p>
+                  <p><pb facs="krp-0057_r-0013"/></p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Den unmittelbarem Anstoß zu dem Gedanken der Vollzugsanweisung habe die Absicht des Stiftes Fiecht gegeben, den Achensee an ein Konsortium von ausländischen Kapitalisten zu verkaufen. Dieser Anlass sei dadurch weggefallen, dass die Tiroler Landesversammlung die käufliche Erwerbung des Achensees beschlossen hat. Im Übrigen komme den Privatgewässern eine erhebliche wasserwirtschaftliche Bedeutung nur in verhältnismäßig seltenen Fällen zu. Es bestehe daher auch kaum ein allgemeines Bedürfnis bei deren Ausnützung für motorische Zwecke der Staatsgewalt einen weitergehenden Einfluss einzuräumen, als er ihr schon nach den geltenden Vorschriften zukommt.</item>
+                     <item n="1"><label>3.)</label> Den unmittelbarem Anstoß zu dem Gedanken der Vollzugsanweisung habe die Absicht des Stiftes Fiecht gegeben, den Achensee an ein Konsortium von ausländischen Kapitalisten zu verkaufen. Dieser Anlass sei dadurch weggefallen, dass die Tiroler Landesversammlung die käufliche Erwerbung des Achensees beschlossen hat. Im Übrigen komme den Privatgewässern eine erhebliche wasserwirtschaftliche Bedeutung nur in verhältnismäßig seltenen Fällen zu. Es bestehe daher auch kaum ein allgemeines Bedürfnis bei deren Ausnützung für motorische Zwecke der Staatsgewalt einen weitergehenden Einfluss einzuräumen, als er ihr schon nach den geltenden Vorschriften zukommt.</item>
                   </list>
                   <p>Der Kabinettsrat nimmt diese Ausführungen zustimmend zur Kenntnis.</p>
                   <p/>

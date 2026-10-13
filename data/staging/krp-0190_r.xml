@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0190.xml">
             <head type="dokument">
-               <title type="num">190.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">190.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0190_r-0001"/>[Freitag] 1920-06-11</title>
@@ -281,9 +280,7 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0190_top01">Zu TOP 1</ref>: <ref target="#krp-0190_b01">Gesetzesvorlage der Staatsregierung über die Führung des Staatshaushaltes vom 1. Juli bis 31. Dezember 1920 mit Begründung</ref>
-                  </item>
+                  <item><ref target="#krp-0190_top01">Zu TOP 1</ref>: <ref target="#krp-0190_b01">Gesetzesvorlage der Staatsregierung über die Führung des Staatshaushaltes vom 1. Juli bis 31. Dezember 1920 mit Begründung</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -318,8 +315,7 @@
             <div type="stenogramme">
                <div n="1">
                   <head>[KRP 190, 11. Juni 1920, Stenogramm A]</head>
-                  <p>
-                     <pb facs="krp-0190_s01-0001"/>190., 11. /6.</p>
+                  <p><pb facs="krp-0190_s01-0001"/>190., 11. /6.</p>
                   <p>Renner: Ich habe [den Kabinettsrat] zur ungewohnten Stunde einberufen, weil [eine] wichtige Mitteilung zu machen [ist]. Unsere Regierung beruht auf dem Gedanken der Koal[ition] </p>
                   <p>der zwei großen Parteien. [Sie ist] nicht bloß ein rein äußerliches ?Verhältnis, [sondern] gedacht als Zusammenarbeit auf der Grundlage des Interessensausgleichs und </p>
                   <p>der gegenseitigen Verständigung. Dies [ist] nicht möglich, wenn zu große Interessensgegensätze bestehen und diese K[oalition] nach außen diskr[editiert] ist.</p>
@@ -346,9 +342,7 @@
                   <p>Ich werde den Herrn Präsidenten bitten, zunächst eine Verfügung zu treffen, da die Regierung nicht unbesetzt bleiben kann. Ich bitte einen Augenblick, die Sitzung unterbrechen zu dürfen. Wir werden uns auf die laufende Verwaltung beschränken müssen.</p>
                   <p>Reisch: Ich bin der einzige Beamte und möchte erklären, dass ich mich der Demission anschließe. </p>
                   <p>Dringlich ist das Budgetprovisorium.</p>
-                  <p>
-                     <hi rend="#s">Unterbrechung.</hi>
-                  </p>
+                  <p><hi rend="#s">Unterbrechung.</hi></p>
                   <p>Renner: Der Herr Präsident hat [mit] der juristischen Gewissenhaft[igkeit], die ihm eigen ist, mich gefragt, ob die Staatsregierung aufgrund des § 3 des Gesetzes - [bereit wäre], die Regierung fortzuführen. </p>
                   <p>[Er hat] zunächst mündlich die Ermächtigung erteilt und -.</p>
                   <p>Wir sind jetzt im Augenblick in einer gewissen verärgerten Stimmung und vielleicht auch haben beide Teile - und das wird man ja nicht entscheiden können - die Empfindung, dass sie ein gewisses </p>
@@ -357,8 +351,7 @@
                   <p>machen kann. Es waren sorgenvolle Tage. Ich gedenke dabei der wertvollen Unterstützung der beiden Parteien ([der] Vertrauensmänner, [die das] Volk beruhigt [haben]). Einen gewissen Teil können wir auch [uns] </p>
                   <p>zuschreiben - viel Sachkenntnis, kollegialer Sinn und Ernst. Wie sich die Dinge [auch] wenden werden, wir können alle mit einer gewissen Befriedigung zurückblicken.</p>
                   <p>Fink: Sie haben gesehen, dass ich mit Ihrer Begründung nicht ganz einverstanden sei. Ich möchte wünschen, dass diese Begründung nicht der Öffentlichkeit bekannt gegeben wird, nur dass [die Demission] einstimmig erfolgt ist.</p>
-                  <p>
-                     <pb facs="krp-0190_s01-0002"/>Renner: Der Präsident hat nur einen Wunsch geäußert, <hi rend="#s">der Staatsakt sich nicht auf dem Boden </hi>-. [Er] hat gewünscht, dass das ins Pressekomm[uniqué] hinüber verlegt wird.</p>
+                  <p><pb facs="krp-0190_s01-0002"/>Renner: Der Präsident hat nur einen Wunsch geäußert, <hi rend="#s">der Staatsakt sich nicht auf dem Boden </hi>-. [Er] hat gewünscht, dass das ins Pressekomm[uniqué] hinüber verlegt wird.</p>
                   <p>Renner: [Ich] beabsichtige, dass ich eine Depesche gebe an Zerdik, P[...], Loewenfeld und Paul nach Belgrad, dass das Kabinett mit dem Fortführen der Geschäfte </p>
                   <p>betraut ist.</p>
                   <p>Ellenbogen: Da wir die Geschäfte fortführen, möchte ich fragen, wann die nächste geschäftsführende Sitzung ist. Die Pressefrage, die Frage der staatlichen Subvention.</p>
@@ -370,8 +363,7 @@
                </div>
                <div n="2">
                   <head>[KRP 190, 11. Juni 1920, Stenogramm B]</head>
-                  <p>
-                     <pb facs="krp-0190_s02-0001"/>1. [Renner]: Unsere Regierung beruht auf dem Gedanken der Koalition. </p>
+                  <p><pb facs="krp-0190_s02-0001"/>1. [Renner]: Unsere Regierung beruht auf dem Gedanken der Koalition. </p>
                   <p>Die Koalition ist nicht ein bloß äußerliches Verhältnis, sie ist gedacht als die Zusammenarbeit [...], Interessensausgleich und der grundsätzlichen </p>
                   <p>Verständigung. [Dies ist] nicht möglich, wenn zu große innere Gegensätze bestehen, </p>
                   <p>die nicht - wenn [die Koalition] nach außen hin diskreditiert ist. </p>
@@ -397,8 +389,7 @@
                   <p>die Empfindung, dass sie ein gewisses Unrecht erleiden dadurch, dass die redlichen Bemühungen nicht den vollen Erfolg </p>
                   <p>gezeigt haben. [Wir haben] keine Ursache - den Dienst, den wir dem Land erwiesen haben, wird das Land </p>
                   <p>nicht vergessen. Es waren schwere und sorgenvolle Tage. Ich gedenke der wertvollen Unterstützung, welche uns ...</p>
-                  <p>
-                     <pb facs="krp-0190_s02-0002"/>Einen gewissen Teil des Verdienstes können wir uns selber zuschreiben. </p>
+                  <p><pb facs="krp-0190_s02-0002"/>Einen gewissen Teil des Verdienstes können wir uns selber zuschreiben. </p>
                   <p>Es ist viel Einsicht und Verständnis, viel ?Duldsamkeit und kollegialer Sinn -.</p>
                   <p>Fink: Wünscht nicht, dass seine Begründung veröffentlicht wird.</p>
                   <p>[Renner]: Depesche: Das Kabinett wurde mit der Fortführung der Geschäfte ...</p>

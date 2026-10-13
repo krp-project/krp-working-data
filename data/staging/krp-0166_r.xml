@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0166.xml">
             <head type="dokument">
-               <title type="num">166.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">166.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0166_r-0001"/>
@@ -282,21 +281,11 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0166_top07">Zu TOP 7</ref>: <ref target="#krp-0166_b01">Vollzugsanweisung der Staatsregierung für den Nachtrag zum Besoldungsübergangsgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0166_top10">Zu TOP 10</ref>: <ref target="#krp-0166_b02">Vortrag des Staatsamtes für Land- und Forstwirtschaft zu Zl. 6392/20 über den Gesetzesbeschluss des Vorarlberger Landtages zur Kostendeckung der Entwässerung des Frastanzer Riedes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0166_top11">Zu TOP 11</ref>: <ref target="#krp-0166_b03">Vortrag des Staatsamtes für Land- und Forstwirtschaft zu Zl. 6427/20 über den Gesetzesbeschluss des Vorarlberger Landtages zum Verbot der Begründung von Jagdrechten auf fremden Grund und Boden</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0166_top12">Zu TOP 12</ref>: <ref target="#krp-0166_b04">Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss des Salzburger Landtages zur Einhebung einer Schulabgabe</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0166_top13">Zu TOP 13</ref>: <ref target="#krp-0166_b05">Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss der Provisorischen Landesversammlung Kärntens</ref>
-                  </item>
+                  <item><ref target="#krp-0166_top07">Zu TOP 7</ref>: <ref target="#krp-0166_b01">Vollzugsanweisung der Staatsregierung für den Nachtrag zum Besoldungsübergangsgesetz</ref></item>
+                  <item><ref target="#krp-0166_top10">Zu TOP 10</ref>: <ref target="#krp-0166_b02">Vortrag des Staatsamtes für Land- und Forstwirtschaft zu Zl. 6392/20 über den Gesetzesbeschluss des Vorarlberger Landtages zur Kostendeckung der Entwässerung des Frastanzer Riedes</ref></item>
+                  <item><ref target="#krp-0166_top11">Zu TOP 11</ref>: <ref target="#krp-0166_b03">Vortrag des Staatsamtes für Land- und Forstwirtschaft zu Zl. 6427/20 über den Gesetzesbeschluss des Vorarlberger Landtages zum Verbot der Begründung von Jagdrechten auf fremden Grund und Boden</ref></item>
+                  <item><ref target="#krp-0166_top12">Zu TOP 12</ref>: <ref target="#krp-0166_b04">Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss des Salzburger Landtages zur Einhebung einer Schulabgabe</ref></item>
+                  <item><ref target="#krp-0166_top13">Zu TOP 13</ref>: <ref target="#krp-0166_b05">Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss der Provisorischen Landesversammlung Kärntens</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -319,9 +308,7 @@
                      </label>
                   </head>
                   <p>Der Vorsitzende erbittet und erhält vom Kabinettsrate die Ermächtigung, den 11. Bericht der Kommission zur Erhebung militärischer Pflichtverletzungen an die Nationalversammlung vorlegen zu dürfen.</p>
-                  <p>
-                     <pb facs="krp-0166_r-0004"/>
-                  </p>
+                  <p><pb facs="krp-0166_r-0004"/></p>
                </div>
                <div type="top" xml:id="krp-0166_top03">
                   <head>
@@ -334,9 +321,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> verweist darauf, dass sich bei der Aufstellung der neuen Wehrmacht eine besondere Vorsorge bezüglich einer Anzahl von <pb facs="krp-0166_r-0005"/>etwa 200 Berufsmilitärpersonen als notwendig herausstelle, welche bei deutschösterreichischen Heeresstellen in Dienst getreten, nunmehr aber durch den Friedensvertrag vermöge ihrer Zuständigkeit in den an die Nationalstaaten gefallenen deutschen Gebietsteilen Angehörige fremder Staaten geworden seien. Die Betreffenden hätten sich zwar um die Verleihung des Heimatrechtes in einer österreichischen Gemeinde beworben, doch habe ihre Aufnahme in den Heimatsverband infolge des Gesetzes vom 17. Oktober 1919, StGBl. Nr. 481, nicht mehr erfolgen können. Für die Dauer des gegenwärtigen Anstellungsverhältnisses habe sich das Staatsamt für Heer[es]wesen mit dem Auskunftsmittel begnügt, sie vorbehaltlich der späteren Option für Österreich im Dienst zu behalten. Rücksichtlich ihrer Aufnahme in die neue Wehrmacht stehe das Staatsamt für Finanzen jedoch auf dem Standpunkte, dass die Betreffenden durch die Option neu in den Staatsverband eintreten und ihnen daher die aus dem bisherigen Dienstverhältnis erworbenen Ansprüche im Falle der Anstellung bei der neuen Wehrmacht nicht angerechnet werden können. Darin liege aber eine schwere Unbilligkeit, da sich diese Offiziere und Militärbeamten <pb facs="krp-0166_r-0006"/>durch die Verwendung im deutschösterreichischen Heere die Rückkehr in die Nationalstaaten abgeschnitten haben; sie müssten vielmehr nach Auffassung des sprechenden Staatssekretärs gleich österreichischen Staatsangehörigen zur Bewerbung um die Aufnahme in die neue Wehrmacht zugelassen werden. Aufgrund dieser Bewerbung wären sie unter Anrechnung auf die für das neue Heer festgesetzte Anzahl von Offizieren aufzunehmen und provisorisch in ein Kontingent einzuteilen, bis nach Durchführung der Option ihre Definitivstellung erfolgen könne.</p>
                   <p>Ministerialrat Dr. <hi rend="#letterspaced">Wilfling</hi> bemerkt, dass bei der Regelung der Aufnahme der vertriebenen deutschen Staatsbeamten in den österreichischen Dienst die Entscheidung, in welcher Anzahl das einzelne Ressort derartige Angestellte übernehmen dürfe, nach Analogie der für Neuaufnahmen geltenden Bestimmungen unbedingt an die Zustimmung des Staatsamtes für Finanzen geknüpft werden müsse.</p>
                   <p>Nach einer weiteren Debatte, an welcher sich noch die Staatssekretäre Dr. <hi rend="#letterspaced">Deutsch</hi> und <hi rend="#letterspaced">Hanusch</hi> sowie Unterstaatssekretär <hi rend="#letterspaced">Mik1as</hi> beteiligten, beschließt der Kabinettsrat, die mit Beschluss vom 16. März d. J. zurückge<pb facs="krp-0166_r-0007"/>stellten Vorlagen, betreffend die Übernahme der aus den Nationalstaaten vertriebenen deutschen Staats- und Eisenbahnbediensteten in einem solchen Zeitpunkt neuerlich in Verhandlung zu ziehen, dass sie am 1. Juli 1. J. in Wirksamkeit gesetzt werden können, falls bis dahin noch kein Übereinkommen mit den Nationalstaaten erzielt worden sein sollte. Weiters ermächtigt der Kabinettsrat den Staatssekretär für Heer[es]wesen, jene aus den Nachfolgestaaten stammenden Berufsmilitärpersonen, welche schon jetzt im Dienste der deutschösterreichischen Wehrmacht stehen und sich bewährt haben, in nichtoffizieller Form zu verständigen, dass es ihnen frei stehe, die Erklärung ihrer Option für Österreich schon jetzt mit dem Begehren einzureichen sie sofort am Tage der Ratifikation des Friedens in Wirksamkeit treten zu lassen. Unter dieser Voraussetzung können die Betreffenden sich an der Meldung für die neue Wehrmacht beteiligen und mit allen Rechten wie österreichische Staatsangehörige vorläufig provisorisch und vom Tage der Rechtswirksamkeit der Option endgiltig in das Kontingent der Wehrmacht eingeteilt werden.</p>
-                  <p>
-                     <pb facs="krp-0166_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0166_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0166_top04">
                   <head>
@@ -346,8 +331,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> teilt mit, dass der amerikanische Kongress vor kurzem die United States Grain Corporation (Getreidegesellschaft der Vereinigten Staaten) ermächtigt habe, der österreichischen Regierung einen Kredit einzuräumen, aufgrund dessen nach Österreich 200.000 t Weizenmehl geliefert werden. Die Verladung dieser Mengen solle bis 31. Mai d. J. in amerikanischen Häfen erfolgen. Die britische Regierung habe sich bereit erklärt, für die Beistellung des zum Transport nach Österreich notwendigen Schiffsraumes zu sorgen und die hieraus erwachsenden Fracht und Versicherungskosten der österreichischen Regierung zu kreditieren. Die Festlegung der Bedingungen des von der erwähnten amerikanischen Grain Corporation und von der britischen Regierung Österreich zu gewährenden Kredites sei einem späteren Zeitpunkte vorbehalten; den bisherigen Mitteilungen zufolge könne mit einer mindestens fünfjährigen Kreditdauer gerechnet werden. Bei Zugrundelegung des jetzigen Kurses würde sich der Preis für ein kg amerikanischen Weizenmehles auf rund 30 K in Triest stellen.</p>
-                  <p>
-                     <pb facs="krp-0166_r-0009"/>Im Verlaufe der in der Vorwoche durch den geschäftsführenden Vizepräsidenten der Kriegsgetreideanstalt, Reif, in Paris mit den amerikanischen Vertretern in der Reparationskommission, Colonel Logan und Colonel Smith und dem britischen Vertreter Sir William Goode geführten Verhandlungen sei österreichischerseits alles versucht worden, um an Stelle von Mehl die Kreditlieferung von Getreide zu erwirken, da begreiflicherweise durch die Lieferung von Getreide die Beschäftigung der Mühlen und die Gewinnung von Kleie sichergestellt gewesen wäre; die Getreidelieferung hätte auch gegenüber der Lieferung von Mehl den Vorteil gehabt, dass durch größere Ausmahlung für den entsprechenden Dollarbetrag ein namhafteres Mehlquantum hätte gewonnen werden können, da die Ausmahlung in Österreich 90 % betrage, während diese in Amerika nur zu 60 % erfolge. Trotzdem besonders seitens der amerikanischen Vertreter Österreich gegenüber bekundeten Entgegenkommen konnte dieser Wunsch nicht erfüllt werden, da die Grain Corporation derzeit über keine abgebbaren Weizenbestände sondern lediglich über freie Mehllager verfüge. Es bleibe Österreich allerdings die Möglichkeit offen, nachdem einmal größere Mengen des zu erwartenden amerikanischen Mehles ein<pb facs="krp-0166_r-0010"/>gelangt sind, mit anderen Staaten in Verhandlungen wegen Tausches dieses Mehles gegen Getreide einzutreten.</p>
+                  <p><pb facs="krp-0166_r-0009"/>Im Verlaufe der in der Vorwoche durch den geschäftsführenden Vizepräsidenten der Kriegsgetreideanstalt, Reif, in Paris mit den amerikanischen Vertretern in der Reparationskommission, Colonel Logan und Colonel Smith und dem britischen Vertreter Sir William Goode geführten Verhandlungen sei österreichischerseits alles versucht worden, um an Stelle von Mehl die Kreditlieferung von Getreide zu erwirken, da begreiflicherweise durch die Lieferung von Getreide die Beschäftigung der Mühlen und die Gewinnung von Kleie sichergestellt gewesen wäre; die Getreidelieferung hätte auch gegenüber der Lieferung von Mehl den Vorteil gehabt, dass durch größere Ausmahlung für den entsprechenden Dollarbetrag ein namhafteres Mehlquantum hätte gewonnen werden können, da die Ausmahlung in Österreich 90 % betrage, während diese in Amerika nur zu 60 % erfolge. Trotzdem besonders seitens der amerikanischen Vertreter Österreich gegenüber bekundeten Entgegenkommen konnte dieser Wunsch nicht erfüllt werden, da die Grain Corporation derzeit über keine abgebbaren Weizenbestände sondern lediglich über freie Mehllager verfüge. Es bleibe Österreich allerdings die Möglichkeit offen, nachdem einmal größere Mengen des zu erwartenden amerikanischen Mehles ein<pb facs="krp-0166_r-0010"/>gelangt sind, mit anderen Staaten in Verhandlungen wegen Tausches dieses Mehles gegen Getreide einzutreten.</p>
                   <p>Die britische Regierung habe überdies mitgeteilt, dass sie beabsichtige, Österreich gegen Kredit 1.700 t Hafermehl zur Verfügung zu stellen, die voraussichtlich zur Kinderernährung Verwendung finden werden.</p>
                   <p>Den bisher der österreichischen Regierung zugekommenen Mitteilungen zufolge sei mit der Beladung des ersten für Österreich bestimmten Dampfers in New-York bereits begonnen worden, so dass zu hoffen sei, dass die Lieferungen gegen Ende April in Triest einsetzen werden. Die österreichische Regierung sei unablässig bemüht, bei der italienischen Regierung Vorschüsse ab Triest und Venedig in einer Höhe zu erhalten, die hinreiche, den österreichischen Mehlbedarf bis zur Zeit des Einlangens der amerikanischen Sendungen sicherzustellen. In entgegenkommendster Weise sei von der italienischen Regierung ein Vorschuss von 15.000 t ab Venedig bewilligt worden, für dessen Abtransport alle Vorkehrungen getroffen werden.</p>
                   <p>Redner habe sich überdies, um eine Unterbrechung in der Mehl- und Brotver<pb facs="krp-0166_r-0011"/>sorgung hintanzuhalten, im Wege des Schweizer Gesandten an die Schweizer Regierung mit dem Ersuchen gewendet, ob nicht von der Schweiz einige tausend t Getreide oder Mehl gegen seinerzeitige Rückstellung aus den von uns in Holland angekauften Getreidemengen vorgeliefert werden könnten. Der Schweizer Gesandte habe sich bereit erklärt, diese Bitte bei der Schweizer Regierung zu unterstützen.</p>
@@ -362,19 +346,13 @@
                   </head>
                   <p>Über Vorschlag des <hi rend="#letterspaced">Vorsitzenden</hi> erhebt der Kabinettsrat gegen folgende, von der Nationalversammlung beschlossene, Gesetze keine Vorstellung: </p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Gesetz, betreffend Kreditoperationen, </item>
-                     <item n="2">
-                        <label>2.)</label> Gesetz, mit welchem Zuschläge zu dem Minimaleinkommen und zu den Ruhegenüssen der katholischen Seelsorger sowie zu dem Mimimaleinkommen der Dignitäre und Kanoniker bei den Metropolitan- und Kathedralkapiteln der katholischen Kirche festgestellt werden, </item>
-                     <item n="3">
-                        <label>3.)</label> Gesetz, betreffend die Aufhebung des Hofdekretes vom 4. Oktober 1833, JGS. Nr. 2633, und des Art. V des Gesetzes vom 1. August 1895, RGBl. Nr. 112,</item>
+                     <item n="1"><label>1.)</label> Gesetz, betreffend Kreditoperationen, </item>
+                     <item n="2"><label>2.)</label> Gesetz, mit welchem Zuschläge zu dem Minimaleinkommen und zu den Ruhegenüssen der katholischen Seelsorger sowie zu dem Mimimaleinkommen der Dignitäre und Kanoniker bei den Metropolitan- und Kathedralkapiteln der katholischen Kirche festgestellt werden, </item>
+                     <item n="3"><label>3.)</label> Gesetz, betreffend die Aufhebung des Hofdekretes vom 4. Oktober 1833, JGS. Nr. 2633, und des Art. V des Gesetzes vom 1. August 1895, RGBl. Nr. 112,</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0166_r-0012"/>
-                  </p>
+                  <p><pb facs="krp-0166_r-0012"/></p>
                   <list>
-                     <item n="1">
-                        <label>4.)</label> Nachtrag zum Besoldungsübergangsgesetz.</item>
+                     <item n="1"><label>4.)</label> Nachtrag zum Besoldungsübergangsgesetz.</item>
                   </list>
                   <p>Diese Gesetze sind demgemäß nach Gegenzeichnung durch den Staatskanzler und die zuständigen Staatssekretäre dem Präsidenten der Nationalversammlung vorzulegen.</p>
                </div>
@@ -454,9 +432,7 @@
                   <p>Ein letzter Einwand gegen den Gesetzesbeschluss sei dadurch gegeben, dass über Antrag des Unterrichtsamtes gegen den Gesetzesbeschluss des Salzburger Land<pb facs="krp-0166_r-0020"/>tages vom 5. Februar 1920, betreffend die Besserstellung der Lehrerschaft, Vorstellung erhoben worden sei und mithin auch die dem vorliegenden Gesetzesbeschluss zu Grunde liegende Voraussetzung eine Anfechtung erfahren habe.</p>
                   <p>Um die 14-tägige Frist des Art. 14 des Gesetzes über die Volksvertretung, die im vorliegenden Falle mit dem 23. März 1920 endete, nicht zu versäumen, habe das Staatsamt für Inneres und Unterricht nach gepflogenem Einvernehmen mit dem Staatsamte für Finanzen gegen den Gesetzesbeschluss – in Voraussetzung der nachträglichen Genehmigung durch den Kabinettsrat – am 22. März telegrafisch Vorstellung erhoben und der Regierung die Ausführung der Vorstellung vorbehalten.</p>
                   <p>Nach dem Antrage des sprechenden Staatssekretärs stimmt der Kabinettsrate der vom Staatsamt für Inneres und Unterricht im telegrafischen Wege erhobenen Vorstellung gegen den erwähnten Gesetzesbeschluss des Salzburger Landtages zu und ermächtigt das Staatsamt, die Vorstellung nachträglich eingehend zu begründen.</p>
-                  <p>
-                     <pb facs="krp-0166_r-0021"/>
-                  </p>
+                  <p><pb facs="krp-0166_r-0021"/></p>
                </div>
                <div type="top" xml:id="krp-0166_top13">
                   <head>
@@ -476,8 +452,7 @@
                      </label>
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt unter Bezugnahme auf die Verhandlung in der Sitzung des Kabinettsrates vom 23. März l. J. über den Lieferungsvertrag mit Polen mit, dass er nach Prüfung aller Umstände zu der Auffassung gelangt sei, dass die österreichische Regierung die Freigabe der von Polen verlangten Sachdemobilisierungsgüter nicht in Erwägung ziehen könne, da Polen sich derzeit im Kriegszustande befinde.</p>
-                  <p>
-                     <pb facs="krp-0166_r-0022"/>Der Kabinettsrat pflichtet dieser Anschauung bei.</p>
+                  <p><pb facs="krp-0166_r-0022"/>Der Kabinettsrat pflichtet dieser Anschauung bei.</p>
                   <p/>
                </div>
             </div>

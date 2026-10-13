@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0103.xml">
             <head type="dokument">
-               <title type="num">103.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">103.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0103_r-0001"/>[Dienstag] 1919-09-02</title>
@@ -281,15 +280,9 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0103_top02">Zu TOP 2</ref>: <ref target="#krp-0103_b01">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 525/A/1919 über die Besetzung einer Haller Fräuleinstiftspräbende der erbländischen Abteilung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0103_top03">Zu TOP 3</ref>: <ref target="#krp-0103_b02">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 30535/1919 über einen Gesetzesbeschluss des Salzburger Landtages für die zeitweise Regelung der Dienst- und Besoldungsverhältnisse der Gemeindeangestellten des Landes mit Ausnahme der Stadt Salzburg</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0103_top04">Zu TOP 4</ref>: <ref target="#krp-0103_b03">Vortrag zu St.A.V.Z. 25111/1919 über die Elektrisierung der Staatsbahnlinie Stainach-Irdning – Attnang-Puchheim und Erklärung zum begünstigten Bau</ref>
-                  </item>
+                  <item><ref target="#krp-0103_top02">Zu TOP 2</ref>: <ref target="#krp-0103_b01">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 525/A/1919 über die Besetzung einer Haller Fräuleinstiftspräbende der erbländischen Abteilung</ref></item>
+                  <item><ref target="#krp-0103_top03">Zu TOP 3</ref>: <ref target="#krp-0103_b02">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 30535/1919 über einen Gesetzesbeschluss des Salzburger Landtages für die zeitweise Regelung der Dienst- und Besoldungsverhältnisse der Gemeindeangestellten des Landes mit Ausnahme der Stadt Salzburg</ref></item>
+                  <item><ref target="#krp-0103_top04">Zu TOP 4</ref>: <ref target="#krp-0103_b03">Vortrag zu St.A.V.Z. 25111/1919 über die Elektrisierung der Staatsbahnlinie Stainach-Irdning – Attnang-Puchheim und Erklärung zum begünstigten Bau</ref></item>
                </list>
             </div>
             <div type="protokoll">

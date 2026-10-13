@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0081.xml">
             <head type="dokument">
-               <title type="num">81.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">81.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0081_r-0001"/>
@@ -282,39 +281,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0081_top01">Zu TOP 1</ref>: <ref target="#krp-0081_b01">Forderungen der Organe der liquidierenden militärischen Stellen in Deutschösterreich</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top03">Zu TOP 3</ref>: <ref target="#krp-0081_b02">Bekanntgabe der Verwaltung des Hofärars an das Staatsamt für Inneres und Unterricht über die Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top03">Zu TOP 3</ref>: <ref target="#krp-0081_b03">Note des Unterstaatssekretärs Glöckel über die Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top05">Zu TOP 5</ref>: <ref target="#krp-0081_b04">Forderungen des Zentralangestelltenrates an den Staatssekretär für Äußeres um Erhöhung der Teuerungszulagen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top06">Zu TOP 6</ref>: <ref target="#krp-0081_b05">Vereinbarung mit der tschechoslowakischen Regierung über die Zusammenlegung deutschösterreichischer und tschechoslowakischer Grenzzollämter und Grenzkontrollstellen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top07">Zu TOP 7</ref>: <ref target="#krp-0081_b06">Rückberufung der in fremden Verwaltungszweigen verwendeten Zollbeamten und Finanzwachunterbeamten in den Zolldienst</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top08">Zu TOP 8</ref>: <ref target="#krp-0081_b07">Bericht des Staatssekretärs für Finanzen über die staatliche Unterstützung der deutschösterreichischen Tageszeitungen beim Bezug von Rotationsdruckpapier im 1. Halbjahr 1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top09">Zu TOP 9</ref>: <ref target="#krp-0081_b08">Gesetzesentwurf für die Gewährung einmaliger Anschaffungsbeiträge an aktive und pensionierte Lehrer der öffentlichen Volks- und Bürgerschulen sowie an deren Witwen und Waisen für das 1. Halbjahr 1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top10">Zu TOP 10</ref>: <ref target="#krp-0081_b09">Bezügeregelung der Domvikare in Salzburg</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top11">Zu TOP 11</ref>: <ref target="#krp-0081_b10">Tauschvertrag von Kirchengut zwischen zwei Kongregationen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0081_top12">Zu TOP 12</ref>: <ref target="#krp-0081_b11">Vortrag des Staatsamts für soziale Verwaltung über einen Gesetzesentwurf zur Schaffung einer Gehaltskassa für die Pharmazeuten</ref>
-                  </item>
+                  <item><ref target="#krp-0081_top01">Zu TOP 1</ref>: <ref target="#krp-0081_b01">Forderungen der Organe der liquidierenden militärischen Stellen in Deutschösterreich</ref></item>
+                  <item><ref target="#krp-0081_top03">Zu TOP 3</ref>: <ref target="#krp-0081_b02">Bekanntgabe der Verwaltung des Hofärars an das Staatsamt für Inneres und Unterricht über die Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes</ref></item>
+                  <item><ref target="#krp-0081_top03">Zu TOP 3</ref>: <ref target="#krp-0081_b03">Note des Unterstaatssekretärs Glöckel über die Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes</ref></item>
+                  <item><ref target="#krp-0081_top05">Zu TOP 5</ref>: <ref target="#krp-0081_b04">Forderungen des Zentralangestelltenrates an den Staatssekretär für Äußeres um Erhöhung der Teuerungszulagen</ref></item>
+                  <item><ref target="#krp-0081_top06">Zu TOP 6</ref>: <ref target="#krp-0081_b05">Vereinbarung mit der tschechoslowakischen Regierung über die Zusammenlegung deutschösterreichischer und tschechoslowakischer Grenzzollämter und Grenzkontrollstellen</ref></item>
+                  <item><ref target="#krp-0081_top07">Zu TOP 7</ref>: <ref target="#krp-0081_b06">Rückberufung der in fremden Verwaltungszweigen verwendeten Zollbeamten und Finanzwachunterbeamten in den Zolldienst</ref></item>
+                  <item><ref target="#krp-0081_top08">Zu TOP 8</ref>: <ref target="#krp-0081_b07">Bericht des Staatssekretärs für Finanzen über die staatliche Unterstützung der deutschösterreichischen Tageszeitungen beim Bezug von Rotationsdruckpapier im 1. Halbjahr 1919</ref></item>
+                  <item><ref target="#krp-0081_top09">Zu TOP 9</ref>: <ref target="#krp-0081_b08">Gesetzesentwurf für die Gewährung einmaliger Anschaffungsbeiträge an aktive und pensionierte Lehrer der öffentlichen Volks- und Bürgerschulen sowie an deren Witwen und Waisen für das 1. Halbjahr 1919</ref></item>
+                  <item><ref target="#krp-0081_top10">Zu TOP 10</ref>: <ref target="#krp-0081_b09">Bezügeregelung der Domvikare in Salzburg</ref></item>
+                  <item><ref target="#krp-0081_top11">Zu TOP 11</ref>: <ref target="#krp-0081_b10">Tauschvertrag von Kirchengut zwischen zwei Kongregationen</ref></item>
+                  <item><ref target="#krp-0081_top12">Zu TOP 12</ref>: <ref target="#krp-0081_b11">Vortrag des Staatsamts für soziale Verwaltung über einen Gesetzesentwurf zur Schaffung einer Gehaltskassa für die Pharmazeuten</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -329,10 +306,8 @@
                   <p>Generalliquidierungskommissär Sektionschef Dr. <hi rend="#letterspaced">Pöschl</hi> berichtet über den neuesten Stand der Verhandlungen, betreffend die Forderungen der Organe der liquidierenden militärischen Stellen in Deutschösterreich. Aufgrund der Ergebnisse der vom Leiter des liquidierenden Kriegsministeriums geführten weiteren Ausgleichsverhandlungen habe sich die Internationale Liquidierungskommission auf eine als definitiv gedachte Bezugsaufbesserung für die liquidierenden Organe nach einem Schema geeinigt, welches mit einer Ausnahme innerhalb des Rahmens der mit dem Beschluss des Kabinettsrates vom 13. d. M. gegebenen Ermächtigungsgrenze bleibt. Die erwähnte Ausnahme betreffe die Gewährung einer Pauschalabfindung anstelle der Rückwirkung der Teuerungszulagen über den 1. Mai 1919 zurück.</p>
                   <p>Eine solche sollen alle liquidierenden militärischen Organe, welche der Teuerungszulage teilhaft werden erhalten, dann die Arbeiter und Arbeiterinnen, die vor dem 1. Mai 1919 noch nicht gewerkschaftliche Löhne bezogen, <pb facs="krp-0081_r-0004"/>wenn sie schon am 1. Mai und noch am 12. Juni 1919 im militärischen Liquidierungsdienste standen und in diesem mindestens während 90 Tage tätig waren, und zwar für jede Person ohne Unterschied des Familienstandes im Ausmaße von</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Niederösterreich (einschließlich Wien) 500 K,</item>
-                     <item n="2">
-                        <label>2.)</label> übriges Deutschösterreich 375 K.</item>
+                     <item n="1"><label>1.)</label> Niederösterreich (einschließlich Wien) 500 K,</item>
+                     <item n="2"><label>2.)</label> übriges Deutschösterreich 375 K.</item>
                   </list>
                   <p>Die bereits zufolge Beschlusses der Internationalen Liquidierungskommission vom 12. Juni 1919 auf die spätere Regelung der Bezugsaufbesserungen gewährten Vorschüsse /: im Ausmaße für die Person: in Niederösterreich (einschließlich Wien) 500 K, im übrigen Deutschösterreich 375 K :/ sind auf die dermalen neugeregelten Bezugsaufbesserungen zu verrechnen.</p>
                   <p>Der Vertreter des italienischen Schutzkomitees habe in der Internationalen Liquidierungskommission den Antrag gestellt, dem die übrigen Nationalstaatsvertreter mit Ausnahme des deutschösterreichischen beistimmten, dass alle durch die bewilligten Bezugsaufbesserungen erforderten Kosten nur insoweit zunächst aus der Liquidierungsmasse flüssig zu machen seien, als sie die bei den liquidierenden <pb facs="krp-0081_r-0005"/>militärischen Zentralstellen beschäftigten Organe betreffen, während diese Kosten in Ansehung aller übrigen Organe der militärischen Liquidierung zunächst von Deutschösterreich als Territorialstaat bestritten werden sollen. Die Refundierung dieser grundsätzlich als Liquidierungsaufwand anerkannten Posten hätte hinsichtlich der Höhe des zu refundierenden Betrages mit Rücksicht auf die Anzahl des bei der Liquidierung beschäftigten Personales grundsätzlichen Vereinbarungen vorbehalten zu bleiben.</p>
@@ -361,8 +336,7 @@
                   <p>Das Staatsamt für Inneres und Unterricht habe nun angefragt, ob in der Staatskanzlei Bedenken dagegen bestehen, dass an die Generaldirektion der habsburg-lothringischen Vermögensverwaltung wegen Wiedererlangung der Juwelen herangetreten werde.</p>
                   <p>Das Staatsamt habe bei dieser Gelegenheit darauf aufmerksam gemacht, dass es in Zweifel gezogen werden könne und werde, ob die fraglichen Schmuckstücke zum gebundenen Vermögen zu zählen seien, und habe die Frage aufgeworfen, ob es nicht empfehlenswert <pb facs="krp-0081_r-0009"/>sei, bei diesem Anlasse die ganze Frage der Beschlagnahme des familienfideikommissarischen Vermögens, soweit es Gegenstände von historischem und künstlerischem Interesse umfasst, einer Revision zu unterziehen. Es läge möglicherweise im Interesse der Erhaltung unseres Kunstbesitzes, wenn man den Standpunkt einnähme, dass es sich in den vorbezeichneten Fällen um freies Vermögen handle, das man dann dennoch im Wege von Verhandlungen an Deutschösterreich zu binden versuchen müsste.</p>
                   <p>Der sprechende Vizekanzler beabsichtige dem Staatsamte für Inneres und Unterricht mitzuteilen, dass es jedenfalls im Interesse Deutschösterreichs gelegen sei, den fraglichen Schmuck oder wenigstens Teile dieses Schmuckes an uns zu ziehen, bzw. dessen Wiedererlangung zu versuchen. Daher erhebe die Staatskanzlei gegen den beabsichtigten Schritt bei der Generaldirektion der habsburg-lothringischen Vermögensverwaltung keine Einwendung, stelle es aber der Erwägung des Staatsamtes anheim, ob es sich nicht empfehlen würde, vorher ein Gutachten des Rechtsanwaltes Herrn Dr. Gustav Harpner einzuholen. </p>
-                  <p>
-                     <pb facs="krp-0081_r-0010"/>Die Frage, unter welchem Titel, d. h. ob als freies oder gebundenes Vermögen die Schmuckgegenstände behandelt werden, könnte zweckmäßigerweise bei Einleitung der Verhandlungen mit der Generaldirektion vorderhand offen bleiben, um eine präjudizierende Wirkung zu vermeiden, und einem späteren gelegeneren Zeitpunkte vorbehalten werden, wo einerseits die Stellungnahme der Generaldirektion zu dem erwähnten Ersuchen und andererseits die Haltung der Nationalstaaten in der Angelegenheit des habsburg-lothringischen Vermögens feststeht.</p>
+                  <p><pb facs="krp-0081_r-0010"/>Die Frage, unter welchem Titel, d. h. ob als freies oder gebundenes Vermögen die Schmuckgegenstände behandelt werden, könnte zweckmäßigerweise bei Einleitung der Verhandlungen mit der Generaldirektion vorderhand offen bleiben, um eine präjudizierende Wirkung zu vermeiden, und einem späteren gelegeneren Zeitpunkte vorbehalten werden, wo einerseits die Stellungnahme der Generaldirektion zu dem erwähnten Ersuchen und andererseits die Haltung der Nationalstaaten in der Angelegenheit des habsburg-lothringischen Vermögens feststeht.</p>
                   <p>Der Kabinettsrat pflichtet dieser Auffassung bei.</p>
                </div>
                <div type="top" xml:id="krp-0081_top04">
@@ -384,9 +358,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> teilt mit, dass die Organisationen der Staatsangestellten ihre weitergehenden Forderungen gegen dem zurückgestellt haben, dass den Staatsangestellten gleich wie den Eisenbahn- und Postbediensteten ein außertourlicher Anschaffungsbeitrag in der üblichen Höhe flüssig gemacht werde.</p>
                   <p>Der Kabinettsrat ermächtigt den sprechenden Staatssekretär über dessen Antrag, die zur Auszahlung dieses Anschaffungsbeitrages erforderlichen Mittel bereitzustellen.</p>
-                  <p>
-                     <pb facs="krp-0081_r-0012"/>
-                  </p>
+                  <p><pb facs="krp-0081_r-0012"/></p>
                </div>
                <div type="top" xml:id="krp-0081_top06">
                   <head>
@@ -410,9 +382,7 @@
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass sich Staatssekretär Dr. Loewenfeld-Russ in einer besonderen Zuschrift nachdrücklichst gegen eine Abziehung der beim Kriegswucheramte in Verwendung stehenden Finanzwachorgane, die dortselbst völlig unentbehrlich seien, ausgesprochen habe.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> bemerkt, dass das Hauptgewicht auf die Rückberufung der Zollbeamten gelegt werden müsse; hinsichtlich der Finanzwachorgane könnten allenfalls Zugeständnisse gemacht werden.</p>
                   <p>Nachdem noch Staatssekretär <hi rend="#letterspaced">Eldersch</hi> und Sektionschef Dr. <hi rend="#letterspaced">Mühlvenzl</hi> zum Gegenstande gesprochen hatten, genehmigt der Kabinettsrat den gestellten Antrag, mit der Maßgabe, dass bezüglich der Rückberufung der beim Kriegswucheramt verwendeten Finanzwachorgane vorher noch das Einvernehmen mit dem Staatssekretär für Volksernährung zu pflegen sein wird.</p>
-                  <p>
-                     <pb facs="krp-0081_r-0015"/>
-                  </p>
+                  <p><pb facs="krp-0081_r-0015"/></p>
                </div>
                <div type="top" xml:id="krp-0081_top08">
                   <head>
@@ -442,16 +412,13 @@
                   </head>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> teilt mit, dass die Domchorvikare an der Metropolitankirche zu Salzburg die Bitte gestellt haben, ihre Bezüge unter Bedachtnahme auf das Gesetz vom 28. März 1918, RGBl. Nr. 115 einer Regulierung zu unterziehen.</p>
                   <p>Diese, den genannten Chorvikaren aus dem Religionsfonds zufließenden fixen Bezüge seien zuletzt mit Erlass des bestandenen Ministeriums für Kultus und Unterricht vom 20. November 1908, Zl. 43945, dahin festgesetzt worden, dass sie den Betrag der damals für Kooperatoren der Landeshauptstadt Salzburg mit Gesetz vom 19. September 1898, RGBl. Nr. 176, normierten Kongrua von 800 K gleichgestellt wurden und dass den Chorvikaren ebenso wie diesen Kooperatoren die bei analoger Anwendung des Gesetzes vom 24. Februar 1907, RGBl. Nr. 56 nach Maßgabe ihrer Dienstzeit sich ergebenden Einkommenserhöhungen gewährt wurden.</p>
-                  <p>
-                     <pb facs="krp-0081_r-0017"/>Die nunmehrigen Verhältnisse erheischen eine neuerliche Regelung der Bezüge der genannten Funktionäre. Wenn dieselben auch nicht als systemisierte Hilfspriester im Sinne des § 1, Abs. 3 des Gesetzes vom 19. September 1898, RGBl. Nr. 176 anzusehen seien, so wirken sie doch als Hilfskräfte des Domkapitels und werden tatsächlich zu verschiedenen seelsorglichen Funktionen herangezogen.</p>
+                  <p><pb facs="krp-0081_r-0017"/>Die nunmehrigen Verhältnisse erheischen eine neuerliche Regelung der Bezüge der genannten Funktionäre. Wenn dieselben auch nicht als systemisierte Hilfspriester im Sinne des § 1, Abs. 3 des Gesetzes vom 19. September 1898, RGBl. Nr. 176 anzusehen seien, so wirken sie doch als Hilfskräfte des Domkapitels und werden tatsächlich zu verschiedenen seelsorglichen Funktionen herangezogen.</p>
                   <p>Es wäre daher eine gewiss nicht gerechtfertigte Härte, diese Funktionäre nunmehr den Kooperatoren der in der Landeshauptstadt Salzburg befindlichen Pfarren rücksichtlich der Bezüge hintanzusetzen, insbesondere, nachdem diese Chorvikare durch eine Reihe von Jahren an barem Einkommen diesen Kooperatoren gleichgestellt, ja in früherer Zeit sogar besser dotiert waren, als letztere, die außerdem noch hinsichtlich Wohnung und Verpflegung den Chorvikaren nicht zukommende Begünstigungen genießen.</p>
                   <p>Diese Zurücksetzung wäre für die Chorvikare umso empfindlicher, als sie in der kirchlichen Hierarchie den gewöhnlichen Hilfspriestern vorgehen. Vielmehr erscheine es bei Würdigung aller maßgebenden Momente als ein <pb facs="krp-0081_r-0018"/>Gebot der Billigkeit, diese Chorvikare in Ansehung ihrer Bezüge den tatsächlich als Hilfspriestern an anderen Domkirchen systemisierten Chorvikaren gleichzustellen.</p>
                   <p>Das Staatsamt der Finanzen habe einer solchen Maßnahme zugestimmt.</p>
                   <p>Der sprechende Unterstaatssekretär erbitte sohin vom Kabinettsrate die Ermächtigung, den Domchorvikaren an der Metropolitankirche in Salzburg vom 1. Jänner 1919 angefangen anstelle ihrer bisherigen Bezüge einen fixen Bezug im Ausmaße der für Hilfspriester der Landeshauptstadt Salzburg zufolge des Gesetzes vom 28. März 1918, RGBl. Nr. 115 gegenwärtig festgesetzten Kongrua jährlicher 1.400 K, ferner eine Zulage jährlicher 320 K nach Analogie der mit Art. I., § 2 dieses Gesetzes für als Hilfspriester systemisierte Chorvikare an Domkirchen festgesetzten Einkommenserhöhung, endlich fallweise Erhöhungen ihrer fixen Bezüge nach Analogie der mit Art. II., § 1 des vorzitierten Gesetzes normierten Minimaleinkommenserhöhungen aus dem Religionsfonds gewähren zu dürfen.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung. </p>
-                  <p>
-                     <pb facs="krp-0081_r-0019"/>
-                  </p>
+                  <p><pb facs="krp-0081_r-0019"/></p>
                </div>
                <div type="top" xml:id="krp-0081_top11">
                   <head>
@@ -488,8 +455,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0081_a01-0001"/>Streng geheimer Anhang zum Kabinettsprotokolle Nr. 81 vom 17. Juni 1919.</p>
+               <p><pb facs="krp-0081_a01-0001"/>Streng geheimer Anhang zum Kabinettsprotokolle Nr. 81 vom 17. Juni 1919.</p>
                <div n="1">
                   <head>Verleihung von Sonderverwendungszulagen an höhere Beamte.</head>
                   <div type="a01_protokoll">
@@ -497,8 +463,7 @@
                      <p>„Beamte von der VI. Rangsklasse aufwärts, die bei Zentral- oder Landesbehörden für ihre Person allein oder an der Spitze von Abteilungsgruppen oder Abteilungen in außergewöhnlichem Maße mit besonderer Verantwortung verbundene Arbeiten gesetzgeberischer, organisatorischer oder politischer Natur in Anspruch genommen werden, können zur Anerkennung und Förderung ihrer Dienstleistung vom zuständigen Staatssekretär mit Zustimmung des Staatssekretärs der Finanzen Sonderverwendungszulagen im Höchstausmaße bis zu 12.000 K jährlich bewilligt erhalten.</p>
                      <p>Diese Zulagen werden mit Wirksamkeit vom 1. Mai 1919 angefangen zuerkannt.“</p>
                      <p>Für den Fall, als dieser Antrag nicht angenommen werden sollte, stellt der sprechende Staatssekretär den Eventualantrag, dass die Beamten von der VI. Rangsklasse aufwärts mit Wirksamkeit vom 1. Mai 1919 bis auf Weiteres, längstens aber bis zum Inkrafttreten der neuen Besoldungsordnung, eine Erhöhung ihrer Bezüge in Form einer Zulage von 50 % des jeweils tatsächlich bezogenen Gehaltes, zu erhalten hätten.</p>
-                     <p>
-                        <pb facs="krp-0081_a01-0003"/>Während Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> für den ersten Antrag eintritt, den zweiten ablehnt, führt Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> aus, dass ihm eine generelle Erhöhung der Bezüge ohne eine entsprechende gesetzliche Grundlage unmöglich erscheine. Dazu kommen noch Argumente der Rückwirkung auf die übrigen Staatsangestellten. Individuell könnte man mit Remunerationen gewiss ebenso sehr wirkliche Verdienste belohnen.</p>
+                     <p><pb facs="krp-0081_a01-0003"/>Während Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> für den ersten Antrag eintritt, den zweiten ablehnt, führt Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> aus, dass ihm eine generelle Erhöhung der Bezüge ohne eine entsprechende gesetzliche Grundlage unmöglich erscheine. Dazu kommen noch Argumente der Rückwirkung auf die übrigen Staatsangestellten. Individuell könnte man mit Remunerationen gewiss ebenso sehr wirkliche Verdienste belohnen.</p>
                      <p>Staatssekretär [Ing.] <hi rend="#letterspaced">Zerdik</hi> hält dafür, dass das Staatsamt für Finanzen jedem Staatsamte einen Fonds zur Verfügung stellen sollte, um derartige Remunerationen fallweise zuerkennen zu können.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> befürwortet diesen Antrag unter der Voraussetzung, dass dieses Recht der Staatssekretäre auf Zuerkennung der Remunerationen nicht auf gewisse, namentlich höhere Rangsklassen beschränkt bleiben dürfte. Nachdem noch die Staatssekretäre Dr. <hi rend="#letterspaced">Bratusch</hi> und Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> sowie Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> dem Standpunkte ihrer Ressorts zu dieser Frage Stellung genommen hatten, zieht Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> seinen Antrag, bzw. Eventualantrag zurück und erbittet vom Kabinettsrate die Zu<pb facs="krp-0081_a01-0004"/>stimmung zu folgender Formulierung: "Beamte, die für ihre Person allein oder an der Spitze von Abteilungsgruppen oder Abteilungen zu einer in außergewöhnlichem Maße mit besonderer Verantwortung verbundenen Arbeit gesetzgeberischer, organisatorischer, politischer oder sonst besonders wichtiger Natur in Anspruch genommen werden, sind für die dauernd über die normale Arbeitszeit hinausgehende Inanspruchnahme mit höheren ständigen Zulagen zu beteilen.“ </p>
                      <p>Der Kabinettsrat genehmigt diesen Antrag und ladet den Staatssekretär für Finanzen ein, sich nunmehr mit den einzelnen Ressorts zu dem Behufe in Verbindung zu setzen, um die Höhe der den einzelnen Staatsämtern zur Verfügung zu stellenden Kredite für den gedachten Zweck festzulegen.</p>

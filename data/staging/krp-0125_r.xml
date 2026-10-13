@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0125.xml">
             <head type="dokument">
-               <title type="num">125.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">125.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0125_r-0001"/>[Freitag] 1919-11-28</title>
@@ -281,33 +280,15 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0125_top02">Zu TOP 2</ref>: <ref target="#krp-0125_b01">Referat über die Tätigkeit der Kommission zur Erhebung militärischer Pflichtverletzungen mit dem 6. und dem 7. Bericht</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top03">Zu TOP 3</ref>: <ref target="#krp-0125_b02">Vortrag des Staatsamtes für Heereswesen über die Weitergewährung des 50%igen Zuschusses zum Unterhalt für die Angehörigen von Kriegsgefangenen bis 31. Jänner 1920</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top04">Zu TOP 4</ref>: <ref target="#krp-0125_b03">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 36.106 über die Bestimmung von Amtstitel der Beamten des versicherungstechnischen Dienstes im Staatsamtes für Inneres und Unterricht</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top05">Zu TOP 5</ref>: <ref target="#krp-0125_b04">Stellungnahme des Staatsamtes für Finanzen einmaligen Zuschuss für Pensionsparteien und Fortzahlung der Ruhestandsaushilfen von 1. Jänner 1920 an bis auf weiteres</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top06">Zu TOP 6</ref>: <ref target="#krp-0125_b05">Gesetzesvorlage der Staatsregierung über Kammern für Handel, Gewerbe und Industrie</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top07">Zu TOP 7</ref>: <ref target="#krp-0125_b06">1. Nachtrag zum Entwurf des Finanzgesetzes der Republik Österreich für das Verwaltungsjahr 1919/20</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top08">Zu TOP 8</ref>: <ref target="#krp-0125_b07">Gesetzesentwurf über die Führung des Staatshaushaltes vom 1. Jänner bis zum 30. Juni 1920 mit Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top10">Zu TOP 10</ref>: <ref target="#krp-0125_b08">Englischer Entwurf der Elektrizitätswirtschaft über die Enteignung sowohl von Kommunal- als privaten Werken</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0125_top11">Zu TOP 11</ref>: <ref target="#krp-0125_b09">Vollzugsanweisung des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über die staatlichen Industriewerke</ref>
-                  </item>
+                  <item><ref target="#krp-0125_top02">Zu TOP 2</ref>: <ref target="#krp-0125_b01">Referat über die Tätigkeit der Kommission zur Erhebung militärischer Pflichtverletzungen mit dem 6. und dem 7. Bericht</ref></item>
+                  <item><ref target="#krp-0125_top03">Zu TOP 3</ref>: <ref target="#krp-0125_b02">Vortrag des Staatsamtes für Heereswesen über die Weitergewährung des 50%igen Zuschusses zum Unterhalt für die Angehörigen von Kriegsgefangenen bis 31. Jänner 1920</ref></item>
+                  <item><ref target="#krp-0125_top04">Zu TOP 4</ref>: <ref target="#krp-0125_b03">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 36.106 über die Bestimmung von Amtstitel der Beamten des versicherungstechnischen Dienstes im Staatsamtes für Inneres und Unterricht</ref></item>
+                  <item><ref target="#krp-0125_top05">Zu TOP 5</ref>: <ref target="#krp-0125_b04">Stellungnahme des Staatsamtes für Finanzen einmaligen Zuschuss für Pensionsparteien und Fortzahlung der Ruhestandsaushilfen von 1. Jänner 1920 an bis auf weiteres</ref></item>
+                  <item><ref target="#krp-0125_top06">Zu TOP 6</ref>: <ref target="#krp-0125_b05">Gesetzesvorlage der Staatsregierung über Kammern für Handel, Gewerbe und Industrie</ref></item>
+                  <item><ref target="#krp-0125_top07">Zu TOP 7</ref>: <ref target="#krp-0125_b06">1. Nachtrag zum Entwurf des Finanzgesetzes der Republik Österreich für das Verwaltungsjahr 1919/20</ref></item>
+                  <item><ref target="#krp-0125_top08">Zu TOP 8</ref>: <ref target="#krp-0125_b07">Gesetzesentwurf über die Führung des Staatshaushaltes vom 1. Jänner bis zum 30. Juni 1920 mit Begründung</ref></item>
+                  <item><ref target="#krp-0125_top10">Zu TOP 10</ref>: <ref target="#krp-0125_b08">Englischer Entwurf der Elektrizitätswirtschaft über die Enteignung sowohl von Kommunal- als privaten Werken</ref></item>
+                  <item><ref target="#krp-0125_top11">Zu TOP 11</ref>: <ref target="#krp-0125_b09">Vollzugsanweisung des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über die staatlichen Industriewerke</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -347,9 +328,7 @@
                   <p>Da die Verhältnisse, die seinerzeit für die Gewährung des Zuschusses maßgebend waren, auch derzeit noch andauern, erscheine in Anbetracht der traurigen Lage der Angehörigen unserer Kriegsgefangenen die Notwendigkeit gegeben, den Zuschuss auch für die Zeit ab 1. Dezember 1919 weiter zu gewähren.</p>
                   <p>Redner stelle daher im Einvernehmen mit dem Staatsamt für Finanzen den Antrag, der Kabinettsrat wolle die Zustimmung zur Erlassung einer Vollzugsanweisung erteilen, mit der die Weitergewährung des 50%igen Zuschusses zu den Unterhaltsbeiträgen für die Angehörigen von Kriegsgefangenen auf neuerliche zwei Monate, das ist für die Zeit vom 1. Dezember 1919 bis 31. Jänner 1920, verfügt wird.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
-                  <p>
-                     <pb facs="krp-0125_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0125_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0125_top04">
                   <head>
@@ -375,9 +354,7 @@
                   <p>Weiters ergebe sich die Notwendigkeit, für die in Deutschösterreich in Vorschreibung stehenden Pensionsparteien die Auszahlung der laufenden Ruhestandsaushilfe sowie die Übernahme der Steuern und Quittungsstempelgebühren durch den Staat, welche bis Ende Dezember 1919 erstreckt ist, vom 1. Jänner 1920 bis auf weiteres zu verlängern, da die Durchführung der geplanten Aufbesserung der Bezüge der Altpensionisten noch geraume Zeit in Anspruch nehmen werde. </p>
                   <p>Von der Verlängerung der Auszahlung der Ruhestandsaushilfen wären jedoch die aufgrund des Pensionsbegünstigungsgesetzes in den Ruhestand versetzten Personen auszunehmen, da diese gegenüber den anderen Pensionisten ohnehin materiell besonders begünstigt erscheinen.</p>
                   <p>Der Kabinettsrat stimmt den Vorschlägen des Staatssekretärs für Finanzen zu und genehmigt die darnach zu treffenden Verfügungen.</p>
-                  <p>
-                     <pb facs="krp-0125_r-0011"/>
-                  </p>
+                  <p><pb facs="krp-0125_r-0011"/></p>
                </div>
                <div type="top" xml:id="krp-0125_top06">
                   <head>
@@ -444,14 +421,12 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0125_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 125 vom 28. November 1919.</p>
+               <p><pb facs="krp-0125_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 125 vom 28. November 1919.</p>
                <div n="1">
                   <head>Bericht über die Ernährungslage und Programm für die Kreditverhandlungen mit der Entente.</head>
                   <div type="a01_protokoll">
                      <p>Anschließend an die Darlegungen des Staatssekretärs Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> über die derzeitige Ernährungslage teilt der Vorsitzende Staatskanzler Dr. <hi rend="#letterspaced">Renner</hi> mit, dass nach seinen aus Unterredungen mit General Smith und Gesandten Allizé gewonnenen Eindrücken die Entente zu einer Kredithilfe bereit scheine, die Darlehensgewährung jedoch nicht direkt an uns, sondern in der Form erfolgen solle, dass die Entente die Bezahlung der Warenlieferungen aus den Sukzessionsstaaten in fremder Valuta übernimmt und wir ihr dafür Kronenbeträge schulden. Dieser Vorgang habe allerdings den großen Nachteil, dass die Kredite bloß der Hebung der Valuta der Nationalstaaten, nicht auch der unsrigen zugute kommen, andererseits könne aber aus einer solchen Regelung erhofft werden, dass das Bedürfnis nach ausländischen Zahlungsmitteln veranlassen werde, die Lieferungen nach Österreich ohne Widerstände durchzuführen.</p>
-                     <p>
-                        <pb facs="krp-0125_a01-0002"/>Redner beabsichtige, am kommenden Dienstag eine Besprechung zwischen den Vertretern der österreichischen Regierung u. zw. Staatskanzler und die Staatssekretäre für Finanzen, Volksernährung, Verkehrswesen und Handel [und Gewerbe, Industrie und Bauten] samt den Referenten mit den Vertretern der fünf Hauptmächte herbeizuführen. Zweck dieser Besprechung solle sein, den Gesandten konkrete Vorschläge über die Einrichtung der Österreich zu gewährenden Unterstützung vorzulegen und sie einzuladen, entweder dazu sofort die Zustimmung ihrer Regierungen zu erwirken oder aber zu ermöglichen, dass eine österreichische Delegation nächsten Freitag zu direkten Verhandlungen mit dem Obersten Rat nach Paris reise. Im Wesentlichen müsse angestrebt werden, die jetzige unzulängliche und umständliche Verhandlungsweise, dass auf dem Wege über die Reparationskommission an den Obersten Rat berichtet wird, dieser sich wieder an die alliierten und assoziierten Regierungen wende und letzten Endes die amerikanische Regierung über die Kreditgewährung zu entscheiden hat, durch einen Vorgang zu ersetzen, welcher die Erlangung von Krediten auf einer rein wirtschaftlich-kommerzieller Grundlage ermöglicht. Dazu müsste die österreichische <pb facs="krp-0125_a01-0003"/>Regierung von den Ententestaaten die Ermächtigung erhalten, mit ausländischen Bankgruppen direkt verhandeln und ihnen Pfänder anbieten zu können, die ausdrücklich gegen die Heranziehung zu Wiedergutmachungszwecken gesichert sind.</p>
+                     <p><pb facs="krp-0125_a01-0002"/>Redner beabsichtige, am kommenden Dienstag eine Besprechung zwischen den Vertretern der österreichischen Regierung u. zw. Staatskanzler und die Staatssekretäre für Finanzen, Volksernährung, Verkehrswesen und Handel [und Gewerbe, Industrie und Bauten] samt den Referenten mit den Vertretern der fünf Hauptmächte herbeizuführen. Zweck dieser Besprechung solle sein, den Gesandten konkrete Vorschläge über die Einrichtung der Österreich zu gewährenden Unterstützung vorzulegen und sie einzuladen, entweder dazu sofort die Zustimmung ihrer Regierungen zu erwirken oder aber zu ermöglichen, dass eine österreichische Delegation nächsten Freitag zu direkten Verhandlungen mit dem Obersten Rat nach Paris reise. Im Wesentlichen müsse angestrebt werden, die jetzige unzulängliche und umständliche Verhandlungsweise, dass auf dem Wege über die Reparationskommission an den Obersten Rat berichtet wird, dieser sich wieder an die alliierten und assoziierten Regierungen wende und letzten Endes die amerikanische Regierung über die Kreditgewährung zu entscheiden hat, durch einen Vorgang zu ersetzen, welcher die Erlangung von Krediten auf einer rein wirtschaftlich-kommerzieller Grundlage ermöglicht. Dazu müsste die österreichische <pb facs="krp-0125_a01-0003"/>Regierung von den Ententestaaten die Ermächtigung erhalten, mit ausländischen Bankgruppen direkt verhandeln und ihnen Pfänder anbieten zu können, die ausdrücklich gegen die Heranziehung zu Wiedergutmachungszwecken gesichert sind.</p>
                      <p>Das Programm für die Besprechung mit den Gesandten und die Verhandlungen mit dem Obersten Rat hätte also etwa zu umfassen: Die Überlassung des Banknotenprivilegs an ein ausländisches Konsortium gegen den Erlag eines Goldschatzes, die Beschaffung eines Valutaanlehens durch dieses Konsortium gegen Verpfändung des Tabakmonopols und schließlich die Gewährung von Lebensmittelkrediten gegen Sicherstellung auf die Kunstschätze, alles nach vorheriger ausdrücklicher Gewährleistung seitens der Entente, dass diese Pfandobjekte von der Wiedergutmachung frei gelassen werden.</p>
                      <p>In der weiteren Debatte machen die Staatssekretäre Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> und <hi rend="#letterspaced">Paul</hi> aufmerksam, dass die von der Entente in Aussicht genommene Art der Kreditgewährung keinerlei Bürgschaft dafür enthalte, dass die Sukzessionsstaaten ihren Lieferungsverpflichtungen an Österreich nachkommen, daher möglichst die Einräumung direkter Kredite anzustreben wäre, umso mehr, als nur <pb facs="krp-0125_a01-0004"/>solche einen Einfluss auf die Hebung unserer Valuta ausüben könnten.</p>
                      <p>Der Kabinettsrat genehmigt die Vorschläge des Vorsitzenden hinsichtlich der Abhaltung einer Besprechung mit den Gesandten der Ententemächte sowie der allfälligen Entsendung einer Delegation zu Verhandlungen mit dem Obersten Rat nach Paris auf Grundlage des von ihm entwickelten Programmes.</p>
@@ -462,8 +437,7 @@
             <div type="stenogramme">
                <div n="1">
                   <head>[KRP 125, 28. November 1919, Stenogramm Gross]</head>
-                  <p>
-                     <pb facs="krp-0125_s01-0001"/>I.</p>
+                  <p><pb facs="krp-0125_s01-0001"/>I.</p>
                   <p>Loewenfeld-Russ: [Ich] kann nächste Woche nicht die volle Brotquote ausgeben. [In] Wien ein Laib und die halbe Mehlquote, [für] Schwerarbeiter 1 ¾ [Laib], ¼ Laib frei. Die Lage ist nicht besser gegen vorige Woche. </p>
                   <p>Die Waggons wurde mühsam zusammengebracht und in der Provinz ist es noch schlechter als in Wien. In der Provinz nicht einmal die Quote wie in Wien. Die Transporte aus Triest haben </p>
                   <p>angefangen, [es wurde ein] 10.000-Tonnen-Geschäft mit Italien gemacht. Es ist von Paris die Mitteilung gekommen, dass aus dem 48-Millionen-K[redit], den die Entente als erschöpft erklärte, </p>
@@ -492,8 +466,7 @@
                   <p>Paris. Beim Weggehen machte er eine Andeutung, dass wir nicht direkt einen Kredit bekommen werden, sondern die Tschechen, Jugoslawen und Polen müssen uns liefern. </p>
                   <p>Wir zahlen in Entente-Valuta, aber sie bekommen sie direkt von den Großmächten. Die Großmächte zahlen für uns bei den Nationalstaaten. Das ist für uns ein </p>
                   <p>unwürdiges Verhältnis, aber für die Nachbarstaaten ein Zwang, weil sie Auslands-Valuta brauchen und um die zu bekommen werden sie liefern. </p>
-                  <p>
-                     <pb facs="krp-0125_s01-0002"/>Sie können ihre Valuta bessern, wir nicht. Das scheint so gemeint zu sein. Es ist möglich, dass diese Regelung gewollt ist, dass sie, um das durchzusetzen, </p>
+                  <p><pb facs="krp-0125_s01-0002"/>Sie können ihre Valuta bessern, wir nicht. Das scheint so gemeint zu sein. Es ist möglich, dass diese Regelung gewollt ist, dass sie, um das durchzusetzen, </p>
                   <p>dazu die Zustimmung von Prag, Warschau und Belgrad eingeholt haben. Die Verzögerung mag vielleicht daran hängen. Heute abends geht [er] nach Paris </p>
                   <p>ab, weil der amerikanische Vertreter Polk [...] oder Mittwoch nach Amerika zurückreist. Heute vollziehen sich die Dinge so, dass [...] der RK. [Reparationskommission] berichten, diese </p>
                   <p>geht an den Obersten Wirtschaftsrat .... Berichten diese die Regierung fragen, diese amerikanische Regierung fragen müssen - die amerikanische Regierung sei gar nicht berufen, als solche Geld </p>
@@ -519,8 +492,7 @@
                   <p>Renner: Um die eine Notwendigkeit zu erweisen, kann alles herangezogen werden. Daher [ist] auch die Darstellung von Wichtigkeit alles dessen, was bisher nicht gehalten wurde. </p>
                   <p>Die Gesandten berichten nicht der Friedenskonferenz, sondern ihren Mächten. Dieser berichten die Subkommissionen. Es ist aber niemand da. Sie haben keine Kompetenz.</p>
                   <p>Es wird darauf hinauslaufen, uns durch Vorstellung bei den fünf Gesandten uns den Weg nach Paris zu bahnen. Leider ist Polk nicht da. </p>
-                  <p>
-                     <pb facs="krp-0125_s01-0003"/>Bei den Unterredungen mit ?Smith sagte er, die Subkommission wünscht die Veräußerung der Bilder und die Verpfändung des Tabakmonopols und dessen, was wir </p>
+                  <p><pb facs="krp-0125_s01-0003"/>Bei den Unterredungen mit ?Smith sagte er, die Subkommission wünscht die Veräußerung der Bilder und die Verpfändung des Tabakmonopols und dessen, was wir </p>
                   <p>sonst verpfänden wollen. Wenn die anderen die fremde Valuta bekommen und wir es in Kronen schulden, so hätten wir auf der anderen Seite </p>
                   <p>die Möglichkeit, unsere eigenen Wege in finanziellen Dingen zu gehen. Darin müssen wir zu einem positiven Projekt kommen, dass man allgemein erklärt </p>
                   <p>und zu dessen Realisierung man alle finanziellen Kräfte der anderen einlädt - Holland und wer überhaupt will. Wir sollten zum Projekt stellen: 1.) den Verkauf des </p>
@@ -546,8 +518,7 @@
                   <p>dass diese Berichte von der Kommission an den Staatsrat und den Kabinettsrat und von hier an die Nationalversammlung vorgelegt werden müssen. Der 7. Bericht weist auf den 6. hin. Wir können </p>
                   <p>ihn nicht der Nationalversammlung vorlegen, wenn das nicht auch mit dem 6. geschehen ist. Will man den 6. Bericht nicht veröffentlichen, so könnte man der Kommission </p>
                   <p>den Bericht zurückstellen, damit sie ihn nicht auf § 8 vorlegt, sondern als vorläufigen Bericht und der Schlussbericht erst auf § 8 erstattet wird.</p>
-                  <p>
-                     <pb facs="krp-0125_s01-0004"/>Über den Fall Pok[orny] werde ich mir die Akten vorlegen lassen. Wir müssen die Unabhängigkeit der Richter schützen und das muss auch die Kommission tun. Deswegen, weil </p>
+                  <p><pb facs="krp-0125_s01-0004"/>Über den Fall Pok[orny] werde ich mir die Akten vorlegen lassen. Wir müssen die Unabhängigkeit der Richter schützen und das muss auch die Kommission tun. Deswegen, weil </p>
                   <p>einmal ein Urteil nicht so ausgefallen ist, wie sie glaubte, so kann sie daraus keine Konsequenz tun. Das wäre ein Zwang auf die Unabhängigkeit der Gerichte, </p>
                   <p>wo kein Material vorliegt, um die Richter der Unobjektivität zu zeihen.</p>
                   <p>Renner: Ich habe selbst gesagt, dass die Rechtsauffassung des Gerichtshofes, sei ehrlich und redlich, so sehr vom natürlichen Rechtsbewusstsein des Volkes abweichen, dass eine </p>
@@ -576,8 +547,7 @@
                   <p>eine große Anzahl von Soldaten in die Gefangenschaft zu bringen. Und das stellt die politische Seite der Sache dar. Darum müssten alle Akten gesammelt werden und die </p>
                   <p>Offiziere einvernommen werden. Das Ansehen der Kommission muss nach außen hin gestützt werden, sonst sind wir eine Behörde, die niemand respektiert. </p>
                   <p>Die politische Seite kehrt sich zurück auf die Nationalversammlung und das Kabinett.</p>
-                  <p>
-                     <pb facs="krp-0125_s01-0005"/>Eisler: Nach meiner Meinung ist nicht die - von der Hand zu weisen, dass ihre Doppelfunktion eine Quelle von Verlegenheiten werden muss. Es ist unmöglich, dass </p>
+                  <p><pb facs="krp-0125_s01-0005"/>Eisler: Nach meiner Meinung ist nicht die - von der Hand zu weisen, dass ihre Doppelfunktion eine Quelle von Verlegenheiten werden muss. Es ist unmöglich, dass </p>
                   <p>die Ergebnisse der Arbeit dieser Kommission, wenn sie [nicht] das Schicksal haben sollen, wie der Fall Pokorny - dass [wenn] die Kommission ihre Rechtsüberzeugung dadurch [zum] Ausdruck gibt, </p>
                   <p>dass sie einen Fall als änderungswürdig bezeichnet, [sie] wieder durch einen Freispruch desavouiert wird. Das wird aber die Regel werden, dann werden immer Schwierigkeiten entstehen.</p>
                   <p>Auf der anderen Seite hat die Kommission die Aufgabe, Material zu sammeln und akademisch die Wahrheit über das, was sie erforscht hat, mitzuteilen. Aber welches </p>
@@ -597,14 +567,12 @@
                   <p>privaten Diensten zu gewinnen. Bei der Polizei wird sofort der Regierungsrats-Titel verliehen, weil der Titel Oberpolizeirat nicht in besonderer Geltung steht. [Ich] bitte, diesen Beschluss </p>
                   <p>dahin abzuändern, dass die VI. Rangsklasse als Regierungsrat beibehalten wird.</p>
                   <p>V.</p>
-                  <p>
-                     <hi rend="#s">Zerdik:</hi> -. Reisch: Zuschüsse zu den Pensionen. [Ich] beantrage die Genehmigung der vorgeschlagenen Verfügung.</p>
+                  <p><hi rend="#s">Zerdik:</hi> -. Reisch: Zuschüsse zu den Pensionen. [Ich] beantrage die Genehmigung der vorgeschlagenen Verfügung.</p>
                   <p>Paul: Seit einer Woche werde ich von den Pensionisten bestürmt und das Elend unter ihnen ist groß. Eine Abordnung will Montag vorsprechen wegen der Auszahlung des November-Zuschusses. Kann man </p>
                   <p>die Leute damit beruhigen, dass sie den Betrag in den nächsten Tagen bekommen werden?</p>
                   <p>Reisch: [Ich] bitte auch [um] die Ermächtigung zu einer <hi rend="#u">Pressenotiz</hi>.</p>
                   <p>Angenommen.</p>
-                  <p>
-                     <pb facs="krp-0125_s01-0006"/>VI.</p>
+                  <p><pb facs="krp-0125_s01-0006"/>VI.</p>
                   <p>Zerdik: [In der] Sitzung vom 11. VII. [wurde] beschlossen, die Einbringung auf den Herbst zu verschieben, damit auch das Gesetz über Arbeiterkammern erledigt werden kann. Mit der Sozialen Verwaltung ist ein </p>
                   <p>Einvernehmen mit der - Einvernehmen über den Konnex mit den Arbeiterkammern erzielt. [Ungeklärt sind noch] zwei Fragen: Das Kammeramt und der Proporz. Die Kammern sind von dieser </p>
                   <p>Änderung verständigt worden und haben sich damit abgefunden. [Es war ein] großer Kampf unter den Interessenten über den Gesetzentwurf, besonders [wurde eine] selbständige Kaufmannskammer verlangt. Allen Wünschen der </p>
@@ -632,8 +600,7 @@
                   <p>nicht hinein, weil dort der Staat nichts dreinzureden hat. Die übrigen Punkte, der Proporz, wurden bereinigt. Ich erhebe keinen Einspruch, hebe das aber </p>
                   <p>hervor. Das Arbeiterkammergesetz ist fertig und kann nach Anhörung der Interessenten dem Haus vorgelegt werden.</p>
                   <p>Loewenfeld-Russ: [Zu] § 2, Absatz 3. Ist die Ein[ver]nahme der Kammer über Gesetzentwürfe obl[igat] oder nicht? Darüber war schon früher ein Streit.</p>
-                  <p>
-                     <pb facs="krp-0125_s01-0007"/>Zweite Frage: Warum wird das Budgetjahr der Kammer nicht mit dem Budgetjahr des Staates in Übereinstimmung gesetzt?</p>
+                  <p><pb facs="krp-0125_s01-0007"/>Zweite Frage: Warum wird das Budgetjahr der Kammer nicht mit dem Budgetjahr des Staates in Übereinstimmung gesetzt?</p>
                   <p>Zerdik: § 5, Absatz 2, ist auch ein Kompromiss. Es soll gesagt werden, dass man das Gutachten ihnen sichert, man aber nicht darauf zu warten braucht. </p>
                   <p>Das Budgetjahr hängt zusammen mit der Erwerbsteuer, welche mit dem Kalenderjahr zusammenfällt.</p>
                   <p>Fink: [Ich] frage, ob die Herren R[esch] und M[ayr] darauf bestehen, dass abgestimmt wird und die Sache verschoben wird?</p>
@@ -662,8 +629,7 @@
                   <p>des Kabinettsrates zu bewilligen. ?Schuster [...] war der Anlass. Ich finde keinen rechten Platz in dem Finanzgesetz zu einer solchen Ermächtigung und würde überhaupt glauben, dass </p>
                   <p>es sich besser machen würde, wenn dieser Antrag von außen käme. Vom finanziellen Standpunkt ist es nicht sehr zu begrüßen, wenn ein solcher Ermächtigungsparagraph im </p>
                   <p>Gesetz [ist], weil sich dadurch der Ansturm vermehren wird. Eventuell wäre ein Pauschalkredit dafür vorzusehen, aber auch dazu ist der Nachtrag nicht der richtige Platz.</p>
-                  <p>
-                     <pb facs="krp-0125_s01-0008"/>Renner: Der Präsident wird enttäuscht sein, er hat den ?Schusterakt so lange liegen.</p>
+                  <p><pb facs="krp-0125_s01-0008"/>Renner: Der Präsident wird enttäuscht sein, er hat den ?Schusterakt so lange liegen.</p>
                   <p>Zerdik: Mit ?Schuster sind wir in einer peinlichen Lage. Er hat 17.000 [Kronen] Ruhegenuss. Er hat seine Ersparnisse aufgezehrt und ist in einer sehr</p>
                   <p> prekären Lage. Es musste ihm bereits ein Unterstützungsbetrag zugewiesen werden. Seitz sieht ein, dass man ihm 12.000 Kronen Zuschuss geben </p>
                   <p>muss. Er will nur verfassungsmäßig gedeckt sein, weil bisher nur 2-3.000 Kronen Zulage gewährt wurden. Ich erblicke keine besondere Gefahr, das </p>
@@ -680,8 +646,7 @@
                   <p>Das müsste bei der Post ausgedrückt werden: 'Welche aufgrund des Antrages des Kabinettsrates vom Präsidenten zu bewilligen sind.' Er braucht eine Ermächtigung von der </p>
                   <p>verfassunggebenden Körperschaft. Es müsste mit dem Präsidenten gesprochen werden, ob die Einstellung der Budgetpost ihm ?[ent]spricht.</p>
                   <p>Renner: Am besten wird der Budgetausschuss die nötigen Ergänzungen machen. Unverändert einbringen.</p>
-                  <p>
-                     <hi rend="#s">Fink: Der Präsident möchte</hi> -.</p>
+                  <p><hi rend="#s">Fink: Der Präsident möchte</hi> -.</p>
                   <p>Reisch: Der Budgetausschuss wird nicht zur Beschlussfassung kommen.</p>
                   <p>Fink: Der Ausschuss wird ein L. [...] machen, aber die Sache dazu nehmen. Es sollten alle Zulagen gedeckt werden.</p>
                   <p>Grimm: [Ich] empfehle, dass diese Post schon in den Voranschlag aufgestellt - eingestellt wird. Seit '19 außerordentliche Zulagen.</p>
@@ -691,8 +656,7 @@
                   <p>Personal[ausgaben]. In den Erläuterungen [könnte man] sagen, dass darüber der Präsident über Vorschlag des Kabinettsrates bewilligt. Die Zulagen, die von jedem Staatssekretär bewilligt werden können, </p>
                   <p>[...] - zwei Staatssekretär, vier Kabinett, über vier Präsident.</p>
                   <p>Reisch: Zur Sanierung eines -.</p>
-                  <p>
-                     <pb facs="krp-0125_s01-0009"/>VIII.</p>
+                  <p><pb facs="krp-0125_s01-0009"/>VIII.</p>
                   <p>Reisch: Prov[isorium].</p>
                   <p>IX.</p>
                   <p>Zerdik: Zeitungsleute.</p>

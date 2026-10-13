@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0184.xml">
             <head type="dokument">
-               <title type="num">184.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">184.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0184_r-0001"/>[Donnerstag] 1920-05-20</title>
@@ -281,9 +280,7 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0184_top02">Zu TOP 2</ref>: <ref target="#krp-0184_b01">Vortrag des über die in Prag stattgefundenen Verhandlungen der von der österreichischen und der tschechoslowakischen Regierung zur Bereinigung der staatsbürgerlichen- und Minderheitsschutzfragen eingesetzten zwischenstaatlichen Kommission</ref>
-                  </item>
+                  <item><ref target="#krp-0184_top02">Zu TOP 2</ref>: <ref target="#krp-0184_b01">Vortrag des über die in Prag stattgefundenen Verhandlungen der von der österreichischen und der tschechoslowakischen Regierung zur Bereinigung der staatsbürgerlichen- und Minderheitsschutzfragen eingesetzten zwischenstaatlichen Kommission</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -310,15 +307,13 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0184_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 184 vom 20. Mai 1920.</p>
+               <p><pb facs="krp-0184_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 184 vom 20. Mai 1920.</p>
                <div n="1">
                   <head>Verhandlungen mit der tschechoslowakischen Regierung über Staatsbürgerschaft und Minderheitsschutz.</head>
                   <div type="a01_protokoll">
                      <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass die augenblicklich in Wien fortgesetzten Verhandlungen mit der tschechoslowakischen Regierung im Rahmen der zur Bereinigung der staatsbürgerrechtlichen und Minderheitsschutzfragen eingesetzten zwischenstaatlichen Kommission in einzelnen Punkten zu einem befriedigenden Ergebnis geführt haben. Dagegen haben die Vertreter der tschech[oslowakischen] Regierung bezüglich der Minderheitsschulen eine Regelung gewünscht, der unsere Unterhändler nicht beitreten zu können glauben, ohne sich vorher der Zustimmung des Kabinettsrates vergewissert zu haben. Die betreffenden Punkte seien, da es sich im Wesen um die Errichtung tschechischer Schulen in Wien handle, auch der Gemeinde Wien zur Stellungnahme mitgeteilt worden, doch stehe deren Äußerung derzeit noch aus. Der Kabinettsrat hätte sich also zu entscheiden, ob die Staatsregierung in der Lage sei, die politische Verantwortung für die den Tschechen zu machenden Zugeständnisse auf sich zu nehmen.</p>
                      <p>Sektionsrat Dr. <hi rend="#letterspaced">Froehlich</hi> unterbreitet dem Kabinettsrate die diesem Protokolle als Beilage angeschlossenen Formulierungen über die in Betracht kommenden Punkte.</p>
-                     <p>
-                        <pb facs="krp-0184_a01-0002"/>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> bemängelt den Gebrauch des Ausdruckes „tschechoslowakische Sprache“, weil daraus die Verpflichtung zur Errichtung auch slowakischer Schulen abgeleitet werden könnte.</p>
+                     <p><pb facs="krp-0184_a01-0002"/>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> bemängelt den Gebrauch des Ausdruckes „tschechoslowakische Sprache“, weil daraus die Verpflichtung zur Errichtung auch slowakischer Schulen abgeleitet werden könnte.</p>
                      <p>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> schließt sich diesem Bedenken an. Die Slowaken arbeiten, entgegen allen Unterdrückungsversuchen der Tschechen, an der Anerkennung ihrer Sprache als einer eigenen Literatursprache und es widerspreche den tatsächlichen Verhältnissen, in einem internationalen Abkommen von dem Bestande einer beiden Volksstämmen gemeinsamen tschechoslowakischen Sprache auszugehen.</p>
                      <p>Sektionsrat Dr. <hi rend="#letterspaced">Froehlich</hi> verweist demgegenüber darauf, dass der Begriff der „tschechoslowakischen Sprache“ in der tschechoslowakischen Verfassung und im dortigen Sprachengesetz niedergelegt und umschrieben sei und die Zustimmung der tschechoslowakischen Vertreter zu einem Abgehen von diesem Ausdrucke kaum zu erlangen sein dürfte.</p>
                      <p>Der <hi rend="#letterspaced">Vorsitzende</hi> hält den Versuch, darin eine Änderung durchzusetzen, als aussichtslos und meint, dass der Ausdruck „tschechoslowakische Sprache“ beibehalten werden sollte, umso mehr, als einmal eine Zeit kommen könnte, <pb facs="krp-0184_a01-0003"/>wo Österreich ein Interesse daran hat, ihn zur Begünstigung slowakischer Schulen auszunützen.</p>

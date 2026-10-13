@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0099.xml">
             <head type="dokument">
-               <title type="num">99.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">99.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0099_r-0001"/>
@@ -282,36 +281,16 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0099_top02">Zu TOP 2</ref>: <ref target="#krp-0099_b01">Referat der Staatskanzlei zu Zl. 3004/1-St.K.-1919 über den oberösterreichischen Gesetzesbeschluss über die Errichtung eines Landwirtschaftsrates und die Bestellung von Wirtschaftskommissären für Oberösterreich samt Gesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top04">Zu TOP 4</ref>: <ref target="#krp-0099_b02">Antrag des Staatsamtes für Land- und Forstwirtschaft Zl. 16920 gegen den Gesetzesbeschluss der Landesversammlung Salzburg über die Abänderung und Ergänzung einiger Bestimmungen des Salzburger Wasserrechtsgesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top05">Zu TOP 5</ref>: <ref target="#krp-0099_b03">Vollzugsanweisung der Staatsregierung über die Trennung der Verwaltung des Telegrafen-, Fernsprech- und Rohrpostwesens von der Postverwaltung mit Begründung, Organisationsentwurf, Forderungen des Verbandes der im staatlichen Telefon-, Telegrafen- und Rohrpostdienst stehenden Organe sowie Gutachten der Generaldirektion für Post-, Telegrafen- und Fernsprechwesen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top06">Zu TOP 6</ref>: <ref target="#krp-0099_b04">Vollzugsanweisung des Staatsamtes für soziale Verwaltung zur Unterstützung arbeitsloser Arbeiter und Angestellter</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top07">Zu TOP 7</ref>: <ref target="#krp-0099_b05">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Erhaltung des Arbeiterstandes in gewerblichen Betrieben</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top08">Zu TOP 8</ref>: <ref target="#krp-0099_b06">Vollzugsanweisung des Staatsamtes für soziale Verwaltung für die dritte Ausgabe der Krankenkassentaxe mit Begründung zu Zl. 19835/VG/1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top08">Zu TOP 8</ref>: <ref target="#krp-0099_b07">Vollzugsanweisung des Staatsamtes für soziale Verwaltung für die achte Ausgabe für die Arzneitaxe der österreichischen Pharmakopöe mit Begründung zu Zl. 19834/VG/1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top09">Zu TOP 9</ref>: <ref target="#krp-0099_b08">Referat des Staatsamtes für soziale Verwaltung Zl. 19257/VG über die Beurlaubung des Beamten Dr. Hugelmann</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top10">Zu TOP 10</ref>: <ref target="#krp-0099_b09">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesentwurf des Niederösterreichischen Landtages für die Einhebung einer Landesabgabe von öffentlichen Vorführungen und Tanzunterhaltungen in Niederösterreich</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0099_top11">Zu TOP 11</ref>: <ref target="#krp-0099_b10">Vortrag und Referat der deutschösterreichischen Staatskanzlei mit dem Schriftwechsel über den von Vorarlberg angestrebten Anschluss an die Schweiz sowie Zuschrift der Staatskanzlei über den eventuellen Anschluss Vorarlbergs an die Schweiz</ref>
-                  </item>
+                  <item><ref target="#krp-0099_top02">Zu TOP 2</ref>: <ref target="#krp-0099_b01">Referat der Staatskanzlei zu Zl. 3004/1-St.K.-1919 über den oberösterreichischen Gesetzesbeschluss über die Errichtung eines Landwirtschaftsrates und die Bestellung von Wirtschaftskommissären für Oberösterreich samt Gesetz</ref></item>
+                  <item><ref target="#krp-0099_top04">Zu TOP 4</ref>: <ref target="#krp-0099_b02">Antrag des Staatsamtes für Land- und Forstwirtschaft Zl. 16920 gegen den Gesetzesbeschluss der Landesversammlung Salzburg über die Abänderung und Ergänzung einiger Bestimmungen des Salzburger Wasserrechtsgesetzes</ref></item>
+                  <item><ref target="#krp-0099_top05">Zu TOP 5</ref>: <ref target="#krp-0099_b03">Vollzugsanweisung der Staatsregierung über die Trennung der Verwaltung des Telegrafen-, Fernsprech- und Rohrpostwesens von der Postverwaltung mit Begründung, Organisationsentwurf, Forderungen des Verbandes der im staatlichen Telefon-, Telegrafen- und Rohrpostdienst stehenden Organe sowie Gutachten der Generaldirektion für Post-, Telegrafen- und Fernsprechwesen</ref></item>
+                  <item><ref target="#krp-0099_top06">Zu TOP 6</ref>: <ref target="#krp-0099_b04">Vollzugsanweisung des Staatsamtes für soziale Verwaltung zur Unterstützung arbeitsloser Arbeiter und Angestellter</ref></item>
+                  <item><ref target="#krp-0099_top07">Zu TOP 7</ref>: <ref target="#krp-0099_b05">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Erhaltung des Arbeiterstandes in gewerblichen Betrieben</ref></item>
+                  <item><ref target="#krp-0099_top08">Zu TOP 8</ref>: <ref target="#krp-0099_b06">Vollzugsanweisung des Staatsamtes für soziale Verwaltung für die dritte Ausgabe der Krankenkassentaxe mit Begründung zu Zl. 19835/VG/1919</ref></item>
+                  <item><ref target="#krp-0099_top08">Zu TOP 8</ref>: <ref target="#krp-0099_b07">Vollzugsanweisung des Staatsamtes für soziale Verwaltung für die achte Ausgabe für die Arzneitaxe der österreichischen Pharmakopöe mit Begründung zu Zl. 19834/VG/1919</ref></item>
+                  <item><ref target="#krp-0099_top09">Zu TOP 9</ref>: <ref target="#krp-0099_b08">Referat des Staatsamtes für soziale Verwaltung Zl. 19257/VG über die Beurlaubung des Beamten Dr. Hugelmann</ref></item>
+                  <item><ref target="#krp-0099_top10">Zu TOP 10</ref>: <ref target="#krp-0099_b09">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesentwurf des Niederösterreichischen Landtages für die Einhebung einer Landesabgabe von öffentlichen Vorführungen und Tanzunterhaltungen in Niederösterreich</ref></item>
+                  <item><ref target="#krp-0099_top11">Zu TOP 11</ref>: <ref target="#krp-0099_b10">Vortrag und Referat der deutschösterreichischen Staatskanzlei mit dem Schriftwechsel über den von Vorarlberg angestrebten Anschluss an die Schweiz sowie Zuschrift der Staatskanzlei über den eventuellen Anschluss Vorarlbergs an die Schweiz</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -341,9 +320,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> spricht sich gegen diesen Antrag aus. Der Gesetzesbeschluss beruhe auf einem Kompromiss sämtlicher drei Parteien des Landtages und sei einstimmig gefasst worden. Es handle sich um einen Versuch, Konflikte zwischen Arbeiterrat, Bauernrat und Landesregierung durch Schaffung einer gemeinsamen Körperschaft beizulegen. Ein solches Kompromiss dürfe nicht gestört werden. Zudem seien die Wirtschaftskommissäre nur begutachtende Organe, denen keinerlei Exekutivgewalt eingeräumt werde.</p>
                   <p>Im weiteren Zuge der Debatte, an welcher sich außer dem Vorsitzenden noch die Staatssekretäre <hi rend="#letterspaced">Stöckler</hi> und Dr. <hi rend="#letterspaced">Bratusch</hi> beteiligten, trat die Auffassung zutage, dass eine hinlängliche gesetzliche Grundlage für die Erhebung einer Vorstellung nicht gegeben sei, welcher Auffassung schließlich auch der Antragsteller beitrat.</p>
                   <p>Der Kabinettsrat beschließt sohin, von der Erhebung einer Vorstellung gegen den Gesetzesbeschluss abzusehen und der sofortigen Verlautbarung des Gesetzes zuzustimmen.</p>
-                  <p>
-                     <pb facs="krp-0099_r-0007"/>
-                  </p>
+                  <p><pb facs="krp-0099_r-0007"/></p>
                </div>
                <div type="top" xml:id="krp-0099_top03">
                   <head>
@@ -432,9 +409,7 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> teilt mit, dass er der Niederösterreichischen Landesregierung in Anhoffnung der nachträglichen Genehmigung der Staatsregierung im kurzen Wege die Zustimmung zur sofortigen Verlautbarung des vom Niederösterreichischen Landtag beschlossenen Entwurfes eines Gesetzes, betreffend die Einhebung einer Landesabgabe von öffentlichen Vorführungen und Tanzunterhaltungen (Lustbarkeitsabgabe) im Lande Niederösterreich, erteilt habe, da dieser Gesetzesbeschluss in sachlicher und formeller Beziehung zu einer Vorstellung keinen Anlass biete.</p>
                   <p>Der sprechende Staatssekretär erbittet und erhält die nachträgliche Genehmigung zu dieser Verfügung.</p>
-                  <p>
-                     <pb facs="krp-0099_r-0017"/>
-                  </p>
+                  <p><pb facs="krp-0099_r-0017"/></p>
                </div>
                <div type="top" xml:id="krp-0099_top11">
                   <head>
@@ -452,24 +427,18 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0099_a01-0001"/>Streng geheimer Anhang, zum Kabinettsprotokoll Nr. 99 vom 20. August 1919.</p>
+               <p><pb facs="krp-0099_a01-0001"/>Streng geheimer Anhang, zum Kabinettsprotokoll Nr. 99 vom 20. August 1919.</p>
                <div n="1">
                   <head>Gegenstand: Die westungarische Frage.</head>
                   <div type="a01_protokoll">
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Bratusch</hi> teilt mit, dass der Hauptausschuss der Nationalversammlung in seiner Sitzung am 18. August d. J. folgende Beschlüsse gefasst habe:</p>
                      <list>
-                        <item n="1">
-                           <label>1.)</label> Dem Kabinette den Auftrag zu erteilen, im Falle des Einlangens der Zustimmung der Entente die Besetzung Westungarns vorzunehmen.</item>
-                        <item n="2">
-                           <label>2.)</label> Ein Kommuniqué zu veröffentlichen, in welchem der einstimmige Beschluss des Hauptausschusses bekanntgegeben wird, die Note des Staatskanzlers vom 14. August d. J., in der er den Obersten Rat der Verbündeten in Paris ersucht hatte, einer Besetzung Westungarns durch deutschösterreichische Sicherheitsorgane zuzustimmen, genehmigend zur Kenntnis zu nehmen und namens Deutschösterreichs an die Bevölkerung Deutsch-Westungarns einen Aufruf zu richten, für dessen Massenverbreitung zu sorgen ist.</item>
+                        <item n="1"><label>1.)</label> Dem Kabinette den Auftrag zu erteilen, im Falle des Einlangens der Zustimmung der Entente die Besetzung Westungarns vorzunehmen.</item>
+                        <item n="2"><label>2.)</label> Ein Kommuniqué zu veröffentlichen, in welchem der einstimmige Beschluss des Hauptausschusses bekanntgegeben wird, die Note des Staatskanzlers vom 14. August d. J., in der er den Obersten Rat der Verbündeten in Paris ersucht hatte, einer Besetzung Westungarns durch deutschösterreichische Sicherheitsorgane zuzustimmen, genehmigend zur Kenntnis zu nehmen und namens Deutschösterreichs an die Bevölkerung Deutsch-Westungarns einen Aufruf zu richten, für dessen Massenverbreitung zu sorgen ist.</item>
                      </list>
-                     <p>
-                        <pb facs="krp-0099_a01-0002"/>
-                     </p>
+                     <p><pb facs="krp-0099_a01-0002"/></p>
                      <list>
-                        <item n="1">
-                           <label>3.)</label> Das Kabinett anzuweisen, im Staatsamt für Inneres eine Verwaltungsstelle einzusetzen, welche alle verwaltungs-organisatorischen Vorbereitungen für den Anschluss Westungarns an Deutschösterreich zu treffen hätte. In dieser Verwaltungsstelle hätten alle in Betracht kommenden Staatsämter, ferner die politischen Parteien und die beteiligten Landesregierungen zu vertreten sein.</item>
+                        <item n="1"><label>3.)</label> Das Kabinett anzuweisen, im Staatsamt für Inneres eine Verwaltungsstelle einzusetzen, welche alle verwaltungs-organisatorischen Vorbereitungen für den Anschluss Westungarns an Deutschösterreich zu treffen hätte. In dieser Verwaltungsstelle hätten alle in Betracht kommenden Staatsämter, ferner die politischen Parteien und die beteiligten Landesregierungen zu vertreten sein.</item>
                      </list>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> berichtet, über eine Unterredung, die er am 18. August nachmittags mit dem bei ihm im Auftrage des Generals Segré erschienenen Major Salvi gehabt habe. General Segré habe ihm durch den genannten Offizier die freundschaftliche Mitteilung machen lassen, dass Deutschösterreich das deutschwestungarische Gebiet besetzen könne.</p>
                      <p>Auf die Frage des sprechenden Staatssekretärs, ob diese Mitteilung offiziell sei oder nur eine private Mitteilung des Generals Segré darstelle, habe Major Salvi erklärt, dass der General Segré keine privaten Mitteilungen mache und somit auch die heutige als offiziell aufzufassen wäre.</p>
@@ -478,8 +447,7 @@
                      <p>Staatssekretär Dr. Deutsch sei nach Rücksprache mit Staatssekretär Eldersch der Auffassung, dass durch diese Mitteilungen die Zustimmung der Entente noch nicht. als gegeben erachtet werden könne.</p>
                      <p>Der Kabinettsrat tritt dieser Auffassung bei und beschließt, von einer Veröffentlichung der Äußerung des Generals Segré Umgang zu nehmen.</p>
                      <p>Gesandter <hi rend="#letterspaced">Ippen</hi> bringt dem Kabinettsrate die heute dem Herrn ungarischen Außenminister Lovaszy überreichte Verbalnote zur Kenntnis, die die Antwort des Staatskanzlers auf die am 17. August 1919 überreichte Protestnote der ungarischen Regierung darstelle.</p>
-                     <p>
-                        <pb facs="krp-0099_a01-0004"/>Gesandter Ippen macht weiters Mitteilung von einer Unterredung mit dem französischen Bevollmächtigten Allizé, deren Ergebnis die Absendung einer Note Allizés an die französische Regierung des Inhaltes war, dass den rumänischen Truppen aufzutragen wäre, die Demarkationslinie keinesfalls zu überschreiten. Im Interesse der Beruhigung Deutsch-Westungarns sei es nötig, die magyarischen Formationen einschließlich der Gendarmerie aus dem Lande zu ziehen; da aber die in Betracht kommenden Gebiete nicht ohne Bedeckungstruppen belassen werden könnten, so sei es im Interesse der Aufrechterhaltung der Ruhe und Ordnung notwendig, deutschösterreichische Formationen einmarschieren zu lassen.</p>
+                     <p><pb facs="krp-0099_a01-0004"/>Gesandter Ippen macht weiters Mitteilung von einer Unterredung mit dem französischen Bevollmächtigten Allizé, deren Ergebnis die Absendung einer Note Allizés an die französische Regierung des Inhaltes war, dass den rumänischen Truppen aufzutragen wäre, die Demarkationslinie keinesfalls zu überschreiten. Im Interesse der Beruhigung Deutsch-Westungarns sei es nötig, die magyarischen Formationen einschließlich der Gendarmerie aus dem Lande zu ziehen; da aber die in Betracht kommenden Gebiete nicht ohne Bedeckungstruppen belassen werden könnten, so sei es im Interesse der Aufrechterhaltung der Ruhe und Ordnung notwendig, deutschösterreichische Formationen einmarschieren zu lassen.</p>
                      <p>Gesandter Ippen habe weiters dem Bevollmächtigten Allizé mitgeteilt, dass die deutschösterreichische Regierung auf dem Standpunkt stehe, mit der Besetzung Westungarns erst dann vorzugehen, wenn die Zustimmung der Entente hiezu eingelangt sei.</p>
                      <p/>
                   </div>

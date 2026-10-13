@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0060.xml">
             <head type="dokument">
-               <title type="num">60.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">60.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0060_r-0001"/>
@@ -282,36 +281,16 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0060_top05">Zu TOP 5</ref>: <ref target="#krp-0060_b01">Gesetzesentwurf über die definitive Anstellung der Bezirksinspektoren samt Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top06">Zu TOP 6</ref>: <ref target="#krp-0060_b02">Erlass des Unterstaatssekretärs für Unterricht Zl. 950/U an alle Landesschulbehörden über die Teilnahme der Schuljugend an den religiösen Übungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top07">Zu TOP 7</ref>: <ref target="#krp-0060_b03">Antrag des Staatssekretärs für Heereswesen auf Ermächtigung zur Vergebung von Notstandsarbeiten an die Firma Böhler &amp; Co samt Abschrift der Zustimmung des Staatsamtes für Finanzen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top08">Zu TOP 8</ref>: <ref target="#krp-0060_b04">Vollzugsanweisung des Staatsamtes für Volksernährung hinsichtlich Zuckerrübe und Rohrzucker im Betriebsjahr 1919/20</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top09">Zu TOP 9</ref>: <ref target="#krp-0060_b05">Gesetzesbeschluss der Provisorischen Landesregierung Kärntens über eine Änderung des Kärntner Wasserrechtsgesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top10">Zu TOP 10</ref>: <ref target="#krp-0060_b06">Vollmacht an Rechtsanwalt Dr. Gustav Harpner auf Vertretung der Republik Österreich zur Durchführung des Gesetzes über die Landesverweisung der Habsburger</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top11">Zu TOP 11</ref>: <ref target="#krp-0060_b07">Vorschlag des zwischenstaatsamtlichen Komitees für Beamtenangelegenheiten auf Abänderung der Formeln des Diensteides und der Pflichtangelobung für Lehrer</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top12">Zu TOP 12</ref>: <ref target="#krp-0060_b08">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht zur Wahlordnung für den verfassungsgebenden Landtag in Kärnten zu Zl. 12806/19</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top13">Zu TOP 13</ref>: <ref target="#krp-0060_b09">Auszug für den Kabinettsrat des Staatssekretärs für Verkehrswesen zu Zl. 256/Präs hinsichtlich Errichtung einer Staatsbahndirektion Wien Nordost</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0060_top15">Zu TOP 15</ref>: <ref target="#krp-0060_b10">Auszug für den Vortrag über Gesetzesbeschlüsse der Provisorischen Landesversammlung Salzburgs über die Gewährung von Bauerleichterungen</ref>
-                  </item>
+                  <item><ref target="#krp-0060_top05">Zu TOP 5</ref>: <ref target="#krp-0060_b01">Gesetzesentwurf über die definitive Anstellung der Bezirksinspektoren samt Begründung</ref></item>
+                  <item><ref target="#krp-0060_top06">Zu TOP 6</ref>: <ref target="#krp-0060_b02">Erlass des Unterstaatssekretärs für Unterricht Zl. 950/U an alle Landesschulbehörden über die Teilnahme der Schuljugend an den religiösen Übungen</ref></item>
+                  <item><ref target="#krp-0060_top07">Zu TOP 7</ref>: <ref target="#krp-0060_b03">Antrag des Staatssekretärs für Heereswesen auf Ermächtigung zur Vergebung von Notstandsarbeiten an die Firma Böhler &amp; Co samt Abschrift der Zustimmung des Staatsamtes für Finanzen</ref></item>
+                  <item><ref target="#krp-0060_top08">Zu TOP 8</ref>: <ref target="#krp-0060_b04">Vollzugsanweisung des Staatsamtes für Volksernährung hinsichtlich Zuckerrübe und Rohrzucker im Betriebsjahr 1919/20</ref></item>
+                  <item><ref target="#krp-0060_top09">Zu TOP 9</ref>: <ref target="#krp-0060_b05">Gesetzesbeschluss der Provisorischen Landesregierung Kärntens über eine Änderung des Kärntner Wasserrechtsgesetzes</ref></item>
+                  <item><ref target="#krp-0060_top10">Zu TOP 10</ref>: <ref target="#krp-0060_b06">Vollmacht an Rechtsanwalt Dr. Gustav Harpner auf Vertretung der Republik Österreich zur Durchführung des Gesetzes über die Landesverweisung der Habsburger</ref></item>
+                  <item><ref target="#krp-0060_top11">Zu TOP 11</ref>: <ref target="#krp-0060_b07">Vorschlag des zwischenstaatsamtlichen Komitees für Beamtenangelegenheiten auf Abänderung der Formeln des Diensteides und der Pflichtangelobung für Lehrer</ref></item>
+                  <item><ref target="#krp-0060_top12">Zu TOP 12</ref>: <ref target="#krp-0060_b08">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht zur Wahlordnung für den verfassungsgebenden Landtag in Kärnten zu Zl. 12806/19</ref></item>
+                  <item><ref target="#krp-0060_top13">Zu TOP 13</ref>: <ref target="#krp-0060_b09">Auszug für den Kabinettsrat des Staatssekretärs für Verkehrswesen zu Zl. 256/Präs hinsichtlich Errichtung einer Staatsbahndirektion Wien Nordost</ref></item>
+                  <item><ref target="#krp-0060_top15">Zu TOP 15</ref>: <ref target="#krp-0060_b10">Auszug für den Vortrag über Gesetzesbeschlüsse der Provisorischen Landesversammlung Salzburgs über die Gewährung von Bauerleichterungen</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -327,9 +306,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> teilt mit, dass eine ähnliche Anfrage auch an das Staatsamt des Äußern seitens der deutschen Reichsregierung gelangt sei. Er halte dafür, dass für uns kein zwingender Grund vorliege, eine solche Erklärung abzugeben, da sie nur den Charakter einer überflüssigen Demonstration hätte. Eine derartige Kundgebung wäre zudem auch nicht nützlich, da sie einerseits die liquidierende österreichisch-ungarische Gesandtschaft in München in eine schwierige Lage brächte, andererseits ein Agitationsmittel innerhalb Deutschösterreich gegen uns bilden könnte.</p>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> gibt der Anschauung Ausdruck, dass die deutschösterreichische Regierung, wenn <pb facs="krp-0060_r-0004"/>schon die liquidierende österreichisch-ungarische Gesandtschaft in München bestehen bleibe und es ihr überlassen werde, mit der Räteregierung, soweit es der Schutz der deutschösterreichischen Staatsangehörigen erforderlich macht, in Fühlung zu bleiben, gleichzeitig durch einen deutschösterreichischen Agenten die Verbindung mit der Regierung Hoffmann aufrechterhalten sollte.</p>
                   <p>Der Kabinettsrat beschließt, den deutschösterreichischen Gesandten in Berlin, Dr. Hartmann, für die Dauer der Abwesenheit der Regierung Hoffmann von München auch bei dieser zu akkreditieren, gleichzeitig aber die Anfrage der deutschen Reichsregierung dahin zu beantworten, dass die deutschösterreichische Regierung es nicht für opportun halte, zur bayrischen Regierungsfrage offiziell Stellung zu nehmen. Die liquidierende österreichisch-ungarische Gesandtschaft in München ist anzuweisen, mit jenen Faktoren, welche in München faktisch die Macht innehaben, so weit in Verbindung zu treten, als dies zum Schutze unserer Interessen erforderlich erscheint.</p>
-                  <p>
-                     <pb facs="krp-0060_r-0005"/>
-                  </p>
+                  <p><pb facs="krp-0060_r-0005"/></p>
                </div>
                <div type="top" xml:id="krp-0060_top02">
                   <head>
@@ -357,7 +334,7 @@
                         <seg>Abhaltung von politischen Versammlungen in Staatämtern.</seg>
                      </label>
                   </head>
-                  <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> teilt mit, dass sich eine Gruppe von Angestellten des Staatsamtes für Volksernährung an ihn mit der Bitte um Überlassung des Sitzungssaales des Staatsamtes zwecks Vornahme der Wahlen in den Bezirksarbeiterrat gewendet habe. Da es sich vorliegenden Falles um eine Veranstaltung mit politischem<pb facs="krp-0060_r-0007"/>Charakter handle, beabsichtige er diesem Ansuchen im Sinne des Beschlusses des Kabinettsrates vom 21. Dezember 1918, (Kabinettsprotokoll Nr. 25) keine Folge zu geben.</p>
+                  <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> teilt mit, dass sich eine Gruppe von Angestellten des Staatsamtes für Volksernährung an ihn mit der Bitte um Überlassung des Sitzungssaales des Staatsamtes zwecks Vornahme der Wahlen in den Bezirksarbeiterrat gewendet habe. Da es sich vorliegenden Falles um eine Veranstaltung mit politischem <pb facs="krp-0060_r-0007"/>Charakter handle, beabsichtige er diesem Ansuchen im Sinne des Beschlusses des Kabinettsrates vom 21. Dezember 1918, (Kabinettsprotokoll Nr. 25) keine Folge zu geben.</p>
                   <p>Nach einer kurzen Debatte, an welcher sich der <hi rend="#letterspaced">Vorsitzende</hi>, ferner die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi> und Dr. <hi rend="#letterspaced">Deutsch</hi> sowie Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> beteiligten, gelangt der Kabinettsrat zu der Auffassung, dass an dem Kabinettsratsbeschluss vom 21. Dezember 1918 im Prinzipe unbedingt festzuhalten sei. Eine Ausnahme könne nur, und zwar in der Form der stillschweigenden Duldung, dann gemacht werden, wenn es sich um Wahlbesprechungen oder um die Vornahme des Wahlaktes in bestimmte Vertretungskörper handelt.</p>
                </div>
                <div type="top" xml:id="krp-0060_top05">
@@ -380,8 +357,7 @@
                   <p>„Im Grunde des Art. 14, Abs. 3 des Staatsgrundgesetzes vom 21. Dezember 1867, RGBl Nr. 142, über die allgemeinen Rechte der Staatsbürger, finde ich anzuordnen, dass an allen dem Staatsamte für Inneres und Unterricht unterstehenden mittleren Lehranstalten der Zwang zur Teilnahme an religiösen Übungen untersagt ist. Die Nichtteilnahme an einer religiösen Übung darf auf die Klassifikation des Schülers keinen Einfluss ausüben.</p>
                   <p>Ebenso hat an den allgemeinen Volksschulen und an Bürgerschulen der Zwang in der angedeuteten Richtung zu entfallen, in soferne landesgesetzliche Vorschriften nicht entgegenstehen. Die Bestimmungen der §§ 10, 63, 74 und 191 der Schul- und Unterrichtsordnung, soweit sie sich auf die religiösen Übungen beziehen, treten außer Kraft.“</p>
                   <p>Der sprechende Unterstaatssekretär begründet diese Maßnahme damit, dass dem Unterrichtsamte zahlreiche Kundgebungen aus Eltern- und Lehrerkreisen vorliegen, worin eine derartige Verfügung dringend verlangt wird.</p>
-                  <p>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi>
-                     <pb facs="krp-0060_r-0009"/>spricht sich in entschiedener Weise gegen die Hinausgabe dieses Erlasses aus, welcher seiner Ansicht nach den bestehenden Gesetzen sowie der ständigen Judikatur des Reichsgerichtes widerspreche. Er beantrage daher, vorerst die gesetzlichen Grundlagen noch einer genaueren Überprüfung zu unterziehen und bis dahin die Beschlussfassung aufzuschieben.</p>
+                  <p>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> <pb facs="krp-0060_r-0009"/>spricht sich in entschiedener Weise gegen die Hinausgabe dieses Erlasses aus, welcher seiner Ansicht nach den bestehenden Gesetzen sowie der ständigen Judikatur des Reichsgerichtes widerspreche. Er beantrage daher, vorerst die gesetzlichen Grundlagen noch einer genaueren Überprüfung zu unterziehen und bis dahin die Beschlussfassung aufzuschieben.</p>
                   <p>Nach einer eingehenden Widerlegung der vom Vorredner vorgebrachten juristischen Argumente durch den Vorsitzenden stimmt die Mehrheit der Kabinettsmitglieder bei einer vorgenommenen Probeabstimmung der Hinausgabe des Erlasses zu.</p>
                   <p>Nachdem sohin ein giltiger Kabinettsbeschluss nicht zustande gekommen ist, trifft der Vorsitzende die Entscheidung, dass die beabsichtigte Verfügung unter seiner Verantwortung als Staatskanzler und als Leiter des Staatsamtes für Inneres und Unterricht zu erlassen sei. Gleichzeitig werde er die Ordinariate unmittelbar von der bevorstehenden Maßnahme in Kenntnis setzen.</p>
                </div>
@@ -392,13 +368,10 @@
                         <seg>Vergebung von Notstandsarbeiten an die Firma Böhler &amp; Co.</seg>
                      </label>
                   </head>
-                  <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi>
-                     <pb facs="krp-0060_r-0010"/>teilt mit, dass er im Einvernehmen mit dem Staatsamte für Finanzen beabsichtige, bei der Firma Gebrüder Böhler &amp; Co. die Lieferung von 250 Stück 8 cm Feldkanonen M 18 zum Einzelpreise von höchstens 45.000 K zu bestellen. Durch diese Bestellung wäre die genannte Firma in die Lage versetzt, ungefähr 500 hochqualifizierten Arbeitern durch ein Jahr volle Beschäftigung zu geben und dadurch die Arbeitslosigkeit zu vermindern, sowie einen Grundstock von qualifizierten Arbeitern zu erhalten. Erforderlichen Falles bestünde die Möglichkeit der Abgabe eines Teiles dieser Geschütze an andere Staaten.</p>
+                  <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> <pb facs="krp-0060_r-0010"/>teilt mit, dass er im Einvernehmen mit dem Staatsamte für Finanzen beabsichtige, bei der Firma Gebrüder Böhler &amp; Co. die Lieferung von 250 Stück 8 cm Feldkanonen M 18 zum Einzelpreise von höchstens 45.000 K zu bestellen. Durch diese Bestellung wäre die genannte Firma in die Lage versetzt, ungefähr 500 hochqualifizierten Arbeitern durch ein Jahr volle Beschäftigung zu geben und dadurch die Arbeitslosigkeit zu vermindern, sowie einen Grundstock von qualifizierten Arbeitern zu erhalten. Erforderlichen Falles bestünde die Möglichkeit der Abgabe eines Teiles dieser Geschütze an andere Staaten.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> erklärt, dass er nicht in der Lage sei, der Ausfuhr von Geschützen nach irgendwelchen Staaten zuzustimmen. Einerseits sprächen dagegen die Bestimmungen des italienischen Waffenstillstandsübereinkommens, andererseits schwerwiegende politische Bedenken. Auch dürfte seiner Meinung nach die Entente nicht dulden, dass bei uns Kriegsmaterial erzeugt werde.</p>
                   <p>Der Kabinettsrat stimmt diesen Ausführungen zu und beschließt, von der beabsichtigten Bestellung Abstand zu nehmen.</p>
-                  <p>
-                     <pb facs="krp-0060_r-0011"/>
-                  </p>
+                  <p><pb facs="krp-0060_r-0011"/></p>
                </div>
                <div type="top" xml:id="krp-0060_top08">
                   <head>
@@ -464,8 +437,7 @@
                   <p>Mit Rücksicht darauf, dass einerseits eine Reihe von Dienstzweigen der aufzulassenden Direktionen derzeit noch mit Arbeiten überhäuft ist, anderseits die mit der Schaffung der Direktion Wien Nordost zu lösenden Personalfragen hinsichtlich der Besetzung der höheren Posten der neuen Direktion, sowie die tunlichst weitgehende anderweitige Verwendung des freiwerdenden beträchtlichen Personalüberschusses und schließlich die erforderlichen Kanzleiübersiedlungen eine gewisse Zeit für ihre Durchführung in Anspruch nehmen, sei als Zeitpunkt, mit dem die neue Direktion den Dienst zu übernehmen hätte, der 1. Juli l. J. in Aussicht genommen.</p>
                   <p>Da die Orte, an welchen Staatsbahndirektionen zu errichten sind, sowie deren Bezirke der Genehmigung der Staatsregierung bedürfen, stelle der sprechende Staatssekretär den Antrag, der Kabinettsrat wolle beschließen:</p>
                   <p>„Die Errichtung einer neuen Staatsbahndirektion mit dem Sitze in Wien wird genehmigt.</p>
-                  <p>
-                     <pb facs="krp-0060_r-0019"/>Dieser Staatsbahndirektion werden als Amtsbezirk jene im deutschösterreichischen Staatsgebiete verbliebenen Streckenteile zugewiesen, welche bisher unter der Leitung der aufzulösenden Nordbahndirektion, Direktion für die Linien der Staatseisenbahngesellschaft und Nordwestbahndirektion standen.</p>
+                  <p><pb facs="krp-0060_r-0019"/>Dieser Staatsbahndirektion werden als Amtsbezirk jene im deutschösterreichischen Staatsgebiete verbliebenen Streckenteile zugewiesen, welche bisher unter der Leitung der aufzulösenden Nordbahndirektion, Direktion für die Linien der Staatseisenbahngesellschaft und Nordwestbahndirektion standen.</p>
                   <p>Das Staatsamt für Verkehrswesen wird beauftragt und ermächtigt, die hiernach erforderlichen weiteren organisatorischen Verfügungen im eigenen Wirkungskreise zu treffen.“</p>
                   <p>Der Kabinettsrat stimmt diesem Antrage zu.</p>
                </div>
@@ -478,8 +450,7 @@
                   </head>
                   <p>Staatssekretär Paul stellt den Antrag, die Personentarife der deutschösterreichischen Staatsbahnen bis 31. Dezember 1920 bzw. bis auf früheren Widerruf um 50 % zu erhöhen.</p>
                   <p>Der sprechende Staatssekretär begründet diesen Antrag einerseits mit der von der Südbahn beabsichtigten Erhöhung ihrer Personentarife, andererseits mit dem der Staatseisenbahnverwaltung durch die den Eisenbahnangestellten gewährten materiellen Zuwendungen verursachten Mehraufwand.</p>
-                  <p>
-                     <pb facs="krp-0060_r-0020"/>Der Kabinettsrat genehmigt den gestellten Antrag.</p>
+                  <p><pb facs="krp-0060_r-0020"/>Der Kabinettsrat genehmigt den gestellten Antrag.</p>
                </div>
                <div type="top" xml:id="krp-0060_top15">
                   <head>

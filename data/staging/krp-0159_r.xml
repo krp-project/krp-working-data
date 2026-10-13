@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0159.xml">
             <head type="dokument">
-               <title type="num">159.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">159.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0159_r-0001"/>[Freitag] 1920-03-12</title>
@@ -281,9 +280,7 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0159_top01">Zu TOP 1</ref>: <ref target="#krp-0159_b01">Vortrag des Staatsamtes für Äußeres zu Zl. 916/2 über das Sonderabkommen zwischen Österreich und Italien über den künstlerischen und wissenschaftlichen Besitz sowie Ergänzung und Erläuterung des Staatsvertrags von St. Germain</ref>
-                  </item>
+                  <item><ref target="#krp-0159_top01">Zu TOP 1</ref>: <ref target="#krp-0159_b01">Vortrag des Staatsamtes für Äußeres zu Zl. 916/2 über das Sonderabkommen zwischen Österreich und Italien über den künstlerischen und wissenschaftlichen Besitz sowie Ergänzung und Erläuterung des Staatsvertrags von St. Germain</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -340,9 +337,7 @@
                   <p>Wie bekannt, seien diese Angestellten öffentliche Fondsbedienstete, auf welche die für die Staatsbediensteten erlassenen Vorschriften nur vermöge eines besonderen konstitutiven Aktes der Staatsverwaltung Anwendung finden können. Gelegentlich der Verhandlungen über die Forderungen der Angestellten der Wiener Fondskrankenanstalten um Verbesserung <pb facs="krp-0159_r-0007"/>ihrer materiellen Lage im verflossenen Jahre sei ihnen die verbindliche Zusage gemacht worden, dass alle Vorschriften, welche für die Staatsbediensteten erlassen werden, auch für sie sinngemäß zur Anwendung kommen sollen. Aufgrund dieser Zusage habe der Kabinettsrat bereits mit Beschluss vom 18. November 1919 die Ausdehnung des Pensionsbegünstigungsgesetzes, soweit dieses auf die Angestellten der Wiener Krankenanstaltenfonds anwendbar war, zugestimmt.</p>
                   <p>Das Gleiche hätte nunmehr unter den nach der Sonderstellung der Fondsbediensteten notwendigen Einschränkungen auch bezüglich des Besoldungsübergangsgesetzes zu geschehen. Der sprechende Unterstaatssekretär stellt daher den Antrag, der Niederösterreichischen Landesregierung die Ermächtigung zu erteilen, die zwecks Durchführung des Besoldungsübergangsgesetzes erlassenen Vollzugsanweisungen der Staatsregierung sowie weiters alle anderen Vollzugsanweisungen, welche die vorläufige Regelung und Entlohnung des Kanzleihilfspersonales und der Aushilfsdiener zum Gegenstande haben, auf die Angestellten des Wiener Krankenanstaltenfonds zur Anwendung zu bringen.</p>
                   <p>Der Kabinettsrat stimmt diesem Antrage zu.</p>
-                  <p>
-                     <pb facs="krp-0159_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0159_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0159_top06">
                   <head>
@@ -355,19 +350,14 @@
                   <p>In dem Falle des Gesetzesbeschlusses des Salzburger Landtages vom 12. Dezember 1919, betreffend die Bezüge der Lehreraltspensionisten, der gleichfalls vom Landesrate vorgelegt worden war, habe der Kabinettsrat in der Sitzung vom 6. Jänner 1920 beschlossen, von der Abgabe einer Äußerung der Staatsregierung zu diesem nicht von dem hiezu berufenen Organe vorgelegten Gesetzesbeschluss abzusehen.</p>
                   <p>Auch die Staatskanzlei habe sich in einem Rundschreiben an alle Landesregierungen vom 5. Jänner 1920, Zl. 1500/25 St.K.-1919 mit der Frage der Vorlage der Gesetzesbeschlüsse befasst und darin <pb facs="krp-0159_r-0009"/>das Ersuchen gestellt, die Einhaltung der durch das Gesetz vorgeschriebenen Vorlage durch die Landesregierung sicherzustellen. Sie habe es hiebei als zweifelhaft bezeichnet, ob die nicht durch die Landesregierung erfolgte Vorlage überhaupt als verfassungsmäßig vorgesehene Mitteilung betrachtet werden könne. Da aber einerseits der Vorlagebericht seitens des Landeshauptmannes namens der Landesregierung unterschrieben sei, andererseits in dem Schreiben der Staatskanzlei nicht ausdrücklich ausgesprochen wurde, dass die Staatsregierung die Behandlung der nicht durch die Landesregierung mitgeteilten Gesetzesbeschlüsse prinzipiell ablehnen werde, glaube der sprechende Staatssekretär darauf einraten zu sollen, dass die Staatsregierung ungeachtet der Vorlage durch den Landesrat in eine meritorische Behandlung des Gesetzesbeschlusses eingehen solle.</p>
                   <p>Dem Gesetzesbeschlusse liege ein Entwurf zugrunde, der seinerzeit dem Unterrichtsamte vom Landesrate in Salzburg zur Äußerung vorgelegt und von hier im Einvernehmen mit den beteiligten Staatsämtern für Finanzen und für Land- und Forstwirtschaft der Hauptsache nach bis auf einzelne als wünschenswert bezeichnete Änderungen und Ergänzungen gutgeheißen worden sei.</p>
-                  <p>
-                     <pb facs="krp-0159_r-0010"/>Der nunmehr gefasste Gesetzesbeschluss berücksichtige diese Anregungen fast ausnahmslos und gebe daher zu keinen wesentlichen Bedenken Anlass. Nur in textlicher Beziehung wären noch einige minder belangreiche Änderungen und Ergänzungen durchzuführen.</p>
+                  <p><pb facs="krp-0159_r-0010"/>Der nunmehr gefasste Gesetzesbeschluss berücksichtige diese Anregungen fast ausnahmslos und gebe daher zu keinen wesentlichen Bedenken Anlass. Nur in textlicher Beziehung wären noch einige minder belangreiche Änderungen und Ergänzungen durchzuführen.</p>
                   <p>Redner erbitte sohin vom Kabinettsrate die Ermächtigung:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> der Landesregierung in Salzburg mitzuteilen, dass seitens der Staatsregierung gegen den Gesetzesbeschluss vom 13. Februar 1920, betreffend die Errichtung ländlicher Fortbildungsschulen im Lande Salzburg, eine Vorstellung nicht erhoben werde,</item>
-                     <item n="2">
-                        <label>2.)</label> die Landesregierung zu ersuchen, die erwähnten textlichen Änderungen, bzw. Ergänzungen bei der Landesversammlung im Wege des Landesrates anzuregen, dass solcherart geänderte Gesetz zur Gegenzeichnung wieder vorzulegen, endlich den Landesrat auf die Vorschrift des Art. 13, des Gesetzes vom 14. März 1919, StGBl. Nr. 179 wegen Mitteilung der Gesetzesbeschlüsse durch die Landesregierung aufmerksam zu machen.</item>
+                     <item n="1"><label>1.)</label> der Landesregierung in Salzburg mitzuteilen, dass seitens der Staatsregierung gegen den Gesetzesbeschluss vom 13. Februar 1920, betreffend die Errichtung ländlicher Fortbildungsschulen im Lande Salzburg, eine Vorstellung nicht erhoben werde,</item>
+                     <item n="2"><label>2.)</label> die Landesregierung zu ersuchen, die erwähnten textlichen Änderungen, bzw. Ergänzungen bei der Landesversammlung im Wege des Landesrates anzuregen, dass solcherart geänderte Gesetz zur Gegenzeichnung wieder vorzulegen, endlich den Landesrat auf die Vorschrift des Art. 13, des Gesetzes vom 14. März 1919, StGBl. Nr. 179 wegen Mitteilung der Gesetzesbeschlüsse durch die Landesregierung aufmerksam zu machen.</item>
                   </list>
                   <p>Der Kabinettsrat beschließt im Sinne dieses Antrages.</p>
-                  <p>
-                     <pb facs="krp-0159_r-0011"/>
-                  </p>
+                  <p><pb facs="krp-0159_r-0011"/></p>
                </div>
                <div type="top" xml:id="krp-0159_top07">
                   <head>
@@ -405,21 +395,16 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> legt dem Kabinettsrate den Entwurf eines Gesetzes, betreffend die Pensionsversicherung von Angestellten, vor und führt zu dessen Begründung aus, dass der bestehende gesetzliche Zustand eine Reihe schwerer Mängel aufweise, von denen durch die Vorlage wenigstens die unter den gegenwärtigen Zeitverhältnissen am unerträglichsten gewordenen, nämlich die Unzulänglichkeit der Versicherungsleistungen und die Zersplitterung der Pensionsversicherung durch den Bestand von Ersatzversicherungseinrichtungen, beseitigt werden sollen. Der Entwurf trage daher den Charakter eines Notstandsgesetzes und bedürfe als solches einer dringlichen Behandlung.</p>
                   <p>Redner erbitte sich die Ermächtigung des Kabinettsrates, den Entwurf in der nächsten Sitzung der Nationalversammlung einbringen zu dürfen.</p>
-                  <p>
-                     <pb facs="krp-0159_r-0016"/>Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> erhebt unter Berufung auf seine hierüber bereits an Staatssekretär Hanusch gerichteten Mitteilungen Einsprache gegen die Einbringung der Vorlage, insolange darin nicht entsprechend den Koalitionsvereinbarungen die Einführung des Verhältniswahlrechtes für die Hauptversammlung der Landesstelle, dann für deren Ausschuss, für die Generalversammlung und für die Wahl der der Landesstelle vorbehaltenen Zahl von Vorstandsmitgliedern, ausgenommen den Fall der Entsendung nur eines Vorstandsmitgliedes, vorgesehen werde. Redner stellt demnach den Antrag, das Gesetz vom 16. Dezember 1906, RGBl. Nr. 1 ex 1907 auch noch hinsichtlich der §§ 46 Abs. 2, 50 Abs. 2, 51 Z. 1, 59 Abs. 2, 62 Abs. 2 und 63 Abs. 1 einer Abänderung zu unterziehen und weiters den § 62 a durch eine neue, für die Pensionsanstalt und die Landesstellen gemeinsame Bestimmung als § 63 a zu ersetzen, welche zu besagen hätte, dass die näheren Bestimmungen über die Wahlen zu den Vertretungskörpern der Pensionsanstalt und ihrer Landesstellen im Statut der Pensionsanstalt und in den Geschäftsordnungen der Landesstellen erfolgen.</p>
-                  <p>Die Staatssekretäre <hi rend="#letterspaced">Hanusch</hi>
-                     <pb facs="krp-0159_r-0017"/>und <hi rend="#letterspaced">Eldersch</hi> sowie Unterstaatssekretär Dr. <hi rend="#letterspaced">Eisler</hi> wenden gegen den Antrag des Vorredners ein, dass es nicht angehe, bloß eine einzelne Institution für die Einführung des Verhältniswahlrechtes herauszugreifen, da diese Frage generell für alle Sozialversicherungsinstitute und die sonstigen Verwaltungskörperschaften gelöst werden müsse. Diese Lösung begegne aber großen Schwierigkeiten, weil die Einführung des Verhältniswahlrechtes z. B. bei den Krankenkassen nur Hand in Hand mit der Beseitigung der Beteiligung der Unternehmer am Vorstand nach der Beitragsleistung erfolgen könnte und sohin Fragen zu bereinigen sein werden, über welche zwischen den Parteien voraussichtlich nicht so ohne weiters ein Einverständnis zustande kommen dürfte. Jedesfalls sei es aber nicht angängig, die Novelle zum Pensionsversicherungsgesetz mit der Regelung des Verhältniswahlrechtes in ein Junktim zu bringen, da die unhaltbare Lage sowohl der Pensionsanstalt wie der Versicherungsnehmer einen Aufschub aus solchem Anlasse nicht gestatte. Eine Verzögerung würde in den beteiligten Kreisen einen starken Widerstand auslösen und möglicherweise eine Lage schaffen, die den Staat zu weitergehenden Aufbesserungen der Rentenbezüge nö<pb facs="krp-0159_r-0018"/>tigen könnte, als sie jetzt vorgesehen sind.</p>
+                  <p><pb facs="krp-0159_r-0016"/>Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> erhebt unter Berufung auf seine hierüber bereits an Staatssekretär Hanusch gerichteten Mitteilungen Einsprache gegen die Einbringung der Vorlage, insolange darin nicht entsprechend den Koalitionsvereinbarungen die Einführung des Verhältniswahlrechtes für die Hauptversammlung der Landesstelle, dann für deren Ausschuss, für die Generalversammlung und für die Wahl der der Landesstelle vorbehaltenen Zahl von Vorstandsmitgliedern, ausgenommen den Fall der Entsendung nur eines Vorstandsmitgliedes, vorgesehen werde. Redner stellt demnach den Antrag, das Gesetz vom 16. Dezember 1906, RGBl. Nr. 1 ex 1907 auch noch hinsichtlich der §§ 46 Abs. 2, 50 Abs. 2, 51 Z. 1, 59 Abs. 2, 62 Abs. 2 und 63 Abs. 1 einer Abänderung zu unterziehen und weiters den § 62 a durch eine neue, für die Pensionsanstalt und die Landesstellen gemeinsame Bestimmung als § 63 a zu ersetzen, welche zu besagen hätte, dass die näheren Bestimmungen über die Wahlen zu den Vertretungskörpern der Pensionsanstalt und ihrer Landesstellen im Statut der Pensionsanstalt und in den Geschäftsordnungen der Landesstellen erfolgen.</p>
+                  <p>Die Staatssekretäre <hi rend="#letterspaced">Hanusch</hi> <pb facs="krp-0159_r-0017"/>und <hi rend="#letterspaced">Eldersch</hi> sowie Unterstaatssekretär Dr. <hi rend="#letterspaced">Eisler</hi> wenden gegen den Antrag des Vorredners ein, dass es nicht angehe, bloß eine einzelne Institution für die Einführung des Verhältniswahlrechtes herauszugreifen, da diese Frage generell für alle Sozialversicherungsinstitute und die sonstigen Verwaltungskörperschaften gelöst werden müsse. Diese Lösung begegne aber großen Schwierigkeiten, weil die Einführung des Verhältniswahlrechtes z. B. bei den Krankenkassen nur Hand in Hand mit der Beseitigung der Beteiligung der Unternehmer am Vorstand nach der Beitragsleistung erfolgen könnte und sohin Fragen zu bereinigen sein werden, über welche zwischen den Parteien voraussichtlich nicht so ohne weiters ein Einverständnis zustande kommen dürfte. Jedesfalls sei es aber nicht angängig, die Novelle zum Pensionsversicherungsgesetz mit der Regelung des Verhältniswahlrechtes in ein Junktim zu bringen, da die unhaltbare Lage sowohl der Pensionsanstalt wie der Versicherungsnehmer einen Aufschub aus solchem Anlasse nicht gestatte. Eine Verzögerung würde in den beteiligten Kreisen einen starken Widerstand auslösen und möglicherweise eine Lage schaffen, die den Staat zu weitergehenden Aufbesserungen der Rentenbezüge nö<pb facs="krp-0159_r-0018"/>tigen könnte, als sie jetzt vorgesehen sind.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> erklärt, dass es dem Staatsamt für Finanzen wegen der Kürze der Zeit nicht möglich gewesen sei, die Berechnungsgrundlagen für die erhöhten Versicherungsleistungen versicherungsmathematisch zu überprüfen. Er müsse daher dem Staatsamt für soziale Verwaltung die volle Verantwortung dafür überlassen, dass die Mittel der Pensionsanstalt tatsächlich zur vollen Deckung der Rentenbezüge hinreichen.</p>
                   <p>In dem Motivenbericht scheine es Redner als nicht entsprechend, dass der Schlussabsatz des Pkt. I nur von einer „einstweiligen“ Zurückstellung der Einrechnung der Militärdienstjahre in die Versicherungsdauer spreche, weil dieser „derzeit noch“ finanzielle Schwierigkeiten entgegenstünden. Da die Lage der Staatsfinanzen ein derartiges Projekt überhaupt ausschließe, beantrage der sprechende Staatssekretär diesen Satz aus dem Motivenbericht überhaupt zu streichen, oder aber die Durchführung einer derartigen Reform wegen „unüberwindlicher finanzieller Schwierigkeiten“ als unmöglich zu bezeichnen.</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> stimmt der Streichung des ganzen Satzes aus dem Motivenbericht zu.</p>
-                  <p>
-                     <pb facs="krp-0159_r-0019"/>Sektionschef Dr. <hi rend="#letterspaced">Kaan</hi> legt gegenüber den Bedenken des Staatssekretärs Dr. Reisch in längeren Ausführungen dar, dass die Versicherungsleistungen in den Prämienzahlungen und den sonstigen der Pensionsanstalt zu Gebote stehenden Mitteln ihre volle Deckung finden und daher ein Abgang nicht zu befürchten sei.</p>
+                  <p><pb facs="krp-0159_r-0019"/>Sektionschef Dr. <hi rend="#letterspaced">Kaan</hi> legt gegenüber den Bedenken des Staatssekretärs Dr. Reisch in längeren Ausführungen dar, dass die Versicherungsleistungen in den Prämienzahlungen und den sonstigen der Pensionsanstalt zu Gebote stehenden Mitteln ihre volle Deckung finden und daher ein Abgang nicht zu befürchten sei.</p>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> erklärt, ungeachtet der gegen seine Auffassung vorgebrachten Gesichtspunkte an seiner Einsprache festhalten zu müssen und stellt für den Fall der Ablehnung seines ersten Antrages den weiteren Antrag, die Entscheidung über die Behandlung des Gesetzentwurfes dem Koalitionskomitee zu überlassen.</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Stöckler</hi> beantragt, die Beschlussfassung des Koalitionskomitees darüber einzuholen, ob die am Gesetze über die Pensionsversicherung der Angestellten vorzunehmenden Abänderungen mit der Frage der Einführung des Verhältniswahlrechtes in Zusammenhang gebracht werden sollen.</p>
                   <p>Da sich in der weiteren Debatte über die einander gegenüberstehenden Anträge keine Einigung erzielen lässt, bricht Vizekanzler <hi rend="#letterspaced">Fink</hi> im Sinne der Geschäftsordnung des Kabinettsrates die Beratung des Gegenstandes ab. Mit der Angelegenheit werde vorerst das Koalitionskomitee befasst werden.</p>
-                  <p>
-                     <pb facs="krp-0159_r-0020"/>
-                  </p>
+                  <p><pb facs="krp-0159_r-0020"/></p>
                </div>
                <div type="top" xml:id="krp-0159_top10">
                   <head>

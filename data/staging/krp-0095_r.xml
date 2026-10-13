@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0095.xml">
             <head type="dokument">
-               <title type="num">95.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">95.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0095_r-0001"/>
@@ -283,18 +282,10 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0095_top13">Zu TOP 13</ref>: <ref target="#krp-0095_b01">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 22.638/19 über den Gesetzesentwurf der Provisorischen Kärntner Landesversammlung über Abänderungen des Gemeindestatuts für Klagenfurt</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0095_top14">Zu TOP 14</ref>: <ref target="#krp-0095_b02">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 27.214/19 über die Genehmigung von Beschlüssen des Oberösterreichischen Landesausschusses bzw. Landesrates in autonomen Finanzangelegenheiten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0095_top17">Zu TOP 17</ref>: <ref target="#krp-0095_b03">Entwurf des Sachabrüstungsenteignungsgesetzes samt Motivenbericht</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0095_top21">Zu TOP 21</ref>: <ref target="#krp-0095_b04">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über den Schutz von Dienstnehmern in polizeilich gesperrten Betrieben</ref>
-                  </item>
+                  <item><ref target="#krp-0095_top13">Zu TOP 13</ref>: <ref target="#krp-0095_b01">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 22.638/19 über den Gesetzesentwurf der Provisorischen Kärntner Landesversammlung über Abänderungen des Gemeindestatuts für Klagenfurt</ref></item>
+                  <item><ref target="#krp-0095_top14">Zu TOP 14</ref>: <ref target="#krp-0095_b02">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 27.214/19 über die Genehmigung von Beschlüssen des Oberösterreichischen Landesausschusses bzw. Landesrates in autonomen Finanzangelegenheiten</ref></item>
+                  <item><ref target="#krp-0095_top17">Zu TOP 17</ref>: <ref target="#krp-0095_b03">Entwurf des Sachabrüstungsenteignungsgesetzes samt Motivenbericht</ref></item>
+                  <item><ref target="#krp-0095_top21">Zu TOP 21</ref>: <ref target="#krp-0095_b04">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über den Schutz von Dienstnehmern in polizeilich gesperrten Betrieben</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -318,8 +309,7 @@
                      </label>
                   </head>
                   <p>Der Vorsitzende macht auf den vom Staatsamt für Äußeres an die Kabinettsmitglieder bereits versendeten Abdruck der Note aufmerksam, welche Staatskanzler Dr. Renner als Leiter der deutschösterreichischen Friedensdelegation in St. Germain als Antwort auf die vom obersten Rate der alliierten und </p>
-                  <p>
-                     <pb facs="krp-0095_r-0005"/>assoziierten Mächte gestellten Friedensbedingungen mit Deutschösterreich überreichen wird; er stellt die Anfrage, ob seitens der Kabinettsmitglieder zu dem Wortlaute dieser Antwortnote eine Bemerkung gemacht wird. Die Frage wird verneint, bloß Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> gibt bekannt, dass er zu dem finanziellen Teile der Note im telegrafischen Wege bereits verschiedene Abänderungsvorschläge nach St. Germain habe gelangen lassen, die jedoch nur insoweit bedeutsam seien, als sie den § 11 zu Art. 243 betreffen, während sie im Übrigen Angelegenheiten rein finanztechnischer Natur beinhalten.</p>
+                  <p><pb facs="krp-0095_r-0005"/>assoziierten Mächte gestellten Friedensbedingungen mit Deutschösterreich überreichen wird; er stellt die Anfrage, ob seitens der Kabinettsmitglieder zu dem Wortlaute dieser Antwortnote eine Bemerkung gemacht wird. Die Frage wird verneint, bloß Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> gibt bekannt, dass er zu dem finanziellen Teile der Note im telegrafischen Wege bereits verschiedene Abänderungsvorschläge nach St. Germain habe gelangen lassen, die jedoch nur insoweit bedeutsam seien, als sie den § 11 zu Art. 243 betreffen, während sie im Übrigen Angelegenheiten rein finanztechnischer Natur beinhalten.</p>
                   <p>Der Kabinettsrat nimmt diese Mitteilungen zur Kenntnis.</p>
                </div>
                <div type="top" xml:id="krp-0095_top03">
@@ -397,8 +387,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> ersucht den Staatssekretär für Finanzen, er möge die eheste Aufhebung der Briefzensur an der Grenze zur Verhinderung der Verschleppung von Vermögenswerten nach dem Auslande in Erwägung ziehen. Die Briefzensur führe ohnedies nicht mehr zu nennenswerten Ergebnissen und erfordere nur einen beträchtlichen Aufwand an Personal, das besser anderweitig verwendet werden könnte.</p>
-                  <p>
-                     <pb facs="krp-0095_r-0018"/>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> erwidert hierauf, dass sich diesfällige Weisungen im Staatsamte für Finanzen bereits in Ausarbeitung befinden und demnächst erlassen würden.</p>
+                  <p><pb facs="krp-0095_r-0018"/>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> erwidert hierauf, dass sich diesfällige Weisungen im Staatsamte für Finanzen bereits in Ausarbeitung befinden und demnächst erlassen würden.</p>
                   <p>Der Kabinettsrat nimmt diese Mitteilung zur Kenntnis.</p>
                </div>
                <div type="top" xml:id="krp-0095_top10">
@@ -410,12 +399,9 @@
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass er die Kundmachung der von der Nationalversammlung beschlossenen Gesetze:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> über gemeinwirtschaftliche Unternehmungen,</item>
-                     <item n="2">
-                        <label>2.)</label> über die Gewährung eines Zuschusses zu den Unterhaltsbeiträgen an die Angehörigen von Kriegsgefangenen und über Änderungen und Ergänzungen zu den Gesetzen vom 27. Juli 1917, RGBl. Nr. 313, und vom 31. März 1918, RGBl. Nr. 126 (Unterhaltsbeitragsnovelle) und</item>
-                     <item n="3">
-                        <label>3.)</label> betreffend Gebühren von Totalisateur- und Buchmacherwetten sowie Maßnahmen zur Unterdrückung des Winkelwettwesens</item>
+                     <item n="1"><label>1.)</label> über gemeinwirtschaftliche Unternehmungen,</item>
+                     <item n="2"><label>2.)</label> über die Gewährung eines Zuschusses zu den Unterhaltsbeiträgen an die Angehörigen von Kriegsgefangenen und über Änderungen und Ergänzungen zu den Gesetzen vom 27. Juli 1917, RGBl. Nr. 313, und vom 31. März 1918, RGBl. Nr. 126 (Unterhaltsbeitragsnovelle) und</item>
+                     <item n="3"><label>3.)</label> betreffend Gebühren von Totalisateur- und Buchmacherwetten sowie Maßnahmen zur Unterdrückung des Winkelwettwesens</item>
                   </list>
                   <p>im Staatsgesetzblatte dringlichkeitshalber bereits ohne vorherige Lesung durch das Kabinett veranlasst habe.</p>
                   <p>Da gegen diese Gesetzesbeschlüs<pb facs="krp-0095_r-0019"/>se von der Staatsregierung keine Vorstellung zu erheben sein dürfte, erbitte er nunmehr die nachträgliche Genehmigung dieser seiner Verfügung.</p>
@@ -430,30 +416,18 @@
                   </head>
                   <p>Über Antrag des Vorsitzenden findet der Kabinettsrat gegen nachstehende von der Nationalversammlung beschlossene Gesetze keine Vorstellung zu erheben:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Gesetz betreffend die Rechtsfolgen von Übertretungen der Vollzugsanweisungen über die Anmeldung und Kontrolle gewisser Vermögenschaften und die Sicherung der Vermögensabgabe;</item>
-                     <item n="2">
-                        <label>2.)</label> Gesetz über die Beschäftigung von jugendlichen und weiblichen Arbeitern, dann über die Arbeitszeit und die Sonntagsruhe beim Bergbau (Bergarbeitergesetz);</item>
-                     <item n="3">
-                        <label>3.)</label> Gesetz, mit welchem Maßnahmen für den Zivilstaatsdienst aus Anlass des Krieges getroffen werden;</item>
-                     <item n="4">
-                        <label>4.)</label> Gesetz, womit Maßnahmen zur Erleichterung des Übertrittes von Zivilstaatsbediensteten in den dauernden Ruhestand getroffen werden;</item>
-                     <item n="5">
-                        <label>5.)</label> Gesetz, betreffend die Abänderung <pb facs="krp-0095_r-0020"/>einiger Bestimmungen über die Unfallversicherung der Arbeiter (IV. Novelle zum Unfallversicherungsgesetz);</item>
-                     <item n="6">
-                        <label>6.)</label> Gesetz, betreffend Änderungen des Krankenversicherungsgesetzes (IV. Novelle zum Krankenversicherungsgesetz);</item>
-                     <item n="7">
-                        <label>7.)</label> Gesetz, betreffend die Verlängerung der Funktionsdauer der wirklichen Mitglieder der Handels- und Gewerbekammern bis 31. Dezember 1919;</item>
-                     <item n="8">
-                        <label>8.)</label> Gesetz über die Gebühren für die Bewilligung der Änderung des Namens von Einzelpersonen;</item>
-                     <item n="9">
-                        <label>9.)</label> Gesetz, betreffend die Schaffung einer Gehaltskasse zur Sicherung von Dienstaltersbezügen der in den öffentlichen und Anstaltsapotheken angestellten Pharmazeuten (Gehaltskassengesetz);</item>
-                     <item n="10">
-                        <label>10.)</label> Gesetz über den Urlaub von Arbeitern (Arbeiterurlaubsgesetz);</item>
-                     <item n="11">
-                        <label>11.)</label> Gesetz über die Gewährung von einmaligen Anschaffungsbeiträgen an die aktiven und pensionierten Lehrpersonen der öffentlichen Volks- und Bürgerschulen, sowie an die Witwen und Waisen von solchen Lehrpersonen für das 1. Halbjahr 1919 und</item>
-                     <item n="12">
-                        <label>12.)</label> Gesetz, betreffend die Zeitvorrückung der Supplenten und Assistenten <pb facs="krp-0095_r-0021"/>an staatlichen mittleren Unterrichtsanstalten.</item>
+                     <item n="1"><label>1.)</label> Gesetz betreffend die Rechtsfolgen von Übertretungen der Vollzugsanweisungen über die Anmeldung und Kontrolle gewisser Vermögenschaften und die Sicherung der Vermögensabgabe;</item>
+                     <item n="2"><label>2.)</label> Gesetz über die Beschäftigung von jugendlichen und weiblichen Arbeitern, dann über die Arbeitszeit und die Sonntagsruhe beim Bergbau (Bergarbeitergesetz);</item>
+                     <item n="3"><label>3.)</label> Gesetz, mit welchem Maßnahmen für den Zivilstaatsdienst aus Anlass des Krieges getroffen werden;</item>
+                     <item n="4"><label>4.)</label> Gesetz, womit Maßnahmen zur Erleichterung des Übertrittes von Zivilstaatsbediensteten in den dauernden Ruhestand getroffen werden;</item>
+                     <item n="5"><label>5.)</label> Gesetz, betreffend die Abänderung <pb facs="krp-0095_r-0020"/>einiger Bestimmungen über die Unfallversicherung der Arbeiter (IV. Novelle zum Unfallversicherungsgesetz);</item>
+                     <item n="6"><label>6.)</label> Gesetz, betreffend Änderungen des Krankenversicherungsgesetzes (IV. Novelle zum Krankenversicherungsgesetz);</item>
+                     <item n="7"><label>7.)</label> Gesetz, betreffend die Verlängerung der Funktionsdauer der wirklichen Mitglieder der Handels- und Gewerbekammern bis 31. Dezember 1919;</item>
+                     <item n="8"><label>8.)</label> Gesetz über die Gebühren für die Bewilligung der Änderung des Namens von Einzelpersonen;</item>
+                     <item n="9"><label>9.)</label> Gesetz, betreffend die Schaffung einer Gehaltskasse zur Sicherung von Dienstaltersbezügen der in den öffentlichen und Anstaltsapotheken angestellten Pharmazeuten (Gehaltskassengesetz);</item>
+                     <item n="10"><label>10.)</label> Gesetz über den Urlaub von Arbeitern (Arbeiterurlaubsgesetz);</item>
+                     <item n="11"><label>11.)</label> Gesetz über die Gewährung von einmaligen Anschaffungsbeiträgen an die aktiven und pensionierten Lehrpersonen der öffentlichen Volks- und Bürgerschulen, sowie an die Witwen und Waisen von solchen Lehrpersonen für das 1. Halbjahr 1919 und</item>
+                     <item n="12"><label>12.)</label> Gesetz, betreffend die Zeitvorrückung der Supplenten und Assistenten <pb facs="krp-0095_r-0021"/>an staatlichen mittleren Unterrichtsanstalten.</item>
                   </list>
                   <p>Diese Gesetzesbeschlüsse sind daher von den zuständigen Mitgliedern der Staatsregierung gegenzuzeichnen und dem Präsidenten zur Fertigung vorzulegen.</p>
                </div>
@@ -578,12 +552,9 @@
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> berichtet, dass am 20. Juli l. J. Vereinbarungen mit dem Landesrate in Vorarlberg zustandegekommen seien, aufgrund deren demnächst an den Ausbau einer staatlichen Wasserkraftanlage am Spullersee für Zwecke des elektrischen Bahnbetriebes werde geschritten werden können. An Gegenleistungen für die Überlassung der Wasserkräfte des Spullersees an den Staat habe sich das Land Vorarlberg gewisse Zusicherungen bezüglich der Bauausführung und Ausnützung des staatlichen Wasserkraftwerkes und außerdem die Gewährung eines staatlichen Beitrages von 1 Million K zu den Vorbereitungs- und Ausführungskosten der Abdichtung des Lünersees ausbedungen, woselbst das Land Vorarlberg den Ausbau einer Wasserkraftanlage für seine eigenen Zwecke in Aussicht genommen habe.</p>
                   <p>Der sprechende Unterstaatssekretär empfehle daher dem Kabinettsrate folgende Anträge, die auf den erwähn<pb facs="krp-0095_r-0033"/>ten Vereinbarungen beruhen, zur Annahme:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> „Das Übereinkommen mit dem Lande Vorarlberg vom 20. Juli 1919 wird genehmigt.</item>
-                     <item n="2">
-                        <label>2.)</label> Der Beitrag von 1 Million K für die Vorbereitungs- und Ausführungskosten der Abdichtung des Lünersees ist auf das Konto des Notstandskredites zu verrechnen.</item>
-                     <item n="3">
-                        <label>3.)</label> Dem Landesrate ist anlässlich der Mitteilung der erfolgten Genehmigung bekanntzugeben, dass nach Sicherstellung des Ausbaues des Spullerseewerkes (Konsenserteilung, Grunderwerb, Regelung der Alpwirtschaftsfrage) die Anweisung der jeweils flüssig zu machenden Teilbeträge über motivierten Antrag des Landesrates erfolgen und dass der Landesrat eingeladen wird, der Staatsregierung im Wege des Wasserkraft-Elektrizitäts-Wirtschaftsamtes beziehungsweise des Elektrisierungsamtes der deutschösterreichischen Staatsbahnen fortlaufende Berichte über den Stand der Arbeiten am Lünersee zugehen zu lassen.[“]</item>
+                     <item n="1"><label>1.)</label> „Das Übereinkommen mit dem Lande Vorarlberg vom 20. Juli 1919 wird genehmigt.</item>
+                     <item n="2"><label>2.)</label> Der Beitrag von 1 Million K für die Vorbereitungs- und Ausführungskosten der Abdichtung des Lünersees ist auf das Konto des Notstandskredites zu verrechnen.</item>
+                     <item n="3"><label>3.)</label> Dem Landesrate ist anlässlich der Mitteilung der erfolgten Genehmigung bekanntzugeben, dass nach Sicherstellung des Ausbaues des Spullerseewerkes (Konsenserteilung, Grunderwerb, Regelung der Alpwirtschaftsfrage) die Anweisung der jeweils flüssig zu machenden Teilbeträge über motivierten Antrag des Landesrates erfolgen und dass der Landesrat eingeladen wird, der Staatsregierung im Wege des Wasserkraft-Elektrizitäts-Wirtschaftsamtes beziehungsweise des Elektrisierungsamtes der deutschösterreichischen Staatsbahnen fortlaufende Berichte über den Stand der Arbeiten am Lünersee zugehen zu lassen.[“]</item>
                   </list>
                   <p>Im Verlaufe der Debatte erklärte Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi>, er sei vom finanziellen Standpunkte mit der Gewährung des Beitrages von 1 Million K an das Land Vorarl<pb facs="krp-0095_r-0034"/>berg und der Investierung staatlicher Mittel zum Bau von Wasserkraftanlangen dortselbst einverstanden, soferne der Kabinettsrat sich für diese Aufwendungen ungeachtet der immerhin bestehenden Möglichkeit ausspricht, dass Vorarlberg von Deutschösterreich sich trennen könnte, wodurch die Aussichten auf einen Rückersatz der gemachten Investitionen mindestens zweifelhaft würden.</p>
                   <p>Der Kabinettsrat beschließt, dem Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> die erbetene Ermächtigung zu erteilen und pflichtet gleichzeitig einem Antrage des Staatssekretärs <hi rend="#letterspaced">Hanusch</hi> bei, diesen Beschluss im Wege der Presse der Öffentlichkeit bekanntzugeben.</p>

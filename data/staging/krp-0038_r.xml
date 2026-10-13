@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0038.xml">
             <head type="dokument">
-               <title type="num">38.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">38.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0038_r-0001"/>[Dienstag] 1919-02-11</title>
@@ -281,24 +280,12 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0038_top03">Zu TOP 3</ref>: <ref target="#krp-0038_b01">Richtlinien für die Ausgleichskommission im Staatsamt für Justiz, welche sich mit unbeglichenen Forderungen von Firmen an das liquidierende Kriegsministerium beschäftigen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0038_top08">Zu TOP 8</ref>: <ref target="#krp-0038_b02">Bericht des Staatsamtes für Finanzen wegen der Notwendigkeit, eine Saccharinfabrik nach der Besetzung der Fabrik in Oderberg durch tschechische Truppen durch Übernahme der chemischen Fabrik Kreidl, Heller &amp; Co. in Floridsdorf auf deutschösterreichischem Gebiet zu errichten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0038_top08">Zu TOP 8</ref>: <ref target="#krp-0038_b03">Ersuchen des Staatsamtes für Finanzen um Reservierung der Rohstoffe für ein halbes Jahr zur Erzeugung von Saccharin</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0038_top11">Zu TOP 11</ref>: <ref target="#krp-0038_b04">Darstellung des Staatsamtes für Justiz um Vermehrung des Militärwachkorps für die Wiener Zivilgerichte</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0038_top12">Zu TOP 12</ref>: <ref target="#krp-0038_b05">Antrag des Staatsamtes für Heerwesen auf Abänderung und Ergänzung der Superarbitrierungsvorschrift aufgrund der sozialen Notlage des größten Teils der Kriegsinvaliden</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0038_top14">Zu TOP 14</ref>: <ref target="#krp-0038_b06">Antrag des Staatsamtes des Inneren, die Staatsämter anzuweisen, den im slowenischen Machtbereich gekündigten Staats- und Staatsbahnbediensteten so schnell wie möglich für ihre Angehörigen und ihr Hab und Gut ein Unterkunftsziel in Deutschösterreich anzuweisen</ref>
-                  </item>
+                  <item><ref target="#krp-0038_top03">Zu TOP 3</ref>: <ref target="#krp-0038_b01">Richtlinien für die Ausgleichskommission im Staatsamt für Justiz, welche sich mit unbeglichenen Forderungen von Firmen an das liquidierende Kriegsministerium beschäftigen</ref></item>
+                  <item><ref target="#krp-0038_top08">Zu TOP 8</ref>: <ref target="#krp-0038_b02">Bericht des Staatsamtes für Finanzen wegen der Notwendigkeit, eine Saccharinfabrik nach der Besetzung der Fabrik in Oderberg durch tschechische Truppen durch Übernahme der chemischen Fabrik Kreidl, Heller &amp; Co. in Floridsdorf auf deutschösterreichischem Gebiet zu errichten</ref></item>
+                  <item><ref target="#krp-0038_top08">Zu TOP 8</ref>: <ref target="#krp-0038_b03">Ersuchen des Staatsamtes für Finanzen um Reservierung der Rohstoffe für ein halbes Jahr zur Erzeugung von Saccharin</ref></item>
+                  <item><ref target="#krp-0038_top11">Zu TOP 11</ref>: <ref target="#krp-0038_b04">Darstellung des Staatsamtes für Justiz um Vermehrung des Militärwachkorps für die Wiener Zivilgerichte</ref></item>
+                  <item><ref target="#krp-0038_top12">Zu TOP 12</ref>: <ref target="#krp-0038_b05">Antrag des Staatsamtes für Heerwesen auf Abänderung und Ergänzung der Superarbitrierungsvorschrift aufgrund der sozialen Notlage des größten Teils der Kriegsinvaliden</ref></item>
+                  <item><ref target="#krp-0038_top14">Zu TOP 14</ref>: <ref target="#krp-0038_b06">Antrag des Staatsamtes des Inneren, die Staatsämter anzuweisen, den im slowenischen Machtbereich gekündigten Staats- und Staatsbahnbediensteten so schnell wie möglich für ihre Angehörigen und ihr Hab und Gut ein Unterkunftsziel in Deutschösterreich anzuweisen</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -328,21 +315,14 @@
                   <p>Unterstaatsssekretär <hi rend="#letterspaced">Riedl</hi> teilt mit, dass, nach seinen bei der Papierindustrie gepflogenen Erhebungen, Notenpapier, soweit es sich um das gewöhnliche weiße Notenpapier handle, in beliebiger Menge herstell<pb facs="krp-0038_r-0008"/>bar sei; Sicherheitspapier könne in Deutschösterreich nur in einer einzigen Sorte, dem sogenannten Faserpapier, erzeugt werden.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> stellt sodann aufgrund der abgeführten Debatte den Antrag, der Kabinettsrat möge das Staatsamt für Finanzen ersuchen, über folgende Fragen bis Donnerstag nachmittags zu berichten:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> über die technische Durchführbarkeit der Abstempelung (Zeitpunkt des Beginns und der Beendigung sowie erforderliche Mittel);</item>
-                     <item n="2">
-                        <label>2.)</label> wie sich durch die erfolgte Abstempelung das Verhältnis zur Oesterreichisch-ungarischen Bank gestalten werde (Frage der Schaffung einer Ersatzbank);Ver</item>
-                     <item n="3">
-                        <label>3.)</label> welches Verhältnis in der Währungsfrage mit dem Deutschen Reiche anzustreben wäre (Frage des Umrechnungskurses, Verhältnis der Darlehenskasse zur deutschen Reichsbank)</item>
-                     <item n="4">
-                        <label>4.)</label> über die technische Durchführbarkeit der Grenzabsperrung;</item>
-                     <item n="5">
-                        <label>5.)</label> über die Frage der Zuziehung von Interessenten (Praktiker und Theoretiker) zu den Vorbereitungsmaßnahmen.</item>
+                     <item n="1"><label>1.)</label> über die technische Durchführbarkeit der Abstempelung (Zeitpunkt des Beginns und der Beendigung sowie erforderliche Mittel);</item>
+                     <item n="2"><label>2.)</label> wie sich durch die erfolgte Abstempelung das Verhältnis zur Oesterreichisch-ungarischen Bank gestalten werde (Frage der Schaffung einer Ersatzbank);Ver</item>
+                     <item n="3"><label>3.)</label> welches Verhältnis in der Währungsfrage mit dem Deutschen Reiche anzustreben wäre (Frage des Umrechnungskurses, Verhältnis der Darlehenskasse zur deutschen Reichsbank)</item>
+                     <item n="4"><label>4.)</label> über die technische Durchführbarkeit der Grenzabsperrung;</item>
+                     <item n="5"><label>5.)</label> über die Frage der Zuziehung von Interessenten (Praktiker und Theoretiker) zu den Vorbereitungsmaßnahmen.</item>
                   </list>
                   <p>Der Kabinettsrat erhebt diese Anträge zum Beschluss und ermächtigt weiters den Staatssekretär des Äußern zur Aufnahme der politischen Verhandlung in Berlin um den 20. Februar d. J.</p>
-                  <p>
-                     <pb facs="krp-0038_r-0009"/>
-                  </p>
+                  <p><pb facs="krp-0038_r-0009"/></p>
                </div>
                <div type="top" xml:id="krp-0038_top03">
                   <head>
@@ -354,12 +334,9 @@
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass im Staatsamte für Justiz eine Ausgleichskommission tage, welche die Aufgabe habe, mit Firmen, deren Forderungen an das liquidierende Kriegsministerium noch nicht beglichen sind, Vergleiche abzuschließen und diese dem Kriegsministerium zu übermitteln. Die Arbeit dieser Ausgleichskommission stoße vornehmlich deshalb auf Schwierigkeiten, weil die Vertreter der einzelnen Nationalstaaten, welche zu den Vergleichen ihre Zustimmung geben sollten, an diesen Sitzungen nicht teilnehmen, sodass der deutschösterreichische Staat mit den gegenständlichen Entscheidungen ein großes Risiko auf sich nehme. Bei der Behandlung dieser Frage handle es sich hauptsächlich darum, bestimmte Richtlinien dafür festzusetzen, in welcher Höhe, Reihenfolge und in welchem Zeitpunkte die Firmen zu befriedigen und wie der Begriff „Deutschösterreichische Industrie“ festzulegen sei.</p>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Riedl</hi> beleuchtet die einschlägigen Verhältnisse in ausführlicher Darstellung und schlägt folgende Richtlinien für die Behandlung dieser Ausgleichsfragen vor: Es sei </p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> einer Firma die Rücknahme der <pb facs="krp-0038_r-0010"/>von ihr gelieferten Waren gegen Löschung ihrer Forderung zu bewilligen; ebenso</item>
-                     <item n="2">
-                        <label>2.)</label> Einer Firma die Aufrechnung bei ihr befindlicher, ihr vom Kriegsministerium zugewiesener und noch nicht bezahlter Waren gegen ihre Forderung an das Kriegsministerium aus früheren Lieferungen zu bewilligen;</item>
-                     <item n="3">
-                        <label>3.)</label> einer Firma, die eine Lieferung für das Kriegsministerium übernommen und das Material dafür vom Kriegsministerium beigestellt erhalten hat, die Auflösung des Lieferungsvertrages unter der Bedingung zu gestatten, dass sie die übernommenen Materialien entweder zurückstelle oder der Hauptanstalt für Sachdemobilisierung bezahle.</item>
+                     <item n="1"><label>1.)</label> einer Firma die Rücknahme der <pb facs="krp-0038_r-0010"/>von ihr gelieferten Waren gegen Löschung ihrer Forderung zu bewilligen; ebenso</item>
+                     <item n="2"><label>2.)</label> Einer Firma die Aufrechnung bei ihr befindlicher, ihr vom Kriegsministerium zugewiesener und noch nicht bezahlter Waren gegen ihre Forderung an das Kriegsministerium aus früheren Lieferungen zu bewilligen;</item>
+                     <item n="3"><label>3.)</label> einer Firma, die eine Lieferung für das Kriegsministerium übernommen und das Material dafür vom Kriegsministerium beigestellt erhalten hat, die Auflösung des Lieferungsvertrages unter der Bedingung zu gestatten, dass sie die übernommenen Materialien entweder zurückstelle oder der Hauptanstalt für Sachdemobilisierung bezahle.</item>
                   </list>
                   <p>Unzulässig sei aber die kompensationsweise Überlassung von Waren, die der Sachdemobilisierung unterliegen, soferne es sich nicht um Waren handelt, die von der betreffenden Firma geliefert worden sind.</p>
                   <p>Nachdem Staatssekretär Dr. <hi rend="#letterspaced">Urban</hi> die Auffassung vertreten hat, dass wir nur allgemeine Direktiven aufstellen können, im Einzelnen aber die Entscheidung von den konkreten Verhältnissen abhängig gemacht werden müsse, führt Unterstaatssekretär Dr. von <hi rend="#letterspaced">Grimm</hi> aus, dass an den deutschösterreichischen Staat die Frage herantrete, ob <hi rend="#u">er</hi> etwas Be<pb facs="krp-0038_r-0011"/>sonderes für die Lieferanten tun wolle oder nicht. Der deutschösterreichische Staat werde sich bereit erklären müssen, den Lieferanten die auf Deutschösterreich voraussichtlich entfallende Quote vorweg zu zahlen, darüber jedoch keinesfalls hinauszugehen. Da diese Quote ungefähr 20 % betragen werde, könnte der deutschösterreichische Staat die Beträge bis zu dieser Höhe, jedoch erst nach Beschaffung der erforderlichen Mittel, ohne Gefahr zur Auszahlung bringen. </p>
@@ -395,9 +372,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. Loewenfeld-Russ erbittet und erhält die Zustimmung des Kabinettsrates zur Hinausgabe einer Vollzugsanweisung, der zufolge die mit der gleichmäßigen Verteilung der Rohstoffe auf die einzelnen Brauereien befasste Brauerzentrale in eine den gegenwärtigen staatsrechtlichen Verhältnissen angepasste deutschösterreichische Brauerstelle, in welcher alle Interessenten vertreten wären, umgewandelt werden soll.</p>
-                  <p>
-                     <pb facs="krp-0038_r-0015"/>
-                  </p>
+                  <p><pb facs="krp-0038_r-0015"/></p>
                </div>
                <div type="top" xml:id="krp-0038_top07">
                   <head>
@@ -408,9 +383,7 @@
                   </head>
                   <p>Staatssekretär Dr. Loewenfeld-Russ weist darauf hin, dass er die Absicht gehabt habe, die Einrichtung der Ernährungsinspektoren, welche sich während des Krieges bestens bewährt habe, den gegenwärtigen Verhältnissen anzupassen und diesfalls eine Vollzugsanweisung zu erlassen. Diese Einrichtung hätte eine Art wirtschaftlichen Hilfsdienstes für das Ernährungsamt und die Landesregierungen werden sollen. Bei der letzten Länderkonferenz hätten sich nun die Vertreter aller Landesregierungen gegen diese seine Absicht ausgesprochen, weil sie darin eine Einschränkung ihrer Autonomie erblicken. Da der sprechende Staatssekretär dieser Organisation nicht entraten könne, beabsichtige er den Entwurf der bezüglichen Vollzugsanweisung an die Landesregierungen zur neuerlichen Stellungnahme hinauszugeben. Grundsätzlich solle an der Idee festgehalten werden, die Landesregierungen sollen lediglich um die Erstattung von Vorschlägen meritorischen Inhaltes ersucht werden.</p>
                   <p>Der Kabinettsrat nimmt diese Mitteilungen zustimmend zur Kenntnis. </p>
-                  <p>
-                     <pb facs="krp-0038_r-0016"/>
-                  </p>
+                  <p><pb facs="krp-0038_r-0016"/></p>
                </div>
                <div type="top" xml:id="krp-0038_top08">
                   <head>
@@ -423,8 +396,7 @@
                   <p>Infolge der Besetzung Oderbergs durch die Polen bzw. in jüngster Zeit durch die Tschechen sei der deutschösterreichischen Süßstoffmonopolverwaltung jede Ingerenz auf die Saccharinfabrik in Oderberg genommen und seien die ganz unzulänglichen und unregelmäßigen Anlieferungen aus dieser Fabrik von dem guten Willen der anderen Nationalstaaten, gegenwärtig der Tschechen, abhängig.</p>
                   <p>Es sei daher bei der heutigen Zuckerknappheit trotz des wesentlich kleineren Konsumgebietes unbedingt geboten, an die Errichtung einer neuen Saccharinfabrik auf deutschösterreichischen Boden zu schreiten.</p>
                   <p>Bei der Stellungnahme zu den zahlreichen vorliegenden Projekten habe sich das Staatsamt für Finanzen für den gemischtstaatlichen Betrieb, d. h. für die Errichtung einer staatlichen Fabrik unter vorläufiger Betriebsführung durch eine fachkundige Privatfirma entschieden, da auf diese Weise die Risken der Einführung des ziemlich schwierigen Betriebes nicht die Staatsverwaltung belasten. </p>
-                  <p>
-                     <pb facs="krp-0038_r-0017"/>Über Antrag des sprechenden Unterstaatssekretärs ermächtigt der Kabinettsrat das Staatsamt für Finanzen, das Anbot der Firma Kreidl, Heller &amp; Co. in Floridsdorf, ihre dortselbst gelegene chemische Fabrik um den Preis von 1.450.000 K zu überlassen, anzunehmen. Gleichzeitig wird über Anregung des Staatssekretärs Dr. <hi rend="#letterspaced">Kaup</hi> das Staatsamt für Finanzen eingeladen – ohne dass dadurch die Ermächtigung zum gegenständlichen Vertragsabschluss berührt wird – ein Gutachten des Professors an der Technischen Hochschule in Wien Dr. Max Bamberger über die Vertrauenswürdigkeit und fachliche Leistungsfähigkeit der erwähnten Firma einzuholen.</p>
+                  <p><pb facs="krp-0038_r-0017"/>Über Antrag des sprechenden Unterstaatssekretärs ermächtigt der Kabinettsrat das Staatsamt für Finanzen, das Anbot der Firma Kreidl, Heller &amp; Co. in Floridsdorf, ihre dortselbst gelegene chemische Fabrik um den Preis von 1.450.000 K zu überlassen, anzunehmen. Gleichzeitig wird über Anregung des Staatssekretärs Dr. <hi rend="#letterspaced">Kaup</hi> das Staatsamt für Finanzen eingeladen – ohne dass dadurch die Ermächtigung zum gegenständlichen Vertragsabschluss berührt wird – ein Gutachten des Professors an der Technischen Hochschule in Wien Dr. Max Bamberger über die Vertrauenswürdigkeit und fachliche Leistungsfähigkeit der erwähnten Firma einzuholen.</p>
                </div>
                <div type="top" xml:id="krp-0038_top09">
                   <head>
@@ -449,9 +421,7 @@
                   </head>
                   <p>Staatssekretär Dr. Urban erbittet nach einer eingehenden Darstellung der Sach- und Rechtslage die Ermächtigung, den a. o. Professor der französischen Sprache an der Exportakademie, Achilles Decker, der im Jahre 1906 zwar die österreichische Staatsbürgerschaft erlangt hat, seiner Nationalität nach jedoch Franzose ist, in den deutschösterreichischen Staatsdienst übernehmen zu dürfen. Die Kompetenz des Kabinettsrates sei damit gegeben, dass es sich vorliegendenfalls nicht um eine Verwendung auf einem selbstständigen und verantwortungsvollen Posten (vgl. Kabinettsprotokoll Nr. 19, Pkt. 5) handle.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
-                  <p>
-                     <pb facs="krp-0038_r-0020"/>
-                  </p>
+                  <p><pb facs="krp-0038_r-0020"/></p>
                </div>
                <div type="top" xml:id="krp-0038_top11">
                   <head>
@@ -481,16 +451,12 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Juke1</hi> teilt mit, dass aufgrund einer vom Staatsamte für Verkehrswesen erlassenen Lieferungsausschreibung zahlreiche Offerten eingelangt seien, über welche erst nach Bereinigung mehrerer Vorfragen abgesprochen werden könne. Da es sich hiebei um grundsätzliche Erwägungen handle, glaube der sprechende Staatssekretär, diesfalls die Stellungnahme des Kabinettsrates einholen zu sollen. Es handle sich im Gegenstande um die Beantwortung nachstehender Fragen:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> ob bei Konkurrenzfähigkeit der deutschböhmischen und sudetenländischen</item>
+                     <item n="1"><label>1.)</label> ob bei Konkurrenzfähigkeit der deutschböhmischen und sudetenländischen</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0038_r-0022"/>Firmen hinsichtlich der Preise loco Deutschösterreich mit deutschösterreichischen Firmen den ersteren als Bestbieter Lieferungen für Deutschösterreich übertragen werden sollen;</p>
+                  <p><pb facs="krp-0038_r-0022"/>Firmen hinsichtlich der Preise loco Deutschösterreich mit deutschösterreichischen Firmen den ersteren als Bestbieter Lieferungen für Deutschösterreich übertragen werden sollen;</p>
                   <list>
-                     <item n="1">
-                        <label>2.)</label> ob an deutschösterreichische Firmen, die ihre Betriebsstätten ganz oder teilweise im tschechoslowakischen, südslawischen oder polnischen Staate haben und von einem dieser Werke aus liefern wollen, Lieferungen für die deutschösterreichischen Staatsbahnen vergeben werden können;</item>
-                     <item n="2">
-                        <label>3.)</label> ob Materialien, welche gegenwärtig in Deutschösterreich nicht erhältlich sind, z. B. wegen des Kohlenmangels oder weil die deutschösterreichischen Fabriken solche Materialien nicht erzeugen und daher ein Bezug aus dem Auslande erfolgen muss, aus den neuentstandenen Nationalstaaten oder aber aus dem Deutschen Reiche (annähernd gleiche Preise loco Einlieferungsstation vorausgesetzt) zu beziehen sind.</item>
+                     <item n="1"><label>2.)</label> ob an deutschösterreichische Firmen, die ihre Betriebsstätten ganz oder teilweise im tschechoslowakischen, südslawischen oder polnischen Staate haben und von einem dieser Werke aus liefern wollen, Lieferungen für die deutschösterreichischen Staatsbahnen vergeben werden können;</item>
+                     <item n="2"><label>3.)</label> ob Materialien, welche gegenwärtig in Deutschösterreich nicht erhältlich sind, z. B. wegen des Kohlenmangels oder weil die deutschösterreichischen Fabriken solche Materialien nicht erzeugen und daher ein Bezug aus dem Auslande erfolgen muss, aus den neuentstandenen Nationalstaaten oder aber aus dem Deutschen Reiche (annähernd gleiche Preise loco Einlieferungsstation vorausgesetzt) zu beziehen sind.</item>
                   </list>
                   <p>Der Kabinettsrat beschließt nach einer diesfalls abgeführten kurzen Debatte das Staatsamt für Verkehrswesen einzuladen, zunächst noch eine Äußerung der Vereinigung der deutschösterreichischen Industrie im Gegenstande einzuholen und die Angelegenheit sodann dem Ka<pb facs="krp-0038_r-0023"/>binettsrate neuerlich zur Beschlussfassung zu unterbreiten.</p>
                </div>

@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0142.xml">
             <head type="dokument">
-               <title type="num">142.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">142.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0142_r-0001"/>[Donnerstag] 1920-01-29</title>
@@ -295,8 +294,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> bringt ein Telegramm des Landesrates und der Landesregierung von Tirol zur Verlesung, in welchem die Überlassung der aus dem Exporte von 500 Waggon[s] Holz nach Bayern erzielten fremden Zahlungs<pb facs="krp-0142_r-0002"/>mittel an das Land Tirol begehrt wird. Die Landesregierung benötige diese Auslandsvaluta zur Beschaffung und verbilligten Ausgaben von Lebensmitteln an die arme Bevölkerung und müsste ihre seit den Dezemberunruhen eingeleitete Aktion unter schweren Gefahren für eine neuerliche Störung der Ruhe und Ordnung einstellen, wenn ihr das Verfügungsrecht über den Valutaeingang aus den Holzexporten vom Staate entzogen würde.</p>
                   <p>Ein ähnliches Verlangen sei auch von Seite des Landes Steiermark vorgebracht und von Kärnten und Vorarlberg angekündigt worden.</p>
                   <p>Nach der Auffassung des sprechenden Staatssekretärs sei die Erfüllung dieses Begehrens der Länder angesichts des Gesetzes vom 4. Juli 1919, StGBl. Nr. 354, laut dessen die ausländischen Zahlungsmittel, die aus dem Verkaufe von Holz nach dem Auslande eingehen, zur Sicherstellung und Bedeckung der Lebensmittel- und Rohstoffkredite an die Entente verpfändet sind, unmöglich. Die Regierung als solche sei durch das Gesetz gebunden und nicht einmal die Nationalversammlung könne eine andere Regelung vornehmen, da es sich um eine uns von der Entente auferlegte Verpflichtung handle.</p>
-                  <p>
-                     <pb facs="krp-0142_r-0003"/>Redner nehme daher in Aussicht, dem Landeshauptmann in Tirol mitzuteilen, dass dem in dem Telegramme ausgesprochenen Wunsche mit Rücksicht auf das erwähnte Gesetz nicht willfahrt werden könne.</p>
+                  <p><pb facs="krp-0142_r-0003"/>Redner nehme daher in Aussicht, dem Landeshauptmann in Tirol mitzuteilen, dass dem in dem Telegramme ausgesprochenen Wunsche mit Rücksicht auf das erwähnte Gesetz nicht willfahrt werden könne.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> macht aufmerksam, dass nach den Abmachungen gelegentlich der Beratung des Gesetzes über die Sicherstellung der ausländischen Lebensmittel- und Rohstoffkredite durch Holzausfuhr und Verpfändung von Forstbesitz von dessen Wirksamkeit alle jene Holzexportabschlüsse ausgenommen sein sollten, welche bereits vor dem Zustandekommen des Gesetzesbeschlusses getätigt waren. Liege also der Abschluss des Holzexportgeschäftes des Landes Tirol vor dem 4. Juli 1919, so könnte die Valuta dem Lande belassen werden. Andernfalls aber müssten die fremden Zahlungsmittel unbedingt an den Staat abgeführt werden, da ein Abgehen von den der Entente zugesagten Sicherheiten uns jede Verhandlungsmöglichkeit zur Erlangung neuer Kredite benehme und es überhaupt nicht angehe, dass jedes Land seine Kompensationsgüter nur zur Verbesserung der eigenen Ernährungslage ausnütze und die Allgemeinheit dabei leer ausgehen lasse.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Mayr</hi> schil<pb facs="krp-0142_r-0004"/>dert die ganz unzulängliche Lebensmittelversorgung von Tirol, die in vieler Beziehung noch schlechter sei als in Wien und empfiehlt dringendst die Stattgebung des Begehrens des Landesrates, da sonst alle Lebensmittelhilfen für die Bevölkerung eingestellt werden müssen und daraus Exzesse zu befürchten wären. Das in Rede stehende Holzgeschäft sei vor etwa Jahresfrist mit der Schweiz abgeschlossen und jetzt an Bayern übertragen worden, weil die Schweizer Käufer wegen der dort mittlerweile für Holz eingetretenen Konjunkturänderung Schwierigkeiten hinsichtlich der Abnahme und Bezahlung der bereitgestellten Lieferung machte.</p>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Eisler</hi>, Vizekanzler <hi rend="#letterspaced">Fink</hi> und Staatssekretär <hi rend="#letterspaced">Stöckler</hi> führen aus, dass bei der gegenwärtigen Art der Regelung des Holzexportes die Verkäufer den Erlös so ziemlich zur Gänze dem Staate entziehen und ihn meist in der Weise verwenden, dass sie die Valuta für sich im Auslande als Bankguthaben anlegen lassen. Demgegenüber wäre das Bestreben der Länder vollkommen begründet, den Holzexport selbst in die Hand zu nehmen, damit der Eingang der fremden Valuta ins Inland gesichert wäre; es sei auch ver<pb facs="krp-0142_r-0005"/>ständlich, dass sie dafür an der Verfügung über die ausländischen Zahlungsmittel mindestens beteiligt werden sollen. Außerdem müsse berücksichtigt werden, dass die Länder dem Auslande erhebliche Beträge für Lebensmittel schulden, für deren Bezahlung sie fremde Valuta vom Staate in Anspruch nehmen müssten, wenn ihnen die Möglichkeit der Deckung durch Kompensationen entzogen würde.</p>
@@ -314,21 +312,13 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> legt dem Kabinettsrate Entwürfe der Gesetze</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> über eine die Einkommensteuer ergänzende Vermögenssteuer und eine Vermögenszuwachssteuer (Steuergesetz),</item>
-                     <item n="2">
-                        <label>2.)</label> über die allgemeine Erwerbsteuer für die Steuerjahre 1918, 1919 und 1920 und die Grundsteuer für das Steuerjahr 1920,</item>
-                     <item n="3">
-                        <label>3.)</label> über die Umsatzsteuer, <pb facs="krp-0142_r-0007"/>
-                     </item>
-                     <item n="4">
-                        <label>4.)</label> wegen Erhöhung einiger Verbrauchsabgaben,</item>
-                     <item n="5">
-                        <label>5.)</label> über die Neuregelung der staatlichen Salzverschleißpreise und der bei der Einfuhr von Salz zu entrichtenden Lizenzgebühr,</item>
-                     <item n="6">
-                        <label>6.)</label> über die Gewährung von Dotationen nebst außerordentlichen Zuschüssen aus Staatsmitteln an die Länder und die Gemeinde Wien für die Jahre 1919 und 1920 (Länderdotationsgesetz),</item>
-                     <item n="7">
-                        <label>7.)</label> über die Überweisung eines Teilertrages der Hauszinssteuer sowie der Erträgnisse der Linienverzehrungssteuer einschließlich des staatlichen Biersteuerzuschlages und der Fleischsteuer an die Gemeinden (Gemeindeüberweisungsgesetz) vor und bemerkt, dass das Steuerprogramm weiters noch durch eine Novellierung des Einkommensteuergesetzes und des Gebührengesetzes sowie durch die Verlängerung der Brotauflage für das Jahr 1920 ergänzt werden soll, worüber die Vorlagen dem Kabinettsrate in den nächsten Tagen zugehen werden.</item>
+                     <item n="1"><label>1.)</label> über eine die Einkommensteuer ergänzende Vermögenssteuer und eine Vermögenszuwachssteuer (Steuergesetz),</item>
+                     <item n="2"><label>2.)</label> über die allgemeine Erwerbsteuer für die Steuerjahre 1918, 1919 und 1920 und die Grundsteuer für das Steuerjahr 1920,</item>
+                     <item n="3"><label>3.)</label> über die Umsatzsteuer, <pb facs="krp-0142_r-0007"/></item>
+                     <item n="4"><label>4.)</label> wegen Erhöhung einiger Verbrauchsabgaben,</item>
+                     <item n="5"><label>5.)</label> über die Neuregelung der staatlichen Salzverschleißpreise und der bei der Einfuhr von Salz zu entrichtenden Lizenzgebühr,</item>
+                     <item n="6"><label>6.)</label> über die Gewährung von Dotationen nebst außerordentlichen Zuschüssen aus Staatsmitteln an die Länder und die Gemeinde Wien für die Jahre 1919 und 1920 (Länderdotationsgesetz),</item>
+                     <item n="7"><label>7.)</label> über die Überweisung eines Teilertrages der Hauszinssteuer sowie der Erträgnisse der Linienverzehrungssteuer einschließlich des staatlichen Biersteuerzuschlages und der Fleischsteuer an die Gemeinden (Gemeindeüberweisungsgesetz) vor und bemerkt, dass das Steuerprogramm weiters noch durch eine Novellierung des Einkommensteuergesetzes und des Gebührengesetzes sowie durch die Verlängerung der Brotauflage für das Jahr 1920 ergänzt werden soll, worüber die Vorlagen dem Kabinettsrate in den nächsten Tagen zugehen werden.</item>
                   </list>
                   <p>Um eine geeignete Grundlage für die Generaldebatte zu erhalten, erstattet der sprechende Staatssekretär über Einladung des Vorsitzenden zunächst ein Exposé über den diesen Steuervorlagen zugrunde liegenden Finanzplan.</p>
                   <p>Das Leitmotiv der geplanten Reform <pb facs="krp-0142_r-0008"/>sei, die Steuererträge der eingetretenen Geldentwertung anzupassen. Bei dieser Gelegenheit solle durch eine die Einkommensteuer ergänzende Vermögenssteuer das auf Vermögenbesitz beruhende Einkommen gegenüber dem Arbeitseinkommen einer Vorbelastung unterworfen werden. Die bisher diesem Zwecke dienenden Ertragssteuern, reichten dazu nicht mehr aus und bedürften infolge ihrer fehlerhaften Konstruktion, welche durch das zur Steigerung der Steuereingänge angewendete Auskunftsmittel der Kriegszuschläge umso schärfer in die Erscheinung trete, selbst einer Umgestaltung. Eine solche Reform der Ertragsteuern, die im engen Zusammenhange mit der in Aussicht genommenen finanziellen Auseinandersetzung zwischen Staat und Ländern steht, wäre aber zweckmäßigerweise dem Zeitpunkte dieser Auseinandersetzung vorzubehalten.</p>
@@ -366,12 +356,10 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> hält diesen Weg wegen voraussichtlicher passiver Resistenz der so zugeteilten Beamtenschaft für unwirksam und macht Mitteilung über seine Schritte zur Heranziehung und Ausbildung von Offizieren für den Steuerdienst. Die Aufarbeitung der jetzigen Rückstände würde auch dadurch erleichtert, dass nach der Novelle zum Einkommensteuergesetz die Bemessung nach den Einkünften des laufenden <pb facs="krp-0142_r-0023"/>Jahres zu erfolgen habe und daher für das Jahr 1920 keine besondere Veranlagung stattzufinden brauche.</p>
                   <p>Die von Vizekanzler <hi rend="#letterspaced">Fink</hi> angeregte Einführung eines verschärften Ausfuhrzolles schließe die Gefahr von Retorsions- und Reziprozitätsmaßnahmen gegen uns in sich, der wir uns nicht aussetzen dürfen, da wir vollkommen auf die Versorgung vom Auslande her angewiesen seien.</p>
                   <p>Zu den Anregungen des Vorsitzenden betreffend eine stärkere Betonung der Objektssteuern im Finanzplane bemerkt Redner, dass die alten Ertragsteuern ja bestehen bleiben, nur mit dem Unterschiede, dass ihre Erträgnisse künftig mehr den Ländern als dem Staate zugute kommen werden. Im Augenblicke ihrer Zuweisung an die Länder würde auch ihre zeitgemäße Reformierung zur Erzielung höherer Erträgnisse erfolgen, sodass von einer Vernachlässigung dieser Steuerquellen eigentlich nicht gesprochen werden könne. Für eine Vorbelastung bliebe also im Wesen nur noch das bewegliche Vermögen und hier wieder nur die Werteffekten und Banknoten übrig. Gegen eine Kürzung der Zinsenerträgnisse der Staatspapiere spreche aber der Umstand, dass den Coupons gesetzlich die Abzugsfreiheit zugesichert ist, die Konvertierung also einen Wortbruch des Staates darstellen würde.</p>
-                  <p>
-                     <pb facs="krp-0142_r-0024"/>Ebenso sei eine Abstempelung der Noten auf einen geringeren Wert volkswirtschaftlich insolange unmöglich, als nicht gleichzeitig an Stelle des schlechten Geldes ein durch Fundierung gegen neuerliche Entwertung sichergestelltes gutes Geld eingeführt werden könnte. Ein derartiger Zugriff auf das mobile Kapital müsste auch auf das Ausland den ungünstigsten Eindruck machen und uns jede Hoffnung auf eine Beteiligung ausländischer Kapitalien an der Wiederaufrichtung unserer Wirtschaft benehmen.</p>
+                  <p><pb facs="krp-0142_r-0024"/>Ebenso sei eine Abstempelung der Noten auf einen geringeren Wert volkswirtschaftlich insolange unmöglich, als nicht gleichzeitig an Stelle des schlechten Geldes ein durch Fundierung gegen neuerliche Entwertung sichergestelltes gutes Geld eingeführt werden könnte. Ein derartiger Zugriff auf das mobile Kapital müsste auch auf das Ausland den ungünstigsten Eindruck machen und uns jede Hoffnung auf eine Beteiligung ausländischer Kapitalien an der Wiederaufrichtung unserer Wirtschaft benehmen.</p>
                   <p>Gegen einen Aufschub in der Einbringung der Vermögenssteuer habe Redner nichts einzuwenden; dagegen müsse er sich gegen die vorherige Ausgabe des Entwurfes an die Ausschussreferenten oder einzelne Parteimitglieder aussprechen; er sei aber bereit, über Verlangen alle wünschenswerten Aufschlüsse mündlich zu erteilen.</p>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> fasst das Ergebnis der Beratungen dahin zusammen, dass nach der übereinstimmenden Auffassung des Kabinettes die Steuervorlagen in ihrer Gesamtheit ein Junktim zu bilden haben. Demzufolge sei sowohl von einer vorzeitigen Einbringung des Gesetzentwurfes über die Vermögenssteuer wie auch von seiner Ausgabe an die Berichterstatter des Subkomitees oder Parteimitglieder abzusehen. Die gesamten Vorlagen hätten vielmehr als Verschlussstücke zu gelten.</p>
-                  <p>
-                     <pb facs="krp-0142_r-0025"/>Die Beschlussfassung über die einzelnen Vorlagen würde dem Zeitpunkte vorbehalten, bis die noch ausständigen Entwürfe betreffend die Novellierung der Einkommensteuer und der Gebühren sowie betreffend die Brotauflage und die tabellarische Zusammenstellung des Staatsamtes für Finanzen über die ziffermäßigen Wirkungen der verschiedenen Steuererhebungen vorliegen.</p>
+                  <p><pb facs="krp-0142_r-0025"/>Die Beschlussfassung über die einzelnen Vorlagen würde dem Zeitpunkte vorbehalten, bis die noch ausständigen Entwürfe betreffend die Novellierung der Einkommensteuer und der Gebühren sowie betreffend die Brotauflage und die tabellarische Zusammenstellung des Staatsamtes für Finanzen über die ziffermäßigen Wirkungen der verschiedenen Steuererhebungen vorliegen.</p>
                   <p/>
                </div>
             </div>

@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0169.xml">
             <head type="dokument">
-               <title type="num">169.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">169.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0169_r-0001"/>
@@ -282,27 +281,13 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0169_top02">Zu TOP 2</ref>: <ref target="#krp-0169_b01">zu Zl. 61/18 St.K./1920 über das Gesetz zur Aberkennung der Staatsbürgerschaft von Personen, die in fremden Armeen Dienst versehen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0169_top05">Zu TOP 5</ref>: <ref target="#krp-0169_b02">Gesetz zur Aufhebung der Fideikommisse mit Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0169_top05">Zu TOP 5</ref>: <ref target="#krp-0169_b03">Information für den Staatssekretär für Land- und Forstwirtschaft betreffend die Aufhebung der Fideikommisse</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0169_top06">Zu TOP 6</ref>: <ref target="#krp-0169_b04">Entwurf des Krankenversicherungsgesetzes mit Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0169_top08">Zu TOP 8</ref>: <ref target="#krp-0169_b05">Vortrag und Entwurf der Vollzugsanweisung über die Durchführung des Pensionistengesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0169_top08">Zu TOP 8</ref>: <ref target="#krp-0169_b06">Vollzugsanweisung zur Hinterbliebenenversorgungsnovelle</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0169_top09">Zu TOP 9</ref>: <ref target="#krp-0169_b07">Vorlage des Staatsamt für Land- und Forstwirtschaft zu Zl. 7290/1920 über mehrere Gesetzesbeschlüsse des Niederösterreichischen Landtages zur Regulierung mehrerer Wasserläufe</ref>
-                  </item>
+                  <item><ref target="#krp-0169_top02">Zu TOP 2</ref>: <ref target="#krp-0169_b01">zu Zl. 61/18 St.K./1920 über das Gesetz zur Aberkennung der Staatsbürgerschaft von Personen, die in fremden Armeen Dienst versehen</ref></item>
+                  <item><ref target="#krp-0169_top05">Zu TOP 5</ref>: <ref target="#krp-0169_b02">Gesetz zur Aufhebung der Fideikommisse mit Begründung</ref></item>
+                  <item><ref target="#krp-0169_top05">Zu TOP 5</ref>: <ref target="#krp-0169_b03">Information für den Staatssekretär für Land- und Forstwirtschaft betreffend die Aufhebung der Fideikommisse</ref></item>
+                  <item><ref target="#krp-0169_top06">Zu TOP 6</ref>: <ref target="#krp-0169_b04">Entwurf des Krankenversicherungsgesetzes mit Begründung</ref></item>
+                  <item><ref target="#krp-0169_top08">Zu TOP 8</ref>: <ref target="#krp-0169_b05">Vortrag und Entwurf der Vollzugsanweisung über die Durchführung des Pensionistengesetzes</ref></item>
+                  <item><ref target="#krp-0169_top08">Zu TOP 8</ref>: <ref target="#krp-0169_b06">Vollzugsanweisung zur Hinterbliebenenversorgungsnovelle</ref></item>
+                  <item><ref target="#krp-0169_top09">Zu TOP 9</ref>: <ref target="#krp-0169_b07">Vorlage des Staatsamt für Land- und Forstwirtschaft zu Zl. 7290/1920 über mehrere Gesetzesbeschlüsse des Niederösterreichischen Landtages zur Regulierung mehrerer Wasserläufe</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -315,8 +300,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ramek</hi> berichtet über den Fortgang des Streiks der Gerichtskanzleibeamten. In der Situation sei insoferne eine Änderung eingetreten, als sich nunmehr der Zentralverband der österreichischen Staatsbeamtenvereine der Angelegenheit angenommen und die Forderung gestellt habe, dass seitens des Staatsamtes für Justiz mit den Angestellten in Verhandlungen getreten werde. Der sprechende Staatssekretär habe seine Stellungnahme zu diesem Petit bis zur Entscheidung des Kabinettsrates vorbehalten. Dieser Entscheidung sei nun – offenbar infolge eines Missverständnisses – dadurch etwas präjudiziert worden, dass inzwischen über dringende Bitte des Präsidenten der Richtervereinigung von einem leitenden Funktionär des Justizamtes unverbindliche Besprechungen mit einer Deputation der Streikenden geführt wurden, sodass unter diesen Umständen wohl nichts anderes erübrigen dürfte, als die formellen Verhandlungen mit den Angestellten aufzunehmen. Dazu komme noch, dass bei der gegenwärtigen Sachlage ein Übergreifen des Streiks auf andere Ressorts immerhin im Bereich der Möglichkeit liege.</p>
-                  <p>
-                     <pb facs="krp-0169_r-0004"/>Nach einer längeren Debatte, an welcher sich die Staatssekretäre <hi rend="#letterspaced">Hanusch</hi>, <hi rend="#letterspaced">Eldersch</hi> und Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> beteiligten, ermächtigt der Kabinettsrat den Staatssekretär für Justiz, in dem ihm geeignet erscheinenden Zeitpunkt unter Bezugnahme auf die Fürbitte der Richtervereinigung in Verhandlungen mit den streikenden Angestellten einzutreten. Bei diesen Verhandlungen wird jedoch daran festzuhalten sein, dass für andere Ressorts irgendwie präjudizierliche und die Staatsfinanzen im größeren Umfang belastende Zugeständnisse nicht gemacht werden dürfen</p>
+                  <p><pb facs="krp-0169_r-0004"/>Nach einer längeren Debatte, an welcher sich die Staatssekretäre <hi rend="#letterspaced">Hanusch</hi>, <hi rend="#letterspaced">Eldersch</hi> und Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> beteiligten, ermächtigt der Kabinettsrat den Staatssekretär für Justiz, in dem ihm geeignet erscheinenden Zeitpunkt unter Bezugnahme auf die Fürbitte der Richtervereinigung in Verhandlungen mit den streikenden Angestellten einzutreten. Bei diesen Verhandlungen wird jedoch daran festzuhalten sein, dass für andere Ressorts irgendwie präjudizierliche und die Staatsfinanzen im größeren Umfang belastende Zugeständnisse nicht gemacht werden dürfen </p>
                </div>
                <div type="top" xml:id="krp-0169_top02">
                   <head>
@@ -331,32 +315,22 @@
                   <p>Redner bitte um die Ermächtigung, den Gesetzentwurf in der Nationalversammlung einbringen zu dürfen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ramek</hi> erbittet sich eine Aufklärung darüber, welche politischen Gründe für die Einbringung dieses Gesetzentwurfes maßgebend seien. Hievon abgesehen ergeben sich jedoch nach seiner Anschauung nachstehende, gewichtige Bedenken gegen den vorliegenden Entwurf:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label>  Nach der völkerrechtlichen Übung habe der Staat, dem ein Staatenloser zuletzt angehört hat, nicht das Recht, die Übernahme zu verweigern, wenn der Betreffende von einem anderen Staat abgeschoben wird. Das Zurückströmen unerwünschter Elemente würde daher durch das Gesetz nicht verhindert werden.</item>
-                     <item n="2">
-                        <label>2.)</label> Der Staatsvertrag von St. Germain stehe auf dem Standpunkt, dass bis zu seinem Inkrafttreten die Staatsbür<pb facs="krp-0169_r-0008"/>gerschaft des alten Österreich weiter dauere und die altösterreichischen Staatsangehörigen erst in diesem Zeitpunkt nach ihrer Heimatgemeinde den einzelnen Sukzessionsstaaten zugewiesen werden (Art. 70). Dabei müsse die Republik Österreich alle ehemals österreichischen Staatsangehörigen als ihre Angehörigen anerkennen, die nicht Angehörige eines anderen Nationalstaates sind (Art. 64). Im Zweifel werde sogar die Staatsangehörigkeit in der Republik Österreich durch die bloße Tatsache der Geburt auf österreichischem Boden erworben (Art. 65).</item>
+                     <item n="1"><label>1.)</label>  Nach der völkerrechtlichen Übung habe der Staat, dem ein Staatenloser zuletzt angehört hat, nicht das Recht, die Übernahme zu verweigern, wenn der Betreffende von einem anderen Staat abgeschoben wird. Das Zurückströmen unerwünschter Elemente würde daher durch das Gesetz nicht verhindert werden.</item>
+                     <item n="2"><label>2.)</label> Der Staatsvertrag von St. Germain stehe auf dem Standpunkt, dass bis zu seinem Inkrafttreten die Staatsbür<pb facs="krp-0169_r-0008"/>gerschaft des alten Österreich weiter dauere und die altösterreichischen Staatsangehörigen erst in diesem Zeitpunkt nach ihrer Heimatgemeinde den einzelnen Sukzessionsstaaten zugewiesen werden (Art. 70). Dabei müsse die Republik Österreich alle ehemals österreichischen Staatsangehörigen als ihre Angehörigen anerkennen, die nicht Angehörige eines anderen Nationalstaates sind (Art. 64). Im Zweifel werde sogar die Staatsangehörigkeit in der Republik Österreich durch die bloße Tatsache der Geburt auf österreichischem Boden erworben (Art. 65).</item>
                   </list>
                   <p>Bis zum Inkrafttreten des Staatsvertrages von St. Germain sei daher eine selbständige Verfügung über die Staatsbürgerschaft kaum möglich und das in Rede stehende Gesetz müsste seine Wirksamkeit mit dem Inkrafttreten des Vertrages verlieren.</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Eine Berufung auf Art. 158 des Staatsvertrages sei schon deshalb ungerechtfertigt, weil</item>
-                     <item n="2">
-                        <label>a)</label> das Gesetz sofort in Kraft treten soll, Art. 158 aber die Verpflichtung der Republik Österreich, gegen fremde Militärdienste seiner Staatsangehörigen einzuschreiten, erst <pb facs="krp-0169_r-0009"/>mit dem Inkrafttreten des Vertrages beginnen lasse und keine Rückwirkung vorsehe, sowie</item>
-                     <item n="3">
-                        <label>b)</label> weil Art. 158 vorbeugende Maßnahmen vorschreibe, die den Eintritt österreichischer Staatsangehöriger in eine fremde Wehrmacht verhindern sollen, während dem Entwurf zufolge der Verlust der Staatsbürgerschaft an die Tatsache des geleisteten Militärdienstes geknüpft werde.</item>
-                     <item n="4">
-                        <label>4.)</label> Die Fassung des Gesetzentwurfes lasse den Verlust der österreichischen Staatsbürgerschaft als Strafe erscheinen und widerspreche daher dem allgemein geltenden Grundsatz, dass Strafgesetze nicht zurückwirken und nur solche Handlungen bestraft werden dürfen, die bereits zur Zeit der Tat mit Strafe bedroht waren. Zahlreiche Offiziere machten noch gegenwärtig bei der deutschen Armee Dienst, wobei sie sich bei dem Eintritte auf die gesetzliche Bestimmung über den Anschluss Österreichs an das Deutsche Reich stützten, also in der zukünftigen gemeinsamen Wehrmacht Dienste zu leisten hofften.</item>
-                     <item n="5">
-                        <label>5.)</label> Der Zeitpunkt, in dem die nationalen Armeen entstanden, sei schwer genau zu bestimmen und nicht einheitlich. Es sei vorgekommen, dass Offiziere öster<pb facs="krp-0169_r-0010"/>reichischer Staatsangehörigkeit nach dem Umsturz durch einige Zeit bei ihren in Ungarn oder der Tschechoslowakei gelegenen Kaders weiter dienten, um die Unordnung nicht zu vermehren, nicht aber in der Absicht, in die Nationalarmeen einzutreten. Sie hiefür mit dem Verlust der österreichischen Staatsbürgerschaft zu bestrafen, wäre zu hart. Für die Rückwirkung einen späteren Zeitpunkt als das Entstehen der österreichischen Republik festzusetzen, sei aber politisch bedenklich, da dies möglicherweise im Verhältnis zu Ungarn als eine verschiedenartige Parteinahme gegenüber der „roten“ und „weißen“ Armee gedeutet werden könnte.</item>
-                     <item n="6">
-                        <label>6.)</label> Der Gesetzentwurf bringe die Gefahr mit sich, dass die anderen Nationalstaaten ihn nachahmen, und die Offiziere, die nach dem Umsturz während der ersten Übergangszeit hier Dienst gemacht haben und in Deutschböhmen usw. zuständig sind oder die Staatsbürgerschaftserklärung abgegeben haben, uns zuschieben, so dass wir schließlich mehr Offiziere übernehmen müssten, als durch das Gesetz abgestoßen würden.</item>
+                     <item n="1"><label>3.)</label> Eine Berufung auf Art. 158 des Staatsvertrages sei schon deshalb ungerechtfertigt, weil</item>
+                     <item n="2"><label>a)</label> das Gesetz sofort in Kraft treten soll, Art. 158 aber die Verpflichtung der Republik Österreich, gegen fremde Militärdienste seiner Staatsangehörigen einzuschreiten, erst <pb facs="krp-0169_r-0009"/>mit dem Inkrafttreten des Vertrages beginnen lasse und keine Rückwirkung vorsehe, sowie</item>
+                     <item n="3"><label>b)</label> weil Art. 158 vorbeugende Maßnahmen vorschreibe, die den Eintritt österreichischer Staatsangehöriger in eine fremde Wehrmacht verhindern sollen, während dem Entwurf zufolge der Verlust der Staatsbürgerschaft an die Tatsache des geleisteten Militärdienstes geknüpft werde.</item>
+                     <item n="4"><label>4.)</label> Die Fassung des Gesetzentwurfes lasse den Verlust der österreichischen Staatsbürgerschaft als Strafe erscheinen und widerspreche daher dem allgemein geltenden Grundsatz, dass Strafgesetze nicht zurückwirken und nur solche Handlungen bestraft werden dürfen, die bereits zur Zeit der Tat mit Strafe bedroht waren. Zahlreiche Offiziere machten noch gegenwärtig bei der deutschen Armee Dienst, wobei sie sich bei dem Eintritte auf die gesetzliche Bestimmung über den Anschluss Österreichs an das Deutsche Reich stützten, also in der zukünftigen gemeinsamen Wehrmacht Dienste zu leisten hofften.</item>
+                     <item n="5"><label>5.)</label> Der Zeitpunkt, in dem die nationalen Armeen entstanden, sei schwer genau zu bestimmen und nicht einheitlich. Es sei vorgekommen, dass Offiziere öster<pb facs="krp-0169_r-0010"/>reichischer Staatsangehörigkeit nach dem Umsturz durch einige Zeit bei ihren in Ungarn oder der Tschechoslowakei gelegenen Kaders weiter dienten, um die Unordnung nicht zu vermehren, nicht aber in der Absicht, in die Nationalarmeen einzutreten. Sie hiefür mit dem Verlust der österreichischen Staatsbürgerschaft zu bestrafen, wäre zu hart. Für die Rückwirkung einen späteren Zeitpunkt als das Entstehen der österreichischen Republik festzusetzen, sei aber politisch bedenklich, da dies möglicherweise im Verhältnis zu Ungarn als eine verschiedenartige Parteinahme gegenüber der „roten“ und „weißen“ Armee gedeutet werden könnte.</item>
+                     <item n="6"><label>6.)</label> Der Gesetzentwurf bringe die Gefahr mit sich, dass die anderen Nationalstaaten ihn nachahmen, und die Offiziere, die nach dem Umsturz während der ersten Übergangszeit hier Dienst gemacht haben und in Deutschböhmen usw. zuständig sind oder die Staatsbürgerschaftserklärung abgegeben haben, uns zuschieben, so dass wir schließlich mehr Offiziere übernehmen müssten, als durch das Gesetz abgestoßen würden.</item>
                   </list>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> erklärt, der gegenwärtige Zustand, dass <pb facs="krp-0169_r-0011"/>Offiziere österreichischer Staatsbürgerschaft in den Armeen Ungarns, Rumäniens, Polens oder Deutschlands kämpfen, sei politisch völlig unhaltbar. Aber auch moralische Gründe ließen die beantragte Maßnahme als unabweisbar erscheinen. Übrigens würden dadurch nur diejenigen getroffen, die sich bewusst einer fremden Regierung zur Verfügung gestellt haben.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> verweist darauf, dass der vorliegende Entwurf bei Gesetzwerdung zweifellos Repressivmaßregeln bei den Sukzessionsstaaten auslösen würde, was aus staatsfinanziellen Gründen zu großen Bedenken Anlass gebe. Er beantrage, die Angelegenheit behufs Klarstellung der Konsequenzen zu vertagen.</p>
                   <p>Nachdem noch Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> den Ausführungen der Staatssekretäre Dr. Ramek und Dr. Reisch beigepflichtet hatte, beschließt der Kabinettsrat über Vorschlag des <hi rend="#letterspaced">Vorsitzenden</hi>, den Gesetzentwurf einer Vorberatung durch eine aus dem Vizekanzler und den Staatssekretären für Justiz, für Finanzen, für Inneres und Unterricht und für Heereswesen bestehende Kabinettskonferenz unterziehen zu lassen.</p>
-                  <p>
-                     <pb facs="krp-0169_r-0012"/>
-                  </p>
+                  <p><pb facs="krp-0169_r-0012"/></p>
                </div>
                <div type="top" xml:id="krp-0169_top03">
                   <head>
@@ -399,8 +373,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> hielte es nicht für zweckmäßig, einerseits das fideikommissarische Band aufzuheben und andererseits gleichzeitig durch die Einführung eines Belastungs- und Veräußerungsverbotes ein neues Band zu schaffen. Er glaube jedoch, dass die Angelegenheit vor endgiltiger Schlussfassung des Kabinettsrates noch einer neuerlichen Prüfung durch die beteiligten Ressorts unterzogen werden solle.</p>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Eis1er</hi> pflichtet dieser Auffassung bei und gibt der Anschauung Ausdruck, dass den Bedenken des Staatssekretärs Stöckler etwa durch eine Ergänzung und Verschärfung des Grundverkehrsgesetzes Rechnung getragen werden könnte.</p>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> beantragt, behufs Aufrechterhaltung insbesondere der Patronatsverpflichtungen im § 3 Abs. 1 des Entwurfes nach dem Worte „gemeinnützige“ die Worte „oder öffentlichrechtliche“ einzuschalten. Der Ausdruck „reiner Wert“ im § 8 wäre entsprechend der Umschreibung dieses Begriffes im Gesetz über die große Vermögensabgabe zu ändern.</p>
-                  <p>
-                     <pb facs="krp-0169_r-0019"/>Über Vorschlag des Vizekanzlers <hi rend="#letterspaced">Fink</hi> beschließt der Kabinettsrat die Einsetzung einer aus den Staatssekretären für Justiz, für Land- und Forstwirtschaft und für Finanzen bestehenden Kabinettskonferenz, welche unter Beiziehung eines Vertreters der Staatskanzlei den Entwurf durchzuberaten und binnen längstens 14 Tagen dem Kabinettsrat Bericht zu erstatten haben wird. Die Führung in dieser Angelegenheit obliegt dem Staatssekretär für Justiz.</p>
+                  <p><pb facs="krp-0169_r-0019"/>Über Vorschlag des Vizekanzlers <hi rend="#letterspaced">Fink</hi> beschließt der Kabinettsrat die Einsetzung einer aus den Staatssekretären für Justiz, für Land- und Forstwirtschaft und für Finanzen bestehenden Kabinettskonferenz, welche unter Beiziehung eines Vertreters der Staatskanzlei den Entwurf durchzuberaten und binnen längstens 14 Tagen dem Kabinettsrat Bericht zu erstatten haben wird. Die Führung in dieser Angelegenheit obliegt dem Staatssekretär für Justiz.</p>
                </div>
                <div type="top" xml:id="krp-0169_top06">
                   <head>
@@ -410,8 +383,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> unterbreitet dem Kabinettsrate den Entwurf eines Gesetzes über die Ausdehnung der Krankenversicherung (5. Novelle zum Krankenversicherungsgesetz) und bittet um die Ermächtigung, diese Vorlage, durch welche die Krankenversicherungspflicht auf alle unselbständig Erwerb[s]tätigen (u. a. die land- und forstwirtschaftlichen Arbeiter) ohne Rücksicht auf die rechtliche Stellung der Dienstgeber und auf einige dieser Maßnahme besonders bedürftige Gruppen von Halbselbstständigen ausgedehnt werden soll, in der Nationalversammlung einbringen zu dürfen.</p>
-                  <p>
-                     <pb facs="krp-0169_r-0020"/>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
+                  <p><pb facs="krp-0169_r-0020"/>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
                </div>
                <div type="top" xml:id="krp-0169_top07">
                   <head>
@@ -448,15 +420,12 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0169_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 169 von 9. April 1920.</p>
+               <p><pb facs="krp-0169_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 169 von 9. April 1920.</p>
                <div n="1">
                   <head>Landtagswahlen in Kärnten.</head>
                   <div type="a01_protokoll">
                      <p>Der <hi rend="#letterspaced">Vorsitzende</hi> erstattet dem Kabinettsrat den beiliegenden vertraulichen Bericht, betreffend die Landtagswahlen in Kärnten. Der Kabinettsrat nimmt diesen Bericht zur Kenntnis.</p>
-                     <p>
-                        <pb facs="krp-0169_a01-0002"/>
-                     </p>
+                     <p><pb facs="krp-0169_a01-0002"/></p>
                      <div type="a01_ueberschrift">
                         <p>Mündlicher Vortrag für den Kabinettsrat.</p>
                      </div>
@@ -481,8 +450,7 @@
             <div type="stenogramme">
                <div n="1">
                   <head>[KRP 169, 9. April 1920, Stenogramm Fenz]</head>
-                  <p>
-                     <pb facs="krp-0169_s01-0001"/>169., 9. /IV. '20.</p>
+                  <p><pb facs="krp-0169_s01-0001"/>169., 9. /IV. '20.</p>
                   <p>[Zugezogen]: Zedtwitz, </p>
                   <p>Fischer, </p>
                   <p>Beck.</p>
@@ -511,8 +479,7 @@
                   <p>Was das Meritorische anbelangt, so stehe ich auf dem Standpunkt, dass einer generellen Übernahme aller Kanzleibeamten aus E in C </p>
                   <p>nicht die Zustimmung erteilt werden könne. Doch stelle ich mich auf dem Standpunkt, einzelnen, ausnahmsweise besonders qualifizierten, Kanzleibeamten insoweit eine Nachsicht der Studien zuzubilligen, dass sie in besonderen Fällen zur zweiten Kanzleiprüfung zugelassen werden. Diese Prüfung ist heute nur zugänglich </p>
                   <p>den Absolventen einer Mittelschule. Vom finanziellen Standpunkt hat das weiter keine Konsequenzen. Denn besonders qualifizierte Kanzleikräfte, </p>
-                  <p>
-                     <pb facs="krp-0169_s01-0002"/>die keine Mittelschule haben, werden schon heute Kanzleileiter. Sie sind [...]-Off., kommen ad pens in die VIII. </p>
+                  <p><pb facs="krp-0169_s01-0002"/>die keine Mittelschule haben, werden schon heute Kanzleileiter. Sie sind [...]-Off., kommen ad pens in die VIII. </p>
                   <p>und erhalten den Titel Kanzleidirektor, ohne dass sie es sind. Man hat faktisch den Unterschied zwischen E und C auf Umwegen in </p>
                   <p>individuellen Fällen zu umgehen gesucht. Dieser Zustand soll aufrechterhalten werden und nur [dadurch] ergänzt werden, dass man diese Leute auch zur 2. Prüfung </p>
                   <p>zulässt und dass sie nicht nur den Titel bekommen, sondern auch wirklich Kanzleidirektoren werden und faktisch dann in der Gruppe C sind. </p>
@@ -538,8 +505,7 @@
                   <p>verhandeln und dadurch die Sache [zu] beendigen. Sonst könnte ein Sympathiestreik der übrigen Beamtenschaft eintreten.</p>
                   <p>Eldersch: Ich möchte es Ramek überlassen, zu beurteilen, ob die Situation so ist, dass man Verhandlungen aufnimmt. </p>
                   <p>Es darf nichts geschehen, was die anderen Staatsämter präjudiziert und was [eine] größere Belastung bedingen würde.</p>
-                  <p>
-                     <pb facs="krp-0169_s01-0003"/>Miklas: Ramek kann sich auf die Fürbitte der Richtervereinigung berufen.</p>
+                  <p><pb facs="krp-0169_s01-0003"/>Miklas: Ramek kann sich auf die Fürbitte der Richtervereinigung berufen.</p>
                   <p>Beschluss im Sinne Eldersch [...].</p>
                   <p>Deutsch: <hi rend="#s">Das Arsenal hat zwei</hi> -. Die Italiener haben zwei B[...], die uns gehören und zwei Lafetten im Arsenal aufgeladen </p>
                   <p>und wollen sie wegführen. </p>
@@ -562,8 +528,7 @@
                   <p>eine Klarheit schaffen [sollten] und bin daher aus den angeführten politischen und moralischen Gründen dafür, dass wir das Gesetz erlassen.</p>
                   <p>Reisch: Ich habe eben gesehen, dass in der Begründung auch auf die staatsfinanziellen Momente hingewiesen wird pro, während meine </p>
                   <p>Referenten kontra aus staatsfinanziellen Gründen sind - weil die Sukzessionsstaaten gewiss Repressionsgesetze machen werden und uns [dann] </p>
-                  <p>
-                     <pb facs="krp-0169_s01-0004"/>Offiziere aus diesen Staaten, die schon abgewandert sind, zufallen werden. Wir müssen dann gewärtigen, dass von den 2.500 Offizieren, die in fremde Nationalstaaten </p>
+                  <p><pb facs="krp-0169_s01-0004"/>Offiziere aus diesen Staaten, die schon abgewandert sind, zufallen werden. Wir müssen dann gewärtigen, dass von den 2.500 Offizieren, die in fremde Nationalstaaten </p>
                   <p>zuständig sind, [eine Anzahl] wieder zu uns abgeschoben werden können.</p>
                   <p>[Ich] beantrage die Vertagung.</p>
                   <p>Resch: Es ist ein politisches Ausnahmsgesetz. Ich stimme den Ausführungen Rameks und Reischs zu. </p>
@@ -577,8 +542,7 @@
                   <p>Zur Kenntnis genommen.</p>
                   <p>2. d) [Fink]: Wahlstatistik.</p>
                   <p>Angenommen.</p>
-                  <p>
-                     <pb facs="krp-0169_s01-0005"/>3. Ramek: Fideikommisse.</p>
+                  <p><pb facs="krp-0169_s01-0005"/>3. Ramek: Fideikommisse.</p>
                   <p>Die politische Notwendigkeit ergibt sich aus der Notwendigkeit - Tatsache, dass die Instit[ution] der Fideikommisse in engem Zusammenhang </p>
                   <p>steht mit dem Adelsinstitut. Nachdem wir den Adel abgeschafft haben, so müsste das auch mit den Fideikommissen geschehen. </p>
                   <p>[Es ist] eine ganz veraltete Institution, die auch vom volkswirtschaftlichen Standpunkt nicht mehr erwünscht ist.</p>
@@ -595,28 +559,22 @@
                   <p>Deutsch: Nach den Einwendungen wird es nicht möglich sein, dass - [werden] wir diesen Gesetzentwurf heute nicht erledigen können. </p>
                   <p>Ich glaube, dass [ein] Veräußerungs- und Belastungsverbot nicht zum Ziel führen wird. Es wäre nicht logisch, einerseits das Band aufzuheben und </p>
                   <p>andererseits ein neues Band zu statuieren. Vielleicht [ginge ein] Verbot, dass Nicht-Deutschösterreicher diese Grundstücke nicht erwerben dürfen - wenn das – </p>
-                  <p>
-                     <hi rend="#s">man müsste die Frage erwägen</hi> - nicht mit dem Friedensvertrag im Widerspruch steht. Aber man muss die Sache noch einmal studieren.</p>
+                  <p><hi rend="#s">man müsste die Frage erwägen</hi> - nicht mit dem Friedensvertrag im Widerspruch steht. Aber man muss die Sache noch einmal studieren.</p>
                   <p>Eisler: [Ich] bin einverstanden, die Sache noch einmal dem Studium zu unterziehen, aber nicht auf zu lange. Denn es wäre eine Unterlassung der </p>
                   <p>Nationalversammlung, wenn sie sich dieser Aufgabe nicht unterzöge. Ich glaube, dass man eine Abhilfe gegen die Bedenken Stöcklers im </p>
                   <p>Grundverkehrsgesetz finden könnte, welches vielleicht entsprechend ergänzt oder verschärft würde. Der Vorschlag Deutschs (Verbot des Erwerbs durch Ausländer) </p>
                   <p>ist nach dem Friedensvertrag nicht gangbar. [Ich] beantrage [eine] befristete Zurückstellung der Vorlage.</p>
                   <p>Miklas: Zu § 3 1. Abs.: [Man sollte] nach 'gemeinnützige' [einschalten] "oder öffentlich-rechtliche", </p>
                   <p>um die in Betracht kommenden Gemeinden und Kirchen zu berücksichtigen.</p>
-                  <p>
-                     <pb facs="krp-0169_s01-0006"/>Ad § 8: "reiner Wert" [wäre] so umzustilisieren wie [es] im Vermögensabgabegesetz zwischen den beiden Parteien vereinbart wurde.</p>
+                  <p><pb facs="krp-0169_s01-0006"/>Ad § 8: "reiner Wert" [wäre] so umzustilisieren wie [es] im Vermögensabgabegesetz zwischen den beiden Parteien vereinbart wurde.</p>
                   <p>Fink: Ich weiß nicht, ob eine Verschärfung des Grundverkehrsgesetzes notwendig ist. Vielleicht ginge es durch eine </p>
                   <p>Instruktion an die Bezirks- und Landeskommissionen.</p>
                   <p>[Beschluss]: Kabinettskonferenz, Justiz - leitet, Landwirtschaft, Staatskanzlei, Staatsamt für Finanzen, </p>
                   <p>innerhalb 14 Tagen.</p>
                   <p>4. Hanusch: 5. Krankenversicherungsnovelle, </p>
                   <p>Einbeziehung der land- und forstwirtschaftlichen Arbeiter in den Versicherungszwang.</p>
-                  <p>
-                     <hi rend="#s">Reisch: Bezüglich der Staatsbeamten ist ein Gesetzentwurf in Vorbereitung. Die Staatsbeamten werden im § 2 als </hi>
-                  </p>
-                  <p>
-                     <hi rend="#s">versicherungsfrei -.</hi>
-                  </p>
+                  <p><hi rend="#s">Reisch: Bezüglich der Staatsbeamten ist ein Gesetzentwurf in Vorbereitung. Die Staatsbeamten werden im § 2 als </hi></p>
+                  <p><hi rend="#s">versicherungsfrei -.</hi></p>
                   <p>Deutsch: Wenn das Gesetz für die Staatsbediensteten gemacht wird, so gehören selbstverständlich die Militärpersonen auch </p>
                   <p>dazu. Es müssen bei diesem Gesetz die aktiven und die pensionierten Militärpersonen einbezogen werden, mit der Einschränkung, dass das Gesetz </p>
                   <p>vom Jahr 1875, welches bisher [besondere] Vorsorgen getroffen hat, außer Kraft gesetzt wird.</p>
@@ -626,8 +584,7 @@
                   <p>Der Niederösterreichische Landtag hat eine Spiel- und Belustigungssteuer für Wr. Neustadt beschlossen. </p>
                   <p>Vorstellung.</p>
                   <p>Angenommen.</p>
-                  <p>
-                     <pb facs="krp-0169_s01-0007"/>5. Reisch: </p>
+                  <p><pb facs="krp-0169_s01-0007"/>5. Reisch: </p>
                   <p>Vollzugsanweisung zur Durchführung des Pensionsgesetzes.</p>
                   <p>Erlass betreffend die Vorschussfragen.</p>
                   <p>Resch: -.</p>

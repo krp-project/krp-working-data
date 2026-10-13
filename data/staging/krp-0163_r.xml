@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0163.xml">
             <head type="dokument">
-               <title type="num">163.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">163.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0163_r-0001"/>[Montag] 1920-03-22</title>
@@ -281,9 +280,7 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0163_top03">Zu TOP 3</ref>: <ref target="#krp-0163_b01">Vortrag des Staatsamtes für Finanzen auf Erhöhung des Zollaufschlages mit Antrag und Vollzugsanweisung</ref>
-                  </item>
+                  <item><ref target="#krp-0163_top03">Zu TOP 3</ref>: <ref target="#krp-0163_b01">Vortrag des Staatsamtes für Finanzen auf Erhöhung des Zollaufschlages mit Antrag und Vollzugsanweisung</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -309,8 +306,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> teilt mit, dass der § 11 des Besoldungsübergangsgesetzes nach dem Antrage des Finanzausschusses abgeändert werden soll, wie folgt:</p>
                   <p>„Beförderungen und Erhöhungen des Grundgehaltes finden künftig nur mit Wirksamkeit vom 1. Jänner und 1. Juli statt. Diese Beschränkung erstreckt sich nicht auf Fälle, in denen zwingende dienstliche Rücksichten die sofortige Besetzung eines leitenden Postens im Verwaltungsdienste geboten erscheinen lassen.</p>
                   <p>Bei Ernennungen und Beförderungen von Richtern und Verwaltungsbeamten außerhalb der im Abs. 1 angeführten Termine sowie bei Neuaufnahmen von Zivilstaatsangestellten aller Arten gilt als Anfallstag für die Zeitbeförderung und für die Erhöhung des Grundgehaltes der nächstfolgende der beiden vorbezeichneten Termine.“</p>
-                  <p>
-                     <pb facs="krp-0163_r-0004"/>Der Kabinettsrat tritt über Vorschlag des sprechenden Staatssekretärs diesem Antrage bei.</p>
+                  <p><pb facs="krp-0163_r-0004"/>Der Kabinettsrat tritt über Vorschlag des sprechenden Staatssekretärs diesem Antrage bei.</p>
                </div>
                <div type="top" xml:id="krp-0163_top03">
                   <head>
@@ -321,13 +317,11 @@
                   </head>
                   <p>Staatssekretär Dr. Reisch führt aus, dass die beteiligten Staatsämter im Sinne des Kabinettsratsbeschlusses vom 16. März d. J. die Frage der Erhöhung des Zollaufschlages einer neuerlichen eingehenden Erörterung unterzogen haben. Hiebei sei von allen beteiligten Seiten anerkannt worden, dass eine etappenweise Angleichung des Zollaufschlages an das Disagio unserer Krone im Sinne des Gesetzes vollkommen berechtigt sei, dass es sich aber empfehle, pari passu aufgrund des Ermächtigungsgesetzes entsprechende Verfügungen zu treffen, um wirtschaftliche Schäden hintanzuhalten und eine ungünstige Rückwirkung auf die Preisbildung tunlichst zu vermeiden.</p>
                   <p>Der nächste Schritt, der nun im Interesse der Staatsfinanzen zu unternehmen wäre, hätte den Zollaufschlag, wie im Kabinettsrate vom 16. d. M. beantragt wurde, derart zu erhöhen, dass in Bankvaluta das 20-fache der tarifmäßigen, in Gold zu verstehenden Beträge einzuheben wäre, womit der jetzige Zollauf<pb facs="krp-0163_r-0005"/>schlag von 500 % auf 1.900 % hinaufgesetzt würde. Die Rücksicht auf die Staatsfinanzen lasse es geboten erscheinen, die im Kabinettsrate bereits vorgelegene Vollzugsanweisung mit aller Beschleunigung zu erlassen, da eine weitere Verzögerung einen Einnahmeentgang von ca. 100 Millionen K im Monat für den Staat bedeute.</p>
-                  <p>
-                     <hi rend="#u">Nach</hi> Genehmigung dieser Vollzugsanweisung, aber noch <hi rend="#u">vor</hi> ihrer Erlassung werde die Fühlungnahme mit den Interessenten, welche vom Kabinettsrate für wünschenswert bezeichnet worden sei, durch das Staatsamt für Handel [und Gewerbe, Industrie und Bauten] in die Wege geleitet werden. Hiebei werde ihnen die im Gesetze vollauf begründete Aufschlagserhöhung als eine unabänderliche Tatsache mitzuteilen, ihnen aber Gelegenheit zu geben sein, allfällige aus wirtschaftlichen Gründen notwendige Verfügungen, und zwar Ermäßigungen oder die Aufhebung der Zollsätze für gewisse Artikel, anzuregen. Hiedurch werde sich die Möglichkeit ergeben, sonst etwa entstehenden Schäden und Störungen unseres Wirtschaftslebens vorzubeugen.</p>
+                  <p><hi rend="#u">Nach</hi> Genehmigung dieser Vollzugsanweisung, aber noch <hi rend="#u">vor</hi> ihrer Erlassung werde die Fühlungnahme mit den Interessenten, welche vom Kabinettsrate für wünschenswert bezeichnet worden sei, durch das Staatsamt für Handel [und Gewerbe, Industrie und Bauten] in die Wege geleitet werden. Hiebei werde ihnen die im Gesetze vollauf begründete Aufschlagserhöhung als eine unabänderliche Tatsache mitzuteilen, ihnen aber Gelegenheit zu geben sein, allfällige aus wirtschaftlichen Gründen notwendige Verfügungen, und zwar Ermäßigungen oder die Aufhebung der Zollsätze für gewisse Artikel, anzuregen. Hiedurch werde sich die Möglichkeit ergeben, sonst etwa entstehenden Schäden und Störungen unseres Wirtschaftslebens vorzubeugen.</p>
                   <p>Der sprechende Staatssekretär erbitte sich daher die Ermächtigung, die <pb facs="krp-0163_r-0006"/>ersterwähnte Vollzugsanweisung dem Präsidenten der Nationalversammlung behufs Einholung der Schlussfassung des Hauptausschusses mitzuteilen. Zugleich werde der Staatssekretär für Handel [und Gewerbe, Industrie und Bauten] die Ermächtigung des Hauptausschusses erbitten, die aufgrund der erwähnten Fühlungnahme mit den Interessenten als notwendig erkannten Ermäßigungen, bzw. Zollaufhebungen durch besondere Vollzugsanweisung treffen zu dürfen, ohne diese zweite Vollzugsanweisung <hi rend="#u">vor</hi> ihrer Kundmachung dem Hauptausschusse vorlegen zu müssen. Die Publikation beider Vollzugsanweisungen hätte sohin gleichzeitig, und zwar noch vor Ostern zu erfolgen.</p>
                   <p>Der Kabinettsrat erteilt dem Staatssekretär für Finanzen die erbetene Ermächtigung und beschließt weiters, folgenden Beschlussantrag dem Hauptausschusse zu erstatten:</p>
                   <p>Der Hauptausschuss ermächtigt den Präsidenten der Nationalversammlung, einer aufgrund des Gesetzes vom 24. Juli 1917, RGBl. Nr. 307, zu erlassenden Vollzugsanweisung, betreffend die Ermäßigung, bzw. Aufhebung oder Reaktivierung von verschiedenen Sätzen des geltenden Zolltarifes ohne vorherige Anzeige zuzustimmen.</p>
-                  <p>
-                     <pb facs="krp-0163_r-0007"/>Die vorzunehmende Ermäßigung oder Aufhebung der Zölle bei verschiedenen Waren soll die wirtschaftlich notwendige Korrektur gegenüber den Zollerhöhungen, die durch den in Aussicht genommenen Zollzuschlag (das 20-fache der Tarifsätze) bedingt sind, bilden. Andererseits soll auch auf die Notwendigkeit, gewisse Zölle wieder einzuführen, Bedacht genommen werden.</p>
+                  <p><pb facs="krp-0163_r-0007"/>Die vorzunehmende Ermäßigung oder Aufhebung der Zölle bei verschiedenen Waren soll die wirtschaftlich notwendige Korrektur gegenüber den Zollerhöhungen, die durch den in Aussicht genommenen Zollzuschlag (das 20-fache der Tarifsätze) bedingt sind, bilden. Andererseits soll auch auf die Notwendigkeit, gewisse Zölle wieder einzuführen, Bedacht genommen werden.</p>
                   <p>Das Ausmaß der Zolländerungen wird nach Einvernehmen mit den Interessenten festgesetzt werden.</p>
                </div>
                <div type="top" xml:id="krp-0163_top04">
@@ -346,8 +340,7 @@
             <div type="stenogramme">
                <div n="1">
                   <head>[KRP 163, 22. März 1920, Stenogramm Fenz]</head>
-                  <p>
-                     <pb facs="krp-0163_s01-0001"/>163., 22. /III.</p>
+                  <p><pb facs="krp-0163_s01-0001"/>163., 22. /III.</p>
                   <p>[Zugezogen:] Wilfling, </p>
                   <p>Mühlvenzl.</p>
                   <p>[Renner]: Stellungnahme.</p>
@@ -369,8 +362,7 @@
                   <p>Renner: Es besteht kein Grund, abzugehen. Bitte, dass die Presse entsprechend aufgeklärt wird.</p>
                   <p>Reisch: Die Erhöhung der Kollegiengelder war eine Bedingung der Erhöhung der Hochschullehrergehalte. Bitte, das nicht zu sehr zu </p>
                   <p>betonen, damit nicht [eine] Diff[erenz] zwischen den Studenten und Professoren entsteht.</p>
-                  <p>
-                     <pb facs="krp-0163_s01-0002"/>Paul: Ich nehme an, dass das Nachtrags-Besoldungsübergangsgesetz erledigt wird. Es müssen auch die Vollzugsanweisungen wegen der Erhöhungen hinausgehen. </p>
+                  <p><pb facs="krp-0163_s01-0002"/>Paul: Ich nehme an, dass das Nachtrags-Besoldungsübergangsgesetz erledigt wird. Es müssen auch die Vollzugsanweisungen wegen der Erhöhungen hinausgehen. </p>
                   <p>[Ich] frage an, ob [es] notwendig ist, dass die Vollzugsanweisungen noch einmal dem Hauptausschuss bzw. dem Kabinett vorgelegt werden müssen?</p>
                   <p>Renner: Es wird sich empfehlen, den geänderten Tarif dem Hauptausschuss mitzuteilen - zur Kenntnis zu bringen, dass aber mit der Publikation sofort </p>
                   <p>gleichzeitig vorgegangen wird.</p>

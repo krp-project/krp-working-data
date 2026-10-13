@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0054.xml">
             <head type="dokument">
-               <title type="num">54.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">54.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0054_r-0001"/>[Mittwoch] 1919-03-26</title>
@@ -281,9 +280,7 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0054_top04">Zu TOP 4</ref>: <ref target="#krp-0054_b01">Rechtsauffassung des Kabinettrates hinsichtlich der Anwendung des seit 15. März geltenden neuen Gesetzes über die Volksvertretung bezüglich neuer Landesgesetze</ref>
-                  </item>
+                  <item><ref target="#krp-0054_top04">Zu TOP 4</ref>: <ref target="#krp-0054_b01">Rechtsauffassung des Kabinettrates hinsichtlich der Anwendung des seit 15. März geltenden neuen Gesetzes über die Volksvertretung bezüglich neuer Landesgesetze</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -380,9 +377,7 @@
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> erbittet die Ermächtigung des Kabinettsrates zur Einbringung des Entwurfes eines Gesetzes über die Bezüge der Volksbeauftragten.</p>
                   <p>Über Anregung des Staatssekretärs Dr. <hi rend="#letterspaced">Bauer</hi>, der darauf hinweist, dass der gegenwärtige Zeitpunkt für die regierungsseitige Einbringung eines derartigen Gesetzentwurfes nicht günstig sei, beschließt der Kabinettsrat, von der Vorlage dieses Entwurfes abzusehen und dessen Einbringung der Initiative der drei Parteien der Nationalversammlung zu überlassen.</p>
-                  <p>
-                     <pb facs="krp-0054_r-0010"/>
-                  </p>
+                  <p><pb facs="krp-0054_r-0010"/></p>
                </div>
                <div type="top" xml:id="krp-0054_top10">
                   <head>

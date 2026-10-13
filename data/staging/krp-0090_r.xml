@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0090.xml">
             <head type="dokument">
-               <title type="num">90.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">90.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0090_r-0001"/>[Freitag] 1919-07-18</title>
@@ -281,24 +280,12 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0090_top03">Zu TOP 3</ref>: <ref target="#krp-0090_b01">Vortrag über den Voranschlag bzw. die damit geplanten Änderungen der Salzburger Amtsblätter</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0090_top04">Zu TOP 4</ref>: <ref target="#krp-0090_b02">Anschreiben und Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Geschäftsordnung und Geschäftsführung der Betriebsräte</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0090_top05">Zu TOP 5</ref>: <ref target="#krp-0090_b03">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Geschäftsführung der Vertrauensmänner</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0090_top06">Zu TOP 6</ref>: <ref target="#krp-0090_b04">Gesetzesentwurf des Staatsamtes für soziale Verwaltung über die Entrichtung einer Abgabe von Spielen in öffentlichen Lokalen zur Fürsorge für Kriegsbeschädigte, Kriegerwitwen und Kriegerwaisen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0090_top08">Zu TOP 8</ref>: <ref target="#krp-0090_b05">Gesetzesentwurf des Staatsamtes für Finanzen über die Gewährung von Teuerungszulagen für das 2. Halbjahr 1919 für die aktiven und pensionierten Lehrpersonen der öffentlichen Volks- und Bürgerschulen sowie deren Waisen und Witwen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0090_top09">Zu TOP 9</ref>: <ref target="#krp-0090_b06">Abschrift einer Zuschrift des Vorarlberger Landesrates an die Staatskanzlei über die Frage des Anschlusses Vorarlbergs an die Schweiz</ref>
-                  </item>
+                  <item><ref target="#krp-0090_top03">Zu TOP 3</ref>: <ref target="#krp-0090_b01">Vortrag über den Voranschlag bzw. die damit geplanten Änderungen der Salzburger Amtsblätter</ref></item>
+                  <item><ref target="#krp-0090_top04">Zu TOP 4</ref>: <ref target="#krp-0090_b02">Anschreiben und Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Geschäftsordnung und Geschäftsführung der Betriebsräte</ref></item>
+                  <item><ref target="#krp-0090_top05">Zu TOP 5</ref>: <ref target="#krp-0090_b03">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Geschäftsführung der Vertrauensmänner</ref></item>
+                  <item><ref target="#krp-0090_top06">Zu TOP 6</ref>: <ref target="#krp-0090_b04">Gesetzesentwurf des Staatsamtes für soziale Verwaltung über die Entrichtung einer Abgabe von Spielen in öffentlichen Lokalen zur Fürsorge für Kriegsbeschädigte, Kriegerwitwen und Kriegerwaisen</ref></item>
+                  <item><ref target="#krp-0090_top08">Zu TOP 8</ref>: <ref target="#krp-0090_b05">Gesetzesentwurf des Staatsamtes für Finanzen über die Gewährung von Teuerungszulagen für das 2. Halbjahr 1919 für die aktiven und pensionierten Lehrpersonen der öffentlichen Volks- und Bürgerschulen sowie deren Waisen und Witwen</ref></item>
+                  <item><ref target="#krp-0090_top09">Zu TOP 9</ref>: <ref target="#krp-0090_b06">Abschrift einer Zuschrift des Vorarlberger Landesrates an die Staatskanzlei über die Frage des Anschlusses Vorarlbergs an die Schweiz</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -338,8 +325,7 @@
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass die Landesregierung in Salzburg eine grundlegende Änderung in der Organisation des Landesamtsblattes beschlossen und diese Änderung, ohne die hierseitige Zustimmung einzuholen, auch bereits durchgeführt habe, wodurch eine beträchtliche Mehrbelastung der Staatsfinanzen resultiere.</p>
                   <p>Die Staatskanzlei beabsichtige nunmehr, die Entscheidung über das Verlangen der dortigen Landesregierung nach Sicherstellung der Bedeckung für diesen erhöhten Aufwand im Staatsvoranschlage pro 1919/20 von der vorherigen Klärung des Umfanges und der Zweckmäßigkeit der beabsichtigten Neuorganisierung und der damit zusammenhängenden sachlichen und personellen Vorsorgen abhängig zu machen. Bis dahin soll das Erfordernis für diese Landeszeitung im Staatsvoranschlage nur mit den bisher veranschlagten Zifferansätzen berücksichtigt werden.</p>
-                  <p>
-                     <pb facs="krp-0090_r-0007"/>Der Kabinettsrat pflichtet dem im Wortlaut bekanntgegebenen einschlägigen Erlasse der Staatskanzlei an die Landesregierung in Salzburg bei.</p>
+                  <p><pb facs="krp-0090_r-0007"/>Der Kabinettsrat pflichtet dem im Wortlaut bekanntgegebenen einschlägigen Erlasse der Staatskanzlei an die Landesregierung in Salzburg bei.</p>
                </div>
                <div type="top" xml:id="krp-0090_top04">
                   <head>
@@ -386,9 +372,7 @@
                   <p>Demgegenüber verweist Vizepräsident Dr. <hi rend="#letterspaced">Pantz</hi> auf die im Staatsamte für Land- und Forstwirtschaft vorherrschenden besonderen Verhältnisse, welche im Interesse einer klaglosen Fortführung des Dienstes für die Zukunft die Gestattung derartiger Ausnahmen als unabweislich erscheinen lassen.</p>
                   <p>Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> stellt daraufhin den Vermittlungsantrag, der Kabinettsrat möge den Vorschlag des Komitees aufrechterhalten, gleichzeitig jedoch aussprechen, dass für den Fall nachgewiesener Unentbehrlichkeit einzelner, aufgrund dieses Gesetzes pensionierter Beamter vom Kabinettsrate ganz ausnahmsweise deren Weiterverwendung auf Grund vertragsmäßiger Anstellung bewilligt werden könne.</p>
                   <p>Der Kabinettsrat erhebt sohin den Antrag des Komitees mit dem Ergänzungsvorschlage des Sektionschefs Dr. Grimm zum Beschlusse.</p>
-                  <p>
-                     <pb facs="krp-0090_r-0011"/>
-                  </p>
+                  <p><pb facs="krp-0090_r-0011"/></p>
                </div>
                <div type="top" xml:id="krp-0090_top08">
                   <head>

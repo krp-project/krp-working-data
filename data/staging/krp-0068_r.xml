@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0068.xml">
             <head type="dokument">
-               <title type="num">68.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">68.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0068_r-0001"/>[Mittwoch] 1919-05-07</title>
@@ -281,21 +280,11 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0068_top01">Zu TOP 1</ref>: <ref target="#krp-0068_b01">Einladung von Präsident Seitz an den Staatskanzler Dr. Renner, mit allen Kabinettsmitgliedern an einer Sitzung des Hauptausschusses des Abgeordnetenhauses teilzunehmen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0068_top06">Zu TOP 6</ref>: <ref target="#krp-0068_b02">Vollzugsanweisung über die Organisation des wirtschaftlichen Inspektionsdienstes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0068_top07">Zu TOP 7</ref>: <ref target="#krp-0068_b03">Vollzugsanweisung des Staatsamtes für Justiz im Einvernehmen mit dem Staatsamt der Finanzen über die Zehrgelder, Ganggelder, Zustell- und Übernachtungsgebühren aus Anlass von Amtshandlungen außerhalb der Amtsgebäude</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0068_top08">Zu TOP 8</ref>: <ref target="#krp-0068_b04">Gesetzesentwurf über die Erhöhung der Wertgrenzen im bürgerlichen Streitverfahren (Streitwertnovelle)</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0068_top09">Zu TOP 9</ref>: <ref target="#krp-0068_b05">Antrag des Staatsamtes für Land- und Forstwirtschaft auf Zustimmung zum Gesetzesbeschluss der Provisorischen Vorarlberger Landesversammlung über die Sicherstellung der Rheintalentwässerung in mehreren Gemeinden</ref>
-                  </item>
+                  <item><ref target="#krp-0068_top01">Zu TOP 1</ref>: <ref target="#krp-0068_b01">Einladung von Präsident Seitz an den Staatskanzler Dr. Renner, mit allen Kabinettsmitgliedern an einer Sitzung des Hauptausschusses des Abgeordnetenhauses teilzunehmen</ref></item>
+                  <item><ref target="#krp-0068_top06">Zu TOP 6</ref>: <ref target="#krp-0068_b02">Vollzugsanweisung über die Organisation des wirtschaftlichen Inspektionsdienstes</ref></item>
+                  <item><ref target="#krp-0068_top07">Zu TOP 7</ref>: <ref target="#krp-0068_b03">Vollzugsanweisung des Staatsamtes für Justiz im Einvernehmen mit dem Staatsamt der Finanzen über die Zehrgelder, Ganggelder, Zustell- und Übernachtungsgebühren aus Anlass von Amtshandlungen außerhalb der Amtsgebäude</ref></item>
+                  <item><ref target="#krp-0068_top08">Zu TOP 8</ref>: <ref target="#krp-0068_b04">Gesetzesentwurf über die Erhöhung der Wertgrenzen im bürgerlichen Streitverfahren (Streitwertnovelle)</ref></item>
+                  <item><ref target="#krp-0068_top09">Zu TOP 9</ref>: <ref target="#krp-0068_b05">Antrag des Staatsamtes für Land- und Forstwirtschaft auf Zustimmung zum Gesetzesbeschluss der Provisorischen Vorarlberger Landesversammlung über die Sicherstellung der Rheintalentwässerung in mehreren Gemeinden</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -319,9 +308,7 @@
                      </label>
                   </head>
                   <p>Der <hi rend="#letterspaced">Staatskanzler</hi> erbittet und erhält in seiner Eigenschaft als Leiter des Staatsamtes für Inneres und Unterricht die Ermächtigung des Kabinettsrates, beim Präsidenten der Nationalversammlung die Bestätigung der Wahl des Gewerkschaftssekretärs Josef Wokral zum provisorischen Bürgermeister der Stadt Steyr in Antrag bringen zu dürfen.</p>
-                  <p>
-                     <pb facs="krp-0068_r-0005"/>
-                  </p>
+                  <p><pb facs="krp-0068_r-0005"/></p>
                </div>
                <div type="top" xml:id="krp-0068_top03">
                   <head>
@@ -342,10 +329,8 @@
                   <p>Nach eingehender Darstellung der Sachlage unterbreitet der Vorsitzende dem Kabinettsrate folgenden Antrag:</p>
                   <p>„</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die Errichtung einer deutschösterreichischen Lichtbildstelle wird im Anschlusse an die deutschösterreichische Filmhauptstelle und bei Unterstellung unter die Staatskanzlei grundsätzlich genehmigt, ferner die Inanspruchnahme des für diese Stelle in Frage kommenden Inventars der bezüglichen liquidierenden k. u. k. ebenso der k. k. militärischen Behörden und Anstalten, sowie jenes der Zentralkommission für Denkmalpflege, dann der staatlichen Lehranstalten, der Kunst- und wissenschaftlichen Institute für die Lichtbildstelle mit der Maßgabe verfügt, dass für die Wahrnehmung der hiedurch be<pb facs="krp-0068_r-0006"/>rührten Interessen des Unterrichtes, der Wissenschaft und Kunst im Rahmen des Organisationsstatutes der mehrgenannten Stelle entsprechend vorzusorgen ist.</item>
-                     <item n="2">
-                        <label>2.)</label> Mit der Durchführung dieses Beschlusses wird die Staatskanzlei betraut."</item>
+                     <item n="1"><label>1.)</label> Die Errichtung einer deutschösterreichischen Lichtbildstelle wird im Anschlusse an die deutschösterreichische Filmhauptstelle und bei Unterstellung unter die Staatskanzlei grundsätzlich genehmigt, ferner die Inanspruchnahme des für diese Stelle in Frage kommenden Inventars der bezüglichen liquidierenden k. u. k. ebenso der k. k. militärischen Behörden und Anstalten, sowie jenes der Zentralkommission für Denkmalpflege, dann der staatlichen Lehranstalten, der Kunst- und wissenschaftlichen Institute für die Lichtbildstelle mit der Maßgabe verfügt, dass für die Wahrnehmung der hiedurch be<pb facs="krp-0068_r-0006"/>rührten Interessen des Unterrichtes, der Wissenschaft und Kunst im Rahmen des Organisationsstatutes der mehrgenannten Stelle entsprechend vorzusorgen ist.</item>
+                     <item n="2"><label>2.)</label> Mit der Durchführung dieses Beschlusses wird die Staatskanzlei betraut."</item>
                   </list>
                   <p>Nachdem der sprechende Staatssekretär noch eine gegenständliche Anfrage des Staatssekretärs <hi rend="#letterspaced">Hanusch</hi> beantwortet hatte, pflichtet der Kabinettsrat dem vorstehenden Antrage bei.</p>
                </div>

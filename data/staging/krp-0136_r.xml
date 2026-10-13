@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0136.xml">
             <head type="dokument">
-               <title type="num">136.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">136.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0136_r-0001"/>[Freitag] 1920-01-09</title>
@@ -281,39 +280,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0136_top03">Zu TOP 3</ref>: <ref target="#krp-0136_b01">Antrag betreffend Überweisung eines Teilbetrages von 400.000 K an das Land Vorarlberg für Vorbereitungsarbeiten zur Ausnützung der Wasserkräfte des Lünersees</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top05">Zu TOP 5</ref>: <ref target="#krp-0136_b02">Vortrag des Staatsamtes für Justiz über die Exekution auf die Bezüge der im öffentlichen Dienst stehenden Personen und ihrer Hinterbliebenen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top05">Zu TOP 5</ref>: <ref target="#krp-0136_b03">Vollzugsanweisung der Staatsregierung über die Exekution auf die Bezüge der im öffentlichen Dienst stehenden Personen und ihrer Hinterbliebenen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top06">Zu TOP 6</ref>: <ref target="#krp-0136_b04">Wehrgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top06">Zu TOP 6</ref>: <ref target="#krp-0136_b05">Begründung zum Wehrgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top06">Zu TOP 6</ref>: <ref target="#krp-0136_b06">Vortrag zu den §§ 7 des Wehrgesetzes, Aufstellung von Heeresverwaltungsstellen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top09">Zu TOP 9</ref>: <ref target="#krp-0136_b07">Vollzugsanweisung zum Besoldungsübergangsgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top10">Zu TOP 10</ref>: <ref target="#krp-0136_b08">Vorlage des Staatsamtes für Finanzen über die einmalige außerordentliche Geldzubuße für Pensionsparteien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top11">Zu TOP 11</ref>: <ref target="#krp-0136_b09">Vortragsentwurf über die Abstempelung der Ein- und Zweikronennoten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top12">Zu TOP 12</ref>: <ref target="#krp-0136_b10">Vortrag des Staatamtes für Finanzen über die Vollzugsanweisung zur Errichtung und den Aufgaben des Abrechnungsamtes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0136_top12">Zu TOP 12</ref>: <ref target="#krp-0136_b11">Vollzugsanweisung über Errichtung und Aufgaben des Abrechnungsamtes sowie die Satzungen des Abrechnungsamtes</ref>
-                  </item>
+                  <item><ref target="#krp-0136_top03">Zu TOP 3</ref>: <ref target="#krp-0136_b01">Antrag betreffend Überweisung eines Teilbetrages von 400.000 K an das Land Vorarlberg für Vorbereitungsarbeiten zur Ausnützung der Wasserkräfte des Lünersees</ref></item>
+                  <item><ref target="#krp-0136_top05">Zu TOP 5</ref>: <ref target="#krp-0136_b02">Vortrag des Staatsamtes für Justiz über die Exekution auf die Bezüge der im öffentlichen Dienst stehenden Personen und ihrer Hinterbliebenen</ref></item>
+                  <item><ref target="#krp-0136_top05">Zu TOP 5</ref>: <ref target="#krp-0136_b03">Vollzugsanweisung der Staatsregierung über die Exekution auf die Bezüge der im öffentlichen Dienst stehenden Personen und ihrer Hinterbliebenen</ref></item>
+                  <item><ref target="#krp-0136_top06">Zu TOP 6</ref>: <ref target="#krp-0136_b04">Wehrgesetz</ref></item>
+                  <item><ref target="#krp-0136_top06">Zu TOP 6</ref>: <ref target="#krp-0136_b05">Begründung zum Wehrgesetz</ref></item>
+                  <item><ref target="#krp-0136_top06">Zu TOP 6</ref>: <ref target="#krp-0136_b06">Vortrag zu den §§ 7 des Wehrgesetzes, Aufstellung von Heeresverwaltungsstellen</ref></item>
+                  <item><ref target="#krp-0136_top09">Zu TOP 9</ref>: <ref target="#krp-0136_b07">Vollzugsanweisung zum Besoldungsübergangsgesetz</ref></item>
+                  <item><ref target="#krp-0136_top10">Zu TOP 10</ref>: <ref target="#krp-0136_b08">Vorlage des Staatsamtes für Finanzen über die einmalige außerordentliche Geldzubuße für Pensionsparteien</ref></item>
+                  <item><ref target="#krp-0136_top11">Zu TOP 11</ref>: <ref target="#krp-0136_b09">Vortragsentwurf über die Abstempelung der Ein- und Zweikronennoten</ref></item>
+                  <item><ref target="#krp-0136_top12">Zu TOP 12</ref>: <ref target="#krp-0136_b10">Vortrag des Staatamtes für Finanzen über die Vollzugsanweisung zur Errichtung und den Aufgaben des Abrechnungsamtes</ref></item>
+                  <item><ref target="#krp-0136_top12">Zu TOP 12</ref>: <ref target="#krp-0136_b11">Vollzugsanweisung über Errichtung und Aufgaben des Abrechnungsamtes sowie die Satzungen des Abrechnungsamtes</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -337,17 +314,14 @@
                   </head>
                   <p>Staatssekretär Ing. <hi rend="#letterspaced">Zerdik</hi> berichtet, dass im Wege der ungarischen Gesandtschaft an ihn um die Freigabe von 50 Waggon[s] Flachdruckpapier nach Ungarn gegen Kompensationen im Warenwerte herangetreten worden sei. Ungeachtet des großen Papiermangels hätte Redner im Interesse der Gewinnung von Lebensmitteln für Wien die Verhandlungen aufnehmen lassen und für die Erteilung der Ausfuhrbewilligung folgende Bedingungen gestellt:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Dass die ungarische Regierung die Freiheit der Durchfuhr für alle zwischen Österreich und Rumänien in beiden Richtungen vor sich gehenden Sendungen zusichert und sich insbesondere auch verpflichtet, das rollende Material auf dem Hinwege und auch auf dem Rückwege durch Ungarn frei und unbehindert passieren zu lassen, gleichgiltig, ob die Waggons beladen sind oder nicht, und unabhängig davon, welchen Eigentums die betreffenden <pb facs="krp-0136_r-0005"/>Waggons sind. Die Art wie diese Waggons österreichischerseits bezeichnet oder der ungarischen Regierung sonst bekanntgegeben werden, wird noch vorbehalten.</item>
-                     <item n="2">
-                        <label>2.)</label> Dass die ungarische Regierung die Ausfuhrbewilligung für 500 Waggon[s] Kartoffel erteilt.</item>
+                     <item n="1"><label>1.)</label> Dass die ungarische Regierung die Freiheit der Durchfuhr für alle zwischen Österreich und Rumänien in beiden Richtungen vor sich gehenden Sendungen zusichert und sich insbesondere auch verpflichtet, das rollende Material auf dem Hinwege und auch auf dem Rückwege durch Ungarn frei und unbehindert passieren zu lassen, gleichgiltig, ob die Waggons beladen sind oder nicht, und unabhängig davon, welchen Eigentums die betreffenden <pb facs="krp-0136_r-0005"/>Waggons sind. Die Art wie diese Waggons österreichischerseits bezeichnet oder der ungarischen Regierung sonst bekanntgegeben werden, wird noch vorbehalten.</item>
+                     <item n="2"><label>2.)</label> Dass die ungarische Regierung die Ausfuhrbewilligung für 500 Waggon[s] Kartoffel erteilt.</item>
                   </list>
                   <p>Die ungarische Gesandtschaft habe die Erfüllung der ersten Bedingung zugesagt, jedoch an Stelle von Kartoffeln Vieh angeboten, womit sich das Staatsamt für Volksernährung unter bestimmten Voraussetzungen bereit erklärte.</p>
                   <p>Der Wert der 50 Waggon[s] Flachdruckpapier werde ungarischerseits mit ca. 10 Millionen K beziffert. Es entspreche also dem kg Papier ein Preis von ca. 20 K gegenüber dem Inlandshöchstpreise von 3,71 K. Daher bestehe die Vermutung, dass es sich um Schleichhandelsware, vielleicht auch um Papier tschechoslowakischer Provenienz handelt, das gegenwärtig in größeren Mengen in Wien lagern soll, sich aber dem behördlichen Zugriff zu entziehen wisse und daher für den Inlandskonsum ohnedies schwerlich in Betracht komme.</p>
                   <p>Da es sich also um Papier handle, das nicht erst erzeugt werden solle, <pb facs="krp-0136_r-0006"/>und die ungarischen Kompensationen, vor allem die bereits verbindlich erteilte Zusicherung des freien Durchzugsverkehres nach und von Rumänien für Österreich einen großen Wert besitzen, erbitte er die Ermächtigung, in einvernehmlichem Vorgehen mit dem Staatssekretär für Volksernährung die Ausfuhr von 50 Waggons Flachdruckpapier nach Ungarn gegen Erhalt der Ausfuhrbewilligungen für 1.000 Stück Schlachtrinder oder entsprechende andere Kompensationen erteilen zu dürfen. Die Aufstellung der Detailbestimmungen, insbesonders über den Verrechnungsmodus und die Aushändigung der Transportzertifikate für das Vieh, wäre von den beteiligten Staatsämtern vorzunehmen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> erklärt sich grundsätzlich mit dem vorgeschlagenen Kompensationsgeschäft einverstanden, macht aber aufmerksam, dass die Bedingungen für den Ankauf des Viehs mit Ungarn noch nicht geklärt seien und auf das Anbot nur dann eingegangen werden könne, wenn die jetzt aufgestellten onerosen Verpflichtungen, wie beispielsweise die Abführung der Differenz zwischen dem billigeren Einkaufspreis und den höheren Verkaufspreisen in Budapest, fallen gelassen werden.</p>
-                  <p>
-                     <pb facs="krp-0136_r-0007"/>Der Kabinettsrat erteilt sohin dem Staatssekretär Ing. Zerdik die angesprochene Ermächtigung mit der Maßgabe, dass in den Abmachungen mit Ungarn den Forderungen des Staatssekretärs für Volksernährung voll Rechnung getragen werden müsse.</p>
+                  <p><pb facs="krp-0136_r-0007"/>Der Kabinettsrat erteilt sohin dem Staatssekretär Ing. Zerdik die angesprochene Ermächtigung mit der Maßgabe, dass in den Abmachungen mit Ungarn den Forderungen des Staatssekretärs für Volksernährung voll Rechnung getragen werden müsse.</p>
                </div>
                <div type="top" xml:id="krp-0136_top03">
                   <head>
@@ -357,8 +331,7 @@
                      </label>
                   </head>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> erinnert daran, dass in den vom Kabinettsrate mit Beschluss vom 5. August 1919 genehmigten Vereinbarungen mit dem Landesrate in Vorarlberg über den Ausbau einer staatlichen Wasserkraftanlange am Spullersee dem Lande Vorarlberg ein staatlicher Beitrag von 1.000.000 K zu den Vorbereitungs- und Ausführungskosten der Abdichtung des Lünersees zugesichert worden sei. Die Flüssigmachung der einzelnen Teilbeträge war an die Bedingung geknüpft, dass das Land alle Vorkehrungen für den Bau des Spullerseewerkes (Konsenserteilung, Grunderwerb und Regelung der Alpwirtschaftsfrage) zu unterstützen und zu fördern habe und die Anweisung vom Landesrate jeweils mit einem motivierten Antrage anzusprechen sei.</p>
-                  <p>
-                     <pb facs="krp-0136_r-0008"/>Gestützt darauf, sei der Vorarlberger Landesrat am 22. September 1919 an das WEWA um Flüssigmachung eines Teilbetrages von 400.000 K eingeschritten. Dieser Betrag soll für Vorarbeiten zur probeweisen Absenkung des Lünersees verwendet werden, unter denen allerdings auch Anlagen vorgesehen seien, die schon einen Teil der Baudurchführung des am Lünersee im Fall seiner Dichtigkeit geplanten Wasserkraftwerkes selbst darstellen; doch sei dies ein Umstand, auf den der Staat nicht weiter einzugehen brauche. Die sonstigen Bedingungen für die Überweisung der Subvention seien in der Zwischenzeit insofern erfüllt worden, als der Vorarlberger Landesrat Ende Dezember 1919 die Übereinkommen der Staatseisenbahnverwaltung mit den Gemeinden Klösterle, Dalaas, Innerbraz und Bludenz über die Regelung der Frage der Alpwirtschaft genehmigt und die Zusage gemacht habe, aufgrund des vorliegenden Ergebnisses der wasserrechtlichen Verhandlung der Staatseisenbahnverwaltung den Konsens für das Spullerseeprojekt erteilen sowie dessen Erklärung als begünstigter Bau zustimmen zu wollen. Bei dieser Sachlage beantrage der sprechende Staatssekretär, wenn <pb facs="krp-0136_r-0009"/>auch formell die Voraussetzung der Konzessionserteilung für das Spullerseewerk noch nicht erfüllt sei, dem Lande Vorarlberg den Betrag von 400.000 K als erste Rate der Staatssubvention von 1 Million K zur Unterstützung der Arbeiten am Lünersee flüssig zu machen und dem Landesrate dabei mitzuteilen, dass diese Zuweisung unter der Voraussetzung erfolge, dass das Land die Konzessionierung des Spullerseewerkes anstandslos genehmigen und der Erklärung als begünstigten Bau zustimmen werde.</p>
+                  <p><pb facs="krp-0136_r-0008"/>Gestützt darauf, sei der Vorarlberger Landesrat am 22. September 1919 an das WEWA um Flüssigmachung eines Teilbetrages von 400.000 K eingeschritten. Dieser Betrag soll für Vorarbeiten zur probeweisen Absenkung des Lünersees verwendet werden, unter denen allerdings auch Anlagen vorgesehen seien, die schon einen Teil der Baudurchführung des am Lünersee im Fall seiner Dichtigkeit geplanten Wasserkraftwerkes selbst darstellen; doch sei dies ein Umstand, auf den der Staat nicht weiter einzugehen brauche. Die sonstigen Bedingungen für die Überweisung der Subvention seien in der Zwischenzeit insofern erfüllt worden, als der Vorarlberger Landesrat Ende Dezember 1919 die Übereinkommen der Staatseisenbahnverwaltung mit den Gemeinden Klösterle, Dalaas, Innerbraz und Bludenz über die Regelung der Frage der Alpwirtschaft genehmigt und die Zusage gemacht habe, aufgrund des vorliegenden Ergebnisses der wasserrechtlichen Verhandlung der Staatseisenbahnverwaltung den Konsens für das Spullerseeprojekt erteilen sowie dessen Erklärung als begünstigter Bau zustimmen zu wollen. Bei dieser Sachlage beantrage der sprechende Staatssekretär, wenn <pb facs="krp-0136_r-0009"/>auch formell die Voraussetzung der Konzessionserteilung für das Spullerseewerk noch nicht erfüllt sei, dem Lande Vorarlberg den Betrag von 400.000 K als erste Rate der Staatssubvention von 1 Million K zur Unterstützung der Arbeiten am Lünersee flüssig zu machen und dem Landesrate dabei mitzuteilen, dass diese Zuweisung unter der Voraussetzung erfolge, dass das Land die Konzessionierung des Spullerseewerkes anstandslos genehmigen und der Erklärung als begünstigten Bau zustimmen werde.</p>
                   <p>Weitere Teilzahlungen würden nur dann erfolgen, wenn die im Kabinettsratsbeschlusse vom 5. August 1919 geforderten Voraussetzungen bezüglich der Konsenserteilung, des Grunderwerbes und der Regelung der Alpwirtschaftsfrage voll erfüllt sein werden.</p>
                   <p>Der Kabinettsrat beschließt im Sinne des gestellten Antrages.</p>
                </div>
@@ -373,9 +346,7 @@
                   <p>Bei der Besichtigung wurden schwere sanitäre Mängel festgestellt, die noch verschärft werden durch den Überbelag der Zellen auf fast das doppelte ihres Fassungsraumes. Viele der Übelstände, wie das Kübelabfuhrsystem in den Zellen, die ganz unzulänglichen Badeeinrichtungen, die ungeeigneten Küchenräume und die Verlegung des Inquisitenspitals in einen vollkommen sonnenlosen Trakt, hätten allerdings zum guten Teil ihren Grund im Alter und in der Beengtheit des Gebäudes; doch trage auch die Art der Organisation der Gebäudeverwaltung, welche den Hausverwaltungsbeamten kein selbständiges Entscheidungsrecht übrig lasse, viel dazu bei, dass dringende Verbesserungen unterbleiben oder wenigstens sehr verzögert werden. Die größte Gefahr für die Allgemeinheit liege jedoch darin, dass es im Landesgerichte an einer Entlausungsstation fehle. Der Ausbruch einer Fleckfieberepidemie unter den Gefangenen, die jetzt von ihrem Ungeziefer nicht gereinigt werden können, wäre eine Bedrohung der ganzen Stadt Wien, denn ohne Entlausungsstation im Landesgericht sei es ganz undenkbar, einer etwaigen Seuche dort Herr zu werden. Zum Schutze der <pb facs="krp-0136_r-0011"/>Bevölkerung vor einer solchen Heimsuchung müsse der sprechende Unterstaatssekretär daher auf der sofortigen Einrichtung einer Entlausungsstation für die Häftlinge des Landesgerichtes mit allem Nachdrucke und unter Ablehnung jeder Verantwortung für die katastrophalen Folgen einer Säumnis bestehen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ramek</hi> und Unterstaatsekretär Dr. <hi rend="#letterspaced">Eisler</hi> erwidern auf die Ausführungen des Vorredners, dass sie gleich bei Antritt ihres Amtes daran geschritten seien, die sanitären Zustände in den Gefangenenhäusern Wiens wie auswärts zu bessern, teils durch prozessuale Maßnahmen, um dem Überbelag zu steuern, teils durch bauliche Veränderungen, um die gröbsten Mängel abzustellen. Konnte in der ersteren Beziehung wegen der ungeheuer angewachsenen Kriminalität nicht viel erreicht werden, so habe es sich in der letzteren Beziehung als sehr hinderlich herausgestellt, dass die Justizverwaltung bauliche Maßnahmen im eigenen Wirkungskreise nicht anordnen könne, sondern hierin ganz von der staatlichen Gebäudeverwaltung abhänge. Das Staatsamt für Justiz sei daher vor einiger Zeit an das Staatsamt für Handel <pb facs="krp-0136_r-0012"/>und Gewerbe, Industrie und Bauten mit der Anregung herangetreten, ihm die Verwaltung der Justizgebäude selbst zu überlassen, doch wäre diese Frage noch nicht ausgetragen. Für die Errichtung einer Entlausungsstation im Wiener Landesgerichte wären die Mittel bereits beim Staatsamt für Finanzen angesprochen worden, ohne dass von dort bisher eine Entscheidung getroffen worden wäre. Das Justizressort würde großen Wert darauf legen, dass das Volksgesundheitsamt auch die Gefangenhäuser in der Provinz einer sanitären Besichtigung unterziehen lasse und die dabei erhobenen Anstände dem Staatsamt für Justiz mit konkreten Anträgen mitteile. Der gleiche Vorgang wäre bezüglich des Inspektionsergebnisses des Unterstaatssekretärs Dr. Tandler im Wiener Landesgericht erwünscht.</p>
                   <p>Der Kabinettsrat nimmt sohin den Bericht des Unterstaatsekretärs Dr. <hi rend="#letterspaced">Tandler</hi> zur Kenntnis und ersucht diesen, seine Wahrnehmungen im Wiener Landesgericht samt den Vorschlägen zur Abhilfe dem Staatsamt für Justiz schriftlich mitzuteilen.</p>
-                  <p>
-                     <pb facs="krp-0136_r-0013"/>
-                  </p>
+                  <p><pb facs="krp-0136_r-0013"/></p>
                </div>
                <div type="top" xml:id="krp-0136_top05">
                   <head>
@@ -397,8 +368,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> erbittet die Ermächtigung, den Entwurf <pb facs="krp-0136_r-0015"/>des Wehrgesetzes in der Sitzung der Nationalversammlung am 14. Jänner l. J. einbringen zu dürfen.</p>
                   <p>Das Koalitionskomitee habe den Entwurf in der vorliegenden Fassung vereinbart und nur die Möglichkeit zu Abänderungen in stilistischer Hinsicht offengelassen. Gegenüber den Beschlüssen des Koalitionskomitees weise der Gesetzestext der Vorlage insoferne eine Änderung auf, als die Einfügung besonderer Strafbestimmungen wegen Behinderung von Heeresangehörigen an der Ausübung ihrer staatsbürgerlichen Rechte durch Vorgesetzte sowie Nötigung unter Heeresangehörigen zum Beitritte zu einer politischen Organisation oder dem Austritte aus einer solchen unterblieben ist. Von der Aufnahme solcher Bestimmungen sei aufgrund von Referentengutachten abgesehen worden, welche die Aufstellung neuer Tatbestände dieser Art im Wehrgesetz neben den bereits im allgemeinen Strafgesetz enthaltenen als unzweckmäßig bezeichneten. Anstatt dessen nehme der Motivenbericht zum Wehrgesetz in den Bemerkungen zu den §§ 15 und 26 auf die Behandlung der angedeuteten Delikte Bezug.</p>
-                  <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi>
-                     <pb facs="krp-0136_r-0016"/>bemängelt, dass die Vorlage die Kostenfrage des neuen Heeres gar nicht berühre. Ferner verlangt Redner die Aufnahme einer Strafbestimmung in das Gesetz über die Behinderung an der Ausübung politischer Rechte, bzw. die Nötigung sowie die Abänderung des Abs. 3 des § 25 in eine negative Fassung. Schließlich beantragt er zu § 24 die Leitung der nichtmilitärischen Ausbildung der Wehrmänner einem Kuratorium aus Vertretern der Staatsämter für Heer[es]wesen, für Handel und Gewerbe, Industrie und Bauten und für Land- und Forstwirtschaft sowie des Unterrichtsamtes zu übertragen.</p>
+                  <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> <pb facs="krp-0136_r-0016"/>bemängelt, dass die Vorlage die Kostenfrage des neuen Heeres gar nicht berühre. Ferner verlangt Redner die Aufnahme einer Strafbestimmung in das Gesetz über die Behinderung an der Ausübung politischer Rechte, bzw. die Nötigung sowie die Abänderung des Abs. 3 des § 25 in eine negative Fassung. Schließlich beantragt er zu § 24 die Leitung der nichtmilitärischen Ausbildung der Wehrmänner einem Kuratorium aus Vertretern der Staatsämter für Heer[es]wesen, für Handel und Gewerbe, Industrie und Bauten und für Land- und Forstwirtschaft sowie des Unterrichtsamtes zu übertragen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ramek</hi> erklärt, nach seinen Informationen habe das Koalitionskomitee über die §§ 24, 25 und 30 des Wehrgesetzes keinen endgiltigen Beschluss gefasst, deren Festsetzung vielmehr dem Kabinettsrate überlassen. Den Anträgen des Unterstaatssekretärs Dr. Resch schließe er sich mit der Einschränkung an, dass eigene Strafbestimmungen über die Behinderung in politischen Rechten im Wehrgesetz nicht am Platze scheinen, weil sie als Formulierung neuer Tatbestände eine Abänderung des Strafgesetzes <pb facs="krp-0136_r-0017"/>bedeuten würden. Dagegen seien solche erforderlich bezüglich der Nötigung, für welche das allgemeine Strafgesetz keine Strafsanktion kenne. Der Abs. 3 des § 25 müsse negativ gehalten werden, denn es gehe nicht an, von einem Vorgesetzten eine positive Tätigkeit zu verlangen, damit die Untergebenen ihre politischen Rechte ausüben.</p>
                   <p>Ferner beantragt Redner, im § 30 das Wort „Soldatenräte“ zu streichen, um mit dieser Bezeichnung der Institution nicht bei der Entente Misstrauen hervorzurufen.</p>
                   <p>Schließlich verlangt der sprechende Staatssekretär, dass zum erleichterten Abbau der bestehenden Wehrmacht gleichzeitig mit den Werbekommissionen auch die Abfertigungskommissionen für die Volkswehr in Tätigkeit treten und die Abfertigungsbedingungen für ausscheidende Volkswehrleute sofort bekanntgegeben werden. Es sei notwendig, jedem Volkswehrmann Klarheit zu geben, inwieweit er vom Staate Hilfe zur Ergreifung eines neuen Berufes erhalte, damit er sich darnach entscheiden könne, ob er sich bei der Werbekommission oder bei der Abfertigungskommission melden wolle. Für den Redner sei die Zustimmung zur <pb facs="krp-0136_r-0018"/>Einbringung der Vorlage in der Nationalversammlung nur im Falle der Gewähr für das gleichseitige Funktionieren der beiden Kommissionen möglich.</p>
@@ -413,19 +383,14 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> nimmt die Anregung des Vorredners, die Zivilangestellten der Heeresverwaltung in die Kategorie der übrigen Zivilangestellten einzureihen und den allgemeinen Dienstesvorschriften zu unterstellen an. Weiters erklärt er sich bereit, im Motivenbericht zu § 7 den Wirkungskreis der Heeresverwaltungsstellen ausdrücklich auf rein militärische Geschäfte einzuschränken. Die Ausnahmen vom Eheverbot für die Angehörigen der Volkswehr seien dem Wunsche entsprungen, in erster Linie das erfahrungsgemäß ruhigere Element der Verheirateten aus der Volkswehr für das <pb facs="krp-0136_r-0023"/>neue Heer zu gewinnen. Es müsste daher bei dieser Ausnahme verbleiben, doch könnte dem Standpunkt des Staatsamtes für Finanzen durch Beschränkung der Geltungsdauer der Ausnahmebestimmung auf die Zeit bis zum 1. Jänner 1922 entgegengekommen werden. Im Gesetze die Aufnahme in das Heer auf Personen zu beschränken, welche die österreichische Staatsbürgerschaft bereits Ende Oktober 1919 besessen haben, scheine dem Redner nicht angängig, da für späterhin die Möglichkeit offengehalten werden müsse, auch Personen einzustellen, die sich etwa im Wege der Option nach dem angegebenen Termin für Österreich erklärt haben. Bei der ersten Bildung der neuen Wehrmacht sei für das Staatsamt für Heer[es]wesen selbstverständlich der Kabinettsbeschluss vom 28. Oktober 1919 bindend und der sprechende Staatssekretär erkenne für den internen Vorgang ausdrücklich an, dass dieser Beschluss ungeachtet der Fassung des § 43 seine Geltung beibehalten habe.</p>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> fast das Ergebnis der Beratung dahin zusammen, dass der Kabinettsrat der Einbringung der Wehrgesetzvorlage in der Sitzung der Nationalversammlung am 14. Jänner mit nachstehenden Änderungen des Entwurfes <pb facs="krp-0136_r-0024"/>zustimme:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Streichung des Wortes „Soldatenrat“ in der Überschrift des § 30;</item>
-                     <item n="2">
-                        <label>2.)</label> Einschaltung eines neuen Paragraphen als § 34 mit entsprechender Abänderung der Zählung der folgenden Paragraphen, welcher besagt: „Ein Vorgesetzter, der einen Heeresangehörigen an der den Heeresangehörigen im § 25 gewährleisteten Ausübung seiner staatsbürgerlichen Rechte zu hindern sucht, macht sich, sofern sein Verhalten nicht einem strengeren Strafgesetz unterliegt, eines Vergehens schuldig, das mit strengem Arrest von eins – sechs Monaten bestraft wird.</item>
+                     <item n="1"><label>1.)</label> Streichung des Wortes „Soldatenrat“ in der Überschrift des § 30;</item>
+                     <item n="2"><label>2.)</label> Einschaltung eines neuen Paragraphen als § 34 mit entsprechender Abänderung der Zählung der folgenden Paragraphen, welcher besagt: „Ein Vorgesetzter, der einen Heeresangehörigen an der den Heeresangehörigen im § 25 gewährleisteten Ausübung seiner staatsbürgerlichen Rechte zu hindern sucht, macht sich, sofern sein Verhalten nicht einem strengeren Strafgesetz unterliegt, eines Vergehens schuldig, das mit strengem Arrest von eins – sechs Monaten bestraft wird.</item>
                   </list>
                   <p>Ein Heeresangehöriger, der einen anderen Heeresangehörigen durch Gewalt, Drohung, Einschüchterung oder Verletzung an seiner Ehre zum Beitritt zu einer politischen Vereinigung oder zum Austritt aus einer solchen zu nötigen sucht, macht sich, soferne sein Verhalten nicht einem strengeren Strafgesetz unterliegt, eines Vergehens schuldig, das mit strengem Arrest von eins – sechs Monaten bestraft wird.“</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Abkürzung des Termines im letzten Absatz des § 46 (künftig § 47) auf den 1. Jänner 1922;</item>
-                     <item n="2">
-                        <label>4.)</label> Abänderung der Begründung zu § 1 hinsichtlich der „Zivilangestellten <pb facs="krp-0136_r-0025"/>der Heeresverwaltung“ im Sinne der Anträge des Staatssekretärs für Finanzen;</item>
-                     <item n="3">
-                        <label>5.)</label> Einschränkung des Wirkungskreises der Heeresverwaltungsstellen in der Begründung zu § 7 auf die rein militärischen Geschäfte.</item>
+                     <item n="1"><label>3.)</label> Abkürzung des Termines im letzten Absatz des § 46 (künftig § 47) auf den 1. Jänner 1922;</item>
+                     <item n="2"><label>4.)</label> Abänderung der Begründung zu § 1 hinsichtlich der „Zivilangestellten <pb facs="krp-0136_r-0025"/>der Heeresverwaltung“ im Sinne der Anträge des Staatssekretärs für Finanzen;</item>
+                     <item n="3"><label>5.)</label> Einschränkung des Wirkungskreises der Heeresverwaltungsstellen in der Begründung zu § 7 auf die rein militärischen Geschäfte.</item>
                   </list>
                   <p>Endlich beschließt der Kabinettsrat, dass bis zur Aufnahme der Werbetätigkeit für die neue Wehrmacht auch die Abfertigungsbedingungen für die Angehörigen der Volkswehr bekanntgegeben worden sein müssen.</p>
                </div>

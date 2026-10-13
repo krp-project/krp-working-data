@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0108.xml">
             <head type="dokument">
-               <title type="num">108.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">108.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0108_r-0001"/>
@@ -282,27 +281,13 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0108_top01">Zu TOP 1</ref>: <ref target="#krp-0108_b01">Vortrag für den Kabinettsrat über die Bitte des Leiters des deutschösterreichischen Kriegsgefangenen- und Zivilinterniertenamtes und ehemaligen Staatssekretär für Heereswesen Josef Mayer auf Entbindung vom abgelegten Gelöbnis</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0108_top04">Zu TOP 4</ref>: <ref target="#krp-0108_b02">Auszug für den Vortrag im Kabinettsrat über die neue Gemeindewahlordnung in Tirol</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0108_top11">Zu TOP 11</ref>: <ref target="#krp-0108_b03">Abschrift des Referats des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über die Bestellung eines Generaldirektors der staatlichen Industriebetriebe und eines neuen Direktors für die Arsenalwerke Wien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b04">Bericht des Obersten Verwalters des Hofärars, betreffend die Verwaltung des Hofärars nach Ratifizierung des Friedensvertrages</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b05">Bericht an den Kabinettsrat über die Verpachtung der Güter Orth/Donau und Scharfenegg am Leithagebirge mit Gesellschaftsvertrag mit der Gemeinde Wien und der Amtlichen Übernahmestelle für Vieh und Fleisch und dem Pachtvertrag mit der Gemeinde Wien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b06">Beilage A zu Punkt 13 betr. Bericht des Obersten Verwalters des Hofärars über die Nutzbarmachung des hofärarischen Besitzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b07">Beilage B zu Punkt 13 betr. Bericht des Rechtsanwaltes Dr. Gustav Harpner über die weitere Verwaltung des für das vormalige Kaiserhaus oder eine Zweiglinie desselben gebundenen Vermögens</ref>
-                  </item>
+                  <item><ref target="#krp-0108_top01">Zu TOP 1</ref>: <ref target="#krp-0108_b01">Vortrag für den Kabinettsrat über die Bitte des Leiters des deutschösterreichischen Kriegsgefangenen- und Zivilinterniertenamtes und ehemaligen Staatssekretär für Heereswesen Josef Mayer auf Entbindung vom abgelegten Gelöbnis</ref></item>
+                  <item><ref target="#krp-0108_top04">Zu TOP 4</ref>: <ref target="#krp-0108_b02">Auszug für den Vortrag im Kabinettsrat über die neue Gemeindewahlordnung in Tirol</ref></item>
+                  <item><ref target="#krp-0108_top11">Zu TOP 11</ref>: <ref target="#krp-0108_b03">Abschrift des Referats des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über die Bestellung eines Generaldirektors der staatlichen Industriebetriebe und eines neuen Direktors für die Arsenalwerke Wien</ref></item>
+                  <item><ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b04">Bericht des Obersten Verwalters des Hofärars, betreffend die Verwaltung des Hofärars nach Ratifizierung des Friedensvertrages</ref></item>
+                  <item><ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b05">Bericht an den Kabinettsrat über die Verpachtung der Güter Orth/Donau und Scharfenegg am Leithagebirge mit Gesellschaftsvertrag mit der Gemeinde Wien und der Amtlichen Übernahmestelle für Vieh und Fleisch und dem Pachtvertrag mit der Gemeinde Wien</ref></item>
+                  <item><ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b06">Beilage A zu Punkt 13 betr. Bericht des Obersten Verwalters des Hofärars über die Nutzbarmachung des hofärarischen Besitzes</ref></item>
+                  <item><ref target="#krp-0108_top13">Zu TOP 13</ref>: <ref target="#krp-0108_b07">Beilage B zu Punkt 13 betr. Bericht des Rechtsanwaltes Dr. Gustav Harpner über die weitere Verwaltung des für das vormalige Kaiserhaus oder eine Zweiglinie desselben gebundenen Vermögens</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -327,9 +312,7 @@
                   </head>
                   <p>Der Vorsitzende teilt mit Beziehung auf die in der letzten Sitzung des Kabinettsrates aufgeworfene Frage der Einhebung des Sperrgeldes in der Zeit von 8–10 Uhr abends mit, dass es die Niederösterreichische Landesregierung unter Hinweis auf § 9 des Landesgesetzes vom 1. Februar 1913, LGBl. Nr. 33, wonach den Hausbesorgern für die jedesmalige Öffnung des Haustores nach Torsperre eine Entlohnung von 20 h gebührt, abgelehnt habe, in dieser Angelegenheit eine Verfügung zu treffen.</p>
                   <p>Der Kabinettsrat nimmt diese Mitteilung zur Kenntnis.</p>
-                  <p>
-                     <pb facs="krp-0108_r-0005"/>
-                  </p>
+                  <p><pb facs="krp-0108_r-0005"/></p>
                </div>
                <div type="top" xml:id="krp-0108_top03">
                   <head>
@@ -395,8 +378,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Eldersch bittet um die Ermächtigung, dass er das dem Staatsamt für Finanzen für Zwecke der Finanzzensur bereitgestellte Personale zurückziehen dürfe.</p>
-                  <p>
-                     <pb facs="krp-0108_r-0013"/>Nachdem Dr. <hi rend="#letterspaced">Schumpeter</hi> erklärt hatte, dass er auf den Weiterbestand der Finanzzensur keinen besonderen Wert lege, beschließt der Kabinettsrat, die Finanzzensur aufzuheben. Die Durchführung dieser Maßregel obliege dem Staatsamt für Inneres und Unterricht im Einvernehmen mit den Staatsämtern für Finanzen und für Handel und Gewerbe, Industrie und Bauten.</p>
+                  <p><pb facs="krp-0108_r-0013"/>Nachdem Dr. <hi rend="#letterspaced">Schumpeter</hi> erklärt hatte, dass er auf den Weiterbestand der Finanzzensur keinen besonderen Wert lege, beschließt der Kabinettsrat, die Finanzzensur aufzuheben. Die Durchführung dieser Maßregel obliege dem Staatsamt für Inneres und Unterricht im Einvernehmen mit den Staatsämtern für Finanzen und für Handel und Gewerbe, Industrie und Bauten.</p>
                </div>
                <div type="top" xml:id="krp-0108_top09">
                   <head>
@@ -431,9 +413,7 @@
                   <p>Staatssekretär Ing. Zerdik führt aus, dass die großen früheren Heeresbetriebe im Arsenal, Fischamend, Wöllersdorf und Wörth, für deren Verwaltung im Februar l. J. die „zwischenstaatsamtliche Verwaltungskommission für Heeresbetriebe“ errichtet worden sei, bisher nur einen geringfügigen Teil ihrer Ausgaben erarbeiten. Der Grund hievon liege einerseits in dem Verbote von Arbeiterentlassungen, andererseits darin, dass die Umstellung dieser für Kriegszwecke erbauten und eingerichteten Fabriken auf die Erzeugung von Friedensarbeit nicht rasch genug habe vorgenommen werden können. Auch die erforderlichen Veränderungen in der Besetzung mit technischem <pb facs="krp-0108_r-0016"/>und kaufmännischem Personal und die Erledigung der kaum zur Ruhe kommenden Lohnfragen habe viel Zeit in Anspruch genommen. Vor allem aber sei es bisher nur zu einem geringfügigen Teile gelungen, lohnende Beschäftigung für jene Anlagen der Heeresbetriebe zu gewinnen, die für die Erzeugung von Maschinen (Flugmotorenbau in Fischamend) und die Eisenbearbeitung (Geschütz-, Gewehr- und Geschosserzeugung im Arsenal, Gewehrerzeugung in Wörth, Eisendreherei in Wöllersdorf) eingerichtet waren. Besonders fühlbar werde der Mangel an Arbeit in Wöllersdorf werden, sobald die Arbeiter für die Desadjustierung von Munition unter Materialrückgewinnung beendet sein werden, wobei ca. ¾ des rund 5.000 Mann zählenden Arbeiterstandes in Verwendung stehen. Diese Arbeiten werden im Herbste dieses Jahres zum Abschlusse gelangen. Die Ausfindigmachung entsprechender Ersatzarbeiten für ein so großes, hoch entlohntes Arbeiterpersonal und die richtige Organisierung dieser Arbeiter erfordere einen besonders tüchtigen Techniker und zugleich Kaufmann, der einen zuverläs<pb facs="krp-0108_r-0017"/>sigen Überblick über die aktuellen Erzeugungs- und Absatzmöglichkeiten besitzt und die Grundlinien für die Einrichtung der gesamten Arbeit in den Heeresbetrieben aufzustellen vermag. Diese einheitliche Leitung der genannten Heeresbetriebe sei auch zu dem erforderlich, um die einzelnen Erzeugungszweige in die hiefür geeignetsten Betriebe zusammenzufassen, um eine Konkurrenzierung zwischen den einzelnen Betrieben die sich geltend gemacht habe, auszuschließen, und um die Investitionsbestrebungen der einzelnen Betriebsdirektionen auf das richtige Maß zurückzuführen. Auch würden bei der einheitlichen Leitung Spezialfachmänner für die Bearbeitung solcher Erzeugungszwecke z. B. der Möbelerzeugung und der sonstigen Holzverarbeitung zu bestellen sein, die in mehreren Betrieben vertreten sind. Ferner werde sich der Ein- und Verkauf zweckmäßig bei der einheitlichen Leitung zusammenfassen lassen. An einer solchen einheitlichen kaufmännisch-technischen Leitung fehle es bisher. Die Direktionen der einzelnen Betriebe gingen bisher in diesen Richtungen unter der mehr weniger bürokratischen Leitung der Ver<pb facs="krp-0108_r-0018"/>waltungskommission, die bei einem ungenügenden Personalstand mit einer Unmenge administrativer Details belastet sei, voneinander zumeist ganz unabhängig vor. Der hervorstechendste und zugleich schädlichste Mangel aber mache sich durch das Fehlen einer zentral leitenden technischen und kaufmännischen Kapazität geltend. Auf einzelnen Gebieten, wie jenem der Erzeugung guter Möbel und vielversprechender Anfänge mit der Koffererzeugung in Fischamend, unterschiedlicher Holz- und Lederverarbeitung im Arsenal und der Herstellung von Jagdmunition in Wöllersdorf, seien Erfolge erzielt worden, der Großteil der für die Eisenverarbeitung und die Herstellung von Maschinen eingerichteten Werkstätten sei jedoch trotz gut gemeinter Versuche der Betriebsdirektionen noch ungenützt geblieben. Hier könne nur die zugreifende Initiative eines führenden Mannes von fachmännischem Rang helfen. Ihm müsse das für die Leitung erforderliche technische, kaufmännische und administrative Personal an die Seite gestellt werden. Es sei daher beabsichtigt, die bestehende Verwaltungskommission für Heeresbetriebe in eine Verwaltungskommission für staatliche Industriebetriebe um<pb facs="krp-0108_r-0019"/>zuwandeln und für letztere einen Generaldirektor zu bestellen. Für die Stelle des Generaldirektors sei Ing. Leo Linder in Aussicht genommen. Der Wirkungskreis der Generaldirektion werde von der Verwaltungskommission festgestellt werden. Die Behandlung sozialpolitischer Fragen sei einem Mitglied der Verwaltungskommission im selbständigen Referat übertragen, mit welchem der Generaldirektor hierüber sowie in Personalfragen, soweit sie sich, im Wirkungskreis der Generaldirektion ergeben, jeweils das Einvernehmen zu pflegen haben werden. Bei divergierender Meinung werde die Verwaltungskommission zu entscheiden haben. Der Gehalt des Generaldirektors sei mit monatlich 10.000 K festgesetzt. Das Dienstverhältnis werde für die Dauer eines halben Jahres, d. i. bis zum 31. März 1920 seinerseits unkündbar eingegangen. Bei früherer Auflösung der Verwaltungskommission sei eine Abfertigung von 90.000 K vorgesehen. Weiters sollen dem Generaldirektor die Kosten für die Übersiedlung seines Haushaltes von Paris nach Wien ersetzt werden. Ing. Linder habe sich für den Fall der Bestellung zum Generaldirektor ausbedungen, dass er auch <pb facs="krp-0108_r-0020"/>während seines Dienstverhältnisses für andere Unternehmungen tätig sein dürfe, soferne diese Unternehmungen nach ihrem Gegenstande als Konkurrenz für staatliche Industriebetriebe oder für die aus diesen hervorgegangenen gemein- oder gemischtwirtschaftlichen Betriebe nicht in Betracht kommen und insoweit die Versehung seines Dienstes durch diese anderweitige Tätigkeit nicht beeinträchtigt werde.</p>
                   <p>Der sprechende Staatssekretär bittet, die Errichtung der Generaldirektion der staatlichen Industriebetriebe grundsätzlich zu genehmigen und ihm die Ermächtigung zu erteilen, den Ing. Leo Linder zum Generaldirektor unter den angeführten Bedingungen bestellen zu dürfen. Er fügt bei, dass er beabsichtige, den Genannten zur Verzichtleistung auf die immerhin bedenklich erscheinende Konkurrenzklausel zu bewegen.</p>
                   <p>Der Kabinettsrat beschließt im Sinne der gestellten Anträge und nimmt gleichzeitig zur Kenntnis, dass Ing. Friedrich Langen zum Direktor der Arsenalwerke und Dr. Ing. Gröger zum General<note type="footnote">„sekretär“ handschriftlich hinzugefügt.</note> bestellt werden, ersterer mit einem Monatsgehalte von 3.500 K nebst einer Zulage vom 13.000 K jährlich, letzterer mit einem Monatsbezuge von 2.500 K.</p>
-                  <p>
-                     <pb facs="krp-0108_r-0021"/>
-                  </p>
+                  <p><pb facs="krp-0108_r-0021"/></p>
                </div>
                <div type="top" xml:id="krp-0108_top12">
                   <head>
@@ -446,23 +426,15 @@
                   <p>Der Vorsitzende bringt dem Kabinettsrat das im Einvernehmen mit dem Präsidenten und den sudetendeutschen Vertretungen ausgearbeitete Programm der feierlichen Verabschiedung zur Kenntnis und bittet um die Ermächtigung, bei dieser Gelegenheit namens des deutschösterreichische Kabinettsrates folgende Erklärung abgeben zu dürfen:</p>
                   <p>„Der deutschösterreichische Kabinettsrat geht von der Rechtsanschauung aus,</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> dass der Frieden von St. Germain erst in dem Augenblicke in volle Rechtskraft tritt, wo die Ratifikationsurkunden über den Frieden zwischen dem Obersten Rate der alliierten und assoziierten Mächte und der Republik Deutschösterreich ausgetauscht werden. Nach Art. 70 des Friedensvertrages <pb facs="krp-0108_r-0022"/>werden erst in diesem Augenblicke die Angehörigen des alten Österreichs dem Rechte nach Staatsbürger der einzelnen auf dem Boden der österreichisch-ungarischen Monarchie entstandenen neuen Staaten. Die Staatsbürgergesetze und die auf deren Grundlage erlassenen sonstigen Bestimmungen öffentlich-rechtlicher, strafrechtlicher oder privatrechtlicher Natur treten durch das Inkrafttreten des Friedensvertrages, soweit sie mit diesem nicht übereinstimmen, außer Kraft.</item>
-                     <item n="2">
-                        <label>2.)</label> Nach den Bestimmungen des Abschnittes III des dritten Teiles werden die inzwischen von der Tschechoslowakei tatsächlich besetzten Gebiete erst mit dem Inkrafttreten des Friedens von St. Germain von der Republik Deutschösterreich aufgegeben und von Rechtswegen gehen also auch die von der Republik Deutschösterreich in Anspruch genommenen Gebiete Deutschböhmen, Sudetenland, die Kreise Deutsch-Südböhmen und Deutsch-Südmähren sowie die Siedlungsgebiete von Brünn, Iglau und Olmütz erst von diesem Augenblicke an auf die tschechoslowakische Republik über.</item>
-                     <item n="3">
-                        <label>3.)</label> Trotzdem bezeugt die Tatsache, dass sowohl die Republik Deutschöster<pb facs="krp-0108_r-0023"/>reich wie die tschechoslowakische Republik am 10. September d. J. zu St. Germain unterfertigt haben, dass schon jetzt zwischen den beiden Freistaaten volles Einverständnis über die künftige Regelung der Fragen des Gebietes, der Staatsbürgerschaft und der Staatshoheit besteht, und die deutschösterreichische Republik ist daher bereit, schon jetzt – das Einverständnis der tschechoslowakischen Republik vorausgesetzt – das von der tschechoslowakischen Republik inzwischen tatsächlich besetzte Gebiet (und die noch nicht besetzten, der Tschechoslowakei im Frieden zu St. Germain zuerkannten Gebietsteile) sowie die aufgrund des Friedensvertrages selbst diesen Gebieten angehörenden Staatsbürger unter die volle staatliche Hoheit der tschechoslowakischen Republik zu stellen, unter der Voraussetzung, dass die tschechoslowakische Republik anerkennt, dass zufolge der zu St. Germain geschaffenen Rechtslage bis zum Stichtage kein Staatsbürger der ehemaligen im Reichsrat vertretenen Königreiche und Länder rechtlich in der Lage war, gegen die tschechoslowakische Republik irgend welche Delikte wider den Staat, wider staatliche Organe oder wider die öffentliche Ordnung zu begehen.</item>
+                     <item n="1"><label>1.)</label> dass der Frieden von St. Germain erst in dem Augenblicke in volle Rechtskraft tritt, wo die Ratifikationsurkunden über den Frieden zwischen dem Obersten Rate der alliierten und assoziierten Mächte und der Republik Deutschösterreich ausgetauscht werden. Nach Art. 70 des Friedensvertrages <pb facs="krp-0108_r-0022"/>werden erst in diesem Augenblicke die Angehörigen des alten Österreichs dem Rechte nach Staatsbürger der einzelnen auf dem Boden der österreichisch-ungarischen Monarchie entstandenen neuen Staaten. Die Staatsbürgergesetze und die auf deren Grundlage erlassenen sonstigen Bestimmungen öffentlich-rechtlicher, strafrechtlicher oder privatrechtlicher Natur treten durch das Inkrafttreten des Friedensvertrages, soweit sie mit diesem nicht übereinstimmen, außer Kraft.</item>
+                     <item n="2"><label>2.)</label> Nach den Bestimmungen des Abschnittes III des dritten Teiles werden die inzwischen von der Tschechoslowakei tatsächlich besetzten Gebiete erst mit dem Inkrafttreten des Friedens von St. Germain von der Republik Deutschösterreich aufgegeben und von Rechtswegen gehen also auch die von der Republik Deutschösterreich in Anspruch genommenen Gebiete Deutschböhmen, Sudetenland, die Kreise Deutsch-Südböhmen und Deutsch-Südmähren sowie die Siedlungsgebiete von Brünn, Iglau und Olmütz erst von diesem Augenblicke an auf die tschechoslowakische Republik über.</item>
+                     <item n="3"><label>3.)</label> Trotzdem bezeugt die Tatsache, dass sowohl die Republik Deutschöster<pb facs="krp-0108_r-0023"/>reich wie die tschechoslowakische Republik am 10. September d. J. zu St. Germain unterfertigt haben, dass schon jetzt zwischen den beiden Freistaaten volles Einverständnis über die künftige Regelung der Fragen des Gebietes, der Staatsbürgerschaft und der Staatshoheit besteht, und die deutschösterreichische Republik ist daher bereit, schon jetzt – das Einverständnis der tschechoslowakischen Republik vorausgesetzt – das von der tschechoslowakischen Republik inzwischen tatsächlich besetzte Gebiet (und die noch nicht besetzten, der Tschechoslowakei im Frieden zu St. Germain zuerkannten Gebietsteile) sowie die aufgrund des Friedensvertrages selbst diesen Gebieten angehörenden Staatsbürger unter die volle staatliche Hoheit der tschechoslowakischen Republik zu stellen, unter der Voraussetzung, dass die tschechoslowakische Republik anerkennt, dass zufolge der zu St. Germain geschaffenen Rechtslage bis zum Stichtage kein Staatsbürger der ehemaligen im Reichsrat vertretenen Königreiche und Länder rechtlich in der Lage war, gegen die tschechoslowakische Republik irgend welche Delikte wider den Staat, wider staatliche Organe oder wider die öffentliche Ordnung zu begehen.</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0108_r-0024"/>
-                  </p>
+                  <p><pb facs="krp-0108_r-0024"/></p>
                   <list>
-                     <item n="1">
-                        <label>4.)</label> Indem die Republik Deutschösterreich dermaßen dem Inkrafttreten des Friedensvertrages vorgreift, verfügt sie:</item>
-                     <item n="2">
-                        <label>a.)</label> die Landesregierungen von Deutschböhmen, von Sudetenland, die Kreishauptmannschaft von Deutschsüdmähren, ferner alle übrigen durch die deutschösterreichische Republik auf dem künftigen Boden der tschechoslowakischen Republik eingerichteten wie immer Namen habenden deutschösterreichischen politischen, richterlichen, Finanz- und sonstigen Behörden sind mit Rechtswirksamkeit vom 24. September 1919 aufgehoben;</item>
-                     <item n="3">
-                        <label>b.)</label> die von den Bewohnern dieser Gebiete durch Wahl oder durch behördliche Berufung eingesetzten Vertretungskörper und zur Vertretung allgemeiner Interessen berufenen Persönlichkeiten, welchen Namen sie immer haben mögen, hören von diesem Tage auf, deutschösterreichische Vertretungen zu sein und werden als solche von der Republik Deutschösterreich nicht mehr anerkannt“.</item>
+                     <item n="1"><label>4.)</label> Indem die Republik Deutschösterreich dermaßen dem Inkrafttreten des Friedensvertrages vorgreift, verfügt sie:</item>
+                     <item n="2"><label>a.)</label> die Landesregierungen von Deutschböhmen, von Sudetenland, die Kreishauptmannschaft von Deutschsüdmähren, ferner alle übrigen durch die deutschösterreichische Republik auf dem künftigen Boden der tschechoslowakischen Republik eingerichteten wie immer Namen habenden deutschösterreichischen politischen, richterlichen, Finanz- und sonstigen Behörden sind mit Rechtswirksamkeit vom 24. September 1919 aufgehoben;</item>
+                     <item n="3"><label>b.)</label> die von den Bewohnern dieser Gebiete durch Wahl oder durch behördliche Berufung eingesetzten Vertretungskörper und zur Vertretung allgemeiner Interessen berufenen Persönlichkeiten, welchen Namen sie immer haben mögen, hören von diesem Tage auf, deutschösterreichische Vertretungen zu sein und werden als solche von der Republik Deutschösterreich nicht mehr anerkannt“.</item>
                   </list>
                   <p>Weiters bittet der Staatskanzler um die Ermächtigung des Kabinettsrates, sodann an den Präsidenten der Nationalversammlung herantreten zu dürfen, die von ihm selbst vereidigten Funktionäre der Republik Deutschöster<pb facs="krp-0108_r-0025"/>reich des Treuegelöbnisses für die Republik zu entbinden, wodurch auch alle von diesen Funktionären vorgenommenen Angelobungen nachgeordneter Organe aufgehoben sein werden. Sämtliche ehemals österreichische Staatsbürger, die nach dem Friedensvertrage von St. Germain künftig Staatsbürger der tschechoslowakischen Republik werden, werden damit des Treue- und Pflichtverhältnisses zur Republik Deutschösterreich enthoben sein.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> gibt seiner Anschauung dahin Ausdruck, dass die Auflösung von Behörden durch die Staatsregierung mit der bestehenden Verfassung und den einschlägigen Gesetzen nicht in Einklang zu bringen sei. Er glaube, dass man sich auf einen politischen Abschied beschränken solle, da eine staatsrechtliche Verabschiedung seiner Meinung nach nur von der Nationalversammlung ausgehen könne. Was die noch nicht besetzten der Tschechoslowakei im Frieden zu St. Germain zuerkannten Gebiete (Feldsberg und Bahnhof Gmünd) betreffe, so wäre die Erwähnung dieser Gebiete in der abzugebenden Erklärung besser zu vermeiden.</p>
@@ -474,13 +446,10 @@
                   <p>„Der deutschösterreichische Kabinettsrat geht von der Rechtsanschauung aus, dass der Friede von St. Germain erst in dem Augenblicke in volle Rechtskraft tritt, wo die Ratifikationsurkunden über den Frieden zwischen dem Obersten Rate der alliierten und assoziierten Mächte und der Republik Deutschösterreich ausgetauscht werden. Nach den Bestimmungen des Abschnittes III des dritten Teiles werden die inzwischen von der Tschechoslowakei tatsächlich besetzten Gebiete erst mit <pb facs="krp-0108_r-0028"/>dem Inkrafttreten des Friedens von St. Germain von der Republik Deutschösterreich aufgegeben und von Rechtswegen gehen also auch die von der Republik Deutschösterreich in Anspruch genommenen Gebiete Deutschböhmen, Sudetenland, die Kreise Deutschsüdböhmen und Deutschsüdmähren sowie die Siedlungsgebiete von Brünn, Iglau und Olmütz erst von diesem Augenblicke auf die tschechoslowakische Republik über. Trotzdem bezeugt die Tatsache, dass sowohl die Republik Deutschösterreich wie die tschechoslowakische Republik am 10. September d. J. zu St. Germain unterfertigt haben, dass schon jetzt zwischen den beiden Freistaaten volles Einverständnis über die künftige Regelung der Fragen des Gebietes, der Staatsbürgerschaft und der Staatshoheit besteht, und die deutschösterreichische Regierung ist daher bereit, schon jetzt – die Zustimmung der gesetzgebenden Körperschaft vorausgesetzt – das von der tschechoslowakischen Republik inzwischen tatsächlich besetzte Gebiet sowie die aufgrund des Friedensvertrages selbst diesen Gebieten angehörenden Staatsbürger unter die volle staatliche Hoheit der tschechoslowa<pb facs="krp-0108_r-0029"/>kischen Republik zu stellen.</p>
                   <p>Indem die Regierung Deutschösterreichs dermaßen dem Inkrafttreten des Friedensvertrages vorzugreifen bereit ist, hebt sie ihre entgegenstehenden Vollzugsanweisungen auf und verfügt vorbehaltlich der Genehmigung der Nationalversammlung:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> die Landesregierungen von Deutschböhmen und von Sudetenland, die Kreishauptmannschaft von Deutschsüdmähren, ferner alle übrigen durch die deutschösterreichische Republik auf dem künftigen Boden der tschechoslowakischen Republik eingerichteten, wie immer Namen habenden deutschösterreichischen politischen, richterlichen, Finanz- und sonstigen Behörden sind mit Rechtswirksamkeit vom 24. September 1919 aufgehoben;</item>
-                     <item n="2">
-                        <label>2.)</label> die von den Bewohnern dieser Gebiete durch Wahl oder durch behördliche Berufung eingesetzten Vertretungskörper und zur Vertretung allgemeiner Interessen berufenen Persönlichkeiten, welchen Namen sie immer haben mögen, hören von diesem Tage auf, deutschösterreichische Vertretungen zu sein und werden als solche von der Regierung Deutschösterreichs nicht mehr anerkannt.“</item>
+                     <item n="1"><label>1.)</label> die Landesregierungen von Deutschböhmen und von Sudetenland, die Kreishauptmannschaft von Deutschsüdmähren, ferner alle übrigen durch die deutschösterreichische Republik auf dem künftigen Boden der tschechoslowakischen Republik eingerichteten, wie immer Namen habenden deutschösterreichischen politischen, richterlichen, Finanz- und sonstigen Behörden sind mit Rechtswirksamkeit vom 24. September 1919 aufgehoben;</item>
+                     <item n="2"><label>2.)</label> die von den Bewohnern dieser Gebiete durch Wahl oder durch behördliche Berufung eingesetzten Vertretungskörper und zur Vertretung allgemeiner Interessen berufenen Persönlichkeiten, welchen Namen sie immer haben mögen, hören von diesem Tage auf, deutschösterreichische Vertretungen zu sein und werden als solche von der Regierung Deutschösterreichs nicht mehr anerkannt.“</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0108_r-0030"/>Weiters ermächtigt der Kabinettsrat den Staatskanzler, in der bereits oben gekennzeichneten Weise an den Präsidenten der Nationalversammlung wegen Entbindung der Funktionäre der ausscheidenden Gebiete vom Treuegelöbnisse herantreten zu dürfen.</p>
+                  <p><pb facs="krp-0108_r-0030"/>Weiters ermächtigt der Kabinettsrat den Staatskanzler, in der bereits oben gekennzeichneten Weise an den Präsidenten der Nationalversammlung wegen Entbindung der Funktionäre der ausscheidenden Gebiete vom Treuegelöbnisse herantreten zu dürfen.</p>
                </div>
                <div type="top" xml:id="krp-0108_top13">
                   <head>
@@ -495,9 +464,7 @@
                   <p>Nachdem Staatssekretär <hi rend="#letterspaced">Stöckler</hi> die Verwirklichung der Anregung auf Überweisung der landwirtschaftlichen Güter an gemeinwirtschaftliche Anstalten für sehr wünschenswert bezeichnet hatte, beschließt der Kabinettsrat, dass die Verwaltung sowohl der hofärarischen Güter wie des für das vormalige Kaiserhaus oder eine Zweiglinie desselben gebundenen Vermögens bis auf weiteres noch einheitlich zu führen sein wird. Die beiden Verwaltungen werden jedoch aufgefordert, möglichst bald dem Kabinettsrate Vor<pb facs="krp-0108_r-0032"/>schläge darüber zu erstatten, wie einzelne Objekte aus diesen Verwaltungen entweder der ressortmäßigen Verwaltung der Staatsämter zugeführt oder an gemeinwirtschaftliche Anstalten überwiesen werden könnten.</p>
                   <p>Im Hinblick auf eine Bemerkung des Rechtsanwaltes Dr. Harpner, dass die Mitglieder des ehemaligen kaiserlichen Hauses trotz des Gesetzes vom 3. April 1919, StGBl. Nr. 209, noch Rechtsansprüche auf Bestandteile des sogenannten gebundenen Vermögens geltend machen, wird die Verwaltung eingeladen, die zur Klärung der Rechtslage erforderlichen Anträge zu stellen und insbesondere Vorschläge wegen gesetzlicher Regelung dieser Angelegenheit dem Kabinettsrate zu unterbreiten.</p>
                   <p>Schließlich genehmigt der Kabinettsrat über Antrag des Rechtsanwaltes Dr. Harpner die Verpachtung der Güter Orth an der Donau und Scharfenegg zu Mannersdorf an eine aus dem Staate, vertreten durch die amtliche Übernahmsstelle für Vieh und Fleisch, aus der Stadtgemeinde Wien und aus der Generaldirektion der Habsburg-Lothringischen Vermögensverwaltung gebildete GmbH sowie die Errichtung des diesbezüglichen Gesellschaftsvertrages.</p>
-                  <p>
-                     <pb facs="krp-0108_r-0033"/>
-                  </p>
+                  <p><pb facs="krp-0108_r-0033"/></p>
                </div>
                <div type="top" xml:id="krp-0108_top14">
                   <head>
@@ -541,8 +508,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0108_a01-0001"/>Streng vertraulicher Anhang, zum Kabinettsprotokoll Nr. 108 vom 23. September 1919.</p>
+               <p><pb facs="krp-0108_a01-0001"/>Streng vertraulicher Anhang, zum Kabinettsprotokoll Nr. 108 vom 23. September 1919.</p>
                <div n="1">
                   <head/>
                   <div type="a01_protokoll">

@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0083.xml">
             <head type="dokument">
-               <title type="num">83.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">83.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0083_r-0001"/>[Freitag] 1919-06-27</title>
@@ -281,21 +280,11 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0083_top04">Zu TOP 4</ref>: <ref target="#krp-0083_b01">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 22.098 für den Vortrag über die Kärntner Landesausschussbeschlüsse</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0083_top05">Zu TOP 5</ref>: <ref target="#krp-0083_b02">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 22.097 für den Vortrag über die Beschlüsse der Steiermärkischen Landesversammlung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0083_top06">Zu TOP 6</ref>: <ref target="#krp-0083_b03">Antrag des Staatssekretärs für Volksernährung über Maßnahmen zur Verringerung der Wiener Bevölkerung zur Linderung der Ernährungslage</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0083_top06">Zu TOP 6</ref>: <ref target="#krp-0083_b04">Information des Staatskommissariats für Sachdemobilisierung für Staatssekretär Ing. Zerdik über die Belagsmöglichkeiten von Lagern und Barackengruppen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0083_top08">Zu TOP 8</ref>: <ref target="#krp-0083_b05">Gesetzentwürfe über die Sicherstellung von ausländischen Lebensmittel- und Rohstofflieferungen durch Holzausfuhr, Verpfändung von Forstbesitz sowie durch Hinterlegung von im privaten Besitz befindlichen Goldmünzen und ausländischen Wertpapieren</ref>
-                  </item>
+                  <item><ref target="#krp-0083_top04">Zu TOP 4</ref>: <ref target="#krp-0083_b01">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 22.098 für den Vortrag über die Kärntner Landesausschussbeschlüsse</ref></item>
+                  <item><ref target="#krp-0083_top05">Zu TOP 5</ref>: <ref target="#krp-0083_b02">Übersichtstabelle des Staatsamtes für Inneres und Unterricht Zl. 22.097 für den Vortrag über die Beschlüsse der Steiermärkischen Landesversammlung</ref></item>
+                  <item><ref target="#krp-0083_top06">Zu TOP 6</ref>: <ref target="#krp-0083_b03">Antrag des Staatssekretärs für Volksernährung über Maßnahmen zur Verringerung der Wiener Bevölkerung zur Linderung der Ernährungslage</ref></item>
+                  <item><ref target="#krp-0083_top06">Zu TOP 6</ref>: <ref target="#krp-0083_b04">Information des Staatskommissariats für Sachdemobilisierung für Staatssekretär Ing. Zerdik über die Belagsmöglichkeiten von Lagern und Barackengruppen</ref></item>
+                  <item><ref target="#krp-0083_top08">Zu TOP 8</ref>: <ref target="#krp-0083_b05">Gesetzentwürfe über die Sicherstellung von ausländischen Lebensmittel- und Rohstofflieferungen durch Holzausfuhr, Verpfändung von Forstbesitz sowie durch Hinterlegung von im privaten Besitz befindlichen Goldmünzen und ausländischen Wertpapieren</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -311,12 +300,9 @@
                   <p>Der sprechende Staatssekretär habe hiebei den Standpunkt vertreten, dass es zur Sanierung der augenblicklich sehr ungünstigen Finanzlage der Stadt Wien ausreichend erscheinen dürfte, ge<pb facs="krp-0083_r-0003"/>genwärtig nur die Hälfte des auf beiläufig 400 Millionen K sich beziffernden Defizits durch eine einmalige Staatshilfe zu decken, während die andere Hälfte des Abganges im Kreditwege durch die Gemeinde Wien selbst aufzubringen wäre. Ein weitsichtiges Finanzprogramm aufzustellen, erscheine im gegenwärtigen Zeitpunkte vor Abschluss des Friedens allerdings unmöglich.</p>
                   <p>Was nun die staatliche Hilfeleistung anbelange, so habe sich der sprechende Staatssekretär zunächst zur Überweisung dauernder Einnahmequellen an die Gemeinde Wien entschlossen. Hiebei komme</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> die Überweisung der staatlichen Linienverzehrungssteuer in Betracht, wobei der Staat für die nächsten fünf Jahre auch die Einhebungskosten übernehmen werde. Der Ertrag dieser Linienverzehrungssteuer betrage ungefähr 12 Millionen K, sei aber unter normalen Verhältnissen jedenfalls noch steigerungsfähig;</item>
-                     <item n="2">
-                        <label>2.)</label> soll der Gemeinde Wien jener Teil der bisherigen Hauszinssteuer überwiesen werden, welcher sich als Differenz zwischen der 26 2/3 % Haus<pb facs="krp-0083_r-0004"/>zinssteuer der Stadt Wien und der 20 % Hauszinssteuer in den kleineren Städten darstellt; der Gemeinde dürfte damit eine Einnahmequelle von ungefähr 25 Millionen K erschlossen werden;</item>
-                     <item n="3">
-                        <label>3.)</label> weiters soll der Stadt Wien die Befugnis eingeräumt werden, eine Steuer vom gemeinsamen Werte der Liegenschaften bis zum Höchstausmaße von ‰ einzuheben (Ergiebigkeit ungefähr 25 Millionen K pro Jahr).</item>
+                     <item n="1"><label>1.)</label> die Überweisung der staatlichen Linienverzehrungssteuer in Betracht, wobei der Staat für die nächsten fünf Jahre auch die Einhebungskosten übernehmen werde. Der Ertrag dieser Linienverzehrungssteuer betrage ungefähr 12 Millionen K, sei aber unter normalen Verhältnissen jedenfalls noch steigerungsfähig;</item>
+                     <item n="2"><label>2.)</label> soll der Gemeinde Wien jener Teil der bisherigen Hauszinssteuer überwiesen werden, welcher sich als Differenz zwischen der 26 2/3 % Haus<pb facs="krp-0083_r-0004"/>zinssteuer der Stadt Wien und der 20 % Hauszinssteuer in den kleineren Städten darstellt; der Gemeinde dürfte damit eine Einnahmequelle von ungefähr 25 Millionen K erschlossen werden;</item>
+                     <item n="3"><label>3.)</label> weiters soll der Stadt Wien die Befugnis eingeräumt werden, eine Steuer vom gemeinsamen Werte der Liegenschaften bis zum Höchstausmaße von ‰ einzuheben (Ergiebigkeit ungefähr 25 Millionen K pro Jahr).</item>
                   </list>
                   <p>Insgesamt könne die Stadtgemeindeverwaltung sohin mit einer dauernden Einnahmepost von ungefähr 60 Millionen K rechnen.</p>
                   <p>Auch habe der sprechende Staatssekretär vom Standpunkte der Finanzverwaltung gegen die Einführung von Luxussteuern durch die Gemeinde keinen Einwand erhoben.</p>
@@ -352,9 +338,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> erbittet und erhält die Zustimmung des Kabinettsrates zum Beitritt der Staatsregierung zu Beschlüssen des Landesausschusses in Kärnten vom 25. September und 9. Dezember 1918, bzw. vom 14. März und 2. April 1919, betreffend die Einhebung von Auflagen auf Bierersatzgetränke, von Mietzinsauflagen, Branntweinauflagen und von 200 % übersteigenden Umlagen in einer Reihe von Gemeinden des Landes Kärnten, ferner zum Beschlusse der Provisorischen Landesversammlung dortselbst vom 13. Februar d. J., betreffend die Aufnahme eines Darlehens von 2 Millionen K durch die Stadtgemeinde Klagenfurt.</p>
-                  <p>
-                     <pb facs="krp-0083_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0083_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0083_top05">
                   <head>
@@ -373,8 +357,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> unterbreitet dem Kabinettsrate den diesem Protokolle als Beilage angeschlossenen Antrag, betreffend Maßnahmen, durch welche im Interesse der Erleichterung der Ernährungssituation die in Wien anwesende Bevölkerung verringert werden soll. Bei der sich hierüber entwickelnden Debatte werden aus der Reihe der Kabinettsmitglieder mehrfache Bedenken gegen die Durchführbarkeit einiger in diesem Antrage enthaltener Anregungen vorgebracht.</p>
-                  <p>
-                     <pb facs="krp-0083_r-0009"/>Insbesondere besprechen die Staatssekretäre Dr. <hi rend="#letterspaced">Deutsch</hi> und <hi rend="#letterspaced">Hanusch</hi> die Frage einer allfälligen Unterbringung der Invaliden außerhalb Wiens; in diesem Zusammenhange legt auch Unterstaatssekretär Dr. <hi rend="#letterspaced">Tandler</hi> in eingehender Weise die Schwierigkeiten dar, die sich bei der Lösung der Invalidenfrage und der Frage der Unterbringung der Malariakranken ergeben.</p>
+                  <p><pb facs="krp-0083_r-0009"/>Insbesondere besprechen die Staatssekretäre Dr. <hi rend="#letterspaced">Deutsch</hi> und <hi rend="#letterspaced">Hanusch</hi> die Frage einer allfälligen Unterbringung der Invaliden außerhalb Wiens; in diesem Zusammenhange legt auch Unterstaatssekretär Dr. <hi rend="#letterspaced">Tandler</hi> in eingehender Weise die Schwierigkeiten dar, die sich bei der Lösung der Invalidenfrage und der Frage der Unterbringung der Malariakranken ergeben.</p>
                   <p>Auf mehrfache Ausführungen der Vorredner reflektierend, verweist Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> darauf, dass allfällige Maßnahmen zur Ausweisung von Ausländern vom Standpunkte der auswärtigen Politik lediglich nur unter Berufung auf unsere gegenwärtige wirtschaftliche Situation (Wohnungs- und Lebensmittelnot) durchgeführt werden könnten und dass sich derartige Verfügungen immer nur auf alle Ausländer ohne spezielle Unterscheidung erstrecken dürften.</p>
                   <p>Der Kabinettsrat genehmigt schließlich den Antrag des Staatssekretärs Dr. Loewenfeld-Russ und beauftragt die Staatsämter für Inneres und Unterricht, für Heer[es]wesen, für soziale Verwaltung, für Land- und Forstwirtschaft sowie für Volksernährung zu den vorliegenden Detailvorschlägen <pb facs="krp-0083_r-0010"/>Stellung zu nehmen und diese dem Staatssekretär Eldersch schriftlich bekanntzugeben, welcher sodann die allenfalls möglichen Anordnungen ungesäumt zu veranlassen haben wird.</p>
                </div>
@@ -390,9 +373,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> erklärt, die Finanzverwaltung werde im Hinblick darauf, dass das Staatsamt für Volksernährung bei den jüngst abgehaltenen zwischenstaatsamt<pb facs="krp-0083_r-0011"/>lichen Beratungen eine Reduktion seiner Ansprüche habe eintreten lassen, nach Kräften bestrebt sein, die erforderlichen Valuten zur Verfügung zu stellen. Übrigens hoffe Redner sich bereits in der nächsten Zeit ausländische Kredite, insbesondere in Holland, beschaffen zu können.</p>
                   <p>Nachdem der sprechende Staatssekretär eine Reihe von Anfragen des Staatssekretärs Dr. <hi rend="#letterspaced">Bauer</hi> über den Stand bereits behängender kreditpolitischer Aktionen beantwortet hatte, verweist Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> darauf, dass in Deutschösterreich noch eine bedeutende Menge von Kunstwerten vorhanden sei, die für Zwecke der Valutabeschaffung ausgenützt werden könnte, und stellt den Antrag, das Staatsamt für Finanzen sei einzuladen, eine geeignete Persönlichkeit namhaft zu machen, welche mit der Feststellung dieser Kunstschätze und deren Verwertung im erwähnten Sinne zu betreuen wäre.</p>
                   <p>Der Kabinettsrat nimmt die Ausführungen des Staatssekretärs für Finanzen genehmigend zur Kenntnis und erhebt den Antrag des Staatssekretärs für Heer[es]wesen zum Beschluss.</p>
-                  <p>
-                     <pb facs="krp-0083_r-0012"/>
-                  </p>
+                  <p><pb facs="krp-0083_r-0012"/></p>
                </div>
                <div type="top" xml:id="krp-0083_top08">
                   <head>
@@ -406,8 +387,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0083_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 83 vom 27. Juni 1919.</p>
+               <p><pb facs="krp-0083_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 83 vom 27. Juni 1919.</p>
                <div n="1">
                   <head>Rückkehr der Kriegsgefangenen aus Italien.</head>
                   <div type="a01_protokoll">

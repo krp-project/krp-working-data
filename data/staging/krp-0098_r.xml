@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0098.xml">
             <head type="dokument">
-               <title type="num">98.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">98.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0098_r-0001"/>[Sonntag] 1919-08-17</title>
@@ -297,8 +296,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0098_a01-0001"/>Streng geheimer Anhang zum Kabinettsprotokoll Nr. 98 vom 17. August 1919.</p>
+               <p><pb facs="krp-0098_a01-0001"/>Streng geheimer Anhang zum Kabinettsprotokoll Nr. 98 vom 17. August 1919.</p>
                <div n="1">
                   <head>Frage der Besetzung Westungarns</head>
                   <div type="a01_protokoll">
@@ -311,8 +309,7 @@
                      <p>Auf dieses Telegramm sei am 15. d. M. nachstehende Antwort des Staatskanzlers eingelangt:</p>
                      <p>„In Frage Westungarns bin ich einverstanden, dass sofort mit der Besetzung des Landes begonnen werde.“</p>
                      <p>Am gleichen Tage habe der Staatskanzler an den Präsidenten der Friedenskonferenz Clemenceau folgende Note gerichtet:</p>
-                     <p>
-                        <pb facs="krp-0098_a01-0004"/>“Mit Bezug auf meine wiederholten Mitteilungen über die Gefahren, welche das deutsche Westungarn und infolgedessen die angrenzenden Gebiete Niederösterreichs und Steiermarks bedrohen, beeile ich mich dem Obersten Rate der alliierten und assoziierten Mächte zur Kenntnis zu bringen, dass das andauernde Hinausschieben einer Entscheidung im Gegenstande eine unhaltbare Lage geschaffen hat.</p>
+                     <p><pb facs="krp-0098_a01-0004"/>“Mit Bezug auf meine wiederholten Mitteilungen über die Gefahren, welche das deutsche Westungarn und infolgedessen die angrenzenden Gebiete Niederösterreichs und Steiermarks bedrohen, beeile ich mich dem Obersten Rate der alliierten und assoziierten Mächte zur Kenntnis zu bringen, dass das andauernde Hinausschieben einer Entscheidung im Gegenstande eine unhaltbare Lage geschaffen hat.</p>
                      <p>Jede Verzögerung in der Wiederherstellung der Ordnung und in der Sicherung der Ernte, deren Arbeiten im Gange sind, hätte Folgen gezeitigt, für die kein öffentlicher Machtfaktor die Verantwortung übernehmen könnte. Die deutschösterreichische Regierung hat daher, gestützt auf den einstimmigen Beschluss des Kabinetts, sich zum Handeln entschlossen. Der deutschösterreichische Grenzschutz ist nach Osten vorgeschoben worden, bis zu der Linie, die in den Friedensbedingungen vom 20. Juli als Grenze unseres Staatsgebietes angegeben ist. In dem derart begrenzten Gebiete ist die deutschösterreichische Gendarmerie und Polizei mit dem Sicherheitsdienste betraut worden.</p>
                      <p>Angesichts der großen Gefahr im Verzuge hat die deutschösterreichische Regierung geglaubt, im Sinne der humanen Absichten der Mächte zu handeln, wenn sie nicht die formelle Beauftragung abwartete, welche <pb facs="krp-0098_a01-0005"/>in meinen Noten vom 1. August Nr. 906 und vom 9. August Nr. 982 erbeten wurde. Ich bitte demnach Eure Exzellenz, den Obersten Rat von den Maßnahmen, welche Deutschösterreich in einer Zwangslage ergriffen hat, zu verständigen. Da es sich um die Freiheit eines Volkes und die Erhaltung seiner Wohnstätten sowie der Früchte seiner Arbeit handelt, welche auch die Leiden seiner Volksgenossen mildern sollen, glaubt die deutschösterreichische Regierung sich der Erwartung hingeben zu dürfen, dass ihre Intervention vom Obersten Rate der alliierten und assoziierten Mächte durchaus gebilligt werden wird.</p>
                      <p>Genehmigen …“</p>

@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0053.xml">
             <head type="dokument">
-               <title type="num">53.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">53.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0053_r-0001"/>
@@ -282,39 +281,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0053_top06">Zu TOP 6</ref>: <ref target="#krp-0053_b01">Beschluss der Provisorischen Landesversammlung Salzburgs über einige Abänderungen des Gesetzes über die Schulaufsicht</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top07">Zu TOP 7</ref>: <ref target="#krp-0053_b02">Gesetzesvorlage der Salzburger Landesversammlung über Diensteinkommen, Ruhestandsversetzung und Versorgungsgenüsse der Lehrpersonen der öffentlichen Volks- und Bürgerschulen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top08">Zu TOP 8</ref>: <ref target="#krp-0053_b03">Gesetzesbeschlüsse der Provisorischen Landesversammlung Steiermark, womit einige Bestimmungen der Gesetze über die Schulaufsicht und Schulerrichtung und über die Rechtsverhältnisse des Lehrerstandes abgeändert werden</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top09">Zu TOP 9</ref>: <ref target="#krp-0053_b04">Antrag des Staatsamtes für soziale Verwaltung auf Unterstützung arbeitsloser Deutschösterreicher in der Schweiz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top10">Zu TOP 10</ref>: <ref target="#krp-0053_b05">Vollzugsanweisung des Staatsamtes für soziale Verwaltung zur Unterstützung der arbeitslosen Arbeiter und Angestellten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top11">Zu TOP 11</ref>: <ref target="#krp-0053_b06">Gesetzesvorlage des Staatsamtes für Finanzen für Kreditoperationen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top12">Zu TOP 12</ref>: <ref target="#krp-0053_b07">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Bereitstellung von 25 Millionen K für Elektrifizierung von Eisenbahnen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top13">Zu TOP 13</ref>: <ref target="#krp-0053_b08">Antrag des Staatsamtes für Verkehrswesen auf Eingliederung des Luftfahrtwesens in das Staatsamt für Verkehrswesen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top14">Zu TOP 14</ref>: <ref target="#krp-0053_b09">Vorlage des Staatsamtes für Volksernährung wegen der Fleischversorgung Wiens und die Wiener Fleischverbilligungsaktion</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top15">Zu TOP 15</ref>: <ref target="#krp-0053_b10">Notiz des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Erklärung der von der Mitterberger Kupfer A.G. vorgesehenen Bauten als begünstigten Bau</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0053_top16">Zu TOP 16</ref>: <ref target="#krp-0053_b11">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Ratifikation eines mit der ukrainischen Delegation abgeschlossenen Vertrages über die sofortige Lieferung von Mineralölprodukten</ref>
-                  </item>
+                  <item><ref target="#krp-0053_top06">Zu TOP 6</ref>: <ref target="#krp-0053_b01">Beschluss der Provisorischen Landesversammlung Salzburgs über einige Abänderungen des Gesetzes über die Schulaufsicht</ref></item>
+                  <item><ref target="#krp-0053_top07">Zu TOP 7</ref>: <ref target="#krp-0053_b02">Gesetzesvorlage der Salzburger Landesversammlung über Diensteinkommen, Ruhestandsversetzung und Versorgungsgenüsse der Lehrpersonen der öffentlichen Volks- und Bürgerschulen</ref></item>
+                  <item><ref target="#krp-0053_top08">Zu TOP 8</ref>: <ref target="#krp-0053_b03">Gesetzesbeschlüsse der Provisorischen Landesversammlung Steiermark, womit einige Bestimmungen der Gesetze über die Schulaufsicht und Schulerrichtung und über die Rechtsverhältnisse des Lehrerstandes abgeändert werden</ref></item>
+                  <item><ref target="#krp-0053_top09">Zu TOP 9</ref>: <ref target="#krp-0053_b04">Antrag des Staatsamtes für soziale Verwaltung auf Unterstützung arbeitsloser Deutschösterreicher in der Schweiz</ref></item>
+                  <item><ref target="#krp-0053_top10">Zu TOP 10</ref>: <ref target="#krp-0053_b05">Vollzugsanweisung des Staatsamtes für soziale Verwaltung zur Unterstützung der arbeitslosen Arbeiter und Angestellten</ref></item>
+                  <item><ref target="#krp-0053_top11">Zu TOP 11</ref>: <ref target="#krp-0053_b06">Gesetzesvorlage des Staatsamtes für Finanzen für Kreditoperationen</ref></item>
+                  <item><ref target="#krp-0053_top12">Zu TOP 12</ref>: <ref target="#krp-0053_b07">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Bereitstellung von 25 Millionen K für Elektrifizierung von Eisenbahnen</ref></item>
+                  <item><ref target="#krp-0053_top13">Zu TOP 13</ref>: <ref target="#krp-0053_b08">Antrag des Staatsamtes für Verkehrswesen auf Eingliederung des Luftfahrtwesens in das Staatsamt für Verkehrswesen</ref></item>
+                  <item><ref target="#krp-0053_top14">Zu TOP 14</ref>: <ref target="#krp-0053_b09">Vorlage des Staatsamtes für Volksernährung wegen der Fleischversorgung Wiens und die Wiener Fleischverbilligungsaktion</ref></item>
+                  <item><ref target="#krp-0053_top15">Zu TOP 15</ref>: <ref target="#krp-0053_b10">Notiz des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Erklärung der von der Mitterberger Kupfer A.G. vorgesehenen Bauten als begünstigten Bau</ref></item>
+                  <item><ref target="#krp-0053_top16">Zu TOP 16</ref>: <ref target="#krp-0053_b11">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Ratifikation eines mit der ukrainischen Delegation abgeschlossenen Vertrages über die sofortige Lieferung von Mineralölprodukten</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -329,9 +306,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> teilt mit, dass er sich in letzter Zeit mehrfach veranlasst gesehen habe, die Vermittlung der in Wien anwesenden Missionen der alliierten Mächte in Anspruch zu nehmen, um die Lebensmitteltransporte nach Deutschösterreich zu beschleunigen. Außer der italienischen Waffenstillstandsmission seien es vor allem die Mitglieder der englischen Mission gewesen, die die Bestrebungen des Staatsamtes für Volksernährung jederzeit auf das Kräftigste unterstützt und sich damit um die Ernährung der Bevölkerung große Verdienste erworben hätten. So sei es dem Eingreifen der englischen Mission zu danken, dass soeben ein Zug Kondensmilch mit 400 t einlangte, der die Fortsetzung <pb facs="krp-0053_r-0004"/>der Milchverteilung insbesondere an Kinder ermöglichen wird. Dem Eingreifen englischer Offiziere, die den Transport unter militärischer Bedeckung nach Wien brachten, sei es zuzuschreiben, dass aus Polen 15 Wagen Eier und einige Wagen Fleisch einlangten, ebenso wie unter Führung eines Majors 30 englische Soldaten sich mit unseren Vertretern nach Belgrad begeben haben, um auch von dort früher eingekaufte Waren, in erster Linie Vieh und Fleisch, nach Deutschösterreich zu befördern. Ein Mitglied der britischen Mission, das mit dem Staatsamte für Volksernährung in engster Fühlung stehe, habe gestern erklärt, dass die Mission auch weiterhin alles zu tun bereit sei, um Deutschösterreich in seiner schwierigen Lebensmittellage zu helfen, insolange im Lande volle Ordnung aufrecht bleibe.</p>
                   <p>Da gleichzeitig der Wunsch geäußert worden sei, hierüber die Öffentlichkeit zu informieren, erbitte sich der sprechende Staatssekretär die Zustimmung des Kabinettsrates zur Publizierung dieser Darstellung in der Presse.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Zustimmung.</p>
-                  <p>
-                     <pb facs="krp-0053_r-0005"/>
-                  </p>
+                  <p><pb facs="krp-0053_r-0005"/></p>
                </div>
                <div type="top" xml:id="krp-0053_top02">
                   <head>
@@ -362,16 +337,11 @@
                   </head>
                   <p>Der Vorsitzende erbittet und erhält die Zustimmung des Kabinettsrates zur Genehmigung</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> des Beschlusses des Oberösterreichischen Landesausschusses vom 30. November 1918, betreffend Forteinhebung der Lustbarkeitsabgabe in der Stadtgemeinde Wels,</item>
-                     <item n="2">
-                        <label>2.)</label> des Beschlusses des Oberösterreichischen Landesausschusses vom 30. November 1918, betreffend Forteinhebung des Kriegszuschlages zur Gemeindebierauflage in der Stadtgemeinde Wels im Jahre 1919,</item>
-                     <item n="3">
-                        <label>3.)</label> des Beschlusses des Oberösterreichischen Landesausschusses vom 30. November 1918, betreffend Forteinhebung des Kriegszuschlages zur Mietzinsauflage in der Stadtge<pb facs="krp-0053_r-0007"/>meinde Wels in den Jahren 1919 und 1920,</item>
-                     <item n="4">
-                        <label>4.)</label> Beschluss des Niederösterreichischen Landesausschusses vom 8. Oktober 1918, betreffend Einhebung einer 100 % übersteigenden Umlage in der Gemeinde Kirchberg am Wechsel und</item>
-                     <item n="5">
-                        <label>5.)</label> des Beschlusses der Provisorischen Landesversammlung von Steiermark vom 29. Jänner 1919, betreffend Erhöhung des Musikgefälles in den Städten und Märkten Steiermarks.</item>
+                     <item n="1"><label>1.)</label> des Beschlusses des Oberösterreichischen Landesausschusses vom 30. November 1918, betreffend Forteinhebung der Lustbarkeitsabgabe in der Stadtgemeinde Wels,</item>
+                     <item n="2"><label>2.)</label> des Beschlusses des Oberösterreichischen Landesausschusses vom 30. November 1918, betreffend Forteinhebung des Kriegszuschlages zur Gemeindebierauflage in der Stadtgemeinde Wels im Jahre 1919,</item>
+                     <item n="3"><label>3.)</label> des Beschlusses des Oberösterreichischen Landesausschusses vom 30. November 1918, betreffend Forteinhebung des Kriegszuschlages zur Mietzinsauflage in der Stadtge<pb facs="krp-0053_r-0007"/>meinde Wels in den Jahren 1919 und 1920,</item>
+                     <item n="4"><label>4.)</label> Beschluss des Niederösterreichischen Landesausschusses vom 8. Oktober 1918, betreffend Einhebung einer 100 % übersteigenden Umlage in der Gemeinde Kirchberg am Wechsel und</item>
+                     <item n="5"><label>5.)</label> des Beschlusses der Provisorischen Landesversammlung von Steiermark vom 29. Jänner 1919, betreffend Erhöhung des Musikgefälles in den Städten und Märkten Steiermarks.</item>
                   </list>
                </div>
                <div type="top" xml:id="krp-0053_top05">
@@ -384,9 +354,7 @@
                   <p>Der Vorsitzende teilt mit, dass die Provisorische Landesversammlung des Landes Steiermark in der Sitzung am 24. Jänner 1919 ein Gesetz beschlossen habe, womit einzelne Bestimmungen des Gesetzes vom 23. Dezember 1906, LGBl. Nr. 6 aus 1907, betreffend Einhebung einer Abgabe von der Ausübung des Jagdrechtes zugunsten des steiermärkischen Landesarmenfonds, abgeändert werden.</p>
                   <p>Der sprechende Staatskanzler beabsichtigt in seiner Eigenschaft als Leiter des Staatsamtes für Inneres und Unterricht gegen diesen Gesetzesbeschluss namens der Staatsregierung eine Vorstellung nicht zu erheben und daher der sofortigen Kundmachung dieses Gesetzes zuzustimmen.</p>
                   <p>Der Kabinettsrat erteilt dem Vorsitzenden die diesfalls erbetene Ermächtigung.</p>
-                  <p>
-                     <pb facs="krp-0053_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0053_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0053_top06">
                   <head>
@@ -460,10 +428,8 @@
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> führt aus, dass unter den für die Bekämpfung der Arbeitslosigkeit zutreffenden Vorsorgen, die Schaffung von Arbeitsgelegenheiten für Zwecke der Elektrisierung der Eisenbahnen insoferne <pb facs="krp-0053_r-0015"/>eine hervorragende Rolle spiele, als hiedurch eine Aktion von eminent volkswirtschaftlicher Bedeutung – für die eine Sicherstellung der Mittel bisher nicht erfolgt ist – eingeleitet wird und zugleich Arbeitsgelegenheit für mehrere tausend Arbeiter (zum größeren Teil Handlanger, im Übrigen aber qualifizierte Arbeiter) geschaffen würde.</p>
                   <p>Im Rahmen der für die Einführung der elektrischen Zugförderung durchzuführenden Arbeiten und Lieferungen kämen für das Jahr 1919 in Betracht:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Für die Elektrifizierung der Arlbergstrecke sowie der Strecke Stainach-Irdning – Attnang-Puchheim die Beschaffung von Probelokomotiven und von Montagewagen, die Aufstellung von Masten die Arbeiten für die Streckenausrüstung und die Umgestaltung und Verlegung der Schwachstromleitungen usw.;</item>
-                     <item n="2">
-                        <label>2.)</label> für den Ausbau von Wasserkraftanlagen für Bahnbetrieb und zwar: für das Kraftwerk am Spullersee und ein Kraftwerk auf der Ostseite des Arlbergtunnels die Vorbereitung der Baudurchführung durch die Zugänglichmachung der Baustellen durch Wegbauten und Seilbahnen, die Aushebung von Fundamenten für Sperren<pb facs="krp-0053_r-0016"/>bauten, sowie die Steinbeschaffung, die Aufstellung von Baracken und die Anlage von Schrebergärten und schließlich die Inangriffnahme der Stollenbauten.</item>
+                     <item n="1"><label>1.)</label> Für die Elektrifizierung der Arlbergstrecke sowie der Strecke Stainach-Irdning – Attnang-Puchheim die Beschaffung von Probelokomotiven und von Montagewagen, die Aufstellung von Masten die Arbeiten für die Streckenausrüstung und die Umgestaltung und Verlegung der Schwachstromleitungen usw.;</item>
+                     <item n="2"><label>2.)</label> für den Ausbau von Wasserkraftanlagen für Bahnbetrieb und zwar: für das Kraftwerk am Spullersee und ein Kraftwerk auf der Ostseite des Arlbergtunnels die Vorbereitung der Baudurchführung durch die Zugänglichmachung der Baustellen durch Wegbauten und Seilbahnen, die Aushebung von Fundamenten für Sperren<pb facs="krp-0053_r-0016"/>bauten, sowie die Steinbeschaffung, die Aufstellung von Baracken und die Anlage von Schrebergärten und schließlich die Inangriffnahme der Stollenbauten.</item>
                   </list>
                   <p>Das Gelderfordernis für die vorerwähnten im Laufe des Jahres 1919 durchführbaren Arbeiten einschließlich der ersten Rate für die Bestellung der elektrischen Fahrbetriebsmittel dürfte ungefähr 25 Millionen K betragen.</p>
                   <p>Der sprechende Unterstaatssekretär beantragte abschließend, es sei der Betrag von 25 Millionen K für die Vorbereitung der Elektrifizierung auf den oberwähnten Strecken aus den schon bewilligten Notstandskrediten dem Staatsamte für Verkehrswesen zur Verfügung zu stellen.</p>
@@ -492,14 +458,10 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> kommt auf die Frage der Fleischversorgung Wiens zu sprechen, erörtert deren gegenwärtig überaus ungünstigen Stand, macht von seinen einschlägigen Verhandlungen mit den Vertretern der Landesregierungen Mitteilung und stellt abschließend den Antrag, der Kabinettsrat wolle beschließen,</p>
-                  <p>
-                     <pb facs="krp-0053_r-0021"/>
-                  </p>
+                  <p><pb facs="krp-0053_r-0021"/></p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> dass der Kriegszuschlag bis auf Weiteres mit 1 K pro kg Lebensgewicht zu bemessen und zur Gänze aus Staatsmitteln zu tragen sei; für den Monat März wäre mindestens der bis Ende Februar zugestandene halbe Kriegszuschlag aufrecht zu erhalten;</item>
-                     <item n="2">
-                        <label>2.)</label> für Zwecke der Fleischverbilligung in Wien sei bis auf Weiteres ein monatlich verrechenbarer Kredit von 12 Millionen K ab 1. April 1919 und für die Zeit ab 20. März bis 1. April ein solcher von 4 Millionen K zur Verfügung zu stellen.</item>
+                     <item n="1"><label>1.)</label> dass der Kriegszuschlag bis auf Weiteres mit 1 K pro kg Lebensgewicht zu bemessen und zur Gänze aus Staatsmitteln zu tragen sei; für den Monat März wäre mindestens der bis Ende Februar zugestandene halbe Kriegszuschlag aufrecht zu erhalten;</item>
+                     <item n="2"><label>2.)</label> für Zwecke der Fleischverbilligung in Wien sei bis auf Weiteres ein monatlich verrechenbarer Kredit von 12 Millionen K ab 1. April 1919 und für die Zeit ab 20. März bis 1. April ein solcher von 4 Millionen K zur Verfügung zu stellen.</item>
                   </list>
                   <p>Hierüber entwickelt sich eine eingehende Debatte, an der sich außer dem <hi rend="#letterspaced">Vorsitzenden</hi> und dem <hi rend="#letterspaced">Referenten</hi>, Vizekanzler <hi rend="#letterspaced">Fink</hi>, die Staatssekretäre Dr. <hi rend="#letterspaced">Schumpeter</hi> und Dr. <hi rend="#letterspaced">Bauer</hi>, sowie Unterstaatssekretär Dr. von <hi rend="#letterspaced">Grimm</hi> beteiligten. Hiebei gelangte die Frage des eventuellen Abbaues des Kriegszuschlages überhaupt, der Differenzierung zwischen Niederösterreich und den anderen Ländern, einer Überwälzung dieser Mehrausgabe auf den Konsum und endlich der Preiserstellung für künftige Fleischzuschübe aus dem Auslande in eingehendster Weise zur Erörterung. Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> hielt hiebei an der grundsätzlichen Auffassung <pb facs="krp-0053_r-0022"/>fest, dass mit einer Erhöhung der Fleischpreise unter Berücksichtigung der gegenwärtigen politischen Situation auf keinen Fall vorgegangen werden dürfe.</p>
                   <p>Der Kabinettsrat fasste den Beschluss, dass rücksichtlich des Antrages Pkt. 1.) es beim gegenwärtigen Zustande (bis Ende Mai 1919) zu belassen sei; rücksichtlich des Antrages Pkt. 2.) wären dem Staatsamt für Volksernährung für die Monate März und April Kredite im Höchstausmaße von je 8 Millionen K zur Verfügung zu stellen.</p>

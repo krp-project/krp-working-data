@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0092.xml">
             <head type="dokument">
-               <title type="num">92.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">92.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0092_r-0001"/>
@@ -282,30 +281,14 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0092_top01">Zu TOP 1</ref>: <ref target="#krp-0092_b01">Beendigung der Geschäfte der Staatsschuldenkontrollkommission</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0092_top02">Zu TOP 2</ref>: <ref target="#krp-0092_b02">Vortrag über die Frage von Abänderungen der Steiermärkischen Landesordnung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0092_top03">Zu TOP 3</ref>: <ref target="#krp-0092_b03">Liquidierung der Abteilung für Minderheitenschutz- und Propagandadienst</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0092_top05">Zu TOP 5</ref>: <ref target="#krp-0092_b04">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 8559/1919 über den Antrag auf Führung des deutschösterreichischen Staatswappens durch die Ingenieurkammer, die behördlich autorisierten Privattechniker und Bergbauingenieure</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0092_top06">Zu TOP 6</ref>: <ref target="#krp-0092_b05">Entwurf einer Vollzugsanweisung der Staatsregierung über die Anwendung der Bestimmungen des Invalidenentschädigungsgesetzes auf Personen des militärischen Berufsstandes und ihre Hinterbliebenen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0092_top07">Zu TOP 7</ref>: <ref target="#krp-0092_b06">Gesetzesentwurf des Staatssekretärs für Verkehrswesen Zl. 1580 über die Auflösung der Generalinspektion der österreichischen Eisenbahnen und Einbeziehung der Geschäfte in den engen Wirkungskreis des Staatsamtes für Verkehrswesen mit Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0092_top08">Zu TOP 8</ref>: <ref target="#krp-0092_b07">Entwurf eines Antrags des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Erklärung der Ausführung einer Starkstromleitung für die Firma „Henry“-Seifen-, Kerzen- und Fettwarenfabrik in Wels als begünstigter Bau</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0092_top10">Zu TOP 10</ref>: <ref target="#krp-0092_b08">Gesetzesentwurf über die Zeitvorrückung der Supplenten und Assistenten an staatlichen mittleren Unterrichtsanstalten samt Begründung</ref>
-                  </item>
+                  <item><ref target="#krp-0092_top01">Zu TOP 1</ref>: <ref target="#krp-0092_b01">Beendigung der Geschäfte der Staatsschuldenkontrollkommission</ref></item>
+                  <item><ref target="#krp-0092_top02">Zu TOP 2</ref>: <ref target="#krp-0092_b02">Vortrag über die Frage von Abänderungen der Steiermärkischen Landesordnung</ref></item>
+                  <item><ref target="#krp-0092_top03">Zu TOP 3</ref>: <ref target="#krp-0092_b03">Liquidierung der Abteilung für Minderheitenschutz- und Propagandadienst</ref></item>
+                  <item><ref target="#krp-0092_top05">Zu TOP 5</ref>: <ref target="#krp-0092_b04">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 8559/1919 über den Antrag auf Führung des deutschösterreichischen Staatswappens durch die Ingenieurkammer, die behördlich autorisierten Privattechniker und Bergbauingenieure</ref></item>
+                  <item><ref target="#krp-0092_top06">Zu TOP 6</ref>: <ref target="#krp-0092_b05">Entwurf einer Vollzugsanweisung der Staatsregierung über die Anwendung der Bestimmungen des Invalidenentschädigungsgesetzes auf Personen des militärischen Berufsstandes und ihre Hinterbliebenen</ref></item>
+                  <item><ref target="#krp-0092_top07">Zu TOP 7</ref>: <ref target="#krp-0092_b06">Gesetzesentwurf des Staatssekretärs für Verkehrswesen Zl. 1580 über die Auflösung der Generalinspektion der österreichischen Eisenbahnen und Einbeziehung der Geschäfte in den engen Wirkungskreis des Staatsamtes für Verkehrswesen mit Begründung</ref></item>
+                  <item><ref target="#krp-0092_top08">Zu TOP 8</ref>: <ref target="#krp-0092_b07">Entwurf eines Antrags des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Erklärung der Ausführung einer Starkstromleitung für die Firma „Henry“-Seifen-, Kerzen- und Fettwarenfabrik in Wels als begünstigter Bau</ref></item>
+                  <item><ref target="#krp-0092_top10">Zu TOP 10</ref>: <ref target="#krp-0092_b08">Gesetzesentwurf über die Zeitvorrückung der Supplenten und Assistenten an staatlichen mittleren Unterrichtsanstalten samt Begründung</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -344,8 +327,7 @@
                   <p>Der Kampf um die nationalen Gebiete, welche aufgrund des völkischen Selbstbestimmungsrechtes von der deutschösterreichischen Republik in Anspruch genommen worden waren, sei durch den Friedensschluss zunächst offiziell erledigt. Die deutschen Minderheiten in den Sukzessionsstaaten werden nunmehr durch den Erwerb der neuen Staatsbürgerschaft einer amtlichen Ingerenz der deutschösterreichischen Staatsregierung entrückt. Insoweit einzelne Angehörige dieser Minderheiten die deutschösterreichische Staatsbürgerschaft erwerben, falle die Wahrnehmung ihrer Interessen normalmäßig in den Wirkungskreis des Staatsamtes für Äußeres. Eine hervortretende <pb facs="krp-0092_r-0007"/>Mitwirkung der Staatskanzlei bei diesen Agenden wäre weder vom Standpunkte einer geordneten, einheitlichen Administration noch vom politischen Standpunkte zweckmäßig, müsste doch die politische Deckung aller Verfügungen auf diesem Gebiete vom Staatsamte für Äußeres übernommen werden.</p>
                   <p>Ebensowenig könne weiterhin ein Propagandadienst Aufgabe der Staatskanzlei sein. Ein solcher Dienst berührt nach Herstellung normaler Zustände die heikelsten Gebiete der Außenpolitik und könne nur im Rahmen der gesamten Führung der außenpolitischen Geschäfte in einer nützlichen Weise versehen werden. In der Hand jeder anderen Stelle werde er zu einer ständigen Quelle von Verlegenheiten und Gefahren.</p>
                   <p>Für gewisse Geschäfte der Fürsorge, die aus der Abwicklung laufender Aktionen, z. B. für stellenlos gewordene Staatsangestellte zivilen und militärischen Standes u. dgl. sich noch längere Zeit hindurch ergeben werden, würde die bisher als „Sudetendienst" bezeichnete Abteilung unter anderer, den tatsächlichen Verhältnissen entsprechender Bezeichnung zur Verfügung stehen.</p>
-                  <p>
-                     <pb facs="krp-0092_r-0008"/>Der Vorsitzende stelle daher den Antrag, der Kabinettsrat wolle grundsätzlich die Liquidierung der Abteilung der Staatskanzlei „Minderheitsschutz- und Propagandadienst“ beschließen.</p>
+                  <p><pb facs="krp-0092_r-0008"/>Der Vorsitzende stelle daher den Antrag, der Kabinettsrat wolle grundsätzlich die Liquidierung der Abteilung der Staatskanzlei „Minderheitsschutz- und Propagandadienst“ beschließen.</p>
                   <p>Der Kabinettsrat erhebt diesen Antrag zum Beschlusse.</p>
                </div>
                <div type="top" xml:id="krp-0092_top04">
@@ -357,9 +339,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> erbittet die Schlussfassung des Kabinettsrates über ein von der Stadtgemeinde Graz gestelltes dringendes Ansuchen um Gewährung einer staatlichen Subvention im Betrage von 10 Millionen K, von welcher Redner bereits den Betrag von 2 Millionen K in Anhoffnung der Zustimmung des Kabinettsrates der Stadt Graz telegrafisch überwiesen habe.</p>
                   <p>Nach einer längeren Debatte beschließt der Kabinettsrat, diese Angelegenheit vorläufig zu vertagen und den Staatssekretär für Finanzen einzuladen, an alle Kabinettsmitglieder im Sinne der Geschäftsordnung des Kabinettsrates zunächst eine schriftliche Darstellung des Gegenstandes mit einem motivierten Antrage zu übermitteln.</p>
-                  <p>
-                     <pb facs="krp-0092_r-0009"/>
-                  </p>
+                  <p><pb facs="krp-0092_r-0009"/></p>
                </div>
                <div type="top" xml:id="krp-0092_top05">
                   <head>
@@ -392,9 +372,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Paul</hi> erbittet und erhält vom Kabinettsrate die Ermächtigung zur Einbringung eines Gesetzentwurfes, betreffend die Auflösung der Generalinspektion der österreichischen Eisenbahnen und Einbeziehung der Geschäfte derselben in den engeren Wirkungskreis des Staatsamtes für Verkehrswesen.</p>
-                  <p>
-                     <pb facs="krp-0092_r-0012"/>
-                  </p>
+                  <p><pb facs="krp-0092_r-0012"/></p>
                </div>
                <div type="top" xml:id="krp-0092_top08">
                   <head>
@@ -432,8 +410,7 @@
                      </label>
                   </head>
                   <p>Laut Mitteilung des Staatssekretärs Dr. <hi rend="#letterspaced">Schumpeter</hi> soll nach § 15 der vom Staatsamte für Inneres und Unterricht bereits genehmigten neuen Statuten des österreichischen Credit-Institutes für öffentliche Unternehmungen und Arbeiten dem gegenwärtigen Direktor ein staatlicher Vertrauensmann an die Seite gestellt werden, der vom Staatsamte für Finanzen zu ernennen ist. Der sprechende Staatssekretär habe dem Kabinettsrate bereits am 8. und 15. Juli 1919 mitgeteilt, dass für diese Stelle ein aktiver und in der Aktivität bleibender Beamter des Finanzressorts ausersehen sei.</p>
-                  <p>
-                     <pb facs="krp-0092_r-0015"/>Der Kabinettsrat habe seine Mitteilungen zur Kenntnis genommen.</p>
+                  <p><pb facs="krp-0092_r-0015"/>Der Kabinettsrat habe seine Mitteilungen zur Kenntnis genommen.</p>
                   <p>Für diesen Posten bestimme er nun den Oberfinanzrat im Staatsamte für Finanzen, Dr. Ernst Mosing, der gleichzeitig Börsekommissär an der Wiener Börse und Referent für das gesamte Bankwesen bleibe. Durch seine langjährigen sachlichen Erfahrungen und seine Vertrautheit mit den in Betracht kommenden zahlreichen Personen der Finanzwelt erscheine der Genannte für diesen Posten besonders geeignet. Gerade die Verbindung zwischen dem Referate für Bank- und Börsewesen und der Direktion des ersten halbstaatlichen Bankinstitutes dürfte einen heilsamen Einfluss auf unser Bankwesen ausüben. Da Dr. Mosing bisher auch Staatskommissär der [Allgemeinen österreichischen] Boden-Credit-Anstalt war, dieser Posten aber mit der Stelle des Direktors eines halbstaatlichen Konkurrenzinstitutes nicht vereinbar erscheine, werde er von dem Staatskommissariate bei der [Allgemeinen österreichischen] Boden-Credit-Anstalt enthoben werden.</p>
                   <p>Der Kabinettsrat nimmt diese Mitteilungen genehmigend zur Kenntnis.</p>
                   <p/>

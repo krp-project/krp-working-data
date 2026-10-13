@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0157.xml">
             <head type="dokument">
-               <title type="num">157.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">157.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0157_r-0001"/>[Dienstag] 1920-03-09</title>
@@ -295,45 +294,23 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> teilt mit, dass die in der gestrigen Kabinettsratssitzung formulierten Vorschläge den Vertretern der öffentlichen Angestellten nach Beratung im Koalitionskomitee mit der Modifikation mitgeteilt worden seien, dass die 100 % Erhöhung des Ortszuschlages bei der VI. Rangsklasse abzuschließen habe, so dass also die Erhöhung, welche die Beamten von der VI. Rangsklasse aufwärts erhalten, mit dem Betrage von 13.400 K maximiert bleibt.</p>
                   <p>Die paritätische Lohnkommission <pb facs="krp-0157_r-0002"/>habe diesen Vorschlag nicht zur Kenntnis genommen und ihre Forderungen in nachstehenden Punkten zusammengefasst:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Der Ortszuschlag ist für Wien mit 100 %, für die erste Ortszulagenklasse mit 90 %, für die zweite mit 80 %, für die dritte mit 70 % und für die vierte mit 60 % zu bemessen.</item>
-                     <item n="2">
-                        <label>2.)</label> Für den Ruhegenuss ist der Ortszuschlag nach dem Wohnorte zu bemessen.</item>
-                     <item n="3">
-                        <label>3.)</label> Die Teuerungszulage wird mit nachstehenden Sätzen festgesetzt:<list>
-                           <item n="1">
-                              <label>Für Wien </label> ……………	8.400 K</item>
-                           <item n="2">
-                              <label>für die I. Ortsklasse </label> …..	7.500 K </item>
-                           <item n="3">
-                              <label>für die II. Ortsklasse </label>   …	6.720 K </item>
-                           <item n="4">
-                              <label>für die III. Ortsklasse </label>   …	5.880 K</item>
-                           <item n="5">
-                              <label>für die IV. Ortsklasse    …</label> 5.040 K.</item>
-                        </list>
-                     </item>
-                     <item n="4">
-                        <label>4.)</label> Die Kinderzulage bleibt im bisherigen Jahresausmaße von 1.200 K aufrecht.</item>
-                     <item n="5">
-                        <label>5.)</label> Zulage für die Gattin (soferne sie nicht selbst im Staats- oder öffentlichen Dienste steht) 1.200 K für alle Bezugsklassen.</item>
-                     <item n="6">
-                        <label>6.)</label> Die gleitende Zulage wird mit einem Grundbetrage für den Kopf von monatlich:</item>
+                     <item n="1"><label>1.)</label> Der Ortszuschlag ist für Wien mit 100 %, für die erste Ortszulagenklasse mit 90 %, für die zweite mit 80 %, für die dritte mit 70 % und für die vierte mit 60 % zu bemessen.</item>
+                     <item n="2"><label>2.)</label> Für den Ruhegenuss ist der Ortszuschlag nach dem Wohnorte zu bemessen.</item>
+                     <item n="3"><label>3.)</label> Die Teuerungszulage wird mit nachstehenden Sätzen festgesetzt:<list><item n="1"><label>Für Wien </label> ……………	8.400 K</item><item n="2"><label>für die I. Ortsklasse </label> …..	7.500 K </item><item n="3"><label>für die II. Ortsklasse </label>   …	6.720 K </item><item n="4"><label>für die III. Ortsklasse </label>   …	5.880 K</item><item n="5"><label>für die IV. Ortsklasse    …</label> 5.040 K.</item></list></item>
+                     <item n="4"><label>4.)</label> Die Kinderzulage bleibt im bisherigen Jahresausmaße von 1.200 K aufrecht.</item>
+                     <item n="5"><label>5.)</label> Zulage für die Gattin (soferne sie nicht selbst im Staats- oder öffentlichen Dienste steht) 1.200 K für alle Bezugsklassen.</item>
+                     <item n="6"><label>6.)</label> Die gleitende Zulage wird mit einem Grundbetrage für den Kopf von monatlich:</item>
                   </list>
                   <p>100 K in Wien, 90 K in der I., 80 K in der II., 70 K in der III. und 60 K in <pb facs="krp-0157_r-0003"/>der IV. Ortszulagenklasse festgesetzt.</p>
                   <p>Zu diesen Grundbeträgen werden die ab 1. März 1920 eintretenden Preissteigerungen der vier im § 9 des Gesetzes vom 18. Dezember 1919, StGBl. Nr. 571 genannten Lebensmittel zugeschlagen.</p>
                   <list>
-                     <item n="1">
-                        <label>7.)</label> Die Lohnkommission erklärt, dass die Frage der Vermehrung der Dienststunden mit Rücksicht auf die Verschiedenheit der Dienstbetriebe und der Dienstesverwendung der einzelnen Angestellten für eine allgemeine Lösung nicht geeignet ist; ob eine Lösung möglich [ist], wäre im Einvernehmen mit den Organisationen zu untersuchen.</item>
-                     <item n="2">
-                        <label>8.)</label> Die Lohnkommission erklärt zur Regelung der Fahrt- und Frachtbegünstigungen (Neufestsetzung der Regiegebühren), dass sie aus Billigkeitsgründen eine möglichst gleichmäßige Behandlung der Angestellten im Sinne der von ihren Organisationen wiederholt gestellten Forderungen wünscht.</item>
+                     <item n="1"><label>7.)</label> Die Lohnkommission erklärt, dass die Frage der Vermehrung der Dienststunden mit Rücksicht auf die Verschiedenheit der Dienstbetriebe und der Dienstesverwendung der einzelnen Angestellten für eine allgemeine Lösung nicht geeignet ist; ob eine Lösung möglich [ist], wäre im Einvernehmen mit den Organisationen zu untersuchen.</item>
+                     <item n="2"><label>8.)</label> Die Lohnkommission erklärt zur Regelung der Fahrt- und Frachtbegünstigungen (Neufestsetzung der Regiegebühren), dass sie aus Billigkeitsgründen eine möglichst gleichmäßige Behandlung der Angestellten im Sinne der von ihren Organisationen wiederholt gestellten Forderungen wünscht.</item>
                   </list>
                   <p>Die Eisenbahn-, Post- und Telegrafenangestellten protestieren gegen die Erhöhung der Regiefahr- und Frachtpreise.</p>
                   <list>
-                     <item n="1">
-                        <label>9.)</label> Der Mindestgehalt (Gesamtbezug) eines ledigen Bediensteten in Wien muss unter Anrechnung von Grundgehalt, Erhöhungen, Ortszuschlag (Teuerungszulage und gleitender Zulage) 18.000 K betragen. <pb facs="krp-0157_r-0004"/>Bleibt der Gesamtbezug unter diesem Betrage, so ist er durch eine Ergänzungszulage auf diesen zu bringen. Die Mindestbezüge in den Ländern sind den Ortsklassen entsprechend abzustufen.</item>
-                     <item n="2">
-                        <label>10.)</label> Die Bezüge aller Angestellten und Arbeiter, die nicht im Bezuge von Ortszuschlägen und Teuerungszulagen und gleitenden Zulagen stehen, sind unter sinngemäßer Anwendung der für die übrigen Angestellten festgesetzten Bestimmungen zu erhöhen.</item>
+                     <item n="1"><label>9.)</label> Der Mindestgehalt (Gesamtbezug) eines ledigen Bediensteten in Wien muss unter Anrechnung von Grundgehalt, Erhöhungen, Ortszuschlag (Teuerungszulage und gleitender Zulage) 18.000 K betragen. <pb facs="krp-0157_r-0004"/>Bleibt der Gesamtbezug unter diesem Betrage, so ist er durch eine Ergänzungszulage auf diesen zu bringen. Die Mindestbezüge in den Ländern sind den Ortsklassen entsprechend abzustufen.</item>
+                     <item n="2"><label>10.)</label> Die Bezüge aller Angestellten und Arbeiter, die nicht im Bezuge von Ortszuschlägen und Teuerungszulagen und gleitenden Zulagen stehen, sind unter sinngemäßer Anwendung der für die übrigen Angestellten festgesetzten Bestimmungen zu erhöhen.</item>
                   </list>
                   <p>Nach einer eingehenden Erörterung dieser Vorschläge gelangt der Kabinettsrat hinsichtlich der einzelnen Punkte zu nachstehenden Beschlüssen:</p>
                   <p>ad 1.) Es sind drei Bezugsklassen als Hauptklassen zu belassen; dazwischen sind zwei Mittelklassen einzuschieben, in welche über Vorschlag der paritätischen Landeskommissionen Orte mit besonderer Teuerung einzureihen wären. Die Spannung zwischen diesen fünf Ortsklassen beträgt 15 %, woraus sich folgende Klassen ergeben: Wien 100 %, 1. Ortsklasse 70 %, 2. Ortsklasse 40 %, zwischen Wien und der 1. Ortsklasse eine Mittelklasse (l a) mit 85 %, zwischen der 1. und 2. Ortsklasse eine Mittelklasse (2 a) mit 55 %.</p>

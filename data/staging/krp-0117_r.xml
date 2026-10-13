@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0117.xml">
             <head type="dokument">
-               <title type="num">117.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">117.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0117_r-0001"/>
@@ -282,45 +281,19 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b01">Antrag des Staatsamtes für Finanzen wegen des Abbaus der liquidierenden Stellen in Deutschösterreich infolge des Friedensvertrages</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b02">Stellungnahme des Staatsamtes für Heereswesen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b03">Erwiderung des Staatsamtes für Finanzen auf die Gegenschrift des Staatsamtes für Heereswesen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b04">Entwürfe von Ministerialrat Wilhelm Boschan über „Vorschläge für die Reform des Liquidierungswesens aufgrund der Friedensverträge“ und über „Friedensvertrag und Liquidierungskommission“</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b05">Rückäußerung des Staatsamtes für Heereswesen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b06">Antrag der Staatskanzlei</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top02">Zu TOP 2</ref>: <ref target="#krp-0117_b07">Bericht über die Einsetzung einer Kommission für die Verwaltung der Museen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top03">Zu TOP 3</ref>: <ref target="#krp-0117_b08">Referat der Staatskanzlei zu Zl. 2555/51/1919 über die Gegenzeichnung des Vertrags von St. Germain</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top05">Zu TOP 5</ref>: <ref target="#krp-0117_b09">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zur Weiterführung des Internates der ehemaligen Luftfahrbaujungenschule in Mauer bei Wien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top07">Zu TOP 7</ref>: <ref target="#krp-0117_b10">Vortrag des Staatsamtes für Heereswesen für den Kabinettsrat über die Erhöhung der Unterhaltsbeiträge für die Angehörigen bzw. Hinterbliebenen von Invaliden und Vermissten bzw. von Gestorbenen und Gefallenen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top08">Zu TOP 8</ref>: <ref target="#krp-0117_b11">Vortrag des Staatsamtes für Heereswesen für den Kabinettsrat über den Zuschuss zur Kostenaufbesserung und 25 % Erhöhung dieses Zuschusses für die Volkswehr</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top09">Zu TOP 9</ref>: <ref target="#krp-0117_b12">Vortrag des Staatsamtes für Verkehrswesen für den Kabinettsrat über die Rückübernahme enthobener deutscher Bediensteter durch die tschechoslowakische Staatsbahnverwaltung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0117_top10">Zu TOP 10</ref>: <ref target="#krp-0117_b13">Antrag des Staatsamtes für Heereswesen zur Ermöglichung der Unterstützung bedürftiger Kriegsbeschädigter, Kriegerwitwen und –Waisen mit Naturalien</ref>
-                  </item>
+                  <item><ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b01">Antrag des Staatsamtes für Finanzen wegen des Abbaus der liquidierenden Stellen in Deutschösterreich infolge des Friedensvertrages</ref></item>
+                  <item><ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b02">Stellungnahme des Staatsamtes für Heereswesen</ref></item>
+                  <item><ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b03">Erwiderung des Staatsamtes für Finanzen auf die Gegenschrift des Staatsamtes für Heereswesen</ref></item>
+                  <item><ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b04">Entwürfe von Ministerialrat Wilhelm Boschan über „Vorschläge für die Reform des Liquidierungswesens aufgrund der Friedensverträge“ und über „Friedensvertrag und Liquidierungskommission“</ref></item>
+                  <item><ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b05">Rückäußerung des Staatsamtes für Heereswesen</ref></item>
+                  <item><ref target="#krp-0117_top01">Zu TOP 1</ref>: <ref target="#krp-0117_b06">Antrag der Staatskanzlei</ref></item>
+                  <item><ref target="#krp-0117_top02">Zu TOP 2</ref>: <ref target="#krp-0117_b07">Bericht über die Einsetzung einer Kommission für die Verwaltung der Museen</ref></item>
+                  <item><ref target="#krp-0117_top03">Zu TOP 3</ref>: <ref target="#krp-0117_b08">Referat der Staatskanzlei zu Zl. 2555/51/1919 über die Gegenzeichnung des Vertrags von St. Germain</ref></item>
+                  <item><ref target="#krp-0117_top05">Zu TOP 5</ref>: <ref target="#krp-0117_b09">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zur Weiterführung des Internates der ehemaligen Luftfahrbaujungenschule in Mauer bei Wien</ref></item>
+                  <item><ref target="#krp-0117_top07">Zu TOP 7</ref>: <ref target="#krp-0117_b10">Vortrag des Staatsamtes für Heereswesen für den Kabinettsrat über die Erhöhung der Unterhaltsbeiträge für die Angehörigen bzw. Hinterbliebenen von Invaliden und Vermissten bzw. von Gestorbenen und Gefallenen</ref></item>
+                  <item><ref target="#krp-0117_top08">Zu TOP 8</ref>: <ref target="#krp-0117_b11">Vortrag des Staatsamtes für Heereswesen für den Kabinettsrat über den Zuschuss zur Kostenaufbesserung und 25 % Erhöhung dieses Zuschusses für die Volkswehr</ref></item>
+                  <item><ref target="#krp-0117_top09">Zu TOP 9</ref>: <ref target="#krp-0117_b12">Vortrag des Staatsamtes für Verkehrswesen für den Kabinettsrat über die Rückübernahme enthobener deutscher Bediensteter durch die tschechoslowakische Staatsbahnverwaltung</ref></item>
+                  <item><ref target="#krp-0117_top10">Zu TOP 10</ref>: <ref target="#krp-0117_b13">Antrag des Staatsamtes für Heereswesen zur Ermöglichung der Unterstützung bedürftiger Kriegsbeschädigter, Kriegerwitwen und –Waisen mit Naturalien</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -335,12 +308,9 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> bespricht zunächst den vom Generalliquidierungskommissär Sektionschef Dr. <hi rend="#letterspaced">Pöschl</hi> dem Kabinettsrat vorgelegten Antrag über den Abbau der liquidierenden Stellen in Deutschösterreich infolge des Friedensvertrages. Er verweist auf die politische Unmöglichkeit, die internationalen Liquidierungsstellen auf deutschösterreichischem Boden weiter zu belassen und schlägt vor, die gesamte Liquidierung ausdrücklich als eine deutschösterreichische innerstaatliche Angelegenheit zu erklären; es hätten demzufolge die Gesandtenkonferenzen und die Bevollmächtigtenkollegien aufgelassen zu werden. Die Auseinandersetzung mit Ungarn wäre einem späteren Zeitpunkte vorzubehalten. Was die Ausführung dieses Gedankens anlange, denke sich Redner den nunmehr einzuschlagenden Weg so, dass jedes Staatsamt jene Liquidierungszweige übernehmen sollte, die meritorisch in sein Ressort fallen. Hiebei hätte die Liquidierung des bestandenen Kriegsministeriums nach den einzelnen Verwaltungsgegenständen auf die zuständigen Staatsämter aufgeteilt <pb facs="krp-0117_r-0004"/>zu werden. So würde beispielsweise der enorme Komplex von Finanzfragen durch das Staatsamt für Finanzen zu lösen sein.</p>
                   <p>Um dieser Art die Zerlegung der Liquidierung des bestandenen Kriegsministeriums durchzuführen, empfehle Redner die Einsetzung eines Komitees, welchem zwei Vertreter des Staatsamtes für Heer[es]wesen (Sektionschef Hanausek und Oberst Ziller ), ein Vertreter des Staatsamtes für Finanzen (Finanzrat [Dr.] Hornik) und der bisherige Leiter des Büros der Gesandtenkonferenz und der internationalen Liquidierungskommission Ministerialrat Dr. Boschan anzugehören hätten. Ferner sollten zwei Abgeordnete der Nationalversammlung von dieser mit der Aufgabe betraut werden, die Liquidierung in allen Staatsämtern zu beaufsichtigen und auf deren möglichste Beschleunigung hinzuwirken. Generalliquidierungskommissär Sektionschef Dr. Pöschl verweist demgegenüber auf seine dem Kabinettsrat in dieser Angelegenheit vorgelegte Äußerung und gelangt nach eingehender Darstellung seiner gegenständlichen Auffassung zu dem Vorschlage, es möge beim Abbau der Liquidierung von nachstehenden Gesichts<pb facs="krp-0117_r-0005"/>punkten ausgegangen werden:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Hätte durch einen übereinstimmenden Beschluss aller Nationalstaaten ausgesprochen zu werden, dass mit dem Inkrafttreten des Friedensvertrages die bisherige Liquidierungsorganisation, hierunter die bisherige internationale Liquidierungskommission und die Bevollmächtigtenkollegien aufzulösen und Verhandlungen zu dem Zweck einzuleiten sind, damit an deren Stelle eine einzige Kommission der an der Liquidierung interessierten Nationalstaaten eingesetzt werde.</item>
-                     <item n="2">
-                        <label>2.)</label> Hätte sich in der Zwischenzeit, das ist bis zum Inkrafttreten des Friedensvertrages, die bestehende Liquidierungsorganisation lediglich auf die Behandlung der unumgänglich notwendigen laufenden Angelegenheiten zu beschränken, hingegen vor allen prinzipiellen Beschlüssen, die dem Friedensvertrage vorgreifen könnten, Abstand zu nehmen.</item>
-                     <item n="3">
-                        <label>3.)</label> Wäre eine strenge Unterscheidung zwischen den altösterreichischen liquidierenden Stellen und deren Unterstellen einerseits und den gemeinsamen vormals österreichisch-ungarischen liquidierenden Zentralstellen andererseits im Hinblicke darauf zu machen, dass die Übernahme der ersteren in die deutschösterreichische Verwaltung nach dem Friedensvertrage ohne Bedenken vor sich <pb facs="krp-0117_r-0006"/>gehen könne, also einem internationalen Hindernisse nicht begegnen würde, während bei den gemeinsamen Stellen das Einvernehmen mit Ungarn rechtlich notwendig sei. Auf diese Momente bitte Redner bei der Ausarbeitung des in Aussicht genommenen Gesetzentwurfes Bedacht zu nehmen. </item>
+                     <item n="1"><label>1.)</label> Hätte durch einen übereinstimmenden Beschluss aller Nationalstaaten ausgesprochen zu werden, dass mit dem Inkrafttreten des Friedensvertrages die bisherige Liquidierungsorganisation, hierunter die bisherige internationale Liquidierungskommission und die Bevollmächtigtenkollegien aufzulösen und Verhandlungen zu dem Zweck einzuleiten sind, damit an deren Stelle eine einzige Kommission der an der Liquidierung interessierten Nationalstaaten eingesetzt werde.</item>
+                     <item n="2"><label>2.)</label> Hätte sich in der Zwischenzeit, das ist bis zum Inkrafttreten des Friedensvertrages, die bestehende Liquidierungsorganisation lediglich auf die Behandlung der unumgänglich notwendigen laufenden Angelegenheiten zu beschränken, hingegen vor allen prinzipiellen Beschlüssen, die dem Friedensvertrage vorgreifen könnten, Abstand zu nehmen.</item>
+                     <item n="3"><label>3.)</label> Wäre eine strenge Unterscheidung zwischen den altösterreichischen liquidierenden Stellen und deren Unterstellen einerseits und den gemeinsamen vormals österreichisch-ungarischen liquidierenden Zentralstellen andererseits im Hinblicke darauf zu machen, dass die Übernahme der ersteren in die deutschösterreichische Verwaltung nach dem Friedensvertrage ohne Bedenken vor sich <pb facs="krp-0117_r-0006"/>gehen könne, also einem internationalen Hindernisse nicht begegnen würde, während bei den gemeinsamen Stellen das Einvernehmen mit Ungarn rechtlich notwendig sei. Auf diese Momente bitte Redner bei der Ausarbeitung des in Aussicht genommenen Gesetzentwurfes Bedacht zu nehmen. </item>
                   </list>
                   <p>Ministerialrat Dr. <hi rend="#letterspaced">Boschan</hi> bespricht die von ihm ausgearbeiteten und dem Kabinettsrat gleichfalls bereits vorliegenden Vorschläge für die Reform des Liquidierungswesens aufgrund des Friedensvertrages und betont abschließend, dass es seiner Ansicht nach unerlässlich erscheine, die gegenwärtige Organisation bis zum Zeitpunkte des Inkrafttretens des Friedensvertrages aus dem Grund aufrecht zu erhalten, um den Anschein zu vermeiden, als ob unsererseits eine gewaltsame einseitige Regelung dieser Frage beabsichtigt würde.</p>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> gibt der Anschauung Ausdruck, es müsse der Gesichtspunkt zum Durchbruche gelangen, dass wir durch den Friedensvertrag die volle Territorialhoheit auf unserem Staatsgebiete besitzen und demnach auf unserem Boden keine andere Verwaltung dulden brauchen als die durch unsere Staatsämter ausgeübt wird. Hiezu gebe <pb facs="krp-0117_r-0007"/>uns der Staatsvertrag von St. Germain das volle Recht, wonach die Liquidierung nicht etwa ex nunc aufgelöst, sondern als ex tunc gar nicht anerkannt gelte. Dadurch sei das ganze System der Liquidierung, das wir seinerzeit im guten Glauben aufgestellt haben, von Anfang an hinfällig geworden. Wir können daher diese Verwaltung ohne Bedenken übernehmen. Das gelte ebenso für die österreichisch-ungarischen Angelegenheiten, da nach dem Friedensvertrage auch Ungarn keinen Anspruch auf Mitverwaltung besitze. Ungarn bleibe es anheimgestellt, seine allfälligen Gegenansprüche im diplomatischen Wege geltend zu machen. Die näheren Details der Regelung dieser Fragen könnten wohl am besten der vom Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> in Antrag gebrachten Kommission vorbehalten werden, welcher auch die Aufgabe obliegen würde, den erforderlichen Gesetzentwurf auszuarbeiten.</p>
@@ -349,18 +319,12 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> sowie Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> treten besonders für einen ehesten Abbau der Liquidierung in personalwirtschaftlichen Belangen ein.</p>
                   <p>Der Kabinettsrat gelangt sodann zu nachstehenden Beschlüssen:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die gesamte Liquidierung wird als eine deutschösterreichische innerstaatliche Aufgabe erklärt; die Gesandtenkonferenz und die Bevollmächtigtenkollegien treten mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain außer Funktion.</item>
-                     <item n="2">
-                        <label>2.)</label> Jedes Staatsamt übernimmt jene <pb facs="krp-0117_r-0009"/>Liquidierung, die in sein Ressort fällt.</item>
-                     <item n="3">
-                        <label>3.)</label> Die Liquidierung des Kriegsministeriums wird nach der Zugehörigkeit des einzelnen Verwaltungsgegenstandes zerlegt und auf die zuständigen Staatsämter aufgeteilt.</item>
-                     <item n="4">
-                        <label>4.)</label> Um die Zerlegung des liquidierenden Kriegsministeriums vorzubereiten, wird ein Komitee eingesetzt, das aus zwei Vertretern des Staatsamtes für Heer[es]wesen (Sektionschef Hanausek und Oberst Ziller), aus einem Vertreter des Staatsamtes für Finanzen (Finanzrat Hornik) und aus dem Vorstande des Büros der Gesandtenkonferenz und der internationalen Liquidierungskommission, Ministerialrat Dr. Boschan, zu bestehen hat.</item>
-                     <item n="5">
-                        <label>5.)</label> Der Nationalversammlung ist vorzuschlagen, zur Aufsicht über die gesamte Liquidierung zwei Abgeordnete namhaft zu machen, die mit besonderen Machtvollkommenheiten auszustatten sein werden.</item>
-                     <item n="6">
-                        <label>6.)</label> Zur Auseinandersetzung mit den Sukzessionsstaaten ist Deutschösterreich durch die Teilnahme an einer zu schaffenden internationalen Vereinbarungskommission bereit.</item>
+                     <item n="1"><label>1.)</label> Die gesamte Liquidierung wird als eine deutschösterreichische innerstaatliche Aufgabe erklärt; die Gesandtenkonferenz und die Bevollmächtigtenkollegien treten mit dem Tage der Rechtswirksamkeit des Staatsvertrages von St. Germain außer Funktion.</item>
+                     <item n="2"><label>2.)</label> Jedes Staatsamt übernimmt jene <pb facs="krp-0117_r-0009"/>Liquidierung, die in sein Ressort fällt.</item>
+                     <item n="3"><label>3.)</label> Die Liquidierung des Kriegsministeriums wird nach der Zugehörigkeit des einzelnen Verwaltungsgegenstandes zerlegt und auf die zuständigen Staatsämter aufgeteilt.</item>
+                     <item n="4"><label>4.)</label> Um die Zerlegung des liquidierenden Kriegsministeriums vorzubereiten, wird ein Komitee eingesetzt, das aus zwei Vertretern des Staatsamtes für Heer[es]wesen (Sektionschef Hanausek und Oberst Ziller), aus einem Vertreter des Staatsamtes für Finanzen (Finanzrat Hornik) und aus dem Vorstande des Büros der Gesandtenkonferenz und der internationalen Liquidierungskommission, Ministerialrat Dr. Boschan, zu bestehen hat.</item>
+                     <item n="5"><label>5.)</label> Der Nationalversammlung ist vorzuschlagen, zur Aufsicht über die gesamte Liquidierung zwei Abgeordnete namhaft zu machen, die mit besonderen Machtvollkommenheiten auszustatten sein werden.</item>
+                     <item n="6"><label>6.)</label> Zur Auseinandersetzung mit den Sukzessionsstaaten ist Deutschösterreich durch die Teilnahme an einer zu schaffenden internationalen Vereinbarungskommission bereit.</item>
                   </list>
                   <p>Schließlich weist der Kabinettsrat die Staatskanzlei an, die im Gegen<pb facs="krp-0117_r-0010"/>stande erforderlichen legislativen Maßnahmen im Einvernehmen mit dem Staatsamte für Finanzen, für Heer[es]wesen und für Äußeres vorzubereiten.</p>
                </div>
@@ -373,12 +337,9 @@
                   </head>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> weist darauf hin, dass sich im Zuge der Aktion zur Veräußerung bzw. Verpfändung von staatlichen Kunstwerten die Notwendigkeit ergeben habe, ein Organ zu schaffen, dessen Aufgabe es sei, die volle Ausnutzung des Kunstbesitzes und die Ausscheidung des Überflüssigen und minder Belangreichen ohne kulturelle Gefährdung zu gewährleisten. Hiezu erscheine eine kleine, mit folgenden Befugnissen ausgestattete Kommission seiner Anschauung nach geeignet: Diese Kommission hätte</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> festzustellen, welche Objekte als unentbehrliche Teile des staatlichen Kulturbesitzes anzusehen sind und daher unter allen Umständen der Öffentlichkeit erhalten bleiben müssen. Aufgrund ihres Votums wird die Unterrichtsverwaltung das Einvernehmen mit dem mit der finanziellen Verwertung des staatlichen Kunstbesitzes betrauten Bevollmächtigten herstellen, zu dem dieser nach § 4 des bezüglichen Ge<pb facs="krp-0117_r-0011"/>setzes verpflichtet ist;</item>
-                     <item n="2">
-                        <label>2.)</label> ein Programm darüber auszuarbeiten, in welcher Weise die bisherigen Sammlungen umzugestalten wären, um unter Verbilligung der Verwaltung und Vereinfachung des Betriebes eine wesentlich größere Wirkung für die Volksbildung im weitesten Sinne sicherzustellen;</item>
-                     <item n="3">
-                        <label>3.)</label> zu ermitteln, welche Objekte ohne schwere Schädigung der Kulturinteressen veräußert werden können, wobei ein Teil des Erlöses dem Ausbau der Sammlungen selbst zu Gute zu kommen hätte. Dabei würde es sich für absehbare Zeit weniger um neue Erwerbungen handeln, als um Adaptierungen und Einrichtungsarbeiten, sodass diese Auslagen zur Gänze dem notleidenden heimischen Handwerk und der Industrie zu Gute kämen, und überdies in inländischer Währung zu leisten wären, während der Erlös aus den etwa ausgeschiedenen Objekten in ausländischer Valuta erzielt würde.</item>
+                     <item n="1"><label>1.)</label> festzustellen, welche Objekte als unentbehrliche Teile des staatlichen Kulturbesitzes anzusehen sind und daher unter allen Umständen der Öffentlichkeit erhalten bleiben müssen. Aufgrund ihres Votums wird die Unterrichtsverwaltung das Einvernehmen mit dem mit der finanziellen Verwertung des staatlichen Kunstbesitzes betrauten Bevollmächtigten herstellen, zu dem dieser nach § 4 des bezüglichen Ge<pb facs="krp-0117_r-0011"/>setzes verpflichtet ist;</item>
+                     <item n="2"><label>2.)</label> ein Programm darüber auszuarbeiten, in welcher Weise die bisherigen Sammlungen umzugestalten wären, um unter Verbilligung der Verwaltung und Vereinfachung des Betriebes eine wesentlich größere Wirkung für die Volksbildung im weitesten Sinne sicherzustellen;</item>
+                     <item n="3"><label>3.)</label> zu ermitteln, welche Objekte ohne schwere Schädigung der Kulturinteressen veräußert werden können, wobei ein Teil des Erlöses dem Ausbau der Sammlungen selbst zu Gute zu kommen hätte. Dabei würde es sich für absehbare Zeit weniger um neue Erwerbungen handeln, als um Adaptierungen und Einrichtungsarbeiten, sodass diese Auslagen zur Gänze dem notleidenden heimischen Handwerk und der Industrie zu Gute kämen, und überdies in inländischer Währung zu leisten wären, während der Erlös aus den etwa ausgeschiedenen Objekten in ausländischer Valuta erzielt würde.</item>
                   </list>
                   <p>Die Kommission, deren Zusammensetzung dem Unterrichtsamte zu überlassen wäre, hätte ein beratendes Organ dieses Amtes, dem die Durchführung ihrer Vorschläge zusteht, zu sein. Ihre Tätigkeit wäre durch eine eigene Geschäftsordnung zu regeln.</p>
                   <p>Der sprechende Unterstaatssekretär beabsichtigt wegen Durchführung der <pb facs="krp-0117_r-0012"/>erwähnten Maßnahmen das Erforderliche im Einvernehmen mit den berufenen Stellen zu veranlassen.</p>
@@ -406,10 +367,8 @@
                   </head>
                   <p>Über Vorschlag des Vorsitzenden erhebt der Kabinettsrat gegen die von der Nationalversammlung beschlossenen Gesetze,</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> betreffend die Auflösung der Generalinspektion der österreichischen Eisenbahnen und Einbeziehung <pb facs="krp-0117_r-0014"/>der Geschäfte derselben in den engeren Wirkungskreis des Staatsamtes für Verkehrswesen, sowie</item>
-                     <item n="2">
-                        <label>2.)</label> über die Umwandlung der Exportakademie in Wien zu einer Hochschule für Welthandel</item>
+                     <item n="1"><label>1.)</label> betreffend die Auflösung der Generalinspektion der österreichischen Eisenbahnen und Einbeziehung <pb facs="krp-0117_r-0014"/>der Geschäfte derselben in den engeren Wirkungskreis des Staatsamtes für Verkehrswesen, sowie</item>
+                     <item n="2"><label>2.)</label> über die Umwandlung der Exportakademie in Wien zu einer Hochschule für Welthandel</item>
                   </list>
                   <p>keine Vorstellung.</p>
                   <p>Die beiden Gesetze sind demgemäß nach Gegenzeichnung durch den Staatskanzler und die zuständigen Staatssekretäre dem Präsidenten der Nationalversammlung zur Fertigung vorzulegen.</p>
@@ -460,8 +419,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> bringt in Erinnerung, dass der Kabinettsrat am 12. September 1919 beschlossen habe, es sei in jenen Standorten, wo erhobenermaßen seit dem mit Kabinettsratsbeschlüssen vom 13. Mai und 17. Juni 1919 für die Volkswehr ab 1. Mai bzw. 1. Juni 1919 bewilligten Zuschusse zur Kostaufbesserung die Lebensbedingungen sich noch mehr verschlechtert haben, eine Erhöhung dieses (seinerzeit mit 2–4 K festgesetzten) Zuschusses um 25 % für die Monate September und Oktober 1919 zur Auszahlung zu bringen.</p>
-                  <p>
-                     <pb facs="krp-0117_r-0021"/>Da sich seither die Verhältnisse nicht gebessert haben, bitte Redner um die Ermächtigung, den Zuschuss von 2–4 K zur Kostaufbesserung samt der 25 % Erhöhung im Rahmen des bisherigen Gesamtkredites von 4.430.000 K auch weiterhin bis Ende Dezember l. J. auszahlen zu dürfen.</p>
+                  <p><pb facs="krp-0117_r-0021"/>Da sich seither die Verhältnisse nicht gebessert haben, bitte Redner um die Ermächtigung, den Zuschuss von 2–4 K zur Kostaufbesserung samt der 25 % Erhöhung im Rahmen des bisherigen Gesamtkredites von 4.430.000 K auch weiterhin bis Ende Dezember l. J. auszahlen zu dürfen.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
                </div>
                <div type="top" xml:id="krp-0117_top09">
@@ -477,9 +435,7 @@
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> pflichtet diesem Antrage bei, hält jedoch dafür, dass es angezeigt sein dürfte, sich in dieser Frage auch noch mit den Eisenbahnorganisationen unmittelbar in Verbindung zu setzen. Auch die Erörterung der Sachlage in den Fachblättern erscheine ihm wünschenswert.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> schließt sich der Anschauung des Referenten vollinhaltlich an und stellt den Zusatzantrag, dass dieser Standpunkt auch auf alle anderen, ehemals österreichischen Staatsbediensteten deutscher Nationalität anzuwenden wäre.</p>
                   <p>Der Kabinettsrat erhebt den Antrag des Staatssekretär[s] für Verkehrswesen sowie den Zusatzantrag des Staatssekretär[s] für Finanzen zum Beschluss.</p>
-                  <p>
-                     <pb facs="krp-0117_r-0024"/>
-                  </p>
+                  <p><pb facs="krp-0117_r-0024"/></p>
                </div>
                <div type="top" xml:id="krp-0117_top10">
                   <head>
@@ -497,8 +453,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0117_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 117 vom 24. Oktober 1919.</p>
+               <p><pb facs="krp-0117_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 117 vom 24. Oktober 1919.</p>
                <div n="1">
                   <head>Reassumierung des Kabinettsratsbeschlusses vom 21. Okt[ober] d. J., betreffend die Beteiligung des Staates an dem Gesellschaftskapital der [Oesterreichischen-]Alpine Montangesellschaft.</head>
                   <div type="a01_protokoll">
@@ -522,7 +477,7 @@
                </div>
                <div n="2">
                   <head>EINZUFÜGEN</head>
-                  <p>Transkription in Arbeit.	</p>
+                  <p>Transkription in Arbeit.		</p>
                </div>
             </div>
          </div>

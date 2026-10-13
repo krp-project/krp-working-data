@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0175.xml">
             <head type="dokument">
-               <title type="num">175.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">175.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0175_r-0001"/>[Dienstag] 1920-04-27</title>
@@ -281,12 +280,8 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0175_top01">Zu TOP 1</ref>: <ref target="#krp-0175_b01">Vortrag des Staatsamtes für Finanzen über Steuerbegünstigungen aus Anlass volkswirtschaftlich nützlicher Investitionen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0175_top01">Zu TOP 1</ref>: <ref target="#krp-0175_b02">Gesetzesvorlage der Staatsregierung über Steuerbegünstigungen aus Anlass volkswirtschaftlich nützlicher Investitionen mit Begründung</ref>
-                  </item>
+                  <item><ref target="#krp-0175_top01">Zu TOP 1</ref>: <ref target="#krp-0175_b01">Vortrag des Staatsamtes für Finanzen über Steuerbegünstigungen aus Anlass volkswirtschaftlich nützlicher Investitionen</ref></item>
+                  <item><ref target="#krp-0175_top01">Zu TOP 1</ref>: <ref target="#krp-0175_b02">Gesetzesvorlage der Staatsregierung über Steuerbegünstigungen aus Anlass volkswirtschaftlich nützlicher Investitionen mit Begründung</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -317,9 +312,7 @@
                   <p>Redner erläutert diese Bestimmung dahin, dass die Befreiung nicht das bereits ausgegebene Gesellschaftsvermögen erfasse, sondern nur die Möglichkeit geschaffen werde, aus der Bemessungsgrundlage für die Vermögensabgabe der Gesellschaften als solcher jene Teile neu zu emittierenden Gesell<pb facs="krp-0175_r-0007"/>schaftsvermögens auszuscheiden, welcher bei der Emission selbst en bloc vom Auslandskapital übernommen werde. Da die Befreiung nicht schon kraft Gesetzes eintrete, sondern in jedem einzelnen Falle vom Staatssekretär ausgesprochen werden müsse, seien alle Kautelen gegeben, dass einer missbräuchlichen Inanspruchnahme der Befreiung vorgebeugt werde. Das Gesetz werde überhaupt seine Wirksamkeit nur für die Zeit zwischen seinem Inkrafttreten und dem Stichtag für die Vermögensabgabe üben, weil nachher entstehende Vermögenschaften für die Unterwerfung unter die Vermögensabgabe überhaupt nicht mehr in Frage kommen.</p>
                   <p>In der anschließenden Debatte erteilt Staatssekretär Dr. Reisch Aufschlüsse auf verschiedene Einwürfe des <hi rend="#letterspaced">Vorsitzenden</hi>, des Staatssekretärs <hi rend="#letterspaced">Eldersch</hi>, des Vizekanzlers <hi rend="#letterspaced">Fink</hi> und des Unterstaatssekretärs Dr. <hi rend="#letterspaced">Eisler</hi>.</p>
                   <p>Der Kabinettsrat erteilt sodann die Ermächtigung zur Einbringung des Gesetzes in der vom Staatssekretär für Finanzen vorgeschlagenen Fassung in der Nationalversammlung.</p>
-                  <p>
-                     <pb facs="krp-0175_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0175_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0175_top03">
                   <head>
@@ -354,8 +347,7 @@
             <div type="stenogramme">
                <div n="1">
                   <head>[KRP 175, 27. April 1920, Stenogramm Groß]</head>
-                  <p>
-                     <pb facs="krp-0175_s01-0001"/>175. Sitzung, 27. April '20.</p>
+                  <p><pb facs="krp-0175_s01-0001"/>175. Sitzung, 27. April '20.</p>
                   <p>1.</p>
                   <p>Reisch: </p>
                   <p>Der 1. und 2. Entwurf wurden schon in der Budgetrede angekündigt. [Die Steuerbegünstigung] aus Anlass [volks]wirtschaftlich [wichtiger] Investitionen </p>
@@ -389,8 +381,7 @@
                   <p>Der § 1 soll eigentlich nur exempl[ifikativ] Kohlenbergbau und El[ektrizitätswerke] hervor [...]. § 2 </p>
                   <p>gestattet, dass die gleichen Begünstigungen auch anderen Unternehmungen zuerkannt werden können. Beide Anregungen sind durch § 2 gedeckt. </p>
                   <p>Man muss sich eine Prüfung vorbehalten, ob der Fall wirklich berücksichtigungswürdig ist. Was die Frage der Differenz des verlorenen Bauaufwandes </p>
-                  <p>
-                     <pb facs="krp-0175_s01-0002"/>anlangt, so ist er nicht das, was gegenüber Juli '14 mehr aufgewendet wird, sondern jenes, was [sich] gegenüber den </p>
+                  <p><pb facs="krp-0175_s01-0002"/>anlangt, so ist er nicht das, was gegenüber Juli '14 mehr aufgewendet wird, sondern jenes, was [sich] gegenüber den </p>
                   <p>künftigen Anschaffungskosten als zu viel aufgewendet herausstellt. Der Vergleich ist zu ziehen mit den Anlagekosten, </p>
                   <p>wie sie sich nach 6 oder 11 Jahren herausstellen. Das Unternehmen darf eine Überprüfung der Anlagekosten begehren </p>
                   <p>und was im Vergleich dazu zu viel aufgewendet wurde, darf steuerfrei abgeschrieben [werden]. Er darf nur erwarten, nicht mehr </p>
@@ -402,8 +393,7 @@
                   <p>Reisch: </p>
                   <p>Ich würde es volkswirtschaftlich [für] verfehlt halten, dass der Staat eine solche Unternehmung steuerfrei behandelt.</p>
                   <p>Zerdik: </p>
-                  <p>
-                     <hi rend="#s">In § 1 vor</hi> - Im letzten Paragraph: Einvernehmen mit dem Staatsamt für Handel.</p>
+                  <p><hi rend="#s">In § 1 vor</hi> - Im letzten Paragraph: Einvernehmen mit dem Staatsamt für Handel.</p>
                   <p>Renner: </p>
                   <p>Für das Unternehmen ist es anregend, wenn es schon genannt wird.</p>
                   <p>Reisch: </p>
@@ -413,18 +403,10 @@
                   <p>Wir könnten die Erdölgewinnung hineinsetzen.</p>
                   <p>Renner: </p>
                   <p>Das Gesetz soll eingebracht werden, infolgedessen lassen wir das Einvernehmen.</p>
-                  <p>
-                     <hi rend="#s">Fink: </hi>
-                  </p>
-                  <p>
-                     <hi rend="#s">Ich habe die Vorlage nicht hier. Mein Eindruck ist, ob nicht trotz allem Wunsch nach ausländischem Kapital </hi>
-                  </p>
-                  <p>
-                     <hi rend="#s">das inländische Kapital konk[urrenziert] wird und es nicht notwendig wäre, eine Möglichkeit zu schaffen, dass auch das inländische Kapital </hi>
-                  </p>
-                  <p>
-                     <hi rend="#s">begünstigt wird.</hi>
-                  </p>
+                  <p><hi rend="#s">Fink: </hi></p>
+                  <p><hi rend="#s">Ich habe die Vorlage nicht hier. Mein Eindruck ist, ob nicht trotz allem Wunsch nach ausländischem Kapital </hi></p>
+                  <p><hi rend="#s">das inländische Kapital konk[urrenziert] wird und es nicht notwendig wäre, eine Möglichkeit zu schaffen, dass auch das inländische Kapital </hi></p>
+                  <p><hi rend="#s">begünstigt wird.</hi></p>
                   <p>Genehmigt.</p>
                   <p>2.</p>
                   <p>Reisch: Diese Vorlage bezweckt nur die Klarstellung einer an sich nicht zweifelhaften Frage. Es ist wohl von vornherein </p>
@@ -437,14 +419,11 @@
                   <p>dass sich das ausländische Kapital nicht nach Österreich herein traut und wiederholt Verhandlungen, die geführt wurden, abgebrochen werden mussten, weil die Finanzverwaltung </p>
                   <p>nicht die Zusicherung geben kann, dass keine Vermögensabgabe erhoben wird. Durch diese Vorlage soll geklärt werden, dass das ausländische Kapital, welches </p>
                   <p>nach Inkrafttreten des Gesetzes Unternehmungen errichtet oder sich an bestehenden Unternehmungen beteiligt und bei Aktienkapital [...] </p>
-                  <p>
-                     <pb facs="krp-0175_s01-0003"/>neuen Aktien unternimmt, nicht der Vermögensabgabe [...] werden. Selbstverständlich ist nicht beabsichtigt, die Aktien, welche in ausländischen Besitz </p>
+                  <p><pb facs="krp-0175_s01-0003"/>neuen Aktien unternimmt, nicht der Vermögensabgabe [...] werden. Selbstverständlich ist nicht beabsichtigt, die Aktien, welche in ausländischen Besitz </p>
                   <p>durch freien Ankauf übergehen, anders zu befreien als nach den allgemeinen Bestimmungen über - des beweglichen Kapitals zu befreien. </p>
                   <p>Wenn das ausländische Kapital einen ganzen Block von Aktien übernimmt für die Aktiengesellschaft, dieser Teil des Aktienbesitzes </p>
                   <p>von der Vermögensabgabe befreit wird.</p>
-                  <p>
-                     <hi rend="#s">Genehmigt.</hi>
-                  </p>
+                  <p><hi rend="#s">Genehmigt.</hi></p>
                   <p>Eldersch: Wir wünschen die Beteiligung ausländischen Kapitals aber der § 5 treibt solche Unternehmungen </p>
                   <p>förmlich in die Hände des ausländischen Kapitals, weil dort für alle Zukunft die Befreiung zugesichert erscheint. Es wäre zweckmäßig, </p>
                   <p>wenn wir den Stichtag feststellen könnten. Das würde mehr zur Beruhigung des ausländischen Kapitals beitragen.</p>
@@ -479,8 +458,7 @@
                   <p>nicht das Unternehmen selbst. Der Mehrwert des Unternehmens bleibt abgabenpflichtig. Wenn das nicht der Fall ist, wäre Missbrauch schlimmster Art möglich.</p>
                   <p>Reisch: </p>
                   <p>Unternehmungen, welche nicht Aktiengesellschaften sind, unterliegen nicht der Vermögensabgabe, sondern nur deren Besitzer. Der inländische Besitzer </p>
-                  <p>
-                     <pb facs="krp-0175_s01-0004"/>wird also nicht ein Unternehmen, das 1 M. wert ist, um 25 Mill[ionen] verkaufen. Die Überprüfung des Richtwertes </p>
+                  <p><pb facs="krp-0175_s01-0004"/>wird also nicht ein Unternehmen, das 1 M. wert ist, um 25 Mill[ionen] verkaufen. Die Überprüfung des Richtwertes </p>
                   <p>bei [...] des Vermögens bleibt vorbehalten. Es wird geprüft. Es ist gleich, ob er das Vermögen im Inland hat </p>
                   <p>oder nicht. Natürlich kann ich nur versteuern, was ich erwische. Der Mann verkauft das Unternehmen heute auch schon um 1 Mill[ion].</p>
                   <p>Fink: </p>
@@ -516,8 +494,7 @@
                   <p>auf 120 M[illionen] erhöhen. Ich halte das für eine solche Belastung des Börsengeschäfts, dass wir ohne die Erfassung [...] </p>
                   <p>[…] höher nicht gehen können. Dabei verweise ich besonders darauf, dass die tsch[echoslowakische] Regierung, welche ein lebhaftes </p>
                   <p>Interesse an der Prager Börse hat, bislang mit der früheren Effektenumsatzsteuer [operierte] und will sie erst jetzt nach unserem bisherigen </p>
-                  <p>
-                     <pb facs="krp-0175_s01-0005"/>Muster [eine Erhöhung] vornehmen. Die bisherige Steuer von 60 Heller wird wahrscheinlich dort eingeführt werden. Die Prager Börse ist ein </p>
+                  <p><pb facs="krp-0175_s01-0005"/>Muster [eine Erhöhung] vornehmen. Die bisherige Steuer von 60 Heller wird wahrscheinlich dort eingeführt werden. Die Prager Börse ist ein </p>
                   <p>gefährlicher Konkurrent der Wiener Börse. Nachdem sich jedoch herausgestellt hat, dass zeitweise bei [einer] blühenden Hausseperiode </p>
                   <p>allerdings vielleicht eine höhere Steuer ertragen werden könnte, wenn man sich nur den jeweiligen Konjunkturen rasch anpassen kann, beantrage </p>
                   <p>ich die Ermächtigung, mit Vollzugsanweisung unter Umständen diese Steuer von 80 auf 120 Heller erhöhen [zu können], sie aber mit Abflauen </p>
@@ -554,15 +531,13 @@
                   <p>Kein Einwand, Justiz auch nicht, Verkehr desgleichen nicht, ebensowenig Landwirtschaft nicht.</p>
                   <p>M[iklas]: </p>
                   <p>Bezüglich der Höhe der Zuschläge zum Gebührenäquivalent habe ich Bedenken. [Es] steht aber im Einklang, </p>
-                  <p>
-                     <pb facs="krp-0175_s01-0006"/>[ich] kann daher nichts dagegen einwenden.</p>
+                  <p><pb facs="krp-0175_s01-0006"/>[ich] kann daher nichts dagegen einwenden.</p>
                   <p>Genehmigt.</p>
                   <p/>
                </div>
                <div n="2">
                   <head>[KRP 175, 27. April 1920, Stenogramm Fenz]</head>
-                  <p>
-                     <pb facs="krp-0175_s02-0001"/>175., 27. /IV. '20, 2 Uhr.</p>
+                  <p><pb facs="krp-0175_s02-0001"/>175., 27. /IV. '20, 2 Uhr.</p>
                   <p>a) [Reisch]: Steuerbegünstigungen.</p>
                   <p>Anlass: Ausbau der großen Mühl; </p>
                   <p>Investitionen bei der Graz-Köflacher Bahn, </p>
@@ -585,12 +560,9 @@
                   <p>leistet für alle neuen Steuern, die der Staat inzwischen einführt.</p>
                   <p>Zerdik: [Ich] bitte um die Aufnahme des Einvernehmens mit dem Staatsamt für Handel. [Ich] bitte um Aufnahme der Erdölgewinnung.</p>
                   <p>Renner: Von der Vollzugsklausel-Ergänzung bitte ich abzusehen.</p>
-                  <p>
-                     <hi rend="#s">Fink: Ich fürchte, dass die inländischen Unternehmungen etwas -.</hi>
-                  </p>
+                  <p><hi rend="#s">Fink: Ich fürchte, dass die inländischen Unternehmungen etwas -.</hi></p>
                   <p>Angenommen.</p>
-                  <p>
-                     <pb facs="krp-0175_s02-0002"/>b) [Reisch]: Befreiung von Neuanlagen ausländischen Kapitals von der großen Vermögensabgabe. </p>
+                  <p><pb facs="krp-0175_s02-0002"/>b) [Reisch]: Befreiung von Neuanlagen ausländischen Kapitals von der großen Vermögensabgabe. </p>
                   <p>Es ist nicht beabsichtigt, die Aktien, die ins Ausland durch freien Verkauf gelangen -.</p>
                   <p>Eldersch: Es ist zu befürchten, dass der § 5 unsere Unternehmungen in die Hände des fremden Kapitals treibt. </p>
                   <p>Zur Beruhigung würde mehr beitragen, wenn man den Stichtag schon jetzt festsetzt.</p>
@@ -609,17 +581,14 @@
                   <p>und dann mittels Vollzugsanweisung wieder auf 80 Heller herabzusetzen.</p>
                   <p>Miklas: Vielleicht wäre möglich 1 Krone und dafür dem Staatsamt für Finanzen die Ermächtigung [zu] erteilen, mittels Vollzugsanweisung </p>
                   <p>auf 80 Heller herabzusetzen und auf 120 hinaufzugehen.</p>
-                  <p>
-                     <pb facs="krp-0175_s02-0003"/>Reisch: Ich würde nicht anraten, über 80 Heller auch bei flauer Börse zu gehen. Es wäre gefährlich wegen der Abwanderung </p>
+                  <p><pb facs="krp-0175_s02-0003"/>Reisch: Ich würde nicht anraten, über 80 Heller auch bei flauer Börse zu gehen. Es wäre gefährlich wegen der Abwanderung </p>
                   <p>der Börsengeschäfte nach Prag, Preßburg etc.</p>
                   <p>Fink: Keine Änderung des Gesetzes. Das Staatsamt für Finanzen hätte die Verpflichtung zu übernehmen, jedes Mal bei Hinaufsetzung </p>
                   <p>und Herabsetzung das Kabinett zu verständigen.</p>
                   <p>Reisch: [Das] geschieht ohnedies, weil [eine] Vollzugsanweisung erforderlich [ist].</p>
                   <p>Angenommen.</p>
                   <p>d) [Reisch]: Gebühren.</p>
-                  <p>
-                     <hi rend="#s">Zuschlag zum Gebührenäquivalent -.</hi>
-                  </p>
+                  <p><hi rend="#s">Zuschlag zum Gebührenäquivalent -.</hi></p>
                   <p>Angenommen.</p>
                   <p>3.10</p>
                </div>

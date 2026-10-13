@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0097.xml">
             <head type="dokument">
-               <title type="num">97.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">97.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0097_r-0001"/>
@@ -282,39 +281,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0097_top01">Zu TOP 1</ref>: <ref target="#krp-0097_b01">Verzeichnis der erlassenen Vollzugsanweisungen Zl. 164/10-St.K./1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top03">Zu TOP 3</ref>: <ref target="#krp-0097_b02">Referat der Staatskanzlei für den Kabinettsrat über einen Bericht des Staatsamtes für Volksernährung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top04">Zu TOP 4</ref>: <ref target="#krp-0097_b03">Referat der Staatskanzlei über die Berichte der Kommission zur Erhebung militärischer Pflichtverletzungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top05">Zu TOP 5</ref>: <ref target="#krp-0097_b04">Präliminierung der Erfordernisse für die Kommission zur Erhebung militärischer Pflichtverletzungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top06">Zu TOP 6</ref>: <ref target="#krp-0097_b05">Gesetzesentwurf der Staatsregierung betreffend den Vorspann und die Einquartierung samt Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top07">Zu TOP 7</ref>: <ref target="#krp-0097_b06">Ansuchen des Arbeiterrates in Waidhofen an der Ybbs um Bewilligung einer Subvention</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top08">Zu TOP 8</ref>: <ref target="#krp-0097_b07">Bemerkungen des Staatsamtes für Finanzen über einen Gesetzesbeschluss des Oberösterreichischen Landtages über die Einführung einer Wertzuwachsabgabe von der Übertragung von Liegenschaften</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top09">Zu TOP 9</ref>: <ref target="#krp-0097_b08">Grundlegende Bestimmungen für die Mitwirkung der Arbeiterräte bei der Bekämpfung des Kriegswuchers und Schleichhandels in Wien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top10">Zu TOP 10</ref>: <ref target="#krp-0097_b09">Auszug des Staatsamtes für Inneres und Unterricht über den vom Niederösterreichischen Landtag beschlossenen Entwurf eines Gesetzes, betreffend die Ermächtigung der Gemeinde Wien zu einer Kreditoperation</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top11">Zu TOP 11</ref>: <ref target="#krp-0097_b10">Auszug des Staatsamtes für Inneres und Unterricht über den vom Salzburger Landtag beschlossenen Entwurf eines Gesetzes, betreffend die Einhebung einer Landesabgabe von den Eintrittsgebühren der Kinematographentheater</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0097_top13">Zu TOP 13</ref>: <ref target="#krp-0097_b11">Auszug der Hauptanstalt für Sachdemobilisierung</ref>
-                  </item>
+                  <item><ref target="#krp-0097_top01">Zu TOP 1</ref>: <ref target="#krp-0097_b01">Verzeichnis der erlassenen Vollzugsanweisungen Zl. 164/10-St.K./1919</ref></item>
+                  <item><ref target="#krp-0097_top03">Zu TOP 3</ref>: <ref target="#krp-0097_b02">Referat der Staatskanzlei für den Kabinettsrat über einen Bericht des Staatsamtes für Volksernährung</ref></item>
+                  <item><ref target="#krp-0097_top04">Zu TOP 4</ref>: <ref target="#krp-0097_b03">Referat der Staatskanzlei über die Berichte der Kommission zur Erhebung militärischer Pflichtverletzungen</ref></item>
+                  <item><ref target="#krp-0097_top05">Zu TOP 5</ref>: <ref target="#krp-0097_b04">Präliminierung der Erfordernisse für die Kommission zur Erhebung militärischer Pflichtverletzungen</ref></item>
+                  <item><ref target="#krp-0097_top06">Zu TOP 6</ref>: <ref target="#krp-0097_b05">Gesetzesentwurf der Staatsregierung betreffend den Vorspann und die Einquartierung samt Begründung</ref></item>
+                  <item><ref target="#krp-0097_top07">Zu TOP 7</ref>: <ref target="#krp-0097_b06">Ansuchen des Arbeiterrates in Waidhofen an der Ybbs um Bewilligung einer Subvention</ref></item>
+                  <item><ref target="#krp-0097_top08">Zu TOP 8</ref>: <ref target="#krp-0097_b07">Bemerkungen des Staatsamtes für Finanzen über einen Gesetzesbeschluss des Oberösterreichischen Landtages über die Einführung einer Wertzuwachsabgabe von der Übertragung von Liegenschaften</ref></item>
+                  <item><ref target="#krp-0097_top09">Zu TOP 9</ref>: <ref target="#krp-0097_b08">Grundlegende Bestimmungen für die Mitwirkung der Arbeiterräte bei der Bekämpfung des Kriegswuchers und Schleichhandels in Wien</ref></item>
+                  <item><ref target="#krp-0097_top10">Zu TOP 10</ref>: <ref target="#krp-0097_b09">Auszug des Staatsamtes für Inneres und Unterricht über den vom Niederösterreichischen Landtag beschlossenen Entwurf eines Gesetzes, betreffend die Ermächtigung der Gemeinde Wien zu einer Kreditoperation</ref></item>
+                  <item><ref target="#krp-0097_top11">Zu TOP 11</ref>: <ref target="#krp-0097_b10">Auszug des Staatsamtes für Inneres und Unterricht über den vom Salzburger Landtag beschlossenen Entwurf eines Gesetzes, betreffend die Einhebung einer Landesabgabe von den Eintrittsgebühren der Kinematographentheater</ref></item>
+                  <item><ref target="#krp-0097_top13">Zu TOP 13</ref>: <ref target="#krp-0097_b11">Auszug der Hauptanstalt für Sachdemobilisierung</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -358,8 +335,7 @@
                      </label>
                   </head>
                   <p>Der Vorsitzende teilt mit, dass die Kommission zur Erhebung militärischer Pflichtverletzungen drei Berichte über ihre bisherige Tätigkeit der Staatskanzlei übermittelt habe.</p>
-                  <p>
-                     <pb facs="krp-0097_r-0006"/>Der Vorsitzende beantrage, diese, dem vorliegenden Protokolle als Beilage A) angeschlossenen Berichte zur Kenntnis zu nehmen und sie gemäß § 8 des Gesetzes vom 19. Dezember 1918, StGBl. Nr. 132, mit der gleichfalls abschriftlich anverwahrten Begleitnote an das Präsidium der Nationalversammlung weiterzuleiten. </p>
+                  <p><pb facs="krp-0097_r-0006"/>Der Vorsitzende beantrage, diese, dem vorliegenden Protokolle als Beilage A) angeschlossenen Berichte zur Kenntnis zu nehmen und sie gemäß § 8 des Gesetzes vom 19. Dezember 1918, StGBl. Nr. 132, mit der gleichfalls abschriftlich anverwahrten Begleitnote an das Präsidium der Nationalversammlung weiterzuleiten. </p>
                </div>
                <div type="top" xml:id="krp-0097_top05">
                   <head>
@@ -404,13 +380,11 @@
                   <p>Sektionschef Dr. Grimm bringt zur Kenntnis, dass der Oberösterreichische Landtag in seiner Sitzung vom 15. Juli den Entwurf eines Gesetzes über die Einführung einer Wertzuwachsabgabe bei der Übertragung von Liegenschaften beschlossen habe.</p>
                   <p>Dieser Gesetzesbeschluss sei zwar in den Grundzügen auf dem vom Staatsamte für Finanzen unter Verwertung der ganzen bisherigen praktischen Erfahrungen ausgearbeiteten Musterentwurf aufgebaut, weiche aber in zahlreichen Belangen und zwar sowohl in sachlicher wie in stilistischer Beziehung von diesem Muster ab.</p>
                   <p>Diese Abweichungen erscheinen zum Großteil wenig glücklich. Besondere Bedenken rufen insbesondere folgende Bestimmungen hervor:</p>
-                  <p>
-                     <pb facs="krp-0097_r-0011"/>Der Gesetzesbeschluss soll nicht nur auf die nach seiner Kundmachung erfolgenden Übertragungen angewendet werden, sondern auch – allerdings unter Ausschluss der Haftung Erwerbers für die Abgabe – auf alle seit 1. Jänner 1915 erfolgten Übertragungen, also auf einen Zeitraum von beinahe fünf Jahren zurückwirken. Bestanden schon gegen einen ähnlichen Beschluss der Steiermärkischen Landesversammlung, der eine gleiche Rückwirkung bis auf den 1. Jänner 1917 in Aussicht nahm, gewichtige Bedenken, so verschärfen sich diese gegenüber einer noch viel längeren Rückwirkung außerordentlich. Schon dem steiermärkischen Beschlusse gegenüber musste betont werden, dass wenngleich eine derartige dem Wesen der Wertzuwachsabgabe allerdings widersprechende Rückwirkung nicht geradezu als unzulässig erscheine, eine Rückwirkung auf einen so langen Zeitraum doch sehr bedenklich sei, da ja in vielen Fällen, z. B. bei Notverkäufen von Realitäten oder im Falle einer Vermögenszersplitterung im Erbgange der Veräußerer, bzw. seine Rechtsnachfolger nicht mehr im Besitz der aus der Veräußerung stammenden Mittel und somit nur schwer zur Tragung <pb facs="krp-0097_r-0012"/>der Abgabe im Stande sein werden. Diese Bedenken, denen der Kabinettsrat in seiner Sitzung vom 20. Mai 1919 beigetreten sei, verschärfen sich selbstverständlich mit jeder weiteren Ausdehnung, der Rückwirkung außerordentlich.</p>
+                  <p><pb facs="krp-0097_r-0011"/>Der Gesetzesbeschluss soll nicht nur auf die nach seiner Kundmachung erfolgenden Übertragungen angewendet werden, sondern auch – allerdings unter Ausschluss der Haftung Erwerbers für die Abgabe – auf alle seit 1. Jänner 1915 erfolgten Übertragungen, also auf einen Zeitraum von beinahe fünf Jahren zurückwirken. Bestanden schon gegen einen ähnlichen Beschluss der Steiermärkischen Landesversammlung, der eine gleiche Rückwirkung bis auf den 1. Jänner 1917 in Aussicht nahm, gewichtige Bedenken, so verschärfen sich diese gegenüber einer noch viel längeren Rückwirkung außerordentlich. Schon dem steiermärkischen Beschlusse gegenüber musste betont werden, dass wenngleich eine derartige dem Wesen der Wertzuwachsabgabe allerdings widersprechende Rückwirkung nicht geradezu als unzulässig erscheine, eine Rückwirkung auf einen so langen Zeitraum doch sehr bedenklich sei, da ja in vielen Fällen, z. B. bei Notverkäufen von Realitäten oder im Falle einer Vermögenszersplitterung im Erbgange der Veräußerer, bzw. seine Rechtsnachfolger nicht mehr im Besitz der aus der Veräußerung stammenden Mittel und somit nur schwer zur Tragung <pb facs="krp-0097_r-0012"/>der Abgabe im Stande sein werden. Diese Bedenken, denen der Kabinettsrat in seiner Sitzung vom 20. Mai 1919 beigetreten sei, verschärfen sich selbstverständlich mit jeder weiteren Ausdehnung, der Rückwirkung außerordentlich.</p>
                   <p>Dazu komme noch die Rücksicht auf die staatlichen Gerichte und Steuerämter, die gewisse für die Bemessung, der Abgabe notwendige Anzeigen zu erstatten haben werden. Wenn sie diese Anzeigen nun auf einmal für einen Zeitraum von fünf Jahren nachträglich erstatten sollen, so ergebe sich daraus eine übergroße Mehrarbeit, der sie bei ihrer notorischen Überlastung kaum gewachsen sein werden.</p>
                   <p>Außerdem enthalten insbesondere zwei weitere Bestimmungen des Gesetzesbeschlusses bedenkliche Härten. Nach dem in den übrigen Ländern, die die Abgabe eingeführt haben, rezipierten Musterentwurf soll zur Feststellung des Wertzuwachses auf den Erwerbswert bei der letzten vorhergegangenen abgabepflichtigen oder aus dem Titel einer persönlichen oder sachlichen Befreiung, z. B. wegen der Geringfügigkeit des Wertzuwachses abgabenfreien Übertragung zurückgegangen werden. Diese Bestimmung <pb facs="krp-0097_r-0013"/>werde im vorliegenden Fall dahin abgeändert, dass immer auf die letzte abgabepflichtige Übertragung zurückzugreifen ist, während abgabefreie vorausgegangene Übertragungen außer Betracht bleiben sollen. Das führe nun dazu, dass, wenn z. B. eine Liegenschaft zunächst wiederholt abgabefrei übertragen worden ist, der erste Veräußerer, der sie abgabepflichtig weiter überträgt, die Abgabe nicht nur für den während seiner Besitzdauer erzielten Wertzuwachs, sondern für den während der Besitzdauer aller seiner Vorgänger, die die Liegenschaft abgabefrei übertragen haben, erzielten Wertzuwachs tragen müsse. Das bedeute aber eine ganz unzulässige Härte. Recht bedenklich erscheine wohl auch, insbesondere im Hinblick auf die Höhe der Schenkungsgebühren der Umstand, dass die im Musterentwurf vorgesehene Befreiung der Schenkungen unter Lebenden im vorliegenden Gesetzesbeschluss nicht aufgenommen erscheint.</p>
                   <p>Außer diesen Mängeln leide der Gesetzesbeschluss noch an zahlreichen kleineren Mängeln, weise manche Lücken und vereinzelte Widersprüche auf, die größere Schwierigkeiten bei seiner Handhabung befürchten lassen.</p>
-                  <p>
-                     <pb facs="krp-0097_r-0014"/>Das Staatsamt für Finanzen stelle daher den Antrag, im Sinne des Art. 14 Abs. l des Gesetzes von 14. März 1919, StGBl. Nr. 179, gegen den Gesetzesbeschluss Vorstellung zu erheben, im Sinne des Abs. 4 desselben Artikels die nach § 28 des Gesetzesbeschlusses erforderliche Gegenzeichnung nicht vorzunehmen und den Staatssekretär für Finanzen zu ermächtigen, die Landesversammlung hievon im Wege der Landesregierung unter Bekanntgabe der Gründe zu verständigen.</p>
+                  <p><pb facs="krp-0097_r-0014"/>Das Staatsamt für Finanzen stelle daher den Antrag, im Sinne des Art. 14 Abs. l des Gesetzes von 14. März 1919, StGBl. Nr. 179, gegen den Gesetzesbeschluss Vorstellung zu erheben, im Sinne des Abs. 4 desselben Artikels die nach § 28 des Gesetzesbeschlusses erforderliche Gegenzeichnung nicht vorzunehmen und den Staatssekretär für Finanzen zu ermächtigen, die Landesversammlung hievon im Wege der Landesregierung unter Bekanntgabe der Gründe zu verständigen.</p>
                   <p>Der Kabinettsrat erhebt diesen Antrag zum Beschluss.</p>
                </div>
                <div type="top" xml:id="krp-0097_top09">
@@ -473,11 +447,8 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0097_a01-0001"/>Streng geheimer Anhang zum Kabinettsprotokoll Nr. 97 vom 12. August 1919.</p>
-               <p>
-                  <pb facs="krp-0097_a01-0002"/>
-               </p>
+               <p><pb facs="krp-0097_a01-0001"/>Streng geheimer Anhang zum Kabinettsprotokoll Nr. 97 vom 12. August 1919.</p>
+               <p><pb facs="krp-0097_a01-0002"/></p>
                <div n="1">
                   <head>Stellungnahme der Invaliden in Schönbrunn gegen die Weiterbenützung der Wohnung des Staatssekretär[s] Ing. Zerdik im Fürstenstöckel.</head>
                   <div type="a01_protokoll">
@@ -492,8 +463,7 @@
                   <div type="a02_protokoll">
                      <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> weist auf die Möglichkeit hin, dass die deutschen Gebiete Westungarns binnen kurzem von rumänischen Truppen besetzt werden könnten. Da eine solche Besetzung unseren Interessen höchst abträglich wäre und auch eine nachteilige Rückwirkung auf die in diesen Gebieten gegenwärtig für uns günstige Stimmung der Bevölkerung ausüben könnte, so halte er es im Einvernehmen mit dem Staatssekretär für Heerwesen für geboten, unverzüglich der Frage näher zu treten, ob nicht im Sinne der Resolution des Hauptausschusses der Nationalversammlung deutschöster<pb facs="krp-0097_a01-0004"/>reichischerseits dieser Gefahr durch eine Besetzung vorzubeugen wäre. Es sei auch bereits an den Staatskanzler herangetreten worden, um ein Mandat oder wenigstens die stillschweigende Zustimmung der Entente zu einer deutschösterreichischen Besetzung Westungarns zu erlangen. Im Interesse einer Beschleunigung dieser äußerst dringlichen Aktion sei auch mit dem Staatsamte für Äußeres Fühlung genommen worden, damit im Gegenstande von dieser Stelle aus an die Ententemissionen in Wien herangetreten werde. Bei der ganzen Frage müsse allerdings mit der Gefahr eines Konfliktes mit Rumänien immerhin gerechnet werden.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> weist auf die ganz außerordentliche Dringlichkeit dieser Maßnahme hin und betont, dass ein Unterlassen der Besetzung im gegenwärtigen Augenblicke leicht ein historisches Versäumnis beinhalten könnte. Der sprechende Staatssekretär fügt bei, dass alle Vorbereitungen für eine solche Besetzung, welche nicht so sehr den Charakter einer militärischen Aktion als vielmehr einer Sicherungsmaßnahme unter vornehmlicher Verwendung von Gendarmerie tragen würde, bereits getroffen seien.</p>
-                     <p>
-                        <pb facs="krp-0097_a01-0005"/>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> schlägt vor, den Ententemissionen in Wien und gleichzeitig der Friedensdelegation in St. Germain mitzuteilen, dass der Kabinettsrat am heutigen Tage beschlossen habe, angesichts der drohenden Gefahren nach Ablauf von 48 Stunden die uns im Friedensvertrage zugesprochenen Gebiete Westungarns zu besetzen. Sollte binnen der erwähnten Frist seitens der Entente keine Einwendung erhoben werden, so würde unsererseits die Zustimmung als gegeben betrachtet werden.</p>
+                     <p><pb facs="krp-0097_a01-0005"/>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> schlägt vor, den Ententemissionen in Wien und gleichzeitig der Friedensdelegation in St. Germain mitzuteilen, dass der Kabinettsrat am heutigen Tage beschlossen habe, angesichts der drohenden Gefahren nach Ablauf von 48 Stunden die uns im Friedensvertrage zugesprochenen Gebiete Westungarns zu besetzen. Sollte binnen der erwähnten Frist seitens der Entente keine Einwendung erhoben werden, so würde unsererseits die Zustimmung als gegeben betrachtet werden.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> erhebt gegen diesen Vorgang Bedenken, da ein solcher Schritt einem Ultimatum gleichkäme, und empfiehlt vielmehr, vorerst die Zustimmung der Entente abzuwarten.</p>
                      <p>Nachdem Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> dieser Auffassung beigepflichtet hatte, beschließt der Kabinettsrat, dass am morgigen Tage mit den Ententemissionen in Wien in entsprechende Verbindung getreten werde.</p>
                      <p/>

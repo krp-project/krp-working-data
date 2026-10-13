@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -280,27 +280,13 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0171_top03">Zu TOP 3</ref>: <ref target="#krp-0171_b01">Heeresgebührengesetz mit Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0171_top07">Zu TOP 7</ref>: <ref target="#krp-0171_b02">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 6804- Abt. 9 über den Beschluss der Steiermärkischen Landesversammlung zur Abänderung des Gesetzes über das Diensteinkommen der Volks- und Bürgerschullehrer, ihre Ruhestandsversetzung und die Hinterbliebenenversorgung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0171_top08">Zu TOP 8</ref>: <ref target="#krp-0171_b03">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 6489- Abt. 9 über den Beschluss der Salzburger Landesversammlung zur Abänderung des Gesetzes über die Errichtung, Erhaltung und den Besuch der Volksschulen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0171_top09">Zu TOP 9</ref>: <ref target="#krp-0171_b04">Vortrag des Unterrichtsamtes zu Zl. 24.767/1919 über die Einführung von Titeln für verdiente Lehrkräfte der Volks-, Bürger- und Mittelschulen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0171_top11">Zu TOP 11</ref>: <ref target="#krp-0171_b05">Vortrag des Staatsamtes für Finanzen über die Erlassung von Zahlungs- und Ausnahmeverboten mit Gesetz und Vollzugsanweisung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0171_top12">Zu TOP 12</ref>: <ref target="#krp-0171_b06">Vortrag des Staatsamtes für soziale Verwaltung über die Bewilligung eines Kredits von 3 Millionen K zur Fortführung der Aktion zur Bekämpfung der Wohnungsnot</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0171_top14">Zu TOP 14</ref>: <ref target="#krp-0171_b07">Beilage betreffend Vortrag des Staatsamtes für Inneres und Unterricht über die Anpassung der Amtstitel der im Bereich der ehem. Statthaltereien in Verwendung stehenden juridisch administrativen Beamten wegen der Übernahme der Staatsgewalt in den Ländern</ref>
-                  </item>
+                  <item><ref target="#krp-0171_top03">Zu TOP 3</ref>: <ref target="#krp-0171_b01">Heeresgebührengesetz mit Begründung</ref></item>
+                  <item><ref target="#krp-0171_top07">Zu TOP 7</ref>: <ref target="#krp-0171_b02">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 6804- Abt. 9 über den Beschluss der Steiermärkischen Landesversammlung zur Abänderung des Gesetzes über das Diensteinkommen der Volks- und Bürgerschullehrer, ihre Ruhestandsversetzung und die Hinterbliebenenversorgung</ref></item>
+                  <item><ref target="#krp-0171_top08">Zu TOP 8</ref>: <ref target="#krp-0171_b03">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 6489- Abt. 9 über den Beschluss der Salzburger Landesversammlung zur Abänderung des Gesetzes über die Errichtung, Erhaltung und den Besuch der Volksschulen</ref></item>
+                  <item><ref target="#krp-0171_top09">Zu TOP 9</ref>: <ref target="#krp-0171_b04">Vortrag des Unterrichtsamtes zu Zl. 24.767/1919 über die Einführung von Titeln für verdiente Lehrkräfte der Volks-, Bürger- und Mittelschulen</ref></item>
+                  <item><ref target="#krp-0171_top11">Zu TOP 11</ref>: <ref target="#krp-0171_b05">Vortrag des Staatsamtes für Finanzen über die Erlassung von Zahlungs- und Ausnahmeverboten mit Gesetz und Vollzugsanweisung</ref></item>
+                  <item><ref target="#krp-0171_top12">Zu TOP 12</ref>: <ref target="#krp-0171_b06">Vortrag des Staatsamtes für soziale Verwaltung über die Bewilligung eines Kredits von 3 Millionen K zur Fortführung der Aktion zur Bekämpfung der Wohnungsnot</ref></item>
+                  <item><ref target="#krp-0171_top14">Zu TOP 14</ref>: <ref target="#krp-0171_b07">Beilage betreffend Vortrag des Staatsamtes für Inneres und Unterricht über die Anpassung der Amtstitel der im Bereich der ehem. Statthaltereien in Verwendung stehenden juridisch administrativen Beamten wegen der Übernahme der Staatsgewalt in den Ländern</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -316,8 +302,7 @@
                   <p>Bezüglich des Ergebnisses der Verhandlungen und der anknüpfend daran zu unternehmenden Schritte der einzelnen Ressorts zur Bereinigung der zwischen <pb facs="krp-0171_r-0005"/>Österreich und Italien schwebenden Fragen nimmt der Vorsitzende auf den allen Kabinettsmitgliedern zugehenden schriftlichen Bericht Bezug.</p>
                   <p>Der Vorsitzende bemerkt weiters, dass er die Anwesenheit in Rom auch zu einem Höflichkeitsbesuch beim Vatikan benützt habe. Meritorische Verhandlungen mit der Kurie haben jedoch nicht stattgefunden, es sei nur das gegenseitige Einverständnis festgestellt worden, mit möglichster Raschheit die normalen diplomatischen Vertretungsbehörden wiederaufzurichten, unter deren Vermittlung die verschiedenen, der Lösung harrenden staatskirchenrechtlichen Fragen auszutragen sein werden. Redner richtet hiebei an Unterstaatssekretär Miklas die Einladung, durch Fühlungnahme mit den kirchlichen Kreisen des Inlandes die Unterlagen für die Verhandlungen zu schaffen und entsprechende Anträge für die Beschlussfassung im Kabinettsrate vorzubereiten.</p>
                   <p>Am Schlusse seiner Ausführungen bittet der Vorsitzende, der Kabinettsrat wolle den Bericht zur Kenntnis nehmen und die nachträgliche Indemnität dafür erteilen, dass die Reise ohne vorherigen formellen Beschluss der Regierung unternommen wurde.</p>
-                  <p>
-                     <pb facs="krp-0171_r-0006"/>Vizekanzler <hi rend="#letterspaced">Fink</hi> gibt namens seiner Parteigenossen folgende Erklärung zu Protokoll:</p>
+                  <p><pb facs="krp-0171_r-0006"/>Vizekanzler <hi rend="#letterspaced">Fink</hi> gibt namens seiner Parteigenossen folgende Erklärung zu Protokoll:</p>
                   <p>„Die christlichsozialen Mitglieder des Kabinetts stellen mit Befremden fest, dass über die Beschickung der Reise des Staatskanzlers und einiger Staatssekretäre nach Rom sowie über die Auswahl der Teilnehmer an dieser Reise weder mit ihnen noch mit der Leitung ihrer parlamentarischen Vereinigung noch im Wege des Exekutivkomitees der Koalition verhandelt worden ist.</p>
                   <p>Diese bedauerliche Tatsache macht es den christlichsozialen Kabinettsmitgliedern unmöglich, die volle Mitverantwortung für die Begleitumstände dieser Reise und ihre Auswirkungen zu tragen. Sie müssen daher darauf bestehen, dass in Hinkunft vor ähnlichen Schritten der Staatskanzler mit ihnen und ihrer Partei ein solches Einvernehmen pflege, dass sie vor Überraschungen in Inhalt und Form der mit auswärtigen Mächten zu führenden Verhandlungen gesichert erscheinen.“</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> stellt zur Vermeidung von Missverständnissen fest, dass von dem Bevorstehen der Reise nach Rom auch die sozialdemokratischen Mitglieder des Kabinettes wie die Partei als solche nicht verstän<pb facs="krp-0171_r-0007"/>digt worden seien. Eine Ungleichheit in der Behandlung der beiden Koalitionsparteien liege also nicht vor.</p>
@@ -340,8 +325,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> bespricht die Rückwirkungen der Eisenbahnerbewegung auf die Lebensmittelversorgung. Da durch den Streik auf der Südbahn bei uns sowohl wie in Jugoslawien die bei der italienischen Regierung erwirkte Lebensmittelaushilfe von 20.000 t nicht herangebracht werden könne, werde sich, wenn der Ausstand einige Tage anhalten oder gar auf die übrigen Linien übergreifen sollte, die Ernährungslage katastrophal gestalten. Nach dem derzeitigen Versorgungsstand sei für die nächste Woche nicht einmal die Brotquote gesichert, Mehl werde voraussichtlich überhaupt nicht ausgegeben werden können. Der sprechende Staatssekretär müsse jede Verantwortung für den drohenden Zusammenbruch des Ernährungswesens ablehnen und gedenke in einem Kommuniqué darzustellen, welche Rückwirkungen der Eisenbahnerstreik in dieser Hinsicht übt.</p>
                   <p>Über die Mitteilung des Vorsitzenden, dass Vertreter der Südbahnbediensteten aus Wiener Neustadt vorzusprechen wünschen, ladet der Kabinettsrat den Vor<pb facs="krp-0171_r-0013"/>sitzenden ein, gemeinsam mit den Staatssekretären Hanusch, Dr. Loewenfeld-Russ und Paul die Abordnung anzuhören, um zu trachten, dass auf Grundlage der den Staatsbahnbediensteten gemachten Zugeständnisse auch auf der Südbahn der Verkehr oder mindestens die Lebensmitteltransporte wieder aufgenommen werden. Die Verhandlung des Gegenstandes wird für die Dauer dieser Besprechung ausgesetzt und inzwischen unter Vorsitz des Vizekanzlers Fink an die Erledigung der folgenden Punkte geschritten.</p>
                   <p>Nach Rückkehr in die Sitzung teilt der <hi rend="#letterspaced">Vorsitzende</hi> mit, der Ausstand in Wiener Neustadt sei dadurch ausgelöst worden, dass infolge der unzweckmäßigen Verrechnungsmodalitäten der Südbahn bei der letzten Auszahlung nach dem Vorgange bei den Staatsbahnen zwar der Abzug aller Vorschüsse, die Berechnung der Bezüge jedoch noch nach den alten Ansätzen erfolgte, sodass das Personal geringere Beträge als vordem erhielt. Bei der Besprechung hätten sich schließlich die Vertreter der Angestellten bereit erklärt, ihren Auftraggebern gegen nachstehende Zusicherungen die Wiederaufnahme des Betriebes zu empfehlen:</p>
-                  <p>
-                     <pb facs="krp-0171_r-0014"/>Sämtliche Eisenbahnbedienstete erhalten ohne Rücksicht auf die Höhe ihres Monatsbezuges einen Vorschuss von 400 K, wobei die Frage der Rückzahlung einer späteren Regelung vorbehalten wird. Das Verrechnungswesen der Südbahn wird im Verein mit dem Staatsamt für Verkehrswesen und der Gesellschaft durch sachkundige Personen sogleich einer Überprüfung unterzogen, um eine möglichst rasche Durchrechnung der neuen Gebühren zu bewirken. Die Durchrechnung hat in Wiener Neustadt zu beginnen und ist derart zu beschleunigen, dass die Nachzahlungen noch vor dem 1. Mai erfolgen können.</p>
+                  <p><pb facs="krp-0171_r-0014"/>Sämtliche Eisenbahnbedienstete erhalten ohne Rücksicht auf die Höhe ihres Monatsbezuges einen Vorschuss von 400 K, wobei die Frage der Rückzahlung einer späteren Regelung vorbehalten wird. Das Verrechnungswesen der Südbahn wird im Verein mit dem Staatsamt für Verkehrswesen und der Gesellschaft durch sachkundige Personen sogleich einer Überprüfung unterzogen, um eine möglichst rasche Durchrechnung der neuen Gebühren zu bewirken. Die Durchrechnung hat in Wiener Neustadt zu beginnen und ist derart zu beschleunigen, dass die Nachzahlungen noch vor dem 1. Mai erfolgen können.</p>
                   <p>Nach dem Antrage des Vorsitzenden erteilt der Kabinettsrat dem Staatssekretär für Verkehrswesen die Ermächtigung, die nach dem Ergebnisse der Besprechungen notwendigen weiteren Maßnahmen zu treffen.</p>
                </div>
                <div type="top" xml:id="krp-0171_top03">
@@ -353,19 +337,16 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> berichtet anknüpfend an die Verhandlungen des Kabinettsrates in der Sitzung vom 13. April l. J., dass die vom Staatssekretär Dr. Reisch gestellten <pb facs="krp-0171_r-0015"/>Abänderungsanträge zum Gesetzentwurf, betreffend die Gebühren der österreichischen Wehrmacht (Heeresgebührengesetz) in folgender Fassung in die Vorlage aufgenommen wurden:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> § 2 Abs. 4)</item>
+                     <item n="1"><label>1.)</label> § 2 Abs. 4)</item>
                   </list>
                   <p>„Die Teuerungszulage (§ 5) und die gleitende Zulage (§ 6) dienen in erster Linie zur etwa erforderlichen Ergänzung des Kostgeldes.</p>
                   <p>Ersparungen an Kostgeld in der Naturalwirtschaft sind Eigentum der an der Naturalverköstigung teilnehmenden Wehrmänner.“</p>
                   <list>
-                     <item n="1">
-                        <label>2.)</label> § 11 a und § 13 Abs. 2:</item>
+                     <item n="1"><label>2.)</label> § 11 a und § 13 Abs. 2:</item>
                   </list>
                   <p>„Sonstige besondere Gebühren, dann Gebühren aus besonderen Anlässen, usw., die sich aus der Eigentümlichkeit des Militärdienstes ergeben, sind erstmalig durch Gesetz zu regeln. Änderungen in den Gebührensätzen sind der Staatsregierung vorzubehalten.“</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Der § 14:</item>
+                     <item n="1"><label>3.)</label> Der § 14:</item>
                   </list>
                   <p>„Die Bestimmungen über die den Wehrmännern nach den §§ 1–5 zukommenden Gebühren sind bei Änderungen in den Gesamtbezügen der Zivilstaatsdienerschaft durch die Staatsregierung in entsprechender Weise zu ändern.“</p>
                   <p>Redner bemerkt, dass nach seiner Meinung der ursprüngliche Wortlaut des <pb facs="krp-0171_r-0016"/>§ 14 die Rückwirkung einer künftigen Neuregelung der Bezüge der Staatsdienerschaft auf die Gebühren der Wehrmänner klarer umschreibe, als die vom Staatsamte für Finanzen vorgeschlagene Fassung und daher von einer Änderung dieses Paragrafen abgesehen werden sollte.</p>
@@ -432,20 +413,15 @@
                   </head>
                   <p>Unterstaatssekretär Glöckel stellt unter eingehender Begründung den Antrag, der Kabinettsrat wolle als Auszeichnung für verdiente Lehrkräfte an Volks- und Bürgerschulen die Einführung folgender Titel beschließen:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> des Titels „Oberlehrer“ an verdiente Lehrkräfte an mehrklassigen Volksschulen während der Aktivität und anlässlich ihrer Pensionierung;</item>
-                     <item n="2">
-                        <label>2.)</label> des Titels „Bürgerschuldirektor“ an verdiente Bürgerschullehrkräfte wäh<pb facs="krp-0171_r-0022"/>rend der Aktivität und anlässlich ihrer Pensionierung;</item>
-                     <item n="3">
-                        <label>3.)</label> des Titels „Oberlehrer“ an verdiente Leiter einklassiger Schulen während der Aktivität und anlässlich ihrer Pensionierung;</item>
-                     <item n="4">
-                        <label>4.)</label> des Titels „Schulrat“ an verdiente Leiter von Bürgerschulen anlässlich ihrer Pensionierung.</item>
+                     <item n="1"><label>1.)</label> des Titels „Oberlehrer“ an verdiente Lehrkräfte an mehrklassigen Volksschulen während der Aktivität und anlässlich ihrer Pensionierung;</item>
+                     <item n="2"><label>2.)</label> des Titels „Bürgerschuldirektor“ an verdiente Bürgerschullehrkräfte wäh<pb facs="krp-0171_r-0022"/>rend der Aktivität und anlässlich ihrer Pensionierung;</item>
+                     <item n="3"><label>3.)</label> des Titels „Oberlehrer“ an verdiente Leiter einklassiger Schulen während der Aktivität und anlässlich ihrer Pensionierung;</item>
+                     <item n="4"><label>4.)</label> des Titels „Schulrat“ an verdiente Leiter von Bürgerschulen anlässlich ihrer Pensionierung.</item>
                   </list>
                   <p>Das Recht zur Verleihung dieser Titel soll durch Einholung einer generellen Ermächtigung beim Präsidenten der Nationalversammlung für den Staatssekretär für Inneres und Unterricht erbeten werden.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> besorgt, dass die Verleihung des Titels eines Bürgerschuldirektors den damit bekleideten Lehrkräften Anlass bieten könnte, den Anspruch auf die einem Bürgerschuldirektor zukommenden Bezüge abzuleiten.</p>
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> macht geltend, dass die gleichen Rücksichten, welche für die Einführung von Titeln als Auszeichnung für die Lehrkräfte an Volks- und Bürgerschulen bestehen, in gleicher Weise bezüglich der Lehrkräfte an den Mittelschulen vorwalten, und ersucht, auch für diese eine entsprechende Regelung zu treffen.</p>
-                  <p>
-                     <pb facs="krp-0171_r-0023"/>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> erklärt, um den Bedenken des Staatssekretärs Dr. Reisch Rechnung zu tragen, in jedes Verleihungsdekret den ausdrücklichen Vorbehalt aufnehmen zu wollen, dass mit der Verleihung des Titels keinerlei Anspruch auf Änderung in den Bezügen verbunden sei.</p>
+                  <p><pb facs="krp-0171_r-0023"/>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> erklärt, um den Bedenken des Staatssekretärs Dr. Reisch Rechnung zu tragen, in jedes Verleihungsdekret den ausdrücklichen Vorbehalt aufnehmen zu wollen, dass mit der Verleihung des Titels keinerlei Anspruch auf Änderung in den Bezügen verbunden sei.</p>
                   <p>Zu den Ausführungen des Unterstaatssekretärs Miklas bemerkt Redner, dass die Frage der Neuregelung der Titel für verdiente Mittel- und Hochschullehrer bereits in Behandlung stehe und darüber dem Kabinettsrate in der nächsten Zeit ein Antrag zugehen werde.</p>
                   <p>Der Kabinettsrat beschließt sohin im Sinne des von Unterstaatssekretär Glöckel gestellten Antrages.</p>
                </div>
@@ -495,9 +471,7 @@
                      </label>
                   </head>
                   <p>Nach dem Antrage des Staatssekretärs Ing. <hi rend="#letterspaced">Zerdik</hi> genehmigt der Kabinettsrat die Beschlüsse des Niederösterreichischen Landtages vom 4. und vom 17. Dezember 1919, durch welche 58 bzw. 8 Bezirksstraßenausschüssen die Einhebung von 30 % der Gesamtsumme der direkten Steuern ihres Bezirkes übersteigenden Bezirksstraßenumlagen für das Jahr 1919 bewilligt wurde.</p>
-                  <p>
-                     <pb facs="krp-0171_r-0029"/>
-                  </p>
+                  <p><pb facs="krp-0171_r-0029"/></p>
                </div>
                <div type="top" xml:id="krp-0171_top14">
                   <head>
@@ -537,8 +511,7 @@
                      </label>
                   </head>
                   <p>Der Vorsitzende bringt dem Kabinettsrate zur Kenntnis, dass in Angelegenheit des Gesetzesbeschlusses des Landtages in Salzburg vom 14. Februar 1920, betreffend die Anforderung <pb facs="krp-0171_r-0032"/>von Holzvorräten, gegen den in der Kabinettssitzung vom 19. März l. J. die Einbringung der Anfechtungsklage beim Verfassungsgerichtshof und gleichzeitig die Erhebung der Vorstellung beschlossen worden war, Vergleichsverhandlungen zwischen Vertretern der Staatsregierung und der Salzburger Landesregierung stattgefunden haben. Bei diesen stellte sich heraus, dass dem mit dem angefochtenen Gesetzesbeschluss vom Landtage verfolgten Zweck ohne Schädigung der Staatsinteressen durch eine Ergänzung des Gesetzes vom 4. April 1919 über die Einrichtung von Einigungsämtern für Streitigkeiten aus bestimmten Lieferungsverträgen, StGBl. Nr. 220, Rechnung getragen werden könne. Nach den Erklärungen des Landeshauptmannstellvertreters Dr. Rehrl handelte es sich nämlich dem Lande mit dem Gesetzesbeschlusse darum, wirtschaftlich besonders schwache Waldbesitzer und kleine Holzhändler vor den Konsequenzen jener bisher noch nicht effektuierten Holzlieferungs- und Holzabstockungsverträge zu schützen, die sie in den ersten Kriegsjahren mit Holzspekulanten unter Bedingungen abgeschlossen haben, die sich bei der folgenden Gestaltung der wirtschaftlichen Lage dermalen als geradezu ruinös darstellen.</p>
-                  <p>
-                     <pb facs="krp-0171_r-0033"/>Die Vertreter der beteiligten Staatsämter hätten, um diesem Wunsche der Vertreter des Landes entgegenzukommen, die Erlassung einer auf das wirtschaftliche Ermächtigungsgesetz zu basierenden Vollzugsanweisung in Aussicht gestellt, durch welche die Bestimmungen des vorzitierten Gesetzes in folgenden Punkten ausgestaltet werden: Die Kompetenz des Einigungsamtes gemäß § 1 des Gesetzes solle nicht bloß bei Streitigkeiten aus Lieferungsverträgen im engeren Sinne, sondern auch bei Streitigkeiten aus Holzabstockungsverträgen begründet werden. In die zur Entscheidung über die fraglichen Holzgeschäfte berufenen Einigungsämter solle in Ergänzung des § 5 des Gesetzes ein auf Vorschlag der landwirtschaftlichen Hauptkorporationen des Landes vom Staatssekretär für Land- und Forstwirtschaft im Einvernehmen mit dem Staatssekretär für Justiz zu bestellender Beisitzer berufen werden. Ein derartiges Einigungsamt soll unverzüglich in Salzburg ins Leben gerufen werden.</p>
+                  <p><pb facs="krp-0171_r-0033"/>Die Vertreter der beteiligten Staatsämter hätten, um diesem Wunsche der Vertreter des Landes entgegenzukommen, die Erlassung einer auf das wirtschaftliche Ermächtigungsgesetz zu basierenden Vollzugsanweisung in Aussicht gestellt, durch welche die Bestimmungen des vorzitierten Gesetzes in folgenden Punkten ausgestaltet werden: Die Kompetenz des Einigungsamtes gemäß § 1 des Gesetzes solle nicht bloß bei Streitigkeiten aus Lieferungsverträgen im engeren Sinne, sondern auch bei Streitigkeiten aus Holzabstockungsverträgen begründet werden. In die zur Entscheidung über die fraglichen Holzgeschäfte berufenen Einigungsämter solle in Ergänzung des § 5 des Gesetzes ein auf Vorschlag der landwirtschaftlichen Hauptkorporationen des Landes vom Staatssekretär für Land- und Forstwirtschaft im Einvernehmen mit dem Staatssekretär für Justiz zu bestellender Beisitzer berufen werden. Ein derartiges Einigungsamt soll unverzüglich in Salzburg ins Leben gerufen werden.</p>
                   <p>Die Vertreter des Landes Salzburg verpflichteten sich, unter der Voraussetzung der Erlassung einer solchen Vollzugsanweisung durch die Staatsregierung beim Landtage die Stattgebung der Vor<pb facs="krp-0171_r-0034"/>stellung und den Widerruf des angefochtenen Gesetzesbeschlusses zu beantragen. Dagegen verpflichteten sich die Vertreter der Staatsregierung, die Anfechtung beim Verfassungsgerichtshofe zurückzuziehen.</p>
                   <p>Aufgrund der vom Kabinettsrate am 19. März 1920 bedingungsweise erteilten Ermächtigung habe die Staatskanzlei sohin beim Verfassungsgerichtshofe die Anfechtungsklage zurückgezogen.</p>
                   <p>Nach dem Antrage Redners nimmt der Kabinettsrat den mit den Vertretern des Landes Salzburg geschlossenen Ausgleich zur Kenntnis und erteilt zu der erfolgten Zurückziehung der Anfechtungsklage beim Verfassungsgerichtshof nachträglich die Genehmigung.</p>

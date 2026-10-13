@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0115.xml">
             <head type="dokument">
-               <title type="num">115.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">115.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0115_r-0001"/>[Samstag] 1919-10-18</title>
@@ -281,12 +280,8 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0115_top01">Zu TOP 1</ref>: <ref target="#krp-0115_b01">Geschäftsordnung für den Kabinettsrat</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0115_top01">Zu TOP 1</ref>: <ref target="#krp-0115_b02">Dienstanweisung über die Stellung der Unterstaatssekretäre</ref>
-                  </item>
+                  <item><ref target="#krp-0115_top01">Zu TOP 1</ref>: <ref target="#krp-0115_b01">Geschäftsordnung für den Kabinettsrat</ref></item>
+                  <item><ref target="#krp-0115_top01">Zu TOP 1</ref>: <ref target="#krp-0115_b02">Dienstanweisung über die Stellung der Unterstaatssekretäre</ref></item>
                </list>
             </div>
             <div type="protokoll">

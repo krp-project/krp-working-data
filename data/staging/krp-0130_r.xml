@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0130.xml">
             <head type="dokument">
-               <title type="num">130.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">130.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0130_r-0001"/>[Montag] 1919-12-15</title>
@@ -281,21 +280,11 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0130_top01">Zu TOP 1</ref>: <ref target="#krp-0130_b01">Verzeichnis der auf Grundlage des Kriegswirtschaftlichen Ermächtigungsgesetzes erlassenen Vollzugsanweisungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0130_top02">Zu TOP 2</ref>: <ref target="#krp-0130_b02">Entwurf des Besoldungsübergangsgesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0130_top02">Zu TOP 2</ref>: <ref target="#krp-0130_b03">Änderungen des Besoldungsübergangsgesetzes durch das Subkomitee des Finanzausschusses</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0130_top03">Zu TOP 3</ref>: <ref target="#krp-0130_b04">Verhandlungen des Staatsamtes für Inneres und Unterricht zu Zl. 23.934-Abt. 17a über die in staatlicher Verwahrung befindlichen Kunstsammlung des verstorbenen Grafen Johann Palffy</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0130_top04">Zu TOP 4</ref>: <ref target="#krp-0130_b05">Gesetz über das Dienstverhältnis der Gefängnisaufseher der Gerichtsgefängnisse und Männerstrafanstalten mit Begründung</ref>
-                  </item>
+                  <item><ref target="#krp-0130_top01">Zu TOP 1</ref>: <ref target="#krp-0130_b01">Verzeichnis der auf Grundlage des Kriegswirtschaftlichen Ermächtigungsgesetzes erlassenen Vollzugsanweisungen</ref></item>
+                  <item><ref target="#krp-0130_top02">Zu TOP 2</ref>: <ref target="#krp-0130_b02">Entwurf des Besoldungsübergangsgesetzes</ref></item>
+                  <item><ref target="#krp-0130_top02">Zu TOP 2</ref>: <ref target="#krp-0130_b03">Änderungen des Besoldungsübergangsgesetzes durch das Subkomitee des Finanzausschusses</ref></item>
+                  <item><ref target="#krp-0130_top03">Zu TOP 3</ref>: <ref target="#krp-0130_b04">Verhandlungen des Staatsamtes für Inneres und Unterricht zu Zl. 23.934-Abt. 17a über die in staatlicher Verwahrung befindlichen Kunstsammlung des verstorbenen Grafen Johann Palffy</ref></item>
+                  <item><ref target="#krp-0130_top04">Zu TOP 4</ref>: <ref target="#krp-0130_b05">Gesetz über das Dienstverhältnis der Gefängnisaufseher der Gerichtsgefängnisse und Männerstrafanstalten mit Begründung</ref></item>
                </list>
             </div>
             <div type="protokoll">

@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -280,51 +280,21 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0118_top02">Zu TOP 2</ref>: <ref target="#krp-0118_b01">Industrieenquête zu Gehalts- und Lohnfragen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top03">Zu TOP 3</ref>: <ref target="#krp-0118_b02">Stand der Aktion zur Veräußerung und Verpfändung staatlichen Kunstbesitzes, Schreiben des Unterstaatssekretärs für Justiz Dr. Hisler an den Staatskanzler, Bericht des Sektionschefs Ing. Enderes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top04">Zu TOP 4</ref>: <ref target="#krp-0118_b03">Vorlage eines Gutachtens des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top05">Zu TOP 5</ref>: <ref target="#krp-0118_b04">Auszug für den Vortrag im Kabinettsrat zu Zl. 674/1919 des Staatsamtes für Inneres und Unterricht über eine Mitteilung des Archivs im Staatsamte für Inneres und Unterricht an den tschechoslowakischen Liquidierungskommissär wegen dessen Anspruch auf das Gebäude der ehemaligen böhmischen Hofkanzlei</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top06">Zu TOP 6</ref>: <ref target="#krp-0118_b05">Vortrag des Staatsamtes für Justiz über die Vollzugsanweisung zur Bezeichnung der fachmännischen Laienrichter der Gerichtshöfe erster Instanz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top07">Zu TOP 7</ref>: <ref target="#krp-0118_b06">Bericht des Staatsamtes für Volksernährung über die Neuorganisation des Ernährungsdienstes in den Ländern samt Entwurf der Vollzugsanweisung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top10">Zu TOP 10</ref>: <ref target="#krp-0118_b07">Bericht des Staatsamtes für Finanzen über die Frage der Rückwirkung der Staatsbürgerschaft und der Heimatzuständigkeit auf die Versorgungsgenüsse der Zivilangestellten und Berufsmilitärpersonen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top10">Zu TOP 10</ref>: <ref target="#krp-0118_b08">Stellungnahme des Staatsamtes für Heereswesen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top11">Zu TOP 11</ref>: <ref target="#krp-0118_b09">Stellungnahme des Staatsamtes für Finanzen zur Inkraftsetzung der neuen Bestimmungen über die Effektenumsatzsteuer</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top12">Zu TOP 12</ref>: <ref target="#krp-0118_b10">Antrag des Staatsamtes für Land- und Forstwirtschaft zu Zl. 21.521/19 auf Bestätigung der Wahl von Landesrat Vinzenz Schumy zum Präsidenten des Landeskulturrates in Kärnten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top13">Zu TOP 13</ref>: <ref target="#krp-0118_b11">Referat des Staatsamtes für soziale Verwaltung zu Zl. 29.814/19 über die geplante Bekleidungsaktion zu Gunsten der deutschösterreichischen Kriegsbeschädigten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top14">Zu TOP 14</ref>: <ref target="#krp-0118_b12">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über den Wohnungsnachweis</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top15">Zu TOP 15</ref>: <ref target="#krp-0118_b13">Antrag des Staatsamtes für Inneres und Unterricht auf Übernahme der provisorischen Verwaltung der Kunstsammlung „Albertina“ und der Prunkräume im Palais Friedrich Habsburg-Lothringen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top16">Zu TOP 16</ref>: <ref target="#krp-0118_b14">Gesetzesentwurf über das Dienstverhältnis der Hochschulassistenten samt Begründung und Vollzugsanweisung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0118_top17">Zu TOP 17</ref>: <ref target="#krp-0118_b15">Gesetzesentwurf zur Ergänzung des Gesetzes über die Feststellung und Verfolgung von Pflichtverletzungen militärischer Organe im Krieg</ref>
-                  </item>
+                  <item><ref target="#krp-0118_top02">Zu TOP 2</ref>: <ref target="#krp-0118_b01">Industrieenquête zu Gehalts- und Lohnfragen</ref></item>
+                  <item><ref target="#krp-0118_top03">Zu TOP 3</ref>: <ref target="#krp-0118_b02">Stand der Aktion zur Veräußerung und Verpfändung staatlichen Kunstbesitzes, Schreiben des Unterstaatssekretärs für Justiz Dr. Hisler an den Staatskanzler, Bericht des Sektionschefs Ing. Enderes</ref></item>
+                  <item><ref target="#krp-0118_top04">Zu TOP 4</ref>: <ref target="#krp-0118_b03">Vorlage eines Gutachtens des zwischenstaatsamtlichen Komitees für Staatsbedienstetenangelegenheiten</ref></item>
+                  <item><ref target="#krp-0118_top05">Zu TOP 5</ref>: <ref target="#krp-0118_b04">Auszug für den Vortrag im Kabinettsrat zu Zl. 674/1919 des Staatsamtes für Inneres und Unterricht über eine Mitteilung des Archivs im Staatsamte für Inneres und Unterricht an den tschechoslowakischen Liquidierungskommissär wegen dessen Anspruch auf das Gebäude der ehemaligen böhmischen Hofkanzlei</ref></item>
+                  <item><ref target="#krp-0118_top06">Zu TOP 6</ref>: <ref target="#krp-0118_b05">Vortrag des Staatsamtes für Justiz über die Vollzugsanweisung zur Bezeichnung der fachmännischen Laienrichter der Gerichtshöfe erster Instanz</ref></item>
+                  <item><ref target="#krp-0118_top07">Zu TOP 7</ref>: <ref target="#krp-0118_b06">Bericht des Staatsamtes für Volksernährung über die Neuorganisation des Ernährungsdienstes in den Ländern samt Entwurf der Vollzugsanweisung</ref></item>
+                  <item><ref target="#krp-0118_top10">Zu TOP 10</ref>: <ref target="#krp-0118_b07">Bericht des Staatsamtes für Finanzen über die Frage der Rückwirkung der Staatsbürgerschaft und der Heimatzuständigkeit auf die Versorgungsgenüsse der Zivilangestellten und Berufsmilitärpersonen</ref></item>
+                  <item><ref target="#krp-0118_top10">Zu TOP 10</ref>: <ref target="#krp-0118_b08">Stellungnahme des Staatsamtes für Heereswesen</ref></item>
+                  <item><ref target="#krp-0118_top11">Zu TOP 11</ref>: <ref target="#krp-0118_b09">Stellungnahme des Staatsamtes für Finanzen zur Inkraftsetzung der neuen Bestimmungen über die Effektenumsatzsteuer</ref></item>
+                  <item><ref target="#krp-0118_top12">Zu TOP 12</ref>: <ref target="#krp-0118_b10">Antrag des Staatsamtes für Land- und Forstwirtschaft zu Zl. 21.521/19 auf Bestätigung der Wahl von Landesrat Vinzenz Schumy zum Präsidenten des Landeskulturrates in Kärnten</ref></item>
+                  <item><ref target="#krp-0118_top13">Zu TOP 13</ref>: <ref target="#krp-0118_b11">Referat des Staatsamtes für soziale Verwaltung zu Zl. 29.814/19 über die geplante Bekleidungsaktion zu Gunsten der deutschösterreichischen Kriegsbeschädigten</ref></item>
+                  <item><ref target="#krp-0118_top14">Zu TOP 14</ref>: <ref target="#krp-0118_b12">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über den Wohnungsnachweis</ref></item>
+                  <item><ref target="#krp-0118_top15">Zu TOP 15</ref>: <ref target="#krp-0118_b13">Antrag des Staatsamtes für Inneres und Unterricht auf Übernahme der provisorischen Verwaltung der Kunstsammlung „Albertina“ und der Prunkräume im Palais Friedrich Habsburg-Lothringen</ref></item>
+                  <item><ref target="#krp-0118_top16">Zu TOP 16</ref>: <ref target="#krp-0118_b14">Gesetzesentwurf über das Dienstverhältnis der Hochschulassistenten samt Begründung und Vollzugsanweisung</ref></item>
+                  <item><ref target="#krp-0118_top17">Zu TOP 17</ref>: <ref target="#krp-0118_b15">Gesetzesentwurf zur Ergänzung des Gesetzes über die Feststellung und Verfolgung von Pflichtverletzungen militärischer Organe im Krieg</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -350,9 +320,7 @@
                   <p>Der Vorsitzende verweist ferner auf die bestehende Gefahr eines allgemeinen Streiks der Industriearbeiter. Zur Bewältigung dieser Bewegung habe er im Einvernehmen mit den Unternehmern und den Gewerkschaften die Abhaltung einer Industriekonferenz in Aussicht genommen. Diese gemeinsame Tagung der Gewerkschaften und Genossenschaften einerseits und des Hauptverbandes der Industrie andererseits werde am 4. November d. J. stattfinden. Hiebei werde insbesondere die Frage der Anpassung <pb facs="krp-0118_r-0006"/>der Löhne an die Lebensmittelpreise zur Sprache gelangen. Ebenso wie der Staat bei der unvermeidlichen Erhöhung der Lebensmittelpreise auf die Weltmarktpreise seinen Beamten und Arbeitern die Differenz in Form von Zulagen zum Gehalt, bzw. Lohn werde vergüten müssen, sei auch die Industrie bereit, ein Gleiches zu tun und insbesonders die Familiengebühren entsprechend zu erhöhen. Sie wolle diese Aktion jedoch nur unter der Voraussetzung in Angriff nehmen, dass den minderleistungsfähigen Firmen mit unverzinslichen Darlehen, die halbjährig abgerechnet würden, vom Staate beigesprungen würde. Der Staatskanzler lade das Staatsamt für Finanzen ein, entsprechende Vorschläge für eine demnächst zur Beratung dieser Angelegenheit zusammentretende Kabinettskonferenz vorzubereiten.</p>
                   <p>Bei der Industriekonferenz werde der Staat lediglich als Vermittler auftreten, während das Schwergewicht im Hauptverband der Industrie einerseits und in der Gewerkschaftskommission andererseits liegen werde.</p>
                   <p>Der Kabinettsrat nimmt diese Mitteilungen zur Kenntnis.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0007"/>
-                  </p>
+                  <p><pb facs="krp-0118_r-0007"/></p>
                </div>
                <div type="top" xml:id="krp-0118_top03">
                   <head>
@@ -377,8 +345,7 @@
                   <p>Der Vorsitzende gibt bekannt, dass das zwischenstaatsamtliche Komitee für Staatsbedienstetenangelegenheiten im Sinne des Beschlusses des Kabinettsrates vom 15. Juli d. J. ein Gutachten <pb facs="krp-0118_r-0009"/>über die Behandlung von Staatsangestellten die zu Funktionären einer Gemeinde gewählt worden sind, abgegeben habe. Das Gutachten ist dem vorliegenden Protokolle als Beilage A angeschlossen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Mayr</hi> verweist darauf, dass die in Beratung stehende Frage auch im Verfassungsausschusse behandelt worden sei. Dieser habe den Standpunkt vertreten, dass durch die bestehenden gesetzlichen Vorschriften die Frage der Beurlaubung und Gebührenweiterzahlung lediglich für die zu Mitgliedern der Nationalversammlung gewählten Staatsangestellten geregelt sei und über diesen Rahmen nicht hinausgegangen werden soll. An diesem Standpunkte, der nach Meinung des Redners der einzig richtige sei, wäre auch vom Kabinettsrate festzuhalten.</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Stöckler</hi> gibt der Anschauung Ausdruck, dass eine generelle Regelung dieser Frage wohl nicht möglich sei. Immerhin könnte der Grundsatz aufgestellt werden, dass die betreffenden Gemeindefunktionäre, soferne es sich nicht nur um eine bloße Nebenbeschäftigung handle, von der Gemeinde zu entschädigen seien.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0010"/>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> weist darauf hin, dass vielfach staatliche Angestellte zu öffentlichen Funktionären in der Voraussetzung gewählt werden, dass der Staat ihnen ihre Bezüge weiter auszahle. Diesem Missbrauche müsse [gegen]gesteuert werden. Eine Ausnahme wäre nur bei den zu Bürgermeistern gewählten Staatsangestellten zu machen, und dies auch nur in jenen Fällen, in denen die Gemeinde nicht in der Lage sei, eine dem Gehalte des Gewählten angemessene Funktionsgebühr zu zahlen. Die Funktion eines Gemeinderates sei seiner Meinung nach als Nebenbeschäftigung zu qualifizieren.</p>
+                  <p><pb facs="krp-0118_r-0010"/>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> weist darauf hin, dass vielfach staatliche Angestellte zu öffentlichen Funktionären in der Voraussetzung gewählt werden, dass der Staat ihnen ihre Bezüge weiter auszahle. Diesem Missbrauche müsse [gegen]gesteuert werden. Eine Ausnahme wäre nur bei den zu Bürgermeistern gewählten Staatsangestellten zu machen, und dies auch nur in jenen Fällen, in denen die Gemeinde nicht in der Lage sei, eine dem Gehalte des Gewählten angemessene Funktionsgebühr zu zahlen. Die Funktion eines Gemeinderates sei seiner Meinung nach als Nebenbeschäftigung zu qualifizieren.</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> beantragt die Vertagung der Beratung und regt an, dass die Staatskanzlei eine Auskunft darüber einhole, in welcher Weise diese Frage in der Schweiz gelöst sei.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> glaubt, dass eine Regelung nur für solche Organe erforderlich sei, die eine geschäftsführende Funktion (Bürgermeister und deren Stellvertreter) ausüben. Im Bedarfsfalle könnten den Gemeinden finanzielle Aushilfen geleistet werden. <pb facs="krp-0118_r-0011"/>Für andere Funktionäre, insbesondere für solche, die nicht aus öffentlicher Wahl hervorgegangen sind (z. B. Arbeiterräte), habe der Staat nicht aufzukommen. In Ausnahmsfällen hätte das betreffende Ressort zu entscheiden.</p>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Resch</hi> pflichtet diesem Standpunkte bei.</p>
@@ -394,9 +361,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> erbittet und erhält die Ermächtigung des Kabinettsrates, die Abschrift eines, vom Allgemeinen Archiv im Staatsamte für Inneres und Unterricht ausgearbeiteten Elaborates über die Besitzrechte an dem Gebäude des vormaligen Ministeriums des Innern dem tschechoslowakischen Liquidierungskommissär, Ministerialrat Dr. Otavský, über dessen Wunsch ausfolgen zu dürfen.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0013"/>
-                  </p>
+                  <p><pb facs="krp-0118_r-0013"/></p>
                </div>
                <div type="top" xml:id="krp-0118_top06">
                   <head>
@@ -456,9 +421,7 @@
                   <p>Diese Heimatberechtigung und in ihrer Konsequenz die Staatsbürgerschaft begründe aber noch keinen Anspruch auf Übernahme in den deutschösterreichischen Dienst, sie begründe aber auch weiterhin an sich noch nicht den <pb facs="krp-0118_r-0020"/>Anspruch auf Versorgungsgenüsse und Pensionen. Diese Frage werde den Verhandlungen mit den Nationalstaaten vorzubehalten sein, und zwar auf Basis einer quotenmäßigen Auseinandersetzung oder, wenn dies nicht zu erreichen sei, aufgrund territorialer Aufteilung (indem jeder Nationalstaat jenen Teil der Versorgungsgenüsse übernimmt, welcher der Dauer der Dienstesverwendung in dem betreffenden Gebiete entspricht). Vorläufig werden wir allerdings diese Versorgungs- und Pensionsbezüge zahlen müssen; wir dürfen uns aber hiebei nicht präjudizieren. Bei den Verhandlungen werde der taktische Grundsatz eingehalten werden müssen, tunlichst viel Ansprüche auf die Nationalstaaten zu überwälzen.</p>
                   <p>Bei der Aufnahme in die neue Wehrmacht können diejenigen, die inzwischen die Heimatberechtigung bei uns erworben haben, ohne weiters mitkonkurrieren.</p>
                   <p>Über Antrag des Vorsitzenden beschließt der Kabinettsrat die Behandlung dieser Angelegenheit in diesem Sinne und überträgt die endgiltige Formulierung der hinauszugebenden Verfügungen einer aus Vertretern der Staatskanzlei und der Staatsämter für Inneres und Unterricht, für Finanzen und für Heer[es]wesen bestehenden Kabinettskonferenz.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0021"/>
-                  </p>
+                  <p><pb facs="krp-0118_r-0021"/></p>
                </div>
                <div type="top" xml:id="krp-0118_top11">
                   <head>
@@ -470,9 +433,7 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> führt aus, dass die Verhältnisse im Effektenverkehre nunmehr die Inkraftsetzung der bereits kundgemachten neuen Bestimmungen über die Effektenumsatzsteuer ermöglichen. Bei einer mit den Vertretern der beteiligten Kreise abgehaltenen Expertise habe sich ergeben, dass auf Seite der zur Steuerentrichtung Berufenen eine ungefähr zweimonatliche Vorbereitungszeit für die Handhabung der neuen Vorschriften (Herstellung der notwendigen Druckseiten usw.) erforderlich sei, aber auch ausreichend sein werde.</p>
                   <p>Der sprechende Staatssekretär beabsichtige daher, die neuen gesetzlichen Vorschriften über die Effektenumsatzsteuer mit Beginn des Jahres 1920 in Kraft zu setzen. Aus börsetechnischen Gründen empfehle es sich aber, den Wirksamkeitsbeginn mit einem Kassatage zusammenfallen zu lassen und die in Aussicht genommene Kundmachung sehe daher als Tag des Inkrafttretens des novellierten Gesetzes über die Effektenumsatzsteuer den 31. Dezember 1919 vor.</p>
                   <p>Der Kabinettsrat stimmt diesem Vorgange zu.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0022"/>
-                  </p>
+                  <p><pb facs="krp-0118_r-0022"/></p>
                </div>
                <div type="top" xml:id="krp-0118_top12">
                   <head>
@@ -491,14 +452,11 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> teilt mit, dass der Landesverband Niederösterreichs des Zentralverbandes der deutschösterreichischen Kriegsbeschädigten unter Hinweis auf die plötzlich eingetretene Kälte und auf den in der Invalidenschaft herrschenden Mangel an den notwendigsten Kleidern, Wäschestücken und Schuhen die dringende Forderung erhoben habe, die Staatsregierung möge dem Landesverbande zur entgeltlichen Bekleidung der bedürftigsten Mitglieder aus den Beständen der Hauptanstalt für Sachdemobilisierung und der Hauptstelle für Volksbekleidung die erforderlichen Bedarfsgegenstände zuweisen und behufs deren Bezahlung einen Kredit gewähren, sowie durch einen entsprechenden Nachlass der Rückzahlung die unentgeltliche Beteilung der allerärmsten Witwen und Waisen ermöglichen.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0023"/>Die Zahl der unbedingt zu beteilenden Invaliden Niederösterreichs einschließlich der Stadt Wien betrage rund 38.500, der Kriegerwitwen 17.500 und der Waisen 26.500. Eine Aufstellung der Hauptanstalt für Sachdemobilisierung und der Hauptstelle für Volksbekleidung über die verfügbaren Bedarfsartikel habe ergeben, dass der Gesamtpreis der verfügbaren Bestände, welche allerdings eine nur sehr unvollständige Deckung des Bedarfes ermöglichen, sich auf rund 9 Millionen K belaufe. Die Vertreter des Landesverbandes hätten nunmehr die Bitte um Gewährung eines allgemeinen Preisnachlasses von 50 % gestellt, wobei zur weiteren Erleichterung der Bedürftigsten in Aussicht genommen sei, dass bei 10 % der verfügbaren Bestände nur eine Zahlung von 10 % des Preises, gleichsam als Anerkennung der Entgeltlichkeit gefordert werden solle. Nach außen hin hätte die Abgabe durchwegs entgeltlich zu erfolgen. Das Staatsamt der Finanzen hätte den allfälligen Staatszuschuss dem Landesverband vorläufig als Darlehen zur Verfügung zu stellen, und der Landesverband hätte den 50 oder 90%igen Preisnachlass seinen Abnehmern bis auf Weiteres nur zu kreditieren. Die Vertreter des Landesverbandes hätten noch die Bitte um Gewährung einer Subvention im Betrage von <pb facs="krp-0118_r-0024"/>2 % des Warenwertes zur Deckung der Manipulationsspesen beigefügt.</p>
+                  <p><pb facs="krp-0118_r-0023"/>Die Zahl der unbedingt zu beteilenden Invaliden Niederösterreichs einschließlich der Stadt Wien betrage rund 38.500, der Kriegerwitwen 17.500 und der Waisen 26.500. Eine Aufstellung der Hauptanstalt für Sachdemobilisierung und der Hauptstelle für Volksbekleidung über die verfügbaren Bedarfsartikel habe ergeben, dass der Gesamtpreis der verfügbaren Bestände, welche allerdings eine nur sehr unvollständige Deckung des Bedarfes ermöglichen, sich auf rund 9 Millionen K belaufe. Die Vertreter des Landesverbandes hätten nunmehr die Bitte um Gewährung eines allgemeinen Preisnachlasses von 50 % gestellt, wobei zur weiteren Erleichterung der Bedürftigsten in Aussicht genommen sei, dass bei 10 % der verfügbaren Bestände nur eine Zahlung von 10 % des Preises, gleichsam als Anerkennung der Entgeltlichkeit gefordert werden solle. Nach außen hin hätte die Abgabe durchwegs entgeltlich zu erfolgen. Das Staatsamt der Finanzen hätte den allfälligen Staatszuschuss dem Landesverband vorläufig als Darlehen zur Verfügung zu stellen, und der Landesverband hätte den 50 oder 90%igen Preisnachlass seinen Abnehmern bis auf Weiteres nur zu kreditieren. Die Vertreter des Landesverbandes hätten noch die Bitte um Gewährung einer Subvention im Betrage von <pb facs="krp-0118_r-0024"/>2 % des Warenwertes zur Deckung der Manipulationsspesen beigefügt.</p>
                   <p>Der sprechende Staatssekretär glaube, für die Gesuchswillfahrung eintreten zu sollen, da die zur Verfügung gestellten Waren zum überwiegenden Teile den in größter Notlage befindlichen Kriegerwitwen und [-]waisen zugutekommen würden.</p>
                   <p>Bei Durchführung dieser Verteilung wäre die Berücksichtigung der gesamten Invalidenschaft Niederösterreichs ohne Rücksicht auf Organisationszugehörigkeit zur Bedingung zu machen und hätte der Landesverband Niederösterreichs des Zentralverbandes deutschösterreichischer Kriegsbeschädigter demnach bei der Aufteilung Vertrauensmänner der übrigen Organisationen beizuziehen.</p>
                   <p>Nach einer kurzen Debatte, an welcher sich Staatssekretär Dr. <hi rend="#letterspaced">Mayr</hi>, ferner Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> und Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> beteiligten, ermächtigt der Kabinettsrat den Staatssekretär für soziale Verwaltung zur Durchführung der dargelegten Aktion, die sich jedoch auf ganz Deutschösterreich zu erstrecken haben wird. Demgemäß werden in das Verteilungskomitee auch Vertrauensmänner der übrigen Landesverbände aufzunehmen sein.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0025"/>
-                  </p>
+                  <p><pb facs="krp-0118_r-0025"/></p>
                </div>
                <div type="top" xml:id="krp-0118_top14">
                   <head>
@@ -537,8 +495,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ramek</hi> führt aus, dass sich bei der Anwendung des <pb facs="krp-0118_r-0026"/>Gesetzes vom 19. Dezember 1918, StGBl. Nr. 132, über die Feststellung und Verfolgung militärischer Pflichtverletzungen im Kriege, Zweifel darüber ergeben haben, ob gegen die von der Generalstaatsanwaltschaft erhobene Anklage der Einspruch zulässig sei. Nach § 4 des Gesetzes seien die Vorschriften der Strafprozessordnung sinngemäß anzuwenden. Das sonst zur Entscheidung zuständige Oberlandesgericht könne aber hier nicht in Frage kommen, da nach § 3 die Gerichtsbarkeit in allen Pflichtverletzungssachen ausschließlich dem Obersten Gerichtshof zustehe. Die beim Obersten Gerichtshof für Sachen dieser Art gebildete Ratskammer habe in einem bestimmten Falle entschieden, dass der Einspruch zwar zulässig sei, die Entscheidung darüber aber nicht dem Oberlandesgerichte, sondern ihr selbst zustehe.</p>
                   <p>Dieser Ausweg scheine aber nicht befriedigend. Das Gesetz vom 19. Dezember 1918 solle der Öffentlichkeit eine erhöhte Gewähr dafür bieten, dass das von militärischen Kommandanten im Kriege begangene Unrecht gesühnt werde. Dieser Zweck würde nicht erreicht, wenn über eine vom Generalstaatsanwalt erhobene Anklage in einem geheimen Verfahren abgesprochen werden könnte.</p>
-                  <p>
-                     <pb facs="krp-0118_r-0027"/>Gerade das Strafverfahren wegen der Pflichtverletzungen militärischer Organe bedürfe der strengsten Kontrolle durch die Öffentlichkeit. Die Gefahr, gegen die der Einspruch sonst schützen soll, die Gefahr einer mutwilligen Beschuldigung sei hier schon durch die sorgfältig vorbereitete Anklage und die doppelte Untersuchung des Falles durch die Kommission und durch den Untersuchungsrichter, und dadurch ausgeschlossen, dass die Erhebung der Anklage der Generalstaatsanwaltschaft überlassen ist.</p>
+                  <p><pb facs="krp-0118_r-0027"/>Gerade das Strafverfahren wegen der Pflichtverletzungen militärischer Organe bedürfe der strengsten Kontrolle durch die Öffentlichkeit. Die Gefahr, gegen die der Einspruch sonst schützen soll, die Gefahr einer mutwilligen Beschuldigung sei hier schon durch die sorgfältig vorbereitete Anklage und die doppelte Untersuchung des Falles durch die Kommission und durch den Untersuchungsrichter, und dadurch ausgeschlossen, dass die Erhebung der Anklage der Generalstaatsanwaltschaft überlassen ist.</p>
                   <p>Der sprechende Staatssekretär erbitte sich daher die Ermächtigung des Kabinettsrates, nachstehenden Gesetzentwurf in der Nationalversammlung einbringen zu dürfen:</p>
                   <p>„Art. I.</p>
                   <p>Im § 4 Abs. 1 des Gesetzes vom 19. Dezember 1918, StGBl. Nr. 132, über die Feststellung und Verfolgung von Pflichtverletzungen militärischer Organe im Kriege ist nach dem ersten Satze einzuschalten: ‘Gegen die Anklageschrift findet kein Einspruch statt. Doch kann der Angeklagte die Zuständigkeit des Obersten Gerichtshofes in der Hauptverhandlung anfechten.[‘] </p>

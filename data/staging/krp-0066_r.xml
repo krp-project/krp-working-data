@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0066.xml">
             <head type="dokument">
-               <title type="num">66.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">66.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0066_r-0001"/>[Freitag] 1919 05-02</title>
@@ -281,27 +280,13 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0066_top05">Zu TOP 5</ref>: <ref target="#krp-0066_b01">Gesetzesentwurfs des Staatsamtes für Land- und Forstwirtschaft Zl. 9056/19 über die Zuständigkeit der Agrarbehörden für das Land Salzburg</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0066_top06">Zu TOP 6</ref>: <ref target="#krp-0066_b02">Gesetzesentwurfs des Staatsamtes für Land- und Forstwirtschaft Zl. 9545/19 über die Aufnahme weiterer Anlehen in ausländischer Währung und über die Heranziehung des Forstbesitzes zur Sicherstellung solcher Anlehen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0066_top05">Zu TOP 7</ref>: <ref target="#krp-0066_b03">Vortrag des Staatsamtes für Heereswesen R.A. Nr. 94 über die „Profoßen-Reorganisierung“</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0066_top06">Zu TOP 8</ref>: <ref target="#krp-0066_b04">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zu Pr.Zl. 667 auf Amtstiteländerung für die Beamten des technischen Hilfsdienstes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0066_top07">Zu TOP 9</ref>: <ref target="#krp-0066_b05">Warenaustauschübereinkommen mit Rumänien</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0066_top10">Zu TOP 10</ref>: <ref target="#krp-0066_b06">Bewilligung eines Darlehens aus dem Stammvermögen des niederösterreichischen Religionsfonds an den Servitenkonvent in Wien aus Anlass des Brandunglücks im Jahre 1917</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0066_top11">Zu TOP 11</ref>: <ref target="#krp-0066_b07">Vollzugsanweisung des Staatsamtes für soziale Verwaltung für die Gewährung eines Zuschlages zu den Taxpreisen für alkoholhältige Präparate</ref>
-                  </item>
+                  <item><ref target="#krp-0066_top05">Zu TOP 5</ref>: <ref target="#krp-0066_b01">Gesetzesentwurfs des Staatsamtes für Land- und Forstwirtschaft Zl. 9056/19 über die Zuständigkeit der Agrarbehörden für das Land Salzburg</ref></item>
+                  <item><ref target="#krp-0066_top06">Zu TOP 6</ref>: <ref target="#krp-0066_b02">Gesetzesentwurfs des Staatsamtes für Land- und Forstwirtschaft Zl. 9545/19 über die Aufnahme weiterer Anlehen in ausländischer Währung und über die Heranziehung des Forstbesitzes zur Sicherstellung solcher Anlehen</ref></item>
+                  <item><ref target="#krp-0066_top05">Zu TOP 7</ref>: <ref target="#krp-0066_b03">Vortrag des Staatsamtes für Heereswesen R.A. Nr. 94 über die „Profoßen-Reorganisierung“</ref></item>
+                  <item><ref target="#krp-0066_top06">Zu TOP 8</ref>: <ref target="#krp-0066_b04">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zu Pr.Zl. 667 auf Amtstiteländerung für die Beamten des technischen Hilfsdienstes</ref></item>
+                  <item><ref target="#krp-0066_top07">Zu TOP 9</ref>: <ref target="#krp-0066_b05">Warenaustauschübereinkommen mit Rumänien</ref></item>
+                  <item><ref target="#krp-0066_top10">Zu TOP 10</ref>: <ref target="#krp-0066_b06">Bewilligung eines Darlehens aus dem Stammvermögen des niederösterreichischen Religionsfonds an den Servitenkonvent in Wien aus Anlass des Brandunglücks im Jahre 1917</ref></item>
+                  <item><ref target="#krp-0066_top11">Zu TOP 11</ref>: <ref target="#krp-0066_b07">Vollzugsanweisung des Staatsamtes für soziale Verwaltung für die Gewährung eines Zuschlages zu den Taxpreisen für alkoholhältige Präparate</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -345,9 +330,7 @@
                   </head>
                   <p>Vizekanzler Fink erbittet namens des Staatssekretärs Stöckler vom Kabinettsrate die grundsätzliche Zustimmung zu einem Gesetzentwurf über die Aufnahme weiterer Anlehen in ausländischer Währung und über die Heranziehung des Forstbesitzes zur Sicherstellung solcher Anlehen. Redner bemerkt hiezu, dass die verfassungsmäßige Verabschiedung dieser Gesetzesvorlage erst dann notwendig sein werde, wenn die Verhandlungen mit den interalliierten Mächten die in diesem Gesetzentwurfe vorgesehene Transaktion aktuell erscheinen lassen.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Zustimmung und ladet den Staatssekretär für Land- und Forstwirtschaft ein, den Gesetzentwurf im Hauptausschuss zur Besprechung zu bringen.</p>
-                  <p>
-                     <pb facs="krp-0066_r-0005"/>
-                  </p>
+                  <p><pb facs="krp-0066_r-0005"/></p>
                </div>
                <div type="top" xml:id="krp-0066_top07">
                   <head>
@@ -373,9 +356,7 @@
                   <p>VIII. Rangsklasse	technischer Oberrevident.</p>
                   <p>Der sprechende Staatssekretär erbitte sich die Zustimmung des Kabinettsrates für die gewählten neuen Amtstitel. </p>
                   <p>Der Kabinettsrat erteilt die erbetene Zustimmung.</p>
-                  <p>
-                     <pb facs="krp-0066_r-0007"/>
-                  </p>
+                  <p><pb facs="krp-0066_r-0007"/></p>
                </div>
                <div type="top" xml:id="krp-0066_top09">
                   <head>
@@ -388,9 +369,7 @@
                   <p>Die Effektuierung der Lieferungen <pb facs="krp-0066_r-0009"/>soll zehn Tage nach Ratifizierung des Übereinkommens und Notifizierung der erfolgten Regelung des Donauverkehres spätestens jedoch am 10. Mai beginnen. Für die finanzielle Abwicklung wurde der Grundsatz der Ausschaltung des zwischenstaatlichen Bargeldverkehres festgelegt, und zwar sollen das deutschösterreichische Warenverkehrsbüro in Wien bzw. die rumänischerseits mit der finanziellen Abwicklung betraute Stelle in Bukarest die für die gelieferten Waren eingehenden Beträge zur Bezahlung der Kompensationsware verwenden.</p>
                   <p>Aus dem ganzen Verlaufe der Verhandlungen ergebe sich, dass günstigere, als die in diesem Übereinkommen dargelegten Bedingungen nicht zu erzielen waren. Hingegen sei zu erwarten, dass durch diesen Vertrag dem außerordentlichen Mangel Deutschösterreichs an Mineralölprodukten in absehbarer Zeit werde abgeholfen werden.</p>
                   <p>Über Antrag des sprechenden Staatssekretärs genehmigt der Kabinettsrat das Übereinkommen.</p>
-                  <p>
-                     <pb facs="krp-0066_r-0010"/>
-                  </p>
+                  <p><pb facs="krp-0066_r-0010"/></p>
                </div>
                <div type="top" xml:id="krp-0066_top10">
                   <head>
@@ -413,21 +392,18 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0066_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 66 vom 2. Mai 1919.</p>
+               <p><pb facs="krp-0066_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 66 vom 2. Mai 1919.</p>
                <div n="1">
                   <head>Militärische Lage in Kärnten.</head>
                   <div type="a01_protokoll">
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> berichtet, dass das angeordnete Aufgebot von 22 Jahrgängen in Kärnten einen sehr günstigen Fortgang nehme. Außer dem Aufgebot der Kärntner Volkswehr, die sich in den Kämpfen sehr gut bewährt habe, seien auch aus Niederösterreich mehrere Bataillone mit Artillerie, ferner eine Anzahl von Berufsoffizieren und -unteroffizieren an die Front abgegangen. Bezüglich der Munitionsversorgung seien die erforderlichen Vorsorgen getroffen worden.</p>
                      <p>Der sprechende Staatssekretär gibt sodann an der Hand einer Karte eine ausführliche Übersicht über die bisherigen Gefechte, die überraschend günstig verlaufen seien.</p>
-                     <p>
-                        <pb facs="krp-0066_a01-0002"/>Was nun die politischen Folgen dieser Aktion betreffe, so habe General Segré erklärt, dass ihm als Vorsitzenden der italienischen Waffenstillstandskommission bisher von den Kämpfen offiziell noch nicht Mitteilung gemacht wurde. Er müsse Wert darauf legen, dass sich die Presse mit der Angelegenheit möglichst wenig beschäftige und dass von Seite Deutschösterreichs die seinerzeit vereinbarte Demarkationslinie jedenfalls nicht überschritten werde, da sonst die Lage für ihn ungemein schwierig würde.</p>
+                     <p><pb facs="krp-0066_a01-0002"/>Was nun die politischen Folgen dieser Aktion betreffe, so habe General Segré erklärt, dass ihm als Vorsitzenden der italienischen Waffenstillstandskommission bisher von den Kämpfen offiziell noch nicht Mitteilung gemacht wurde. Er müsse Wert darauf legen, dass sich die Presse mit der Angelegenheit möglichst wenig beschäftige und dass von Seite Deutschösterreichs die seinerzeit vereinbarte Demarkationslinie jedenfalls nicht überschritten werde, da sonst die Lage für ihn ungemein schwierig würde.</p>
                      <p>Der sprechende Staatssekretär habe demgemäß den Befehl gegeben, die Demarkationslinie unbedingt einzuhalten, d. h. nicht über die Drau hinaus vorzugehen. Seiner Meinung nach würde es sich empfehlen, ein amtliches Organ nach Kärnten zu entsenden, welches die Landesregierung zu beraten und sie auf die allfälligen politischen Folgen einer Überschreitung der Demarkationslinie aufmerksam zu machen hätte.</p>
                      <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, er habe bereits heute Vormittag der Landesregierung in Klagenfurt den kategorischen Auftrag erteilt, dass die vereinbarte Demarkationslinie von unseren Truppen nicht überschritten werden dürfe; eine <pb facs="krp-0066_a01-0003"/>Überschreitung dieser Linie würde uns ins Unrecht setzen und unserer Sache schaden. Ein gelegentliches Vorprellen von ein paar Leuten mache natürlich nichts, ebenso wenig eine Brückenkopfbesetzung oder eine Sicherung, die eine unbedeutende Vorverlegung der Mannschaften mit sich brächte. Aus internationalen Gründen müsse das größte Gewicht darauf gelegt werden, dass nichts aus dem Lande herausgemeldet werde, sowie überhaupt, dass die Affäre nach außen hin möglichst wenig in die Erscheinung trete. Nur kurze militärische Meldungen dürfen verlautbart, es dürfe aber nicht der Eindruck eines Krieges erweckt werden.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> stimmt den Ausführungen des Vorredners zu und meint gleichfalls, dass einem weiteren Vormarsch nach Südosten Einhalt getan werden müsse. Zur Vermeidung von Konflikten würde er es für empfehlenswert halten, dass man sich sofort mit den in Wien befindlichen militärischen Vertretern der Ententemissionen ins Einvernehmen setze und sie um Vermittlung eines neuen Waffenstillstandes ersuche.</p>
                      <p>Der vom Staatssekretär Dr. Deutsch gegebenen Anregung entsprechend habe er bereits den Konsul Hoffinger nach Kärnten entsendet.</p>
-                     <p>
-                        <pb facs="krp-0066_a01-0004"/>Der Kabinettsrat nimmt den Bericht des Staatssekretärs Dr. Deutsch zur Kenntnis und ladet ihn ein, im Sinne der Ausführungen des Staatssekretärs Dr. Bauer sofort das Einvernehmen mit den Ententemissionen zu pflegen.</p>
+                     <p><pb facs="krp-0066_a01-0004"/>Der Kabinettsrat nimmt den Bericht des Staatssekretärs Dr. Deutsch zur Kenntnis und ladet ihn ein, im Sinne der Ausführungen des Staatssekretärs Dr. Bauer sofort das Einvernehmen mit den Ententemissionen zu pflegen.</p>
                   </div>
                </div>
                <div n="2">
@@ -440,31 +416,26 @@
                      <p>Ergänzend sei dem Vorsitzenden noch mitgeteilt worden, dass der Provisorischen Landesversammlung in Tirol am 3. Mai nachstehender Beschlussantrag werde unterbreitet werden:</p>
                      <p>„Die Provisorische Landesversammlung wolle beschließen: Zur Wahrung der Einheit des Landes macht die Tiroler Landesversammlung von dem vom Präsidenten Wilson für einen gerechten Frieden feierlich zugesicherten Selbstbestimmungsrechte Gebrauch und erklärt damit das geschlos<pb facs="krp-0066_a01-0006"/>sene deutsche und ladinische Landesgebiet bis zur Salurner Klause als die selbständige demokratische Republik Tirol. Tirol wahrt sich damit als selbständiger, demokratischer, republikanischer Staat das einem jeden selbständigen Staatswesen zustehende volle freie Selbstbestimmungsrecht in politischer und wirtschaftlicher Beziehung, zumal die Verhältnisse heute noch nicht mit voller Klarheit überblickt werden können. Bis zur Anerkennung Tirols als selbständige demokratische Republik hält das Land Tirol an der mit der Staatsregierung der deutschösterreichischen Republik vereinbarten Rechts- und Wirtschaftseinheit fest.</p>
                      <p>Zur Wahrung seiner Interessen verlangt das Land Tirol eine entsprechende Vertretung auf der Friedenskonferenz. Die Landesregierung wird beauftragt, diesen Beschluss der Staatsregierung in Wien, der Regierung der deutschen Republik, der Pariser Friedenskonferenz und den neutralen Staaten ungesäumt zur Kenntnis zu bringen. Auch hat sie die für die Verwirklichung der vollen Staatlichkeit erforderlichen verfassungsrechtlichen Grundlagen vorzubereiten und für den Abschluss der für das Wirtschafts- und Rechtsleben nötigen Staatsverträge Sorge zu tragen.“</p>
-                     <p>
-                        <pb facs="krp-0066_a01-0007"/>Der Vorsitzende erklärt, dass er in einem solchen Beschluss eine Gefahr für die Provisorische Landesversammlung erblicke, die gar nicht berufen sei, derart schwerwiegende Entschließungen zu fassen. Ein Zwangsmittel gegen einen solchen Beschluss stehe der Staatsregierung allerdings nicht zu Gebote, doch müsse der Landesregierung eine Antwort gegeben werden, um die Beschlussfassung womöglich noch zu verhindern.</p>
+                     <p><pb facs="krp-0066_a01-0007"/>Der Vorsitzende erklärt, dass er in einem solchen Beschluss eine Gefahr für die Provisorische Landesversammlung erblicke, die gar nicht berufen sei, derart schwerwiegende Entschließungen zu fassen. Ein Zwangsmittel gegen einen solchen Beschluss stehe der Staatsregierung allerdings nicht zu Gebote, doch müsse der Landesregierung eine Antwort gegeben werden, um die Beschlussfassung womöglich noch zu verhindern.</p>
                      <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> verweist auf die Botschaft des Präsidenten der Vereinigten Staaten an den italienischen Ministerpräsidenten, wonach Willson dem Londoner Vertrage hinsichtlich der Abgrenzung zwischen Italien und Deutschösterreich, also der Annexion Deutsch-Südtirols durch Italien, zustimme.</p>
                      <p>Der sprechende Staatssekretär beabsichtige, dieser Mitteilung gegenüber folgende Erklärung der deutschösterreichischen Regierung der Presse zu übergeben und gleichzeitig diese Erklärung an die Ententemächte mittelst besonderer Zuschriften zu richten:</p>
                      <p>„</p>
                      <list>
-                        <item n="1">
-                           <label>1.)</label> Die Mitteilung des Präsidenten der Vereinigten Staaten ist unvereinbar mit jenen demokratischen Grundsätzen, <pb facs="krp-0066_a01-0008"/>die der Herr Präsident während des Krieges feierlich verkündet hat und aufgrund deren der Kampf eingestellt, der Waffenstillstand geschlossen worden ist.</item>
+                        <item n="1"><label>1.)</label> Die Mitteilung des Präsidenten der Vereinigten Staaten ist unvereinbar mit jenen demokratischen Grundsätzen, <pb facs="krp-0066_a01-0008"/>die der Herr Präsident während des Krieges feierlich verkündet hat und aufgrund deren der Kampf eingestellt, der Waffenstillstand geschlossen worden ist.</item>
                      </list>
                      <p>Der Waffenstillstand wurde geschlossen aufgrund der Grundsätze des Herrn Präsidenten, die in seiner Botschaft vom 8. Jänner 1918 enthalten waren. Durch den Notenwechsel, der anlässlich des Abschlusses des Waffenstillstandes erfolgt ist, wurde zwar der Pkt. 10 der 14 Punkte des Herrn Präsidenten abgeändert, aber nicht der Pkt. 9, der erklärt, dass die Grenzen Italiens nach den klar erkennbaren Linien der Nationalität festgesetzt werden sollen.</p>
                      <list>
-                        <item n="1">
-                           <label>2.)</label> Das Königreich Italien begründet seinen Anspruch auf Deutsch-Südtirol mit rein strategischen Erwägungen. Diese Erwägungen können die Annexion eines rein deutschen Landes durch Italien aus zwei Gründen nicht rechtfertigen:</item>
+                        <item n="1"><label>2.)</label> Das Königreich Italien begründet seinen Anspruch auf Deutsch-Südtirol mit rein strategischen Erwägungen. Diese Erwägungen können die Annexion eines rein deutschen Landes durch Italien aus zwei Gründen nicht rechtfertigen:</item>
                      </list>
                      <p>Erstens deshalb nicht, weil auch die ethnographische Grenze zwischen Deutschen und Italienern in Tirol den strategischen Interessen Italiens vollkommen entsprechen würde.</p>
                      <p>Zweitens aber deshalb nicht, weil <pb facs="krp-0066_a01-0009"/>nach dem unverrückbaren Grundsatz, den der Herr Präsident der Vereinigten Staaten in seiner Rede am Grabe Washingtons am 4. Juli 1918 ausgesprochen hat, ‚die Entscheidung aller Fragen, sowohl der territorialen wie der Souveränitätsfragen, der wirtschaftlichen und der politischen Fragen, auf der Grundlage der freien Annahme dieser Regelung durch das Volk erfolgen soll, das unmittelbar dabei betroffen ist, und nicht auf Grundlage eines materiellen Interesses oder Vorteiles irgend eines anderen Volkes, das eine andere Regelung zur Ausbreitung seines Einflusses oder seiner Herrschaft wünscht.‘</p>
                      <p>Trotzdem aber hat die deutschösterreichische Regierung schon vor längerer Zeit der königlich-italienischen Regierung einen Vorschlag gemacht, dessen Annahme die strategischen Bedürfnisse Italiens im weitestgehenden Maße befriedigen würde, ohne dass darum Deutsch-Südtirol der italienischen Fremdherrschaft ausgeliefert werden müsste. Die deutschösterreichische Regierung hat der königlich-italienischen Regierung vorgeschlagen, dass Deutsch-Südtirol zwar staatsrechtlich und wirtschaftlich ein Bestandteil Deutschösterreichs bleiben, militärisch aber in <pb facs="krp-0066_a01-0010"/>solcher Weise neutralisiert werden sollte, dass die strategischen Interessen Italiens dadurch wenigstens in gleicher Weise gewahrt würden, wie durch die Annexion des Gebietes bis zum Brenner. Die deutschösterreichische Regierung stellt fest, dass dieser sorgfältig ausgearbeitete Vorschlag von Italien und seinen Verbündeten niemals beantwortet worden ist.</p>
                      <list>
-                        <item n="1">
-                           <label>3.)</label> Gegenüber den Behauptungen, dass Deutsch-Südtirol von der ihm drohenden Fremdherrschaft gerettet werden könnte, wenn Deutschösterreich auf den Zusammenschluss mit dem Deutschen Reich verzichtete, stellt die deutschösterreichische Regierung fest, dass ihr niemals von irgendeiner der assoziierten Mächte der Vorschlag gemacht worden ist, auf den Anschluss an das Deutsche Reich unter der Bedingung zu verzichten, dass Deutsch-Südtirol bei Deutschösterreich verbleibe.</item>
+                        <item n="1"><label>3.)</label> Gegenüber den Behauptungen, dass Deutsch-Südtirol von der ihm drohenden Fremdherrschaft gerettet werden könnte, wenn Deutschösterreich auf den Zusammenschluss mit dem Deutschen Reich verzichtete, stellt die deutschösterreichische Regierung fest, dass ihr niemals von irgendeiner der assoziierten Mächte der Vorschlag gemacht worden ist, auf den Anschluss an das Deutsche Reich unter der Bedingung zu verzichten, dass Deutsch-Südtirol bei Deutschösterreich verbleibe.</item>
                      </list>
                      <p>Wohl aber besteht zwischen der Frage des Zusammenschlusses mit Deutschland und der Frage Deutsch-Südtirols ein anderer Zusammenhang: Wenn Deutsch-Südtirol an Italien fällt, so bleibt von Tirol nur ein schmaler Streifen übrig, der dann ganz unvermeidlich unmittelbar an das Deutsche Reich fallen <pb facs="krp-0066_a01-0011"/>müsste. Deutschösterreich würde daher nicht nur Deutsch-Südtirol, sondern ganz Tirol verlieren. Es wäre abermals eines seiner Länder beraubt und es würde auch im Westen nicht mehr an die neutrale Schweiz, sondern an das Deutsche Reich grenzen. Damit wäre die Fähigkeit Deutschösterreichs, als selbständiger Staat zu bestehen, abermals wesentlich beeinträchtigt, Deutschösterreich wäre in noch höherem Maße als bisher zum Anschluss an das Deutsche Reich gezwungen.</p>
                      <list>
-                        <item n="1">
-                           <label>4.)</label> Gegenüber der Ansicht, Deutsch-Südtirol könne von der drohenden Fremdherrschaft gerettet werden, wenn sich Tirol von Deutschösterreich trennt und einen vollständig unabhängigen neutralen Staat bildet, erklärt die deutschösterreichische Regierung:</item>
+                        <item n="1"><label>4.)</label> Gegenüber der Ansicht, Deutsch-Südtirol könne von der drohenden Fremdherrschaft gerettet werden, wenn sich Tirol von Deutschösterreich trennt und einen vollständig unabhängigen neutralen Staat bildet, erklärt die deutschösterreichische Regierung:</item>
                      </list>
                      <p>Die deutschösterreichische Republik ist bereit, der Trennung Tirols von Deutschösterreich und der Bildung einer vollkommen selbständigen neutralen Tiroler Republik zuzustimmen und sich mit Tirol über alle rechtlichen und staatswirtschaftlichen Folgen dieser Trennung friedlich und freundschaftlich auseinanderzusetzen, sobald die alliierten Mächte erklären, dass sie der selbständigen Tiroler Republik auch Deutsch-<pb facs="krp-0066_a01-0012"/>Südtirol vom Brenner bis zur Salurner Klause überlassen wollen.“</p>
                      <p>Über diese Erklärungen entspinnt sich eine eingehende Debatte, an welcher sich nahezu sämtliche Kabinettsmitglieder beteiligten und in welcher insbesondere gegen den Pkt. 4 der Erklärung schwerwiegende Bedenken geltend gemacht wurden. </p>
@@ -483,42 +454,28 @@
                   <div type="a03_protokoll">
                      <p>Vizekanzler <hi rend="#letterspaced">Fink</hi> teilt mit, dass laut eines Berichtes des Landeshauptmannes in Vorarlberg die Provisorische Landesversammlung am 15. März d. J. nachstehende Beschlüsse gefasst habe:</p>
                      <list>
-                        <item n="1">
-                           <label>1.)</label> Die Erklärung vom 3. November 1918, in welcher sich das Land Vorarlberg im Rahmen von Deutschösterreich selbständig erklärt, trägt provisorischen Charakter wie die Landesversammlung selbst.</item>
-                        <item n="2">
-                           <label>2.)</label> Der neuzuwählende Landtag entscheidet über den definitiven Anschluss des Landes an ein größeres Staatswesen. Fällt der Landtag die Entscheidung an ein anderes Staatswesen als an Deutschösterreich oder ist die Provisorische Landesversammlung schon zur Entscheidung genötigt, so muss der Beschluss der Volksabstimmung unterbreitet werden.</item>
-                        <item n="3">
-                           <pb facs="krp-0066_a01-0016"/>
-                           <label>3.)</label>  Die Landesversammlung wählt aus ihrer Mitte einen fünfgliedrigen Verhandlungsausschuss, der durch Fühlungnahme mit den Regierungen in Deutschösterreich, in der Schweiz und in Deutschland die Bedingungen zu erfahren trachtet, unter welchen sich das Land Vorarlberg anschließen könnte. Die Erhebungen haben insbesondere in politischer, kultureller und finanzwirtschaftlicher Richtung zu erfolgen.</item>
-                        <item n="4">
-                           <label>4.)</label> Der Landesrat hat ein Prüfungskomitee zu bestellen, das die wirtschaftlichen Folgen der möglichen Anschlüsse für die Gesamtheit des Volkes und die einzelnen Berufsgruppen zu untersuchen hat.</item>
-                        <item n="5">
-                           <label>5.)</label> Der Landesrat wird ermächtigt, wenn die Verhandlungen mit einem fremden Staate weiter gedeihen, dem fünfgliedrigen Verhandlungsausschuss sachverständige Vertreter aus den Kreisen der Industriellen und anderer Berufsgruppen beizugeben.”</item>
+                        <item n="1"><label>1.)</label> Die Erklärung vom 3. November 1918, in welcher sich das Land Vorarlberg im Rahmen von Deutschösterreich selbständig erklärt, trägt provisorischen Charakter wie die Landesversammlung selbst.</item>
+                        <item n="2"><label>2.)</label> Der neuzuwählende Landtag entscheidet über den definitiven Anschluss des Landes an ein größeres Staatswesen. Fällt der Landtag die Entscheidung an ein anderes Staatswesen als an Deutschösterreich oder ist die Provisorische Landesversammlung schon zur Entscheidung genötigt, so muss der Beschluss der Volksabstimmung unterbreitet werden.</item>
+                        <item n="3"><pb facs="krp-0066_a01-0016"/><label>3.)</label>  Die Landesversammlung wählt aus ihrer Mitte einen fünfgliedrigen Verhandlungsausschuss, der durch Fühlungnahme mit den Regierungen in Deutschösterreich, in der Schweiz und in Deutschland die Bedingungen zu erfahren trachtet, unter welchen sich das Land Vorarlberg anschließen könnte. Die Erhebungen haben insbesondere in politischer, kultureller und finanzwirtschaftlicher Richtung zu erfolgen.</item>
+                        <item n="4"><label>4.)</label> Der Landesrat hat ein Prüfungskomitee zu bestellen, das die wirtschaftlichen Folgen der möglichen Anschlüsse für die Gesamtheit des Volkes und die einzelnen Berufsgruppen zu untersuchen hat.</item>
+                        <item n="5"><label>5.)</label> Der Landesrat wird ermächtigt, wenn die Verhandlungen mit einem fremden Staate weiter gedeihen, dem fünfgliedrigen Verhandlungsausschuss sachverständige Vertreter aus den Kreisen der Industriellen und anderer Berufsgruppen beizugeben.”</item>
                      </list>
                      <p>Der Landesrat habe sich sodann an den Schweizerischen Bundesrat mit dem Ersuchen gewendet, von ihm empfangen zu werden, habe aber den Bescheid erhalten, dass der Bundesrat leider derzeit nicht in der Lage sei, das Fünferkomitee zu empfangen.</p>
-                     <p>
-                        <pb facs="krp-0066_a01-0017"/>Nunmehr habe der in Vorarlberg bestehende Werbeausschuss für den Anschluss des Landes an die Schweiz beim Landesrate um die Veranstaltung einer amtlichen Volksabstimmung angesucht. Der Landesrat habe sich diesem Begehren nicht verschließen können und habe nachstehende Anträge in der Sitzung der Landesversammlung vom 25. April d. J. eingebracht, welche auch angenommen wurden:</p>
+                     <p><pb facs="krp-0066_a01-0017"/>Nunmehr habe der in Vorarlberg bestehende Werbeausschuss für den Anschluss des Landes an die Schweiz beim Landesrate um die Veranstaltung einer amtlichen Volksabstimmung angesucht. Der Landesrat habe sich diesem Begehren nicht verschließen können und habe nachstehende Anträge in der Sitzung der Landesversammlung vom 25. April d. J. eingebracht, welche auch angenommen wurden:</p>
                      <p>„</p>
                      <list>
-                        <item n="1">
-                           <label>1.)</label> Dem Vorarlberger Volk ist folgende Frage zur Abstimmung vorzulegen:</item>
+                        <item n="1"><label>1.)</label> Dem Vorarlberger Volk ist folgende Frage zur Abstimmung vorzulegen:</item>
                      </list>
                      <p>‚Wünscht das Vorarlberger Volk, dass der Landesrat der schweizerischen Bundesregierung die Absicht des Vorarlberger Volkes, in die Schweizerische Eidgenossenschaft einzutreten, bekanntgebe und mit der Bundesregierung in Verhandlungen eintrete?‘</p>
                      <list>
-                        <item n="1">
-                           <label>2.)</label> Bei der Abstimmung sind alle in die Wählerlisten zur Landtagswahl vom 27. April Eingetragenen stimmberechtigt.</item>
-                        <item n="2">
-                           <label>3.)</label> Die Abstimmung erfolgt mit ‚ja‘ oder ‚nein‘ mittelst Wahlkuvert und Wahlzelle, überhaupt mit sinngemäßer Anwendung des Landtagswahlgesetzes an einem Sonntage.</item>
-                        <item n="3">
-                           <label>4.)</label> Die Zustimmung hat nur den Sinn, dass der Abstimmende grundsätzlich den Wunsch der Aufnahme des Landes in die <pb facs="krp-0066_a01-0018"/>Eidgenossenschaft hegt, dass aber die Bedingungen der Aufnahme erst durch Verhandlungen festgestellt werden und dann eine neuerliche Volksabstimmung erst endgiltig entscheiden soll, ob unter den vereinbarten Bedingungen der Anschluss vollzogen werden soll oder nicht. Den verschiedenen Ständen im Lande wird Gelegenheit gegeben werden, Einfluss auf die Verhandlungen zu nehmen.</item>
-                        <item n="4">
-                           <label>5.)</label> Der Landeshauptmann ist beauftragt, der deutschösterreichischen Regierung von diesen Beschlüssen vor der Durchführung der Volksabstimmung Kenntnis zu geben und im Falle sich ergebender Schwierigkeiten die Angelegenheit vor der Einleitung der Volksabstimmung nochmals im Landesrate zur Beratung zu stellen.</item>
-                        <item n="5">
-                           <label>6.)</label> Wenn von einer amtlichen Stelle Deutschlands wegen des direkten Anschlusses an ein deutsches Staatsgebilde herangetreten wird, so sind Anregungen von jener Seite zur Kenntnis zu nehmen und es ist im Landesrate ehestens darüber zu berichten.“</item>
+                        <item n="1"><label>2.)</label> Bei der Abstimmung sind alle in die Wählerlisten zur Landtagswahl vom 27. April Eingetragenen stimmberechtigt.</item>
+                        <item n="2"><label>3.)</label> Die Abstimmung erfolgt mit ‚ja‘ oder ‚nein‘ mittelst Wahlkuvert und Wahlzelle, überhaupt mit sinngemäßer Anwendung des Landtagswahlgesetzes an einem Sonntage.</item>
+                        <item n="3"><label>4.)</label> Die Zustimmung hat nur den Sinn, dass der Abstimmende grundsätzlich den Wunsch der Aufnahme des Landes in die <pb facs="krp-0066_a01-0018"/>Eidgenossenschaft hegt, dass aber die Bedingungen der Aufnahme erst durch Verhandlungen festgestellt werden und dann eine neuerliche Volksabstimmung erst endgiltig entscheiden soll, ob unter den vereinbarten Bedingungen der Anschluss vollzogen werden soll oder nicht. Den verschiedenen Ständen im Lande wird Gelegenheit gegeben werden, Einfluss auf die Verhandlungen zu nehmen.</item>
+                        <item n="4"><label>5.)</label> Der Landeshauptmann ist beauftragt, der deutschösterreichischen Regierung von diesen Beschlüssen vor der Durchführung der Volksabstimmung Kenntnis zu geben und im Falle sich ergebender Schwierigkeiten die Angelegenheit vor der Einleitung der Volksabstimmung nochmals im Landesrate zur Beratung zu stellen.</item>
+                        <item n="5"><label>6.)</label> Wenn von einer amtlichen Stelle Deutschlands wegen des direkten Anschlusses an ein deutsches Staatsgebilde herangetreten wird, so sind Anregungen von jener Seite zur Kenntnis zu nehmen und es ist im Landesrate ehestens darüber zu berichten.“</item>
                      </list>
                      <p>Der Landeshauptmann habe die Bitte gestellt, ihn telegrafisch zu verständigen, dass die Staatsregierung die letzterwähnten Beschlüsse der Landesversammlung zur Kenntnis genommen habe.</p>
-                     <p>
-                        <pb facs="krp-0066_a01-0019"/>Nach einer längeren Debatte, an welcher sich außer dem <hi rend="#letterspaced">Vorsitzenden</hi> noch die Staatssekretäre Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi>, <hi rend="#letterspaced">Hanusch</hi> und Dr. <hi rend="#letterspaced">Bauer</hi> sowie Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> beteiligten, beschließt der Kabinettsrat, von einer Beantwortung des Berichtes des Landeshauptmannes in Vorarlberg überhaut abzusehen.	</p>
+                     <p><pb facs="krp-0066_a01-0019"/>Nach einer längeren Debatte, an welcher sich außer dem <hi rend="#letterspaced">Vorsitzenden</hi> noch die Staatssekretäre Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi>, <hi rend="#letterspaced">Hanusch</hi> und Dr. <hi rend="#letterspaced">Bauer</hi> sowie Unterstaatssekretär <hi rend="#letterspaced">Miklas</hi> beteiligten, beschließt der Kabinettsrat, von einer Beantwortung des Berichtes des Landeshauptmannes in Vorarlberg überhaut abzusehen.	</p>
                   </div>
                </div>
             </div>

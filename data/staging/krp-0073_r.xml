@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0073.xml">
             <head type="dokument">
-               <title type="num">73.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">73.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0065_r-0001"/>
@@ -282,30 +281,14 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0073_top05">Zu TOP 5</ref>: <ref target="#krp-0073_b01">Gesetzesbeschluss der Tiroler Landesversammlung über Rechtsverhältnisse des Lehrstandes und über die Errichtung, Erhaltung und Besuch öffentlichen Volks- und Bürgerschulen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0073_top06">Zu TOP 6</ref>: <ref target="#krp-0073_b02">Gesetzesbeschluss der Tiroler Landesversammlung über die Gewährung von Teuerungszulagen für das Lehrpersonal an öffentlichen Volks- und Bürgerschulen für das I. Halbjahr 1919</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0073_top07">Zu TOP 7</ref>: <ref target="#krp-0073_b03">Beschluss der Provisorischen Steiermärkischen Landesversammlung über die Aufhebung des Eheverbots für Lehrerinnen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0073_top08">Zu TOP 8</ref>: <ref target="#krp-0073_b04">Beschluss der Provisorischen Steiermärkischen Landesversammlung auf Änderung des Gesetzes zur Regelung der Errichtung, Betreibung und des Besuchs der öffentlichen Schulen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0073_top09">Zu TOP 9</ref>: <ref target="#krp-0073_b05">Auszug für den Vortrag über den Beschluss der Provisorischen Steiermärkischen Landesversammlung über die Zuweisung bestimmter Gesetze der Ortspolizei Graz an die staatliche Polizeibehörde</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0073_top10">Zu TOP 10</ref>: <ref target="#krp-0073_b06">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 15.489 betreffend Beschluss der Salzburger Landesversammlung über die Ergänzung der Statuten der Landeskommunalkreditanstalt</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0073_top12">Zu TOP 12</ref>: <ref target="#krp-0073_b07">Vortrag des Staatsamtes für Heereswesen Zl. 3778/1919 über den Weiterbestand des Kriegsarchivs</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0073_top13">Zu TOP 13</ref>: <ref target="#krp-0073_b08">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Ausstellung von Arbeitskarten für Kinder</ref>
-                  </item>
+                  <item><ref target="#krp-0073_top05">Zu TOP 5</ref>: <ref target="#krp-0073_b01">Gesetzesbeschluss der Tiroler Landesversammlung über Rechtsverhältnisse des Lehrstandes und über die Errichtung, Erhaltung und Besuch öffentlichen Volks- und Bürgerschulen</ref></item>
+                  <item><ref target="#krp-0073_top06">Zu TOP 6</ref>: <ref target="#krp-0073_b02">Gesetzesbeschluss der Tiroler Landesversammlung über die Gewährung von Teuerungszulagen für das Lehrpersonal an öffentlichen Volks- und Bürgerschulen für das I. Halbjahr 1919</ref></item>
+                  <item><ref target="#krp-0073_top07">Zu TOP 7</ref>: <ref target="#krp-0073_b03">Beschluss der Provisorischen Steiermärkischen Landesversammlung über die Aufhebung des Eheverbots für Lehrerinnen</ref></item>
+                  <item><ref target="#krp-0073_top08">Zu TOP 8</ref>: <ref target="#krp-0073_b04">Beschluss der Provisorischen Steiermärkischen Landesversammlung auf Änderung des Gesetzes zur Regelung der Errichtung, Betreibung und des Besuchs der öffentlichen Schulen</ref></item>
+                  <item><ref target="#krp-0073_top09">Zu TOP 9</ref>: <ref target="#krp-0073_b05">Auszug für den Vortrag über den Beschluss der Provisorischen Steiermärkischen Landesversammlung über die Zuweisung bestimmter Gesetze der Ortspolizei Graz an die staatliche Polizeibehörde</ref></item>
+                  <item><ref target="#krp-0073_top10">Zu TOP 10</ref>: <ref target="#krp-0073_b06">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 15.489 betreffend Beschluss der Salzburger Landesversammlung über die Ergänzung der Statuten der Landeskommunalkreditanstalt</ref></item>
+                  <item><ref target="#krp-0073_top12">Zu TOP 12</ref>: <ref target="#krp-0073_b07">Vortrag des Staatsamtes für Heereswesen Zl. 3778/1919 über den Weiterbestand des Kriegsarchivs</ref></item>
+                  <item><ref target="#krp-0073_top13">Zu TOP 13</ref>: <ref target="#krp-0073_b08">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Ausstellung von Arbeitskarten für Kinder</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -340,8 +323,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> teilt mit, dass der im Staatsamt für Volksernährung bestehende Verein der rechtskundigen Beamten das Verlangen gestellt hat, in wichtigen, die Beamten betreffenden prinzipiellen Fragen sowie auch in konkreten Personalangelegenheiten (Beförderungen, Einberufungen von Beamten, Gewährung von Remunerationen) gehört zu werden. Er habe im Prinzipe gegen diese Forderung nichts einzuwenden, glaube aber, dass ein solches Zugeständnis nicht auf die Konzeptsbeamten allein beschränkt bleiben könnte. Ferner sei eine Gewerkschaft sämtlicher Angestellten des Staatsamtes für Volksernährung in Bildung begriffen, in deren Statutenentwurf der Zwang zur Mitgliedschaft vorgesehen sei.</p>
                   <p>Der sprechende Staatssekretär erbitte sich eine Mitteilung darüber, ob in den anderen Staatsämtern ähnliche Einrichtungen bestehen und wie sich die Ressortchefs dazu verhalten hätten.</p>
-                  <p>
-                     <pb facs="krp-0073_r-0006"/>Die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi>, <hi rend="#letterspaced">Paul</hi> und Dr. <hi rend="#letterspaced">Bratusch</hi> führen aus, dass sie in ihren Ressortbereichen mit den bestehenden Organisationen die besten Erfahrungen gemacht hätten. Allerdings müsse daran festgehalten werden, dass diesen Angestelltenvertretungen bezüglich der Beförderungsfragen kein bestimmender Einfluss, sondern lediglich das Recht zur Abgabe von Gutachten eingeräumt werde. Die Mitwirkung in der Frage von Einberufungen und der Gewährung von Remunerationen sei prinzipiell abzulehnen.</p>
+                  <p><pb facs="krp-0073_r-0006"/>Die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi>, <hi rend="#letterspaced">Paul</hi> und Dr. <hi rend="#letterspaced">Bratusch</hi> führen aus, dass sie in ihren Ressortbereichen mit den bestehenden Organisationen die besten Erfahrungen gemacht hätten. Allerdings müsse daran festgehalten werden, dass diesen Angestelltenvertretungen bezüglich der Beförderungsfragen kein bestimmender Einfluss, sondern lediglich das Recht zur Abgabe von Gutachten eingeräumt werde. Die Mitwirkung in der Frage von Einberufungen und der Gewährung von Remunerationen sei prinzipiell abzulehnen.</p>
                   <p>Der Kabinettsrat nimmt diese Mitteilungen zur Kenntnis und stellt es den Staatssekretären anheim, diesfalls nach ihrem Ermessen vorzugehen, da sich allgemeine Regeln für das Vorgehen in diesen Belangen wohl nicht aufstellen ließen.</p>
                </div>
                <div type="top" xml:id="krp-0073_top04">
@@ -374,12 +356,9 @@
                   </head>
                   <p>Unterstaatssekretär Glöckel teilt mit, dass die Tiroler Landesversammlung am 7. April d. J, einen Gesetzentwurf, betreffend die Gewährung und Aufbringung. der Teuerungszulagen für das erste Halbjahr 1919 an die aktiven Lehrkräfte der öffentlichen, allgemeinen Volksschulen und der öffentlichen Bürgerschulen in Tirol gefasst habe. Der sprechen<pb facs="krp-0073_r-0009"/>de Unterstaatssekretär erbitte sich im Einvernehmen mit dem Staatssekretär für Finanzen vom Kabinettsrate die Ermächtigung,</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> von der Erhebung einer Vorstellung gegen diesen Gesetzesbeschluss absehen,</item>
-                     <item n="2">
-                        <label>2.)</label> die Landesregierung einladen zu dürfen, eine erforderliche Änderung der Durchführungsbestimmung beim Landesrate in Anregung zu bringen, worauf das entsprechend geänderte Gesetz zur Beisetzung der Gegenzeichnung wieder vorzulegen wäre,</item>
-                     <item n="3">
-                        <label>3.)</label> den im Zusammenhange damit gefassten Beschluss des Landesrates vom 9. April 1919, betreffend die Gewährung dieser Zulagen, insoweit den Lehrpersonen, auf welche sich nicht schon der erwähnte Gesetzesbeschluss bezieht, Teuerungszulagen zuerkannt werden, namens der Staatsregierung genehmigen zu dürfen.</item>
+                     <item n="1"><label>1.)</label> von der Erhebung einer Vorstellung gegen diesen Gesetzesbeschluss absehen,</item>
+                     <item n="2"><label>2.)</label> die Landesregierung einladen zu dürfen, eine erforderliche Änderung der Durchführungsbestimmung beim Landesrate in Anregung zu bringen, worauf das entsprechend geänderte Gesetz zur Beisetzung der Gegenzeichnung wieder vorzulegen wäre,</item>
+                     <item n="3"><label>3.)</label> den im Zusammenhange damit gefassten Beschluss des Landesrates vom 9. April 1919, betreffend die Gewährung dieser Zulagen, insoweit den Lehrpersonen, auf welche sich nicht schon der erwähnte Gesetzesbeschluss bezieht, Teuerungszulagen zuerkannt werden, namens der Staatsregierung genehmigen zu dürfen.</item>
                   </list>
                   <p>Der Kabinettsrat erteilt die erbetenen Ermächtigungen.</p>
                </div>
@@ -400,9 +379,7 @@
                      </label>
                   </head>
                   <p>Unterstaatssekretär Glöckel erbittet und erhält die Ermächtigung des Kabinettsrates, dass von der Erhebung einer Vorstellung gegen den von der Provisorischen Landesversammlung in Steiermark am 25. April 1919 beschlossenen Entwurf eines Gesetzes, womit § 27 des Gesetzes vom 4. Februar 1870, LGB1. Nr. 15, zur Regelung der Errichtung, der Erhaltung und des Besuches öffentlicher Volksschulen abgeändert wird, abgesehen und nach Durchführung einer formalen Abänderung des Gesetzestextes durch den Landesrat die Gegenzeichnung vollzogen werde.</p>
-                  <p>
-                     <pb facs="krp-0073_r-0011"/>
-                  </p>
+                  <p><pb facs="krp-0073_r-0011"/></p>
                </div>
                <div type="top" xml:id="krp-0073_top09">
                   <head>
@@ -424,8 +401,7 @@
                   <p>Dieser letztere Umstand solle nun einem Beschlusse der Salzburger Landesversammlung vom 5. Februar 1919 zufolge durch Einfügung entsprechender Bestimmungen in § 13 der Statuten zum Ausdruck gebracht werden.</p>
                   <p>Außerdem solle § 42 der Statuten, welcher den Wirksamkeitsbeginn der Statuten der Anstalt betrifft, durch eine Bestimmung ergänzt werden, durch die ausdrücklich festgestellt wird, dass mit dem Zeitpunkte des Inkrafttretens der neuen Statuten die Wirksamkeit der alten Statuten erlischt.</p>
                   <p>In den §§ 39 und 40 der Statuten werde die Giltigkeit von Landesversammlungsbeschlüssen, betreffend die Änderung der Statuten und die Auflösung der Anstalt, an die Genehmigung des Staatsrates gebunden. Entsprechend der inzwischen geänderten Regierungsform wäre zu fordern, dass durch Statutenänderung für die Giltigkeit von derartigen Landesversammlungsbeschlüssen die Genehmigung der Staatsregierung zur Voraussetzung gemacht wird.</p>
-                  <p>
-                     <pb facs="krp-0073_r-0013"/>Über Antrag des sprechenden Staatssekretärs genehmigt der Kabinettsrat den Beschluss der Salzburger Landesversammlung und ermächtigt gleichzeitig das Staatsamt für Inneres und Unterricht, die zum Zwecke der Anpassung des Wortlautes der Statuten an die bestehende Regierungsform erforderliche Abänderung der §§ 39 und 40 der Anstaltsstatuten im eigenen Wirkungskreise zu genehmigen.</p>
+                  <p><pb facs="krp-0073_r-0013"/>Über Antrag des sprechenden Staatssekretärs genehmigt der Kabinettsrat den Beschluss der Salzburger Landesversammlung und ermächtigt gleichzeitig das Staatsamt für Inneres und Unterricht, die zum Zwecke der Anpassung des Wortlautes der Statuten an die bestehende Regierungsform erforderliche Abänderung der §§ 39 und 40 der Anstaltsstatuten im eigenen Wirkungskreise zu genehmigen.</p>
                </div>
                <div type="top" xml:id="krp-0073_top11">
                   <head>
@@ -443,14 +419,11 @@
                         <seg>Übernahme des Kriegsarchivs in die deutschösterreichische Verwaltung.</seg>
                      </label>
                   </head>
-                  <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Waiss</hi>
-                     <pb facs="krp-0073_r-0014"/>führt aus, dass es sich mit Rücksicht auf einen in nächster Zeit zu gewärtigenden Beschluss der Internationalen Liquidierungskommission, betreffend das liquidierende Kriegsarchiv, sowie angesichts der Notwendigkeit der Schaffung einer einheitlichen Leitung sämtlicher staatlicher Archive Deutschösterreichs empfehlen werde, zur endgiltigen Klärung der Frage des Weiterbestandes des Kriegsarchivs Stellung zu nehmen.</p>
+                  <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Waiss</hi> <pb facs="krp-0073_r-0014"/>führt aus, dass es sich mit Rücksicht auf einen in nächster Zeit zu gewärtigenden Beschluss der Internationalen Liquidierungskommission, betreffend das liquidierende Kriegsarchiv, sowie angesichts der Notwendigkeit der Schaffung einer einheitlichen Leitung sämtlicher staatlicher Archive Deutschösterreichs empfehlen werde, zur endgiltigen Klärung der Frage des Weiterbestandes des Kriegsarchivs Stellung zu nehmen.</p>
                   <p>Er beantrage daher, das liquidierende Kriegsarchiv und seine Aktenbestände zur Gänze in deutschösterreichischen Besitz zu übernehmen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> bezeichnet die Durchführung dieser Maßnahme als nicht ganz ungefährlich, da hiegegen von Seiten der Nationalstaaten wahrscheinlich großer Widerstand erhoben werden würde. Er halte es für zweckmäßig, die Frage der Übernahme des Kriegsarchivs im Zusammenhange mit der Lösung der ganzen Archivsfrage neuerlich in Erwägung zu ziehen.</p>
                   <p>Der Kabinettsrat schließt sich dieser Anschauung an und beschließt, die Angelegenheit vorläufig zurückzustellen.</p>
-                  <p>
-                     <pb facs="krp-0073_r-0015"/>
-                  </p>
+                  <p><pb facs="krp-0073_r-0015"/></p>
                </div>
                <div type="top" xml:id="krp-0073_top13">
                   <head>
@@ -464,8 +437,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0073_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 73 vom 23. Mai 1919.</p>
+               <p><pb facs="krp-0073_a01-0001"/>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 73 vom 23. Mai 1919.</p>
                <div n="1">
                   <head>Warenaustauschübereinkommen mit Polen.</head>
                   <div type="a01_protokoll">
@@ -478,26 +450,12 @@
                <div n="2">
                   <head>2. Sonderverwendungszulagen für außergewöhnlich tätige Beamte von der VI. Rangsklasse aufwärts.</head>
                   <div type="a02_protokoll">
-                     <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpter</hi> führt aus, dass <pb facs="krp-0073_a01-0005"/>
-                        <hi rend="background(yellow)">die gesetzliche Besoldung der Staatsbeamten von der VI. Rangsklasse aufwärts habe, bekanntlich seit dem Jahre 1898 keine Erhöhung erfahren; ihre Höhe müsste, zumal auch die Gehaltsgesetzgebung des Jahres 1898 den höheren Beamten gegenüber dem Stande der Bezüge vom Jahre 1873 nur ganz unwesentliche Verbesserungen gebracht hatte und schon damals als unzulänglich empfunden wurde, im Vergleich mit der seit Jahrzehnten eingetretenen, in den letzten Jahren so sprunghaft gestiegenen Geldentwertung einerseits und der ganz bedeutenden, im Durchschnitte ein Vielfaches der gesetzlichen Bezüge erreichenden und im Gesamtausmaße an die Bezüge der höheren Beamten stark heranreichenden Entlohnung der Beamten der untersten Gruppen (einschließlich der dem Diener-, Unterbeamten- und Arbeiterstande angehörenden Staatsbediensteten) andererseits heute als unmöglich bezeichnet werden. Die Bezüge der höheren Beamten reichen nicht einmal zur Bestreitung des notdürftigen Lebensunterhaltes für ihre Person und ihre Familie, geschweige denn zur Beschaffung standesgemäßer Bekleidung und Wohnung aus, ganz abgesehen davon, dass an die Befriedigung irgend welcher Kulturbedürfnisse gar nicht gedacht werden könne. Solle nicht – wofür seit längerem untrügliche Anzeichen beobachtet werden – geradezu eine Flucht aus den Reihen der führenden Beamten in den Privatdienst eintreten und damit den Interessen der Staatsverwaltung nicht mehr gutzumachender schwerer Schaden zugefügt werden, so werde die neue Besoldungsordnung auf diesem Gebiete wohl gründlich Wandel zu schaffen und auch die Versäumnis früherer Zeiten gutzumachen haben. Nun hätten aber bekanntlich nahezu alle Gruppen von Staatsbediensteten der verschiedenen Verwaltungs</hi>
-                        <pb facs="krp-0073_a01-0006"/>
-                        <hi rend="background(yellow)" xml:space="preserve">zweige es verstanden, gerade in der allerletzten Zeit – trotz der in Aussicht gestellten, allgemeinen, durch die Besoldungsreform zu gewährenden Verbesserung ihrer materiellen Lage – sehr erhebliche und den Staat ‒ schon wegen der großen Masse der hiebei in Betracht kommenden Personen – schwer belastende Verbesserungen ihrer finanziellen Lage zu erzielen. Auch die Beamten mit Hochschulbildung hätten dort, wo sie in geschlossenen Massen auftraten und die Gelegenheit, ihre Forderungen mit besonderem Nachdrucke zu vertreten, ihnen durch die besonderen Verhältnisse geboten war, in einzelnen Verwaltungszweigen erhebliche Verbesserungen ihrer Lage erzielt. So sei es insbesondere das der Regierung von der Postkonzeptsbeamtenschaft in der jüngsten Zeit abgerungene Zugeständnis, dass Beamte nach Zurücklegung einer gewissen Dienstzeit die Bezüge der VI. bzw. V. Rangsklasse erreichen sollen, (also bloß unter dem Gesichtspunkt der allgemeinen Verbesserung ihrer materiellen Lage, ohne Funktionen zu bekleiden, an deren Versehung gesetzlich der Genuss dieser Bezüge gebunden ist), welches das zwischenstaatsamtliche Komitee für Staatsbedienstetenangelegenheiten in seiner Sitzung vom 26. April 1919 (Verhandlungsschrift Nr. 43, Pkt. 2, Seite 7) zu folgendem Beschlusse veranlasst habe. Es sei, „da solche Zugeständnisse ohne jede Rücksicht auf die dienstliche Verwendung und Qualifikation gemacht werden, mithin als Ausgleichung der derzeitigen Teuerungsverhältnisse gedacht sind, ein Gebot der Billigkeit und Gerechtigkeit, auch auf jene Beamten aller Ressorts von der VI. Rangsklasse aufwärts, die auf besonders verantwortungsvollen Posten verwendet sind, durch Gewährung von entsprechend abgestuften Verwendungszulagen schon dermalen –  vor der Besoldungsreform — Rücksicht zu nehmen.“ </hi>
-                     </p>
-                     <p>
-                        <hi rend="background(yellow)">Im Hinblick darauf unterbreitet der sprechende Staatssekretär dem Kabinettsrat den Antrag.</hi>
-                     </p>
-                     <p>
-                        <pb facs="krp-0073_a01-0007"/>
-                        <hi rend="background(yellow)">Der Kabinettsrat solle beschließen:</hi>
-                     </p>
-                     <p>
-                        <hi rend="background(yellow)" xml:space="preserve">„Beamte von der VI. Rangsklasse aufwärts, die bei Zentral- oder Landesbehörden für ihre Person allein oder an der Spitze von Abteilungsgruppen oder Abteilungen in außergewöhnlichem Maße mit besonderer Verantwortung verbundene Arbeiten gesetzgeberischer, organisatorischer oder politischer Natur in Anspruch genommen werden, können zur Anerkennung und Förderung ihrer Dienstleistung vom zuständigen Staatssekretär mit Zustimmung des Staatssekretärs der Finanzen Sonderverwendungszulagen im Höchstausmaß bis zu 12.000 K jährlich bewilligt erhalten. </hi>
-                     </p>
-                     <p>
-                        <hi rend="background(yellow)">Diese Zulagen werden mit Wirksamkeit vom 1. Mai 1919 angefangen zuerkannt.“</hi>
-                     </p>
-                     <p>
-                        <pb facs="krp-0073_a01-0008"/>Im Zuge der sich hierüber entwickelnden Debatte, an welcher sich nahezu sämtliche Kabinettsmitglieder beteiligten, wurde auf die großen Schwierigkeiten hingewiesen, welche der Durchführung dieser Maßnahme entgegenstehen, da sich gewisse Ungleichmäßigkeiten und Härten kaum vermeiden ließen. Jedenfalls müsse den Kabinettsmitglied Gelegenheit geboten werden, die Angelegenheit noch einem näheren Studium zu unterziehen.</p>
+                     <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpter</hi> führt aus, dass <pb facs="krp-0073_a01-0005"/><hi rend="background(yellow)">die gesetzliche Besoldung der Staatsbeamten von der VI. Rangsklasse aufwärts habe, bekanntlich seit dem Jahre 1898 keine Erhöhung erfahren; ihre Höhe müsste, zumal auch die Gehaltsgesetzgebung des Jahres 1898 den höheren Beamten gegenüber dem Stande der Bezüge vom Jahre 1873 nur ganz unwesentliche Verbesserungen gebracht hatte und schon damals als unzulänglich empfunden wurde, im Vergleich mit der seit Jahrzehnten eingetretenen, in den letzten Jahren so sprunghaft gestiegenen Geldentwertung einerseits und der ganz bedeutenden, im Durchschnitte ein Vielfaches der gesetzlichen Bezüge erreichenden und im Gesamtausmaße an die Bezüge der höheren Beamten stark heranreichenden Entlohnung der Beamten der untersten Gruppen (einschließlich der dem Diener-, Unterbeamten- und Arbeiterstande angehörenden Staatsbediensteten) andererseits heute als unmöglich bezeichnet werden. Die Bezüge der höheren Beamten reichen nicht einmal zur Bestreitung des notdürftigen Lebensunterhaltes für ihre Person und ihre Familie, geschweige denn zur Beschaffung standesgemäßer Bekleidung und Wohnung aus, ganz abgesehen davon, dass an die Befriedigung irgend welcher Kulturbedürfnisse gar nicht gedacht werden könne. Solle nicht – wofür seit längerem untrügliche Anzeichen beobachtet werden – geradezu eine Flucht aus den Reihen der führenden Beamten in den Privatdienst eintreten und damit den Interessen der Staatsverwaltung nicht mehr gutzumachender schwerer Schaden zugefügt werden, so werde die neue Besoldungsordnung auf diesem Gebiete wohl gründlich Wandel zu schaffen und auch die Versäumnis früherer Zeiten gutzumachen haben. Nun hätten aber bekanntlich nahezu alle Gruppen von Staatsbediensteten der verschiedenen Verwaltungs</hi><pb facs="krp-0073_a01-0006"/><hi rend="background(yellow)" xml:space="preserve">zweige es verstanden, gerade in der allerletzten Zeit – trotz der in Aussicht gestellten, allgemeinen, durch die Besoldungsreform zu gewährenden Verbesserung ihrer materiellen Lage – sehr erhebliche und den Staat ‒ schon wegen der großen Masse der hiebei in Betracht kommenden Personen – schwer belastende Verbesserungen ihrer finanziellen Lage zu erzielen. Auch die Beamten mit Hochschulbildung hätten dort, wo sie in geschlossenen Massen auftraten und die Gelegenheit, ihre Forderungen mit besonderem Nachdrucke zu vertreten, ihnen durch die besonderen Verhältnisse geboten war, in einzelnen Verwaltungszweigen erhebliche Verbesserungen ihrer Lage erzielt. So sei es insbesondere das der Regierung von der Postkonzeptsbeamtenschaft in der jüngsten Zeit abgerungene Zugeständnis, dass Beamte nach Zurücklegung einer gewissen Dienstzeit die Bezüge der VI. bzw. V. Rangsklasse erreichen sollen, (also bloß unter dem Gesichtspunkt der allgemeinen Verbesserung ihrer materiellen Lage, ohne Funktionen zu bekleiden, an deren Versehung gesetzlich der Genuss dieser Bezüge gebunden ist), welches das zwischenstaatsamtliche Komitee für Staatsbedienstetenangelegenheiten in seiner Sitzung vom 26. April 1919 (Verhandlungsschrift Nr. 43, Pkt. 2, Seite 7) zu folgendem Beschlusse veranlasst habe. Es sei, „da solche Zugeständnisse ohne jede Rücksicht auf die dienstliche Verwendung und Qualifikation gemacht werden, mithin als Ausgleichung der derzeitigen Teuerungsverhältnisse gedacht sind, ein Gebot der Billigkeit und Gerechtigkeit, auch auf jene Beamten aller Ressorts von der VI. Rangsklasse aufwärts, die auf besonders verantwortungsvollen Posten verwendet sind, durch Gewährung von entsprechend abgestuften Verwendungszulagen schon dermalen –  vor der Besoldungsreform — Rücksicht zu nehmen.“ </hi></p>
+                     <p><hi rend="background(yellow)">Im Hinblick darauf unterbreitet der sprechende Staatssekretär dem Kabinettsrat den Antrag.</hi></p>
+                     <p><pb facs="krp-0073_a01-0007"/><hi rend="background(yellow)">Der Kabinettsrat solle beschließen:</hi></p>
+                     <p><hi rend="background(yellow)" xml:space="preserve">„Beamte von der VI. Rangsklasse aufwärts, die bei Zentral- oder Landesbehörden für ihre Person allein oder an der Spitze von Abteilungsgruppen oder Abteilungen in außergewöhnlichem Maße mit besonderer Verantwortung verbundene Arbeiten gesetzgeberischer, organisatorischer oder politischer Natur in Anspruch genommen werden, können zur Anerkennung und Förderung ihrer Dienstleistung vom zuständigen Staatssekretär mit Zustimmung des Staatssekretärs der Finanzen Sonderverwendungszulagen im Höchstausmaß bis zu 12.000 K jährlich bewilligt erhalten. </hi></p>
+                     <p><hi rend="background(yellow)">Diese Zulagen werden mit Wirksamkeit vom 1. Mai 1919 angefangen zuerkannt.“</hi></p>
+                     <p><pb facs="krp-0073_a01-0008"/>Im Zuge der sich hierüber entwickelnden Debatte, an welcher sich nahezu sämtliche Kabinettsmitglieder beteiligten, wurde auf die großen Schwierigkeiten hingewiesen, welche der Durchführung dieser Maßnahme entgegenstehen, da sich gewisse Ungleichmäßigkeiten und Härten kaum vermeiden ließen. Jedenfalls müsse den Kabinettsmitglied Gelegenheit geboten werden, die Angelegenheit noch einem näheren Studium zu unterziehen.</p>
                      <p>Der Kabinettsrat beschließt, die Schlussfassung über diesen Antrag zu vertagen.	</p>
                   </div>
                </div>

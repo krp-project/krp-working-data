@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0194.xml">
             <head type="dokument">
-               <title type="num">194.<note type="footnote">Das Protokoll trägt den Vermerk<hi rend="#i"> Vertraulich!</hi>
-                  </note>
+               <title type="num">194.<note type="footnote">Das Protokoll trägt den Vermerk<hi rend="#i"> Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0194_r-0001"/>
@@ -282,39 +281,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0194_top03">Zu TOP 3</ref>: <ref target="#krp-0194_b01">Antrag des Staatsamtes für Äußeres Zl. 3517/4 auf Erteilung einer Vollmacht an den österreichischen Vertreter Fregattenkapitän Peter in der Plebiszitkommission für das Klagenfurter Abstimmungsgebiet</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top04">Zu TOP 4</ref>: <ref target="#krp-0194_b02">Schreiben des Staatsamtes für Äußeres an den Staatskanzler über den Kompensationsvertrag mit Ungarn</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top04">Zu TOP 4</ref>: <ref target="#krp-0194_b03">Information für den Staatssekretär Ing. Zerdik über den Kompensationsvertrag mit Ungarn</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top04">Zu TOP 4</ref>: <ref target="#krp-0194_b04">Übereinkommen vom 15. Juni 1920 über den wirtschaftlichen Verkehr mit Ungarn mit Schlussprotokoll, Schreiben des deutschösterreichischen Warenverkehrsbüro an das ungarische, Schreiben des ungarischen Staatssekretärs für Äußeres sowie mit dem Übereinkommen zwischen der amtlichen Übernahmsstelle für Vieh und Fleisch und der Viehverwertungs AG Ungarischer Landwirte</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top05">Zu TOP 5</ref>: <ref target="#krp-0194_b05">Vortrag des Staatsamtes für Justiz über die Einleitung von Verhandlungen mit dem Deutschen Reich über den Abschluss von Justizverträgen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top06">Zu TOP 6</ref>: <ref target="#krp-0194_b06">Vollzugsanweisung des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über die Durchführungsbestimmungen zum Sachabrüstungsenteignungsgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top07">Zu TOP 7</ref>: <ref target="#krp-0194_b07">Gesetzesentwurf über einige Bestimmungen zur Versorgung der Bevölkerung mit Bedarfsgegenständen mit Motivenbericht</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top08">Zu TOP 8</ref>: <ref target="#krp-0194_b08">Gesetzesentwurf über einige Abänderungen und Ergänzungen zu Bestimmungen zur Errichtung von Einigungsämtern für Streitigkeiten aus bestimmten Lieferungsverträgen mit Motivenbericht</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top09">Zu TOP 9</ref>: <ref target="#krp-0194_b09">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht Zl. 24.713/1920 über den Gesetzesbeschluss des Salzburger Landtages zur Abänderung des § 27 des Gemeindestatuts für die Landeshauptstadt Salzburg</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top10">Zu TOP 10</ref>: <ref target="#krp-0194_b10">Vortrag des Unterstaatssekretärs für Unterricht zu Zl. 11.773/III-9 über den Gesetzesbeschluss des Tiroler Landtages zur Abänderung des § 60 des Landesschulgesetzes für Tirol vom 30. Jänner 1920, LGBl. Nr. 60</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0194_top11">Zu TOP 11</ref>: <ref target="#krp-0194_b11">Vortrag des Unterstaatssekretärs für Unterricht zu Zl. 11.484/20 über den Gesetzesbeschluss des Oberösterreichischen Landtages zur Abänderung einiger Gesetzesbestimmungen</ref>
-                  </item>
+                  <item><ref target="#krp-0194_top03">Zu TOP 3</ref>: <ref target="#krp-0194_b01">Antrag des Staatsamtes für Äußeres Zl. 3517/4 auf Erteilung einer Vollmacht an den österreichischen Vertreter Fregattenkapitän Peter in der Plebiszitkommission für das Klagenfurter Abstimmungsgebiet</ref></item>
+                  <item><ref target="#krp-0194_top04">Zu TOP 4</ref>: <ref target="#krp-0194_b02">Schreiben des Staatsamtes für Äußeres an den Staatskanzler über den Kompensationsvertrag mit Ungarn</ref></item>
+                  <item><ref target="#krp-0194_top04">Zu TOP 4</ref>: <ref target="#krp-0194_b03">Information für den Staatssekretär Ing. Zerdik über den Kompensationsvertrag mit Ungarn</ref></item>
+                  <item><ref target="#krp-0194_top04">Zu TOP 4</ref>: <ref target="#krp-0194_b04">Übereinkommen vom 15. Juni 1920 über den wirtschaftlichen Verkehr mit Ungarn mit Schlussprotokoll, Schreiben des deutschösterreichischen Warenverkehrsbüro an das ungarische, Schreiben des ungarischen Staatssekretärs für Äußeres sowie mit dem Übereinkommen zwischen der amtlichen Übernahmsstelle für Vieh und Fleisch und der Viehverwertungs AG Ungarischer Landwirte</ref></item>
+                  <item><ref target="#krp-0194_top05">Zu TOP 5</ref>: <ref target="#krp-0194_b05">Vortrag des Staatsamtes für Justiz über die Einleitung von Verhandlungen mit dem Deutschen Reich über den Abschluss von Justizverträgen</ref></item>
+                  <item><ref target="#krp-0194_top06">Zu TOP 6</ref>: <ref target="#krp-0194_b06">Vollzugsanweisung des Staatsamtes für Handel und Gewerbe, Industrie und Bauten über die Durchführungsbestimmungen zum Sachabrüstungsenteignungsgesetz</ref></item>
+                  <item><ref target="#krp-0194_top07">Zu TOP 7</ref>: <ref target="#krp-0194_b07">Gesetzesentwurf über einige Bestimmungen zur Versorgung der Bevölkerung mit Bedarfsgegenständen mit Motivenbericht</ref></item>
+                  <item><ref target="#krp-0194_top08">Zu TOP 8</ref>: <ref target="#krp-0194_b08">Gesetzesentwurf über einige Abänderungen und Ergänzungen zu Bestimmungen zur Errichtung von Einigungsämtern für Streitigkeiten aus bestimmten Lieferungsverträgen mit Motivenbericht</ref></item>
+                  <item><ref target="#krp-0194_top09">Zu TOP 9</ref>: <ref target="#krp-0194_b09">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht Zl. 24.713/1920 über den Gesetzesbeschluss des Salzburger Landtages zur Abänderung des § 27 des Gemeindestatuts für die Landeshauptstadt Salzburg</ref></item>
+                  <item><ref target="#krp-0194_top10">Zu TOP 10</ref>: <ref target="#krp-0194_b10">Vortrag des Unterstaatssekretärs für Unterricht zu Zl. 11.773/III-9 über den Gesetzesbeschluss des Tiroler Landtages zur Abänderung des § 60 des Landesschulgesetzes für Tirol vom 30. Jänner 1920, LGBl. Nr. 60</ref></item>
+                  <item><ref target="#krp-0194_top11">Zu TOP 11</ref>: <ref target="#krp-0194_b11">Vortrag des Unterstaatssekretärs für Unterricht zu Zl. 11.484/20 über den Gesetzesbeschluss des Oberösterreichischen Landtages zur Abänderung einiger Gesetzesbestimmungen</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -386,24 +363,14 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Ramek</hi> teilt mit, der Staatskanzler habe den Auftrag erteilt, dass möglichst bald Verhandlungen mit dem Deutschen Reiche über rechtspolitische Verträge eingeleitet werden. Bei der großen Tragweite der wirtschaftlichen Beziehungen des Deutschen Reiches und Österreichs und bei der großen Bedeutung der rechtspolitischen Verträge und Vereinbarungen für den wirtschaftlichen Verkehr, lege auch der sprechende Staatssekretär den größten Wert darauf, dass solche Verhandlungen ohne Verzug eingeleitet werden. Die Verhandlungen seien umso wichtiger, als über den Bestand der bisherigen Vereinbarungen zwischen der ehemaligen österreichisch-ungarischen Monarchie und dem Deutschen Reiche Zweifel bestehen und so manche von den Verträgen und Vereinbarungen nicht mehr den heutigen politischen und rechtlichen Verhältnissen entsprechen. Es handle sich um vier Verträge u. zw.: </p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label>
-                        <hi rend="#u">Rechtshilfevertrag</hi>. Der Entwurf eines solchen Vertrages <pb facs="krp-0194_r-0014"/>sei im Justizministerium schon vor Jahrzehnten ausgearbeitet worden. Die schriftlichen Verhandlungen über einen umfassenden Rechtshilfevertrag reichen auf mehr als 40 Jahre zurück und seien bisher nie zum Abschlusse gekommen. Dieser Rechtshilfevertrag solle den Rechtsschutz, die Rechtshilfe für Zustellungen, die Feststellung der geltenden Bestimmungen des Haager Prozessübereinkommens mit besonderen Erleichterungen zwischen den vertragschließenden Teilen (Portofreiheit, gegenseitige Aufhebung der Kosten für Zeugeneinvernehmung), sodann Bestimmungen über die Vollstreckungsrechtshilfe und Bestimmungen über das internationale Konkursrecht umfassen. Der Entwurf eines solchen Vertrages sei im Staatsamte für Justiz ausgearbeitet worden und habe die Zustimmung aller beteiligten Staatsämter erhalten. </item>
-                     <item n="2">
-                        <label>2.)</label>
-                        <hi rend="#u">Beglaubigungsvertrag.</hi> Der bisherige Legalisierungsvertrag vom 25. Februar 1880, RGBl. Nr. 85, sei veraltet und entspreche nicht mehr den heutigen Verhältnissen. Es solle ein neuer Vertrag geschlossen werden, der für öffentliche Urkunden von jeder weiteren Beglaubigung absieht. Für Reisepässe und Legitimationen der Handlungsreisenden sollen die bisherigen Vorschriften aufrecht bleiben. </item>
-                     <item n="3">
-                        <label>3.)</label>
-                        <hi rend="#u">Verlassenschaftsvertrag.</hi> Der Rechtszustand sei hier sehr unbefriedigend, die deutsche Regierung habe wiederholt den Abschluss eines Rechtshilfevertrages verlangt. Im Staatsamte für Justiz wäre schon <pb facs="krp-0194_r-0015"/>vor fünf Jahren ein solcher Vertrag ausgearbeitet worden, der auch die Zustimmung aller beteiligten Staatsämter gefunden habe. </item>
-                     <item n="4">
-                        <label>4.)</label>
-                        <hi rend="#u">Auslieferungsvertrag.</hi> Der Bundesratsbeschluss vom 25. Jänner 1854 entspreche nicht mehr den heutigen politischen Verhältnissen und den heute herrschenden Anschauungen im Gebiete des internationalen Strafrechtes. Das Staatsamt für Justiz schlage daher vor, dass mit dem Deutschen Reich ein neuer Auslieferungsvertrag geschlossen wird, der sich den schweizerischen Auslieferungsvertrag zum Vorbilde nehmen soll; dabei seien jedoch einige Änderungen in der Frage der Auslieferungsdelikte vorzunehmen; in der Frage des Asylrechtes und des Grundsatzes der Nichtauslieferung wegen politischer Delikte wären die Bestimmungen aufzunehmen, die das schweizerische Auslieferungsgesetz vom 22. Jänner 1892 und die Auslieferungsverträge, welche die Schweiz mit europäischen Staaten abgeschlossen hat, enthalten.</item>
+                     <item n="1"><label>1.)</label> <hi rend="#u">Rechtshilfevertrag</hi>. Der Entwurf eines solchen Vertrages <pb facs="krp-0194_r-0014"/>sei im Justizministerium schon vor Jahrzehnten ausgearbeitet worden. Die schriftlichen Verhandlungen über einen umfassenden Rechtshilfevertrag reichen auf mehr als 40 Jahre zurück und seien bisher nie zum Abschlusse gekommen. Dieser Rechtshilfevertrag solle den Rechtsschutz, die Rechtshilfe für Zustellungen, die Feststellung der geltenden Bestimmungen des Haager Prozessübereinkommens mit besonderen Erleichterungen zwischen den vertragschließenden Teilen (Portofreiheit, gegenseitige Aufhebung der Kosten für Zeugeneinvernehmung), sodann Bestimmungen über die Vollstreckungsrechtshilfe und Bestimmungen über das internationale Konkursrecht umfassen. Der Entwurf eines solchen Vertrages sei im Staatsamte für Justiz ausgearbeitet worden und habe die Zustimmung aller beteiligten Staatsämter erhalten. </item>
+                     <item n="2"><label>2.)</label> <hi rend="#u">Beglaubigungsvertrag.</hi> Der bisherige Legalisierungsvertrag vom 25. Februar 1880, RGBl. Nr. 85, sei veraltet und entspreche nicht mehr den heutigen Verhältnissen. Es solle ein neuer Vertrag geschlossen werden, der für öffentliche Urkunden von jeder weiteren Beglaubigung absieht. Für Reisepässe und Legitimationen der Handlungsreisenden sollen die bisherigen Vorschriften aufrecht bleiben. </item>
+                     <item n="3"><label>3.)</label> <hi rend="#u">Verlassenschaftsvertrag.</hi> Der Rechtszustand sei hier sehr unbefriedigend, die deutsche Regierung habe wiederholt den Abschluss eines Rechtshilfevertrages verlangt. Im Staatsamte für Justiz wäre schon <pb facs="krp-0194_r-0015"/>vor fünf Jahren ein solcher Vertrag ausgearbeitet worden, der auch die Zustimmung aller beteiligten Staatsämter gefunden habe. </item>
+                     <item n="4"><label>4.)</label> <hi rend="#u">Auslieferungsvertrag.</hi> Der Bundesratsbeschluss vom 25. Jänner 1854 entspreche nicht mehr den heutigen politischen Verhältnissen und den heute herrschenden Anschauungen im Gebiete des internationalen Strafrechtes. Das Staatsamt für Justiz schlage daher vor, dass mit dem Deutschen Reich ein neuer Auslieferungsvertrag geschlossen wird, der sich den schweizerischen Auslieferungsvertrag zum Vorbilde nehmen soll; dabei seien jedoch einige Änderungen in der Frage der Auslieferungsdelikte vorzunehmen; in der Frage des Asylrechtes und des Grundsatzes der Nichtauslieferung wegen politischer Delikte wären die Bestimmungen aufzunehmen, die das schweizerische Auslieferungsgesetz vom 22. Jänner 1892 und die Auslieferungsverträge, welche die Schweiz mit europäischen Staaten abgeschlossen hat, enthalten.</item>
                   </list>
                   <p>Redner beabsichtige, den Ministerialrat Dr. Gustav Walker behufs Einleitung mündlicher Verhandlungen über den Abschluss dieser Verträge nach Berlin zu entsenden.</p>
                   <p>Die Ausführungen des Staatssekretärs für Justiz finden die Billigung des Kabinettsrates. </p>
-                  <p>
-                     <pb facs="krp-0194_r-0016"/>
-                  </p>
+                  <p><pb facs="krp-0194_r-0016"/></p>
                </div>
                <div type="top" xml:id="krp-0194_top06">
                   <head>
@@ -455,9 +422,7 @@
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> führt aus, der Tiroler Landtag habe in seiner Sit<pb facs="krp-0194_r-0019"/>zung vom 17. April d. J. einen Beschluss gefasst, womit der zweite Absatz des § 66 des Landesschulgesetzes für Tirol vom 30. Jänner 1920, LGBl. Nr. 60, abgeändert wird. Gemäß der abzuändernden Gesetzesbestimmung habe der Stammgehalt der mit dem Lehrbefähigungszeugnisse für Bürgerschulen versehenen Lehrkräfte an Bürgerschulen gegenüber den Lehrkräften an allgemeinen Volksschulen jeweils um 2/6 des Grundgehaltes höher zu sein. Laut des vorliegenden Gesetzesbeschlusses wäre diese Bestimmung, dahin zu fassen, dass das Stammgehalt der mit dem Lehrbefähigungszeugnisse für Bürgerschulen versehenen Lehrkräfte an Bürgerschulen gegenüber den Lehrkräften an allgemeinen Volksschulen jeweils um 4/6 des Grundgehaltes höher zu sein haben. Diese beabsichtigte materielle Besserstellung höher qualifizierter Lehrkräfte könne nur begrüßt werden und bestehe gegen den vorliegenden Gesetzesbeschluss sohin keinerlei Bedenken.</p>
                   <p>Redner stelle daher den Antrag, ihn zu ermächtigen, der Landesregierung für Tirol mitzuteilen, dass gegen den Gesetzesbeschluss ein Anstand nicht obwalte und die Staatsregierung seiner sofortigen Kundmachung zustimme.</p>
                   <p>Der Kabinettsrat erhebt diesen Antrag zum Beschluss.</p>
-                  <p>
-                     <pb facs="krp-0194_r-0020"/>
-                  </p>
+                  <p><pb facs="krp-0194_r-0020"/></p>
                </div>
                <div type="top" xml:id="krp-0194_top11">
                   <head>
@@ -475,8 +440,7 @@
                   <p>§ 3 verfüge eine analoge Anwendung des Pensionistengesetzes und der Hinterbliebenenversorgungsnovelle für Staatsbeamte auf die Lehrerpensionisten, bzw. die Hinterbliebenen nach Lehrern, § 4 verdopple die Ruhegenüsse der mit Remuneration angestellten Handarbeitslehrerinnen.</p>
                   <p>Über die Bedeckung der vom Standpunkte der Unterrichtsverwaltung sehr zu begrüßenden Maßnahmen enthalte der beiliegende Bericht des Finanz- und Schulausschusses keine Angaben.</p>
                   <p>Bemerkt müsse werden, dass nach dem Besoldungsübergangsnachtragsgesetz der Staat lediglich einen Zuschuss zu den Dienstesbezügen der Lehrerschaft der Volks- und Bürgerschulen leiste, nicht aber zu den Ruhegenüssen; die im § 2 genannten Zulagen und Remunerationen würden demnach, da die Staatsbeamten derartige Bezüge nicht haben, zur Gänze die Finanzen des Landes belasten.</p>
-                  <p>
-                     <pb facs="krp-0194_r-0022"/>Gemäß § 5 sollen die von Lehrern und Pensionisten aus ihren Dienstesbezügen zu entrichtenden Steuern, Gebühren etc. in Hinkunft vom Lande zur Zahlung und zwar für solange übernommen werden, als der Staat diese Ausgaben auch für seine Beamte bestreitet.</p>
+                  <p><pb facs="krp-0194_r-0022"/>Gemäß § 5 sollen die von Lehrern und Pensionisten aus ihren Dienstesbezügen zu entrichtenden Steuern, Gebühren etc. in Hinkunft vom Lande zur Zahlung und zwar für solange übernommen werden, als der Staat diese Ausgaben auch für seine Beamte bestreitet.</p>
                   <p>Nach § 6 habe der Landesrat künftighin jede in der Folge stattfindende Regelung der Bezüge und Ruhegenüsse der Staatsbeamten für die Lehrer analog – und zwar gegen nachträgliche Genehmigung des Landtages – in Durchführung zu bringen. Da hier die Pflicht des Landesrates zur Vornahme der Angleichung festgelegt werde, habe die verlangte nachträgliche Genehmigung nur formalen Charakter.</p>
                   <p>Endlich werde im § 7 die Bestimmung des § 92 Abs. 2 des Gesetzes vom 15. April 1919, LGBl. Nr. 102, dass an Mädchenschulen nur weibliche Lehrkräfte angestellt werden dürfen, dahin eingeschränkt, dass diese Bestimmung auf die Oberlehrer- bzw. Direktorstellen an Mädchenschulen keine Anwendung finde. Hiedurch soll den männlichen Lehrkräften der Zutritt zu den leitenden Stellen an Mädchenschulen wieder ermöglicht werden, da, wenn auch anerkannt werden muss, dass einige der mit der Leitung von Schulen betrauten weiblichen Lehrkräfte ihre Posten zur vollsten Zufriedenheit erfüllen, doch in der Mehrzahl der Fälle die weiblichen Lehrkräfte in leitenden Stellen mangels erforderlicher Auto<pb facs="krp-0194_r-0023"/>rität und vielfach auch mangels physischer Kraft beim besten Willen und großem Fleiße nicht immer in der Lage waren, ihre Stellen mit demselben Erfolge auszufüllen, wie männliche Leiter.</p>
                   <p>Gegen die vorgenannten Bestimmungen ergeben sich vom Standpunkte des Unterrichtsamtes keinerlei Bedenken.</p>
@@ -490,8 +454,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0194_a01-0002"/>Anhang zum Kabinettsprotokoll Nr. 194 vom 22. Juni 1920.</p>
+               <p><pb facs="krp-0194_a01-0002"/>Anhang zum Kabinettsprotokoll Nr. 194 vom 22. Juni 1920.</p>
                <div n="1">
                   <head/>
                   <div type="a01_protokoll">

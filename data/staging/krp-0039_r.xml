@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0039.xml">
             <head type="dokument">
-               <title type="num">39.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">39.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0039_r-0001"/>[Mittwoch] 1919-02-12</title>
@@ -281,18 +280,10 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0039_top06">Zu TOP 6</ref>: <ref target="#krp-0039_b01">Vollzugsanweisung des Staatsamtes für soziale Fürsorge zur Unterstützung arbeitsloser Arbeiter</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0039_top06">Zu TOP 6</ref>: <ref target="#krp-0039_b02">Vollzugsanweisung des Staatsamtes für soziale Fürsorge zur Unterstützung arbeitsloser Angestellten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0039_top09">Zu TOP 9</ref>: <ref target="#krp-0039_b03">Antrag des Landesschulrates für Steiermark auf Bewilligung einer Ausnahme vom Sammlungsverbot in den Schulen zu Gunsten der Waisenkinderversicherung gefallener Mannschaftspersonen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0039_top10">Zu TOP 10</ref>: <ref target="#krp-0039_b04">Antrag des Staatsamtes für Unterricht über Wunsch des Staatsamtes für Finanzen auf Auflassung des Tabulareigentums des oberösterreichischen Religionsfonds an der ehemaligen Karmeliterkirche Linz zugunsten der Linzer Barmherzigen Brüder</ref>
-                  </item>
+                  <item><ref target="#krp-0039_top06">Zu TOP 6</ref>: <ref target="#krp-0039_b01">Vollzugsanweisung des Staatsamtes für soziale Fürsorge zur Unterstützung arbeitsloser Arbeiter</ref></item>
+                  <item><ref target="#krp-0039_top06">Zu TOP 6</ref>: <ref target="#krp-0039_b02">Vollzugsanweisung des Staatsamtes für soziale Fürsorge zur Unterstützung arbeitsloser Angestellten</ref></item>
+                  <item><ref target="#krp-0039_top09">Zu TOP 9</ref>: <ref target="#krp-0039_b03">Antrag des Landesschulrates für Steiermark auf Bewilligung einer Ausnahme vom Sammlungsverbot in den Schulen zu Gunsten der Waisenkinderversicherung gefallener Mannschaftspersonen</ref></item>
+                  <item><ref target="#krp-0039_top10">Zu TOP 10</ref>: <ref target="#krp-0039_b04">Antrag des Staatsamtes für Unterricht über Wunsch des Staatsamtes für Finanzen auf Auflassung des Tabulareigentums des oberösterreichischen Religionsfonds an der ehemaligen Karmeliterkirche Linz zugunsten der Linzer Barmherzigen Brüder</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -306,13 +297,10 @@
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass in Angelegenheit der am 4. Februar d. J. vom akademischen Senat der Wiener Universität beschlossenen Ausschließung der südslawischen Studenten von der <pb facs="krp-0039_r-0003"/>Universität der Dekan der juristischen Fakultät dieser Hochschule eine Vorstellung erhoben habe, worin er ausführt, dass dieser Beschluss geeignet sei, die Stellung der Wiener Universität als kulturelles Zentrum in hohem Maße zu schädigen. In der gleichen Angelegenheit habe ferner eine Deputation der jugoslawischen, der tschechoslowakischen und der sozialdemokratischen Studentenorganisationen vorgesprochen, die ebenfalls die Aufhebung des in Rede stehenden Senatsbeschlusses, und zwar bis zum 14. Februar mittags gefordert und überdies das Verlangen gestellt habe, dass an der Universität ein aufgrund des gleichen allgemeinen proportionalen Wahlrechtes zu bildender Studentenausschuss eingesetzt werde.</p>
                   <p>Der Vorsitzende halte die Bedenken, welche gegen den Beschluss des akademischen Senates geltend gemacht werden, für berechtigt und würde sich auch von seinem Standpunkte für die Einsetzung von Hochschulausschüssen aussprechen, weil er glaube, dass auf diesem Wege die Verhandlungen über Wünsche und Beschwerden der Studentenschaft in geordnete Bahnen gelenkt und viele Schwierigkeiten leichter überwunden werden könnten.</p>
-                  <p>
-                     <pb facs="krp-0039_r-0004"/>Staatssekretär <hi rend="#letterspaced">Pacher</hi> teilt mit, dass der erwähnte Beschluss des akademischen Senates den Gegenstand einer Besprechung im Staatsamt für Unterricht mit den Rektoren der Wiener Hochschulen im Beisein des Staatssekretärs Dr. Bauer gebildet habe, welche aufgrund der Darlegungen des Staatssekretärs Dr. Bauer zu dem Ergebnis führte, dass der Senatsbeschluss zwar genehmigend zur Kenntnis zu nehmen wäre, hiebei jedoch vorausgesetzt werde, dass sich die Geltung dieses Beschlusses nicht auf alle jugoslawischen, sondern lediglich auf die slowenischen Studenten beziehe und auf das Wintersemester 1918/19 eingeschränkt bleibe, dass ferner diese Studenten von der Ablegung der Prüfungen nicht ausgeschlossen seien. Hiemit würde sich auch eine Übereinstimmung in dem Vorgang an den übrigen Wiener Hochschulen ergeben. Diese Fassung des an die Rektorate der Wiener Hochschulen hinauszugebenden Erlasses habe auch die Zustimmung des jugoslawischen Bevollmächtigten gefunden. Die Frage des Hochschulausschusses sei eine Angelegenheit der Hochschulautonomie und es müsse daher den Hochschulen überlassen bleiben, hiezu Stellung zu nehmen.</p>
-                  <p>
-                     <pb facs="krp-0039_r-0005"/>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> warnt in eindringlicher Weise vor der Befolgung einer Repressalienpolitik, die unter den gegenwärtigen Verhältnissen niemals zum Ziele führe und unseren Interessen, da sie zweifellos neue Repressalien auf der Gegenseite auslösen würde, nur schweren Schaden zufügen könnte. Aus ähnlichen Erwägungen würde er auch glauben, dass es vorteilhaft wäre, der von tschechischer Seite erhobenen Forderung, dass die die tierärztliche Hochschule besuchenden Studenten zu Prüfungen zugelassen und eventuell für sie Parallelkurse außerhalb des Hochschulgebäudes eingerichtet werden, tunlichst Rechnung zu tragen.</p>
+                  <p><pb facs="krp-0039_r-0004"/>Staatssekretär <hi rend="#letterspaced">Pacher</hi> teilt mit, dass der erwähnte Beschluss des akademischen Senates den Gegenstand einer Besprechung im Staatsamt für Unterricht mit den Rektoren der Wiener Hochschulen im Beisein des Staatssekretärs Dr. Bauer gebildet habe, welche aufgrund der Darlegungen des Staatssekretärs Dr. Bauer zu dem Ergebnis führte, dass der Senatsbeschluss zwar genehmigend zur Kenntnis zu nehmen wäre, hiebei jedoch vorausgesetzt werde, dass sich die Geltung dieses Beschlusses nicht auf alle jugoslawischen, sondern lediglich auf die slowenischen Studenten beziehe und auf das Wintersemester 1918/19 eingeschränkt bleibe, dass ferner diese Studenten von der Ablegung der Prüfungen nicht ausgeschlossen seien. Hiemit würde sich auch eine Übereinstimmung in dem Vorgang an den übrigen Wiener Hochschulen ergeben. Diese Fassung des an die Rektorate der Wiener Hochschulen hinauszugebenden Erlasses habe auch die Zustimmung des jugoslawischen Bevollmächtigten gefunden. Die Frage des Hochschulausschusses sei eine Angelegenheit der Hochschulautonomie und es müsse daher den Hochschulen überlassen bleiben, hiezu Stellung zu nehmen.</p>
+                  <p><pb facs="krp-0039_r-0005"/>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> warnt in eindringlicher Weise vor der Befolgung einer Repressalienpolitik, die unter den gegenwärtigen Verhältnissen niemals zum Ziele führe und unseren Interessen, da sie zweifellos neue Repressalien auf der Gegenseite auslösen würde, nur schweren Schaden zufügen könnte. Aus ähnlichen Erwägungen würde er auch glauben, dass es vorteilhaft wäre, der von tschechischer Seite erhobenen Forderung, dass die die tierärztliche Hochschule besuchenden Studenten zu Prüfungen zugelassen und eventuell für sie Parallelkurse außerhalb des Hochschulgebäudes eingerichtet werden, tunlichst Rechnung zu tragen.</p>
                   <p>Was die Frage des Hochschulausschusses anbelange, so sei das ein altes Streitobjekt. Da die deutschnationale Studentenschaft dagegen sei, dürfte es seiner Ansicht nach nicht möglich sein, diese Frage im Rahmen der Hochschulautonomie zu lösen; es würde sich vielmehr als notwendig erweisen, dass das Staatsamt für Unterricht ein Regulativ an alle Hochschulen für die Bildung von Studentenausschüssen erlasse.</p>
-                  <p>Nach einer eingehenden Debatte, an welcher sich die Staatssekretäre <hi rend="#letterspaced">Hanusch</hi> und Dr. <hi rend="#letterspaced">Roller</hi> sowie die Unterstaatssekretäre <hi rend="#letterspaced">Marckhl</hi>
-                     <pb facs="krp-0039_r-0006"/>und Dr. von <hi rend="#letterspaced">Beck</hi> beteiligten, genehmigt der Kabinettsrat die vom Staatssekretär Pacher beantragte Fassung des an die Hochschulen hinauszugebenden Erlasses. Gleichzeitig wird das Staatsamt für Unterricht ersucht, mit den Rektoren der Hochschulen in der Frage der Einführung allgemeiner Hochschulausschüsse eine Besprechung abzuhalten.</p>
+                  <p>Nach einer eingehenden Debatte, an welcher sich die Staatssekretäre <hi rend="#letterspaced">Hanusch</hi> und Dr. <hi rend="#letterspaced">Roller</hi> sowie die Unterstaatssekretäre <hi rend="#letterspaced">Marckhl</hi> <pb facs="krp-0039_r-0006"/>und Dr. von <hi rend="#letterspaced">Beck</hi> beteiligten, genehmigt der Kabinettsrat die vom Staatssekretär Pacher beantragte Fassung des an die Hochschulen hinauszugebenden Erlasses. Gleichzeitig wird das Staatsamt für Unterricht ersucht, mit den Rektoren der Hochschulen in der Frage der Einführung allgemeiner Hochschulausschüsse eine Besprechung abzuhalten.</p>
                </div>
                <div type="top" xml:id="krp-0039_top02">
                   <head>
@@ -322,10 +310,8 @@
                      </label>
                   </head>
                   <p>Unterstaatssekretär Dr. von Beck erbittet die Genehmigung des Kabinettsrates für folgende am 30. Jänner d. J. mit Vertretern des tschechoslowakischen Finanzministeriums getroffene Vereinbarung:</p>
-                  <p>„Die behufs Fortzahlung der Beihilfen an die enthobenen, ehemals österreichischen Staatsbediensteten für den Monat Februar 1919 getroffene Vereinbarung zwischen der tschechoslowakischen Republik einerseits und der deutschösterreichischen Republik andererseits erstreckt sich unter gleichen Voraussetzungen, insbesonders der Bedingung der Gegenseitigkeit und unter Vorbehalt der Genehmigung beider Regierungen auch auf die Zahlung eines im Monate Februar 1919 in den beiden Staaten gewährten einmaligen Zuschusses zu den Teuerungszulagen im Ausmaße des im Monat November 1918 an die ehemals österreichischen Staatsbediensteten ausgezahlten Betrages.<hi rend="superscript" xml:space="preserve">“ </hi>
-                  </p>
-                  <p>
-                     <pb facs="krp-0039_r-0007"/>Der Kabinettsrat nimmt diese Vereinbarung genehmigend zur Kenntnis.</p>
+                  <p>„Die behufs Fortzahlung der Beihilfen an die enthobenen, ehemals österreichischen Staatsbediensteten für den Monat Februar 1919 getroffene Vereinbarung zwischen der tschechoslowakischen Republik einerseits und der deutschösterreichischen Republik andererseits erstreckt sich unter gleichen Voraussetzungen, insbesonders der Bedingung der Gegenseitigkeit und unter Vorbehalt der Genehmigung beider Regierungen auch auf die Zahlung eines im Monate Februar 1919 in den beiden Staaten gewährten einmaligen Zuschusses zu den Teuerungszulagen im Ausmaße des im Monat November 1918 an die ehemals österreichischen Staatsbediensteten ausgezahlten Betrages.<hi rend="superscript" xml:space="preserve">“ </hi></p>
+                  <p><pb facs="krp-0039_r-0007"/>Der Kabinettsrat nimmt diese Vereinbarung genehmigend zur Kenntnis.</p>
                </div>
                <div type="top" xml:id="krp-0039_top03">
                   <head>
@@ -389,19 +375,13 @@
                   <p>Staatssekretär Hanusch weist darauf hin, dass bei der Geschäftsführung des österreichischen Militär-Witwen- und Waisenfonds Erscheinungen zutage getreten seien, welche bei dem Umstande als Vertreter von sieben Staatsämtern dem Vorstande und dem Arbeitsausschuss angehören, die Frage notwendig erscheinen lasse, welche Stellung künftighin die Regierung dem Fonds gegenüber einnehmen solle. Vor allem sei es die enge Verquickung des Fonds mit der Versicherungsgesellschaft „Österreichischer Phönix“, die zu vielfachen Beanständungen in der Öffentlichkeit Anlass gegeben habe, zumal die Leitung dieses Versicherungsunternehmens einen erheblichen Einfluss auf die Geschäftsfüh<pb facs="krp-0039_r-0013"/>rung der Zentrale des Fonds genommen habe. Auch bediene sich der Fonds bei der Besorgung seiner Agenden zweifelhafter Elemente, die zu hohen materiellen Bedingungen angestellt und nicht geeignet seien, das Vertrauen in eine klaglose Geschäftsführung zu erwecken. Zudem strebe der Verein an, sich durch eine in der nächsten Vollversammlung zu beschließende Statutenänderung eine völlig autonome Grundlage zu schaffen und sich von allen einschränkenden Fesseln zu befreien, insbesondere wäre der Präsident (bisher vom Kaiser ernannt) künftighin aus der Vollversammlung zu wählen und hätten die sieben Vertreter der Staatsämter aus dem Vorstande auszuscheiden.</p>
                   <p>Der sprechende Staatssekretär stellt den Antrag, der Kabinettsrat wolle beschließen:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Das Staatsamt für soziale Fürsorge wird ermächtigt:</item>
-                     <item n="2">
-                        <label>a)</label> den Erlass des Ministeriums des Innern vom 8. März 1916, Zl. 4988, mit welchem der Österreichische Militär-Witwen- und Waisenfonds als Zentralstelle der freiwilligen Kriegerwitwen- und Waisenfürsorge in Österreich anerkannt wurde, durch einen Erlass an die politischen Behörden außer Kraft zu setzen;</item>
+                     <item n="1"><label>1.)</label> Das Staatsamt für soziale Fürsorge wird ermächtigt:</item>
+                     <item n="2"><label>a)</label> den Erlass des Ministeriums des Innern vom 8. März 1916, Zl. 4988, mit welchem der Österreichische Militär-Witwen- und Waisenfonds als Zentralstelle der freiwilligen Kriegerwitwen- und Waisenfürsorge in Österreich anerkannt wurde, durch einen Erlass an die politischen Behörden außer Kraft zu setzen;</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0039_r-0014"/>
-                  </p>
+                  <p><pb facs="krp-0039_r-0014"/></p>
                   <list>
-                     <item n="1">
-                        <label>b)</label> die über die Vermögensgebarung des Militär-Witwen- und Waisenfonds verhängte Sperre aufzuheben.</item>
-                     <item n="2">
-                        <label>2.)</label> Die in Betracht kommenden Staatsämter werden angewiesen, ihre Vertreter aus dem Vorstande und dem Arbeitsausschusse des Österreichischen Militär-Witwen- und Waisenfonds gleichzeitig zurückzuziehen und hievon unter einem den Verein zu verständigen.</item>
+                     <item n="1"><label>b)</label> die über die Vermögensgebarung des Militär-Witwen- und Waisenfonds verhängte Sperre aufzuheben.</item>
+                     <item n="2"><label>2.)</label> Die in Betracht kommenden Staatsämter werden angewiesen, ihre Vertreter aus dem Vorstande und dem Arbeitsausschusse des Österreichischen Militär-Witwen- und Waisenfonds gleichzeitig zurückzuziehen und hievon unter einem den Verein zu verständigen.</item>
                   </list>
                   <p>Der Kabinettsrat erhebt diese Anträge zum Beschluss und ersucht gleichzeitig das Staatsamt des Innern, das Aufsichtsrecht über diesen Verein in nachdrücklicher Weise zu handhaben.</p>
                </div>
@@ -427,19 +407,13 @@
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Pacher</hi> teilt mit, dass der Provinzial der barmherzigen Brüder um Auflassung des Tabulareigentums des oberösterreichischen Religionsfonds an der vom Konvente der barmherzigen Brüder benützten ehemaligen Karmelitinnenkirche in Linz zu Gunsten dieses Konventes gebeten habe.</p>
                   <p>Von der genannten Kirche habe der Religionsfonds nichts als die nuda proprietas und müsse bei Auftreten anfälliger größerer Baugebrechen die Kosten der notwendigen Instandsetzung aus eigenen Mitteln bestreiten. </p>
-                  <p>
-                     <pb facs="krp-0039_r-0017"/>Das Staatsamt für Unterricht beabsichtige daher, im Einvernehmen mit dem Staatsamte der Finanzen der Landesregierung für Oberösterreich zu eröffnen, dass gegen die allfällige unentgeltliche Auflassung des Tabulareigentums des oberösterreichischen Religionsfonds an der ehemaligen Karmelitinnenkirche in Linz zugunsten des Konventes der Barmherzigen Brüder daselbst im Wesentlichen keine Bedenken obwalten. Die gegenständliche Transaktion könnte jedoch nur dann ins Auge gefasst werden, wenn sich der Konvent verpflichte:</p>
+                  <p><pb facs="krp-0039_r-0017"/>Das Staatsamt für Unterricht beabsichtige daher, im Einvernehmen mit dem Staatsamte der Finanzen der Landesregierung für Oberösterreich zu eröffnen, dass gegen die allfällige unentgeltliche Auflassung des Tabulareigentums des oberösterreichischen Religionsfonds an der ehemaligen Karmelitinnenkirche in Linz zugunsten des Konventes der Barmherzigen Brüder daselbst im Wesentlichen keine Bedenken obwalten. Die gegenständliche Transaktion könnte jedoch nur dann ins Auge gefasst werden, wenn sich der Konvent verpflichte:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> die Kirche stets auf eigene Kosten im guten Bauzustande zu erhalten, sowie ohne Zustimmung der Zentralkommission für Denkmalpflege, beziehungsweise des Landes-Denkmalamtes keinerlei Veränderungen am Baubestande und der Einrichtung vorzunehmen;</item>
-                     <item n="2">
-                        <label>2.)</label> diese Kirche auch weiterhin für immerwährende Zeiten dem öffentlichen Gottesdienste gewidmet zu halten;</item>
-                     <item n="3">
-                        <label>3.)</label> ausdrücklich für alle Zeiten auf jegliche Beitragsleistung des Religionsfonds oder des Staatsschatzes zu den Kosten der Erhaltung der Kirche und deren Einrichtung zu verzichten und</item>
-                     <item n="4">
-                        <label>4.)</label> sämtliche mit der Übertragung <pb facs="krp-0039_r-0018"/>des Tabulareigentums an den Konvent etwa verbundene Kosten zu tragen.</item>
-                     <item n="5">
-                        <label>5.)</label> Auch werde ein grundbücherlich sicherzustellender Vorbehalt hinsichtlich einer etwaigen künftigen Heranziehung der Kirche zum Schulgottesdienst zu machen sein.</item>
+                     <item n="1"><label>1.)</label> die Kirche stets auf eigene Kosten im guten Bauzustande zu erhalten, sowie ohne Zustimmung der Zentralkommission für Denkmalpflege, beziehungsweise des Landes-Denkmalamtes keinerlei Veränderungen am Baubestande und der Einrichtung vorzunehmen;</item>
+                     <item n="2"><label>2.)</label> diese Kirche auch weiterhin für immerwährende Zeiten dem öffentlichen Gottesdienste gewidmet zu halten;</item>
+                     <item n="3"><label>3.)</label> ausdrücklich für alle Zeiten auf jegliche Beitragsleistung des Religionsfonds oder des Staatsschatzes zu den Kosten der Erhaltung der Kirche und deren Einrichtung zu verzichten und</item>
+                     <item n="4"><label>4.)</label> sämtliche mit der Übertragung <pb facs="krp-0039_r-0018"/>des Tabulareigentums an den Konvent etwa verbundene Kosten zu tragen.</item>
+                     <item n="5"><label>5.)</label> Auch werde ein grundbücherlich sicherzustellender Vorbehalt hinsichtlich einer etwaigen künftigen Heranziehung der Kirche zum Schulgottesdienst zu machen sein.</item>
                   </list>
                   <p>Sollte der Konvent sich bereit erklären, auf diese Bedingungen einzugehen, so würde die Länderregierung für Oberösterreich ermächtigt werden, unter Mitwirkung der Finanzprokuratur einen Vertragsentwurf abzufassen und denselben an das Staatsamt für Unterricht vorzulegen.</p>
                   <p>Der Kabinettsrat genehmigt die beabsichtigten Verfügungen.</p>
@@ -447,8 +421,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0039_a01-0001"/>Streng vertraulicher Anhang zu dem Kabinettsprotokoll Nr. 39 vom 11. Februar 1919.</p>
+               <p><pb facs="krp-0039_a01-0001"/>Streng vertraulicher Anhang zu dem Kabinettsprotokoll Nr. 39 vom 11. Februar 1919.</p>
                <div n="1">
                   <head/>
                   <div type="a01_protokoll">

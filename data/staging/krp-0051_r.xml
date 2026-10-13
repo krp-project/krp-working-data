@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0051.xml">
             <head type="dokument">
-               <title type="num">51.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">51.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0051_r-0001"/>
@@ -282,12 +281,8 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0051_top07">Zu TOP 7</ref>: <ref target="#krp-0051_b01">Antrag des Staatsamtes für Heereswesen auf ein Statut für die zu errichtende Staatskommission für Kriegsgefangenenangelegenheiten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0051_top10">Zu TOP 10</ref>: <ref target="#krp-0051_b02">Antrag des Staatsamtes für Heereswesen auf Ergänzung der Richtlinien für zum Eintritt in die tschechoslowakische Armee verhaltenen Offiziere und Unteroffiziere</ref>
-                  </item>
+                  <item><ref target="#krp-0051_top07">Zu TOP 7</ref>: <ref target="#krp-0051_b01">Antrag des Staatsamtes für Heereswesen auf ein Statut für die zu errichtende Staatskommission für Kriegsgefangenenangelegenheiten</ref></item>
+                  <item><ref target="#krp-0051_top10">Zu TOP 10</ref>: <ref target="#krp-0051_b02">Antrag des Staatsamtes für Heereswesen auf Ergänzung der Richtlinien für zum Eintritt in die tschechoslowakische Armee verhaltenen Offiziere und Unteroffiziere</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -309,11 +304,9 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> erörtert im Anschlusse an seine Ausführungen in der letzten Kabinettsratssitzung neuerlich die Frage, ob die legislative Basis für eine derartige Erhöhung des Verbrauchszuckerpreises gegeben sei, dass auch jener Entgang hereingebracht werden könne, welchen der Staatsschatz dadurch erleide, dass die tschechoslowakische Regierung die Überweisung der von ihr eingehobenen Zuckersteuer nach Deutschösterreich verweigert.</p>
-                  <p>Im Zuge der sich hierüber entwickelnden Debatte, an welcher sich außer dem Referenten noch der Vorsitzende, Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> und Sektionschef Dr. <hi rend="#letterspaced">Joas</hi>
-                     <pb facs="krp-0051_r-0004"/>beteiligten, tritt die einmütige Auffassung zutage, dass hiefür die Erlassung eines Gesetzes nicht zu umgehen sein werde. Dieses Gesetz werde sich jedoch nicht bloß auf die Einhebung einer Verbrauchsabgabe für Zucker zu beschränken haben, sondern hätte aus Zweckmäßigkeitsgründen alle Verbrauchssteuergegenstände und Gegenstände des Staatsmonopols, die nach Deutschösterreich in den freien Verkehr eingeführt werden, zu umfassen. Um jedoch eine zweimalige Preiserhöhung des Verbrauchszuckers innerhalb ganz kurzer Frist zu vermeiden, empfehle es sich, vor Inkrafttreten des erwähnten Gesetzes den Zuckerpreis bereits unter Einrechnung eines der Zuckersteuer gleichkommenden Betrages zu erstellen.</p>
+                  <p>Im Zuge der sich hierüber entwickelnden Debatte, an welcher sich außer dem Referenten noch der Vorsitzende, Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> und Sektionschef Dr. <hi rend="#letterspaced">Joas</hi> <pb facs="krp-0051_r-0004"/>beteiligten, tritt die einmütige Auffassung zutage, dass hiefür die Erlassung eines Gesetzes nicht zu umgehen sein werde. Dieses Gesetz werde sich jedoch nicht bloß auf die Einhebung einer Verbrauchsabgabe für Zucker zu beschränken haben, sondern hätte aus Zweckmäßigkeitsgründen alle Verbrauchssteuergegenstände und Gegenstände des Staatsmonopols, die nach Deutschösterreich in den freien Verkehr eingeführt werden, zu umfassen. Um jedoch eine zweimalige Preiserhöhung des Verbrauchszuckers innerhalb ganz kurzer Frist zu vermeiden, empfehle es sich, vor Inkrafttreten des erwähnten Gesetzes den Zuckerpreis bereits unter Einrechnung eines der Zuckersteuer gleichkommenden Betrages zu erstellen.</p>
                   <p>Demgemäß beschließt der Kabinettsrat, das Staatsamt für Volksernährung zu ermächtigen, bei Festsetzung der Zuckerpreise die Verbrauchsabgabe im Ausmaße von 54 K zugunsten des Staatsschatzes voll einzurechnen und eine mindestens 20%ige Agioreserve vom Einkaufspreise ab tschechischer Fabrik in Rechnung zu stellen, jedoch so, dass der Detailpreis in Wien für Weißzucker 5 K nicht übersteigt.</p>
-                  <p>
-                     <pb facs="krp-0051_r-0005"/>Gleichzeitig wird das Staatsaat für Finanzen beauftragt, den oberwähnten Gesetzentwurf in der nächsten Sitzung der Nationalversammlung einzubringen.</p>
+                  <p><pb facs="krp-0051_r-0005"/>Gleichzeitig wird das Staatsaat für Finanzen beauftragt, den oberwähnten Gesetzentwurf in der nächsten Sitzung der Nationalversammlung einzubringen.</p>
                </div>
                <div type="top" xml:id="krp-0051_top03">
                   <head>
@@ -340,8 +333,7 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> teilt mit, dass sich laut einer Nachricht der Schweizer Depeschenagentur der ehemalige Kaiser an den Schwei<pb facs="krp-0051_r-0010"/>zer Bundesrat mit dem Ersuchen gewendet habe, ihm den Aufenthalt in der Schweiz zu gestatten. Das politische Departement der Schweiz stehe diesem Wunsche sympathisch gegenüber. Nach Anschauung des sprechenden Staatssekretärs bestehe gegen die Veröffentlichung dieser Meldung in der Presse kein Bedenken, er hielte es jedoch für notwendig, bei diesem Anlasse regierungsseitig kundzugeben, dass das Ersuchen des ehemaligen Kaisers mit Wissen der deutschösterreichischen Regierung erfolgt sei, die es sowohl im Interesse der Republik als auch im Interesse der persönlichen Sicherheit des Kaisers für wünschenswert halte, dass der frühere Kaiser seinen Aufenthalt im Ausland nehme. Selbstverständlich werde im Falle der Abreise des Kaisers in die Schweiz dafür Sorge getragen werden, dass dieser Anlass von niemandem zur Verschleppung von Werten in das Ausland missbraucht werden könne.</p>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> berichtet über die Verhandlungen, die bezüglich der Aufenthaltsverlegung des früheren Kaisers zwischen der deutschösterreichischen Regierung und dem Oberstleutnant Cunningham gepflogen wurden.</p>
-                  <p>
-                     <pb facs="krp-0051_r-0011"/>Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> regt an, dass vor der Abreise des Kaisers noch die Abdankungsfrage geregelt werde.</p>
+                  <p><pb facs="krp-0051_r-0011"/>Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> regt an, dass vor der Abreise des Kaisers noch die Abdankungsfrage geregelt werde.</p>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> bemerkt demgegenüber, dass über die Frage, ob es zweckmäßig wäre, den ehemaligen Kaiser zur freiwilligen Abdankung zu veranlassen oder in der Nationalversammlung einen Antrag auf formale Aberkennung des Thrones zu stellen, noch keine endgiltige Entscheidung getroffen sei.</p>
                   <p>Der Kabinettsrat nimmt den Bericht des Staatssekretärs Dr. Bauer zur Kenntnis und ermächtig ihn, ein Kommuniqué im Sinne seiner Ausführungen zu veröffentlichen. </p>
                </div>
@@ -359,10 +351,8 @@
                   <p>Staatssekretär <hi rend="#letterspaced">Stöckler</hi> teilt mit, dass bezüglich der Holzaktien zwischen den beteiligten Staatsämtern volle Einigkeit bestehe und morgen eine Konferenz mit den Vertretern der Länder stattfinden werde.</p>
                   <p>Sektionsrat Dr. <hi rend="#letterspaced">Brauneis</hi> erörtert die Sicherstellungen, welche für das Dollaranlehen seitens der deutschösterreichischen Regierung gegeben werden sollen. In dieser Hinsicht käme in erster Linie der staatliche Salinenbesitz in Frage. Eine Schwierigkeit bestehe nur darin, dass dieser Salinenbesitz in den Grundbüchern als Eigentum des k. k. Ärars eingetragen sei und dass die Salinen zum Teil durch die bereits ausgegebenen Salinenscheine belastet seien. <pb facs="krp-0051_r-0014"/>Hieraus ergebe sich die Notwendigkeit:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die Umschreibung des Tabulareigentums an den Salinen vom k. k. Ärar auf das deutschösterreichische Ärar durch den Grundbuchsrichter zu veranlassen, bzw., falls dies nicht zu erwirken wäre, diesen Eigentumsübergang im Gesetzeswege festzulegen und</item>
-                     <item n="2">
-                        <label>2.)</label> um den neu auszugebenden Salinenscheinen den ersten Rang zu sichern, die alten Salinenscheine aufzukaufen und sie der Entente zur Verfügung zu stellen.</item>
+                     <item n="1"><label>1.)</label> Die Umschreibung des Tabulareigentums an den Salinen vom k. k. Ärar auf das deutschösterreichische Ärar durch den Grundbuchsrichter zu veranlassen, bzw., falls dies nicht zu erwirken wäre, diesen Eigentumsübergang im Gesetzeswege festzulegen und</item>
+                     <item n="2"><label>2.)</label> um den neu auszugebenden Salinenscheinen den ersten Rang zu sichern, die alten Salinenscheine aufzukaufen und sie der Entente zur Verfügung zu stellen.</item>
                   </list>
                   <p>Nach einer längeren Debatte, an welcher sich die Staatssekretäre Dr. <hi rend="#letterspaced">Schumpeter</hi> und Dr. <hi rend="#letterspaced">Bauer</hi> sowie der <hi rend="#letterspaced">Vorsitzende</hi> beteiligten, ermächtigt der Kabinettsrat das Staatsamt der Finanzen zur Durchführung der erforderlichen Maßnahmen.</p>
                </div>
@@ -404,7 +394,7 @@
                         <seg>Bestellung des gewesenen Staatssekretärs Rafael Pacher zum Präsidenten der Zentraldirektion der Schulbücherverläge.</seg>
                      </label>
                   </head>
-                  <p>Unterstaatssekretär <hi rend="#letterspaced">G1öckel</hi> erbittet und erhält die Zustimmung des Kabinettsrates zur Erwirkung der vertragsmäßigen Bestellung des gewesenen Staatssekretärs Rafael Pacher zum Präsidenten der Zentraldirektion der Schulbücherverläge mit den Bezügen der höchsten Gehaltsstufe der vierte Rangsklasse unter gleichzeitiger <pb facs="krp-0051_r-0018"/>Zuerkennung der entsprechenden Pensionsberechtigung.</p>
+                  <p>Unterstaatssekretär <hi rend="#letterspaced">G1öckel</hi> erbittet und erhält die Zustimmung des Kabinettsrates zur Erwirkung der vertragsmäßigen Bestellung des gewesenen Staatssekretärs Rafael Pacher zum Präsidenten der Zentraldirektion der Schulbücherverläge mit den Bezügen der höchsten Gehaltsstufe der vierte Rangsklasse unter gleichzeitiger  <pb facs="krp-0051_r-0018"/>Zuerkennung der entsprechenden Pensionsberechtigung.</p>
                </div>
                <div type="top" xml:id="krp-0051_top10">
                   <head>
@@ -415,24 +405,18 @@
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> teilt mit, dass gegen den Kabinettsratsbeschluss vom 6. März d. J., betreffend Richtlinien für die zum Eintritte in die tschechoslowakische Armee verhaltenen Offiziere und Unteroffiziere, von den in Betracht kommenden Militärpersonen mehrfache Einwendungen erhoben worden seien. Um diesen Einwendungen Rechnung zu tragen, beantrage das Staatsamt für Heer[es]wesen die beschlossenen Richtlinien abzuändern, wie folgt:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die deutschösterreichische Regierung gibt den nach den Gebieten der ehemaligen österreichischen Länder Böhmen, Mähren und Schlesien zuständigen Gagisten und längerdienenden Unteroffizieren, die sich zum Eintritt in die deutschösterreichische Wehrmacht gemeldet haben und sich nunmehr infolge der durch die tschechoslowakischen Verordnungen geschaffenen Zwangslage zum Eintritte in die tschechoslowakische Armee anmelden, die Zusicherung, dass ihnen soweit sie nachweislich deut<pb facs="krp-0051_r-0019"/>scher Nationalität sind, bei <hi rend="#u">Räumung der besetzten Gebiete</hi> durch die Tschechoslowaken aus dieser Anmeldung gegenüber den Übrigen deutschösterreichischen Gagisten und länger dienenden Unteroffizieren gleicher Kategorie <hi rend="#u">kein Nachteil</hi> erwächst, vorausgesetzt, dass die Anmeldung nach der Publikation der tschechoslowakischen Verfügung, d. i. nach dem 21. Februar 1919 erfolgt ist.</item>
-                     <item n="2">
-                        <label>2.)</label> Falls solche Personen des Militär- <hi rend="#u">Beruf</hi>sstandes von der tschechoslowakischen Regierung nicht im Dienst gestellt, sondern pensioniert oder sonst auf geringere Bezüge gesetzt werden, erhalten sie <hi rend="#u">bis zu dem Zeitpunkte, wo endgiltig feststeht, welchem Staate die strittigen Gebiete angehören</hi>, welche Staatsbürgerschaft die Betroffenen haben werden und von wem dann diese Bezüge zu tragen sind, von der deutschösterreichischen Regierung die <hi rend="#u">Ergänzung</hi> auf die Gebühren der übrigen nicht eingeteilten deutschösterreichischen Gagisten und längerdienenden Unteroffiziere, soferne diese Gebühren höher sein sollten, als die von ihnen im tschechoslowakischen Staate bezogenen.</item>
+                     <item n="1"><label>1.)</label> Die deutschösterreichische Regierung gibt den nach den Gebieten der ehemaligen österreichischen Länder Böhmen, Mähren und Schlesien zuständigen Gagisten und längerdienenden Unteroffizieren, die sich zum Eintritt in die deutschösterreichische Wehrmacht gemeldet haben und sich nunmehr infolge der durch die tschechoslowakischen Verordnungen geschaffenen Zwangslage zum Eintritte in die tschechoslowakische Armee anmelden, die Zusicherung, dass ihnen soweit sie nachweislich deut<pb facs="krp-0051_r-0019"/>scher Nationalität sind, bei <hi rend="#u">Räumung der besetzten Gebiete</hi> durch die Tschechoslowaken aus dieser Anmeldung gegenüber den Übrigen deutschösterreichischen Gagisten und länger dienenden Unteroffizieren gleicher Kategorie <hi rend="#u">kein Nachteil</hi> erwächst, vorausgesetzt, dass die Anmeldung nach der Publikation der tschechoslowakischen Verfügung, d. i. nach dem 21. Februar 1919 erfolgt ist.</item>
+                     <item n="2"><label>2.)</label> Falls solche Personen des Militär- <hi rend="#u">Beruf</hi>sstandes von der tschechoslowakischen Regierung nicht im Dienst gestellt, sondern pensioniert oder sonst auf geringere Bezüge gesetzt werden, erhalten sie <hi rend="#u">bis zu dem Zeitpunkte, wo endgiltig feststeht, welchem Staate die strittigen Gebiete angehören</hi>, welche Staatsbürgerschaft die Betroffenen haben werden und von wem dann diese Bezüge zu tragen sind, von der deutschösterreichischen Regierung die <hi rend="#u">Ergänzung</hi> auf die Gebühren der übrigen nicht eingeteilten deutschösterreichischen Gagisten und längerdienenden Unteroffiziere, soferne diese Gebühren höher sein sollten, als die von ihnen im tschechoslowakischen Staate bezogenen.</item>
                   </list>
                   <p>Diejenigen Berufsgagisten und längerdienenden Unteroffiziere, die <pb facs="krp-0051_r-0020"/>nach den ehemaligen Ländern Böhmen, Mähren und Schlesien zuständig, nachweislich deutscher Nationalität sind und sich seinerzeit für den Eintritt in die deutschösterreichische Wehrmacht gemeldet haben und jetzt der tschechischen Aufforderung keine Folge leisten, <hi rend="#u">werden bis zur endgiltigen Regelung der Frage nach der Tragung der Versorgungsgebühren der Militärpersonen</hi> der gewesenen k. u. k. Armee, bzw. k. k. Landwehr (<hi rend="#u">d. i. bis zu jenem Zeitpunkte, von dem an der zur Tragung der Versorgung endgiltig Verpflichtete die Versorgungsgebühren tatsächlich flüssig macht</hi>),</p>
                   <p>soferne sie sich im nicht besetzten deutschösterreichischen Gebiete bei einem liquidierenden Kader im Sinne des Kriegsministeriumserlasses Abt. 10, Nr. 352.000 melden, ebenso behandelt wie die in freien Gebieten Deutschösterreich heimatszuständigen <hi rend="#u">überzähligen</hi> deutschösterreichischen Gagisten und längerdienenden Unteroffiziere.</p>
                   <p>Soweit und solange die im vorigen Absatze bezeichneten Berufsgagisten und längerdie<pb facs="krp-0051_r-0021"/>nenden Unteroffiziere <hi rend="#u">in der deutschösterreichischen Wehrmacht Dienst leisten</hi>, werden sie den übrigen in dieser Wehrmacht dienstleistenden Berufsgagisten und längerdienenden Unteroffizieren gleichgehalten werden.</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label>  Bei der Auswahl für die definitive Aufnahme in die deutschösterreichische Wehrmacht werden die aus den Sudetenländern stammenden Militärgagisten und längerdienenden Unteroffiziere, soweit sie nachgewiesen deutscher Nation sind, ebenso in Betracht gezogen, wie die übrigen deutschösterreichischen Offiziere und längerdienenden Unteroffiziere.</item>
-                     <item n="2">
-                        <label>4.)</label> Allen deutschösterreichischen Gagisten des <hi rend="#u">Ruhestandes</hi>, Militärswitwen und -Waisen, die im ehemaligen Böhmen, Mähren und Schlesien heimatszuständig sind, wird für alle Fälle nahegelegt, sich im Interesse des ungestörten Fortbezuges ihrer Versorgungsgebühren beim tschechoslowakischen Staat anzumelden. Durch diese Anmeldung wird nach Räumung der besetzten Gebiete diesen Personen seitens Deutschösterreichs kein Nachteil erwachsen.</item>
-                     <item n="3">
-                        <label>5.)</label> Zwecks Wahrung der gegebenen Zusicherung haben alle in den Punkten ein bis drei bezeichneten Personen, die sich in der Zeit von einschließlich 21. Februar bis einschließlich 31. März 1919 beim tschechoslowakischen Staat angemeldet haben, Name, Truppenkörper und Adresse dem Landesbefehlshaber für Deutschböhmen, Wien I. [Wiener Gemeindebezirk] Wollzeile 18, mit Korrespondenzkarte bekanntzugeben. </item>
+                     <item n="1"><label>3.)</label>  Bei der Auswahl für die definitive Aufnahme in die deutschösterreichische Wehrmacht werden die aus den Sudetenländern stammenden Militärgagisten und längerdienenden Unteroffiziere, soweit sie nachgewiesen deutscher Nation sind, ebenso in Betracht gezogen, wie die übrigen deutschösterreichischen Offiziere und längerdienenden Unteroffiziere.</item>
+                     <item n="2"><label>4.)</label> Allen deutschösterreichischen Gagisten des <hi rend="#u">Ruhestandes</hi>, Militärswitwen und -Waisen, die im ehemaligen Böhmen, Mähren und Schlesien heimatszuständig sind, wird für alle Fälle nahegelegt, sich im Interesse des ungestörten Fortbezuges ihrer Versorgungsgebühren beim tschechoslowakischen Staat anzumelden. Durch diese Anmeldung wird nach Räumung der besetzten Gebiete diesen Personen seitens Deutschösterreichs kein Nachteil erwachsen.</item>
+                     <item n="3"><label>5.)</label> Zwecks Wahrung der gegebenen Zusicherung haben alle in den Punkten ein bis drei bezeichneten Personen, die sich in der Zeit von einschließlich 21. Februar bis einschließlich 31. März 1919 beim tschechoslowakischen Staat angemeldet haben, Name, Truppenkörper und Adresse dem Landesbefehlshaber für Deutschböhmen, Wien I. [Wiener Gemeindebezirk] Wollzeile 18, mit Korrespondenzkarte bekanntzugeben. </item>
                   </list>
-                  <p>
-                     <pb facs="krp-0051_r-0022"/>Der Kabinettsrat genehmigt die beantragten Richtlinien und beauftragt das Staatsamt des Äußern von der Gesandtenkonferenz ehestens die Erklärung zu verlangen, dass die Erfüllung der aus der gemeinsamen Dienstleistung in der ehemaligen Armee und Kriegsmarine sich ergebende Pflicht der Versorgung der Militärgagisten, länger dienenden Unteroffiziere, Militärwitwen und -Waisen als Gesamtpflicht aller Nationalstaaten erklärt werde.</p>
+                  <p><pb facs="krp-0051_r-0022"/>Der Kabinettsrat genehmigt die beantragten Richtlinien und beauftragt das Staatsamt des Äußern von der Gesandtenkonferenz ehestens die Erklärung zu verlangen, dass die Erfüllung der aus der gemeinsamen Dienstleistung in der ehemaligen Armee und Kriegsmarine sich ergebende Pflicht der Versorgung der Militärgagisten, länger dienenden Unteroffiziere, Militärwitwen und -Waisen als Gesamtpflicht aller Nationalstaaten erklärt werde.</p>
                </div>
                <div type="top" xml:id="krp-0051_top11">
                   <head>

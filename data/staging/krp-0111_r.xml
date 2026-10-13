@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0111.xml">
             <head type="dokument">
-               <title type="num">111.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">111.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0111_r-0001"/>[Dienstag] 1919-09-30</title>
@@ -281,36 +280,16 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0111_top02">Zu TOP 2</ref>: <ref target="#krp-0111_b01">Gesetz und Vollzugsanweisung über den achtstündigen Arbeitstag</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top03">Zu TOP 3</ref>: <ref target="#krp-0111_b02">Bericht des Staatssekretärs für Volksernährung über die Erhöhung des Getreidepreises</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top05">Zu TOP 5</ref>: <ref target="#krp-0111_b03">Vortrag des Staatssekretärs Dr. Bauer über die Errichtung einer gemeinwirtschaftlichen Anstalt unter der Firma „Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt“</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top05">Zu TOP 5</ref>: <ref target="#krp-0111_b04">Satzungen der Anstalt „Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt“</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top06">Zu TOP 6</ref>: <ref target="#krp-0111_b05">Antrag des Staatsamtes für Inneres und Unterricht zu Zl. 26.734/1919 auf Beschluss eines Gendarmeriedienstgesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top06">Zu TOP 6</ref>: <ref target="#krp-0111_b06">Antrag des Staatsamtes für Inneres und Unterricht zu Zl. 32.198/19 auf Beschluss eines Polizeidienstgesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top07">Zu TOP 7</ref>: <ref target="#krp-0111_b07">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Umwandlung von Renten nach dem Invalidenentschädigungsgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top08">Zu TOP 8</ref>: <ref target="#krp-0111_b08">Bericht der Staatskanzlei zur Frage der Entfernung der altösterreichischen Hoheitszeichen von Staatsgebäuden</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top09">Zu TOP 9</ref>: <ref target="#krp-0111_b09">Antrag des Unterstaatssekretärs für Unterricht Zl. 19.814/Abt. 11 über den Wirkungskreis des Kurators der Theresianischen Akademie</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0111_top10">Zu TOP 10</ref>: <ref target="#krp-0111_b10">Verlautbarung des einheitlichen Textes der Effektenumsatzsteuervorschriften durch das Staatsamte für Finanzen</ref>
-                  </item>
+                  <item><ref target="#krp-0111_top02">Zu TOP 2</ref>: <ref target="#krp-0111_b01">Gesetz und Vollzugsanweisung über den achtstündigen Arbeitstag</ref></item>
+                  <item><ref target="#krp-0111_top03">Zu TOP 3</ref>: <ref target="#krp-0111_b02">Bericht des Staatssekretärs für Volksernährung über die Erhöhung des Getreidepreises</ref></item>
+                  <item><ref target="#krp-0111_top05">Zu TOP 5</ref>: <ref target="#krp-0111_b03">Vortrag des Staatssekretärs Dr. Bauer über die Errichtung einer gemeinwirtschaftlichen Anstalt unter der Firma „Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt“</ref></item>
+                  <item><ref target="#krp-0111_top05">Zu TOP 5</ref>: <ref target="#krp-0111_b04">Satzungen der Anstalt „Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt“</ref></item>
+                  <item><ref target="#krp-0111_top06">Zu TOP 6</ref>: <ref target="#krp-0111_b05">Antrag des Staatsamtes für Inneres und Unterricht zu Zl. 26.734/1919 auf Beschluss eines Gendarmeriedienstgesetzes</ref></item>
+                  <item><ref target="#krp-0111_top06">Zu TOP 6</ref>: <ref target="#krp-0111_b06">Antrag des Staatsamtes für Inneres und Unterricht zu Zl. 32.198/19 auf Beschluss eines Polizeidienstgesetzes</ref></item>
+                  <item><ref target="#krp-0111_top07">Zu TOP 7</ref>: <ref target="#krp-0111_b07">Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Umwandlung von Renten nach dem Invalidenentschädigungsgesetz</ref></item>
+                  <item><ref target="#krp-0111_top08">Zu TOP 8</ref>: <ref target="#krp-0111_b08">Bericht der Staatskanzlei zur Frage der Entfernung der altösterreichischen Hoheitszeichen von Staatsgebäuden</ref></item>
+                  <item><ref target="#krp-0111_top09">Zu TOP 9</ref>: <ref target="#krp-0111_b09">Antrag des Unterstaatssekretärs für Unterricht Zl. 19.814/Abt. 11 über den Wirkungskreis des Kurators der Theresianischen Akademie</ref></item>
+                  <item><ref target="#krp-0111_top10">Zu TOP 10</ref>: <ref target="#krp-0111_b10">Verlautbarung des einheitlichen Textes der Effektenumsatzsteuervorschriften durch das Staatsamte für Finanzen</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -331,8 +310,7 @@
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> teilt mit, dass er am heutigen Tage den Staatsbevollmächtigten für die Verwertung der Kunst<pb facs="krp-0111_r-0004"/>schätze Sektionschef Ing. Enderes mit der Aufgabe betraut habe, binnen 14 Tagen den Betrag von 10 Millionen Holland-Gulden auf irgendeine Weise aufzubringen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Schumpeter</hi> erklärt, dass außer der Beschaffung der vom Vorsitzenden erwähnten Summe aus dem Verkaufe von Kunstwerken weiters ein verhältnismäßig kleiner Betrag in Holland aufzubringen sein dürfte. Außerdem dürfte es möglich sein, ein kleines Darlehen von einigen Millionen Dollars in Amerika aufzunehmen. Er müsse allerdings hiezu bemerken, dass derartige kleine Operationen die Chancen einer späteren größeren Kreditoperation beeinträchtigen werden. Auch die Verpfändung von Wertpapieren müsste ins Auge gefasst werden. Auch könnte daran geschritten werden, Gold- und Schmuckgegenstände aus dem Privatbesitz in Anspruch zu nehmen.</p>
                   <p>Ministerialrat Dr. <hi rend="#letterspaced">Schwarzwald</hi> erstattet einen eingehenden Bericht über die bisherige Tätigkeit des Staatsamtes für Finanzen auf dem Gebiete der Valutenbeschaffung und die immer geringer werdenden Aussichten für die Aufbringung ausländischer Zahlungsmittel.</p>
-                  <p>
-                     <pb facs="krp-0111_r-0005"/>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> erklärt, dass er die Kürzung der Brotquote für undurchführbar halte, weil wir bereits hart an der Grenze dessen stünden, was noch sozial möglich sei.</p>
+                  <p><pb facs="krp-0111_r-0005"/>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> erklärt, dass er die Kürzung der Brotquote für undurchführbar halte, weil wir bereits hart an der Grenze dessen stünden, was noch sozial möglich sei.</p>
                   <p>Was die Frage der Kreditbeschaffung anbelange, so halte er es für ganz wirkungslos, wenn man der Entente anbieten würde, auf unseren Immobiliarbesitz zu greifen. Es gebe aber nach seiner Ansicht Formen, in denen derartige Vorschläge der Entente annehmbarer erscheinen würden. Er denke dabei an Goldpfandbriefe, die sich auf Immobilien zu stützen hätten.</p>
                   <p>Oberst Causey habe mitgeteilt, dass der Ausschuss der Reparationskommission in Wien noch vor Ratifizierung des Friedens werde eingesetzt werden. Der sprechende Staatssekretär glaube daher, dass es unbedingt notwendig sei, konkrete Vorschläge für die Kreditbeschaffung vorzubereiten, die diesem Ausschusse zu erstatten wären.</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Eldersch</hi> spricht sich gleichfalls in entschiedener Weise gegen die Kürzung der Brot- und Mehlquote in Wien aus, vorausgesetzt, dass nicht die unmittelbare Gefahr bestehe, in einem späteren Zeit<pb facs="krp-0111_r-0006"/>punkte überhaupt nichts ausgeben zu können. Bei dem nahezu gänzlichen Versagen der Aufbringung in den Provinzen wäre er dafür, auf die Länder einen energischen Druck dadurch auszuüben, dass keine oder nur entsprechend gekürzte Zuschübe mehr hindisponiert werden.</p>
@@ -349,9 +327,7 @@
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> legt dem Kabinettsrat den entsprechend den Verhandlungen in der Sitzung des Kabinettsrates vom 26. August d. J. abgeänderten Entwurf eines Gesetzes, betreffend den achtstündigen Arbeitstag, mit der Bitte um Ermächtigung vor, diesen Entwurf der Nationalversammlung unterbreiten zu dürfen.</p>
                   <p>Staatssekretär <hi rend="#letterspaced">Stöckler</hi> erklärt, dass er die seinerzeit von seinen engeren Parteikollegen vorgebrachten Einwendungen aufrecht halte. </p>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> entscheidet dahin, dass der vorliegende Gesetzentwurf der Nationalversammlung zu unterbreiten ist.</p>
-                  <p>
-                     <pb facs="krp-0111_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0111_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0111_top03">
                   <head>
@@ -369,16 +345,12 @@
                   <p>Der sprechende Staatssekretär bemerkt, dass eine entsprechende Erhöhung – eine kleine Erhöhung wäre zwecklos – sicherlich die Aufbringung des Kontingentes erleichtern würde; jede Tonne aufgebrachten Getreides bedeute aber selbst bei höherem Preise eine Entlastung des für die Einfuhr teueren ausländischen Getreides erforderlichen Aufwandes. Nach den Ausführungen der Produzentenvertreter und nach den vorgelegten Ertragsberechnungen stehe es außer Zweifel, dass die derzeit geltenden Getreidepreise durch die Ereignisse seit Juni d. J. überholt erscheinen und den Erzeugungskosten nicht mehr entsprechen.</p>
                   <p>Redner stelle daher den Antrag: </p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> die Übernahmspreise der deutschösterreichischen Kriegsgetreideanstalt für Weizen, Roggen und Gerste <hi rend="#u">einheitlich mit 200 K</hi> pro Meterzentner und die Übernahmspreise für <hi rend="#u">Hafer mit 160 K</hi> pro Meterzentner zu erstellen.</item>
-                     <item n="2">
-                        <label>2.)</label> Diese erhöhten Preise sollen dem Landwirte nur dann bezahlt werden, wenn er sein Brotgetreide- oder sein Haferkontingent restlos erfüllt hat.</item>
+                     <item n="1"><label>1.)</label> die Übernahmspreise der deutschösterreichischen Kriegsgetreideanstalt für Weizen, Roggen und Gerste <hi rend="#u">einheitlich mit 200 K</hi> pro Meterzentner und die Übernahmspreise für <hi rend="#u">Hafer mit 160 K</hi> pro Meterzentner zu erstellen.</item>
+                     <item n="2"><label>2.)</label> Diese erhöhten Preise sollen dem Landwirte nur dann bezahlt werden, wenn er sein Brotgetreide- oder sein Haferkontingent restlos erfüllt hat.</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0111_r-0013"/>In diesem Falle hätte die Preiserhöhung rückwirkende Kraft, d. h. sie gelte für die gesamte, zur Ablieferung gebrachte Brotgetreide- oder Hafermenge.</p>
+                  <p><pb facs="krp-0111_r-0013"/>In diesem Falle hätte die Preiserhöhung rückwirkende Kraft, d. h. sie gelte für die gesamte, zur Ablieferung gebrachte Brotgetreide- oder Hafermenge.</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Wenn nach der endgiltigen Aufteilung der Einzelkontingente unabwendbare Elementarereignisse eingetreten sind, welche es dem Landwirte unmöglich mache, sein Brotgetreide- oder Haferkontingent voll zu erfüllen, so hätten die Landesregierungen nach genauer Festsetzung des Tatbestandes den erhöhten Preis auch bei nur teilweiser Abstellung des Kontingentes zu bewilligen.</item>
+                     <item n="1"><label>3.)</label> Wenn nach der endgiltigen Aufteilung der Einzelkontingente unabwendbare Elementarereignisse eingetreten sind, welche es dem Landwirte unmöglich mache, sein Brotgetreide- oder Haferkontingent voll zu erfüllen, so hätten die Landesregierungen nach genauer Festsetzung des Tatbestandes den erhöhten Preis auch bei nur teilweiser Abstellung des Kontingentes zu bewilligen.</item>
                   </list>
                   <p>Was die rechtliche Behandlung der Frage anbelange, führt Staatssekretär Dr. Loewenfeld-Russ Folgendes aus:</p>
                   <p>Nach § 7 Abs. 4 des Gesetzes vom 3. Juli 1919, StGBl. Nr. 345 über die Regelung des Verkehres mit Getreide- und Mahlprodukten „hat der einmal festgesetzte Übernahmspreis für Getreide bis zur Ernte des Jahres 1920 unverändert zu bleiben.“</p>
@@ -387,8 +359,7 @@
                   <p>Die Fassung der oberwähnten Gesetzesstelle (§ 7 Abs. 4 des Gesetzes) sollte die Landwirte gegen ähnliche Erscheinungen schützen. Es sollte hiemit feierlich zum Ausdruck gebracht werden, dass Landwirte, die Getreide zur Ablieferung gebracht haben, durch irgendeine Preisänderung nicht zu Schaden kommen dürfen, d. h., dass jeder Preisänderung rückwirkende Kraft innewohnen müsse.</p>
                   <p>Aus dieser Auslegung des § 7 Abs. 4 würde sich eine Änderung des Gesetzes erübrigen und lediglich eine Änderung der Vollzugsanweisung vom 15. Juli 1919, StGBl. Nr. 367 erforderlich sein.</p>
                   <p>Staatsekretär Dr. <hi rend="#letterspaced">Bauer</hi> erhebt Bedenken dagegen, dass diese mit dem geltenden Gesetz in Widerspruch stehende Maßnahme ohne Zustimmung der Nationalversammlung getroffen werde. Der durch die parlamentarische Behandlung hervorgerufene kurze Aufschub komme umsoweniger in Betracht, als die gewünschte Wirkung bereits durch die Publizierung der in Aussicht stehenden Maßnahme erzielt würde.</p>
-                  <p>
-                     <pb facs="krp-0111_r-0016"/>Was das Meritum anbelange, so glaube er, dass die Ablieferung des vollen Kontingentes als Voraussetzung für die Zuerkennung der erhöhten Preise an einen bestimmten Zeitpunkt zu binden wäre.</p>
+                  <p><pb facs="krp-0111_r-0016"/>Was das Meritum anbelange, so glaube er, dass die Ablieferung des vollen Kontingentes als Voraussetzung für die Zuerkennung der erhöhten Preise an einen bestimmten Zeitpunkt zu binden wäre.</p>
                   <p>Was die Bestimmung anbelange, dass die Landesregierungen unter gewissen Voraussetzungen den erhöhten Preis auch bei teilweiser Abstellung des Kontingentes bewilligen dürfen, so sei er der Anschauung, dass in dieser Beziehung eine Kautel und Kontrolle geschaffen werden müsse.</p>
                   <p>Nach einer längeren Debatte, an welcher sich Präsident <hi rend="#letterspaced">Seitz</hi>, ferner die Staatssekretäre <hi rend="#letterspaced">Eldersch</hi>, <hi rend="#letterspaced">Stöckler, Hanusch</hi> und Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> beteiligten, beschließt der Kabinettsrat, dass die in Rede stehende Maßnahme im Wege eines Gesetzes durchzuführen sein werde. In der bezüglichen Gesetzesvorlage werde die volle Ablieferung des Kontingentes bis 1. März zu fordern, ferner an Stelle der Landesregierungen dem Staatsamt für Volksernährung die Befugnis zu erteilen sein, in außerordentlichen Fällen den erhöhten Preis <pb facs="krp-0111_r-0017"/>auch bei Nichtablieferung des vollen Kontingentes zuzugestehen.</p>
                </div>
@@ -424,13 +395,11 @@
                   <p>Polizeipräsident <hi rend="#letterspaced">Schober</hi> begründet die vorgelegten Gesetzentwürfe in eingehender Weise und führt aus, dass es sich im Wesentlichen um die Verleihung des Beamtencharakters an die Mitglieder dieser Korps handle.</p>
                   <p>Sektionschef Dr. <hi rend="#letterspaced">Grimm</hi> erklärt, dass das Staatsamt für Finanzen gegen die vorliegenden Gesetzentwürfe keine Einwendung erhebe. Er halte es jedoch für unbedingt erforderlich, dass diese Maßnahme auch auf das Finanzwachkorps, welches seit jeher den beiden andern Wachkorps gleichgestellt wurde, ausgedehnt werde.</p>
                   <p>Da jedoch zu befürchten sei, dass die vorgeschlagenen Begünstigungen auch von anderen ähnlichen Bedienstetenkategorien in Anspruch genommen werden würden, stelle das Staatsamt für Finanzen den Antrag, der Kabinettsrat wolle gleichzeitig mit der Annahme des von Staatssekretär Eldersch gestellten Antrages erklären, dass aus einem solchen Beschlusse keinerlei Präjudiz für andere ähnliche Bedienstetenkategorien abgeleitet werden dürfe.</p>
-                  <p>
-                     <pb facs="krp-0111_r-0020"/>Staatssekretär Dr. <hi rend="#letterspaced">Bratusch</hi> spricht sich gegen den von Sektionschef Dr. Grimm vertretenen Antrag mit dem Hinweis darauf aus, dass die Einbeziehung der Gefangenenaufseher unvermeidlich sein werde.</p>
+                  <p><pb facs="krp-0111_r-0020"/>Staatssekretär Dr. <hi rend="#letterspaced">Bratusch</hi> spricht sich gegen den von Sektionschef Dr. Grimm vertretenen Antrag mit dem Hinweis darauf aus, dass die Einbeziehung der Gefangenenaufseher unvermeidlich sein werde.</p>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Waiss</hi> gibt namens des Staatsamtes für Heer[es]wesen nachstehende Erklärung ab:</p>
                   <p>„Durch das Polizeidienstgesetz werden Beamtenstellen geschaffen, bezüglich welcher nach dem Gesetz vom 19. April 1872, RGBl. Nr. 60, den längerdienenden Unteroffizieren ein Vorzugsrecht eingeräumt ist.</p>
                   <p>Obwohl die Gendarmerie nach dem Gesetz vom 27. November 1918, StGBl. Nr. 75, ein nach militärischem Muster organisierter <hi rend="#u">Zivilwachkörper</hi> ist, gilt das Gleiche nicht für die durch das Gendarmeriedienstgesetz geschaffenen Beamtenstellen. Dies aus dem Grunde, weil § 39 des Gesetzes vom 25. Dezember 1894, RGBl. Nr. 1 ex 1895 noch in Kraft steht und somit nach der bisherigen Rechtslage die Gendarmerie – auch nach ihrer Neuorganisation –   nicht als Anstellungsgebiet im Sinne des Unteroffiziersanstellungsgesetzes gelten kann. </p>
-                  <p>
-                     <pb facs="krp-0111_r-0021"/>Jedenfalls ist es notwendig, in die beiden Gesetze, namentlich aber in das Polizeidienstgesetz, eine Bestimmung aufzunehmen, wonach für die nach dem bezogenen Gesetze durchzuführenden Ernennungen das Gesetz vom 19. April 1872, RGBl. Nr. 60, kein Hindernis bildet.</p>
+                  <p><pb facs="krp-0111_r-0021"/>Jedenfalls ist es notwendig, in die beiden Gesetze, namentlich aber in das Polizeidienstgesetz, eine Bestimmung aufzunehmen, wonach für die nach dem bezogenen Gesetze durchzuführenden Ernennungen das Gesetz vom 19. April 1872, RGBl. Nr. 60, kein Hindernis bildet.</p>
                   <p>Eine gleiche Bestimmung enthält das Gesetz vom 5. Februar 1919, StGBl. Nr. 100 (Offiziantengesetz).</p>
                   <p>Im Falle der Annahme der beiden Gesetze würde eine Rückwirkung im Bereiche des Heeresressorts insoferne nicht ausbleiben, als die Berufsunteroffiziere in der neuen Wehrmacht eine analoge Stellung und zwar mit höheren als den ihnen sonst zukommenden Gebühren anstreben werden, eine Forderung, die das Staatsamt für Heer[es]wesen vom Gesichtspunkte der Gebührenfrage selbstverständlich nur nachdrücklichst unterstützen muss. Eine unterschiedslose Überleitung von Berufsunteroffizieren in den Offiziersstand kann aber – soweit nach den heute schon vorliegenden Plänen des Aufbaues der neuen Wehrmacht gesprochen werden darf – nicht erfolgen.“</p>
                   <p>Nach einer längeren Debatte, an welcher sich Präsident <hi rend="#letterspaced">Seitz</hi>, fer<pb facs="krp-0111_r-0022"/>ner die Staatssekretäre Dr. <hi rend="#letterspaced">Bauer</hi>, <hi rend="#letterspaced">Eldersch</hi> und <hi rend="#letterspaced">Hanusch</hi> sowie der Präsident der Polizeidirektion <hi rend="#letterspaced">Schober</hi> beteiligten, erteilt der Kabinettsrat dem Staatssekretär Eldersch die prinzipielle Ermächtigung zur Einbringung der beiden Gesetzesvorlagen mit der Maßgabe, dass über Einzelheiten vorher noch das Einvernehmen mit dem Staatsamte für Finanzen zu pflegen sein werde.</p>
@@ -443,7 +412,7 @@
                         <seg>Vollzugsanweisung, betreffend die Umwandlung von Renten nach dem Invalidenentschädigungsgesetz (4. Vollzugsanweisung zum Invalidenentschädigungsgesetz).</seg>
                      </label>
                   </head>
-                  <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> erbittet die Ermächtigung des Kabinettsrates zur Erlassung einer Vollzugsweisung des Staatsamtes für soziale Verwaltung im Einvernehmen mit den beteiligten Staatsämtern, betreffend die Umwandlung von Renten nach dem Invalidenentschädigungsgesetz (4. Vollzugsanweisung<pb facs="krp-0111_r-0023"/>zum Invalidenentschädigungsgesetz).</p>
+                  <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> erbittet die Ermächtigung des Kabinettsrates zur Erlassung einer Vollzugsweisung des Staatsamtes für soziale Verwaltung im Einvernehmen mit den beteiligten Staatsämtern, betreffend die Umwandlung von Renten nach dem Invalidenentschädigungsgesetz (4. Vollzugsanweisung <pb facs="krp-0111_r-0023"/>zum Invalidenentschädigungsgesetz).</p>
                   <p>Über die gegenständliche Vollzugsanweisung bestehe Einverständnis mit allen beteiligten Staatsämtern. Lediglich bezüglich des Wirksamkeitsbeginnes (§ 27) sei eine Meinungsverschiedenheit mit dem Staatsamte für Finanzen vorhanden. Während dieses den Standpunkt vertrete, dass die Vollzugsanweisung erst nach Ratifizierung des Friedensvertrages in Geltung zu treten habe, um dadurch die Anwendung der Vollzugsanweisung auf die aus den Sudetenländern stammenden Invaliden zu verhindern, müsse er mit Rücksicht auf die Dringlichkeit auf dem sofortigen Inkrafttreten bestehen. Er beabsichtige, den vom Staatsamte für Finanzen geltend gemachten Bedenken dadurch zu begegnen, dass die Invalidenentschädigungskommissionen mittels eines vertraulichen Erlasses angewiesen werden, mit der Entscheidung über Ansprüche von sudetenländischen Invaliden bis zur Ratifizierung des Friedens zuzuwarten, in welchem Zeitpunkte diese Ansprüche gegenstandslos würden.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bauer</hi> weist darauf hin, dass sich auch bei <pb facs="krp-0111_r-0024"/>dieser Gelegenheit die Notwendigkeit zeige, ungesäumt, noch vor Ratifizierung des Friedens, an die Abänderung des Gebietes- und insbesondere des Staatsbürgergesetzes zu schreiten, da der gegenwärtige Zustand dem Staate täglich bedeutende Kosten verursache. Gleichzeitig wäre ein Gesetz über das Bezugsrecht derjenigen, die von dem Optionsrecht Gebrauch machen, zu erlassen.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Bratusch</hi> beantragt, eine stilistische Revision des Entwurfes zu dem Zwecke vorzunehmen, um sicherzustellen, dass die Vollzugsanweisung den Invaliden keinen Rechtsanspruch auf Gewährung einer Rente oder einer Abfertigung zuerkenne.</p>
@@ -462,8 +431,7 @@
                   <p>Die Staatskanzlei glaube daher, dem Kabinettsrat folgende grundsätzliche Eröffnung an die Staatsämter vorschlagen zu solle:</p>
                   <p>„Grundsätzlich ist dafür Sorge zu tragen, dass die alten Hoheitszeichen, welche an den ehemaligen Staat Österreich und die monarchische Staatform erinnern, von den staatlichen Gebäuden ehestens entfernt werden. Künstlerisch wertvolle Embleme (z. B. Schmiede- und getriebene Arbeiten u. dgl.) werden in den Landesmuseen zu hinterlegen sein.</p>
                   <p>In solchen Fällen aber, in welchen diese Hoheitszeichen einen mit dem Gebäude organisch verwachsenen Baumschmuck darstellen, dessen Abnahme laut fachmännischer Begutachtung den Charakter einer architektonischen Schädigung, oder baugeschichtlicher Fälschung hätte, ferner in Fällen, in denen die Kosten der Abnahme unverhältnismäßig große wären, können die Hoheitszeichen belassen werden.</p>
-                  <p>
-                     <pb facs="krp-0111_r-0027"/>Es ist aber Vorsorge zu treffen, dass auf den Amtsgebäuden daneben in einer architektonisch zulässigen Weise der neue Name des Staates, bzw. die neuen Hoheitszeichen angebracht werden.“</p>
+                  <p><pb facs="krp-0111_r-0027"/>Es ist aber Vorsorge zu treffen, dass auf den Amtsgebäuden daneben in einer architektonisch zulässigen Weise der neue Name des Staates, bzw. die neuen Hoheitszeichen angebracht werden.“</p>
                   <p>Der Kabinettsrat pflichtet dieser Auffassung bei.</p>
                </div>
                <div type="top" xml:id="krp-0111_top09">
@@ -501,8 +469,7 @@
                      </label>
                   </head>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Tandler</hi> teilt mit, dass nach einer Auskunft des Postsparkassenamtes das liquidierende Kriegsministerium die Sperre der Postsparkassenkonten des Garnisonsspitals in Graz sowie mehrerer anderer militärischer Heilanstalten verfügt habe.</p>
-                  <p>
-                     <pb facs="krp-0111_r-0031"/>Der Kabinettsrat beauftragt das Staatsamt für Heer[es]wesen, unverzüglich energische Schritte wegen dieser Maßnahme beim Leiter des liquidierenden Kriegsministeriums zu unternehmen und, wenn sich herausstellen sollte, dass die Verfügung vom Bevollmächtigtenkollegium getroffen worden sei, den deutschösterreichischen Bevollmächtigten zur Verantwortung zu ziehen.</p>
+                  <p><pb facs="krp-0111_r-0031"/>Der Kabinettsrat beauftragt das Staatsamt für Heer[es]wesen, unverzüglich energische Schritte wegen dieser Maßnahme beim Leiter des liquidierenden Kriegsministeriums zu unternehmen und, wenn sich herausstellen sollte, dass die Verfügung vom Bevollmächtigtenkollegium getroffen worden sei, den deutschösterreichischen Bevollmächtigten zur Verantwortung zu ziehen.</p>
                </div>
             </div>
             <div type="stenogramme">

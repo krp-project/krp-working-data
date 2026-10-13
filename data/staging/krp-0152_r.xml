@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0152.xml">
             <head type="dokument">
-               <title type="num">152.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">152.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0152_r-0001"/>
@@ -282,27 +281,13 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0152_top03">Zu TOP 3</ref>: <ref target="#krp-0152_b01">Vortrag des Unterrichtsamtes Zl. 584 über die Belassung von aus den abgetretenen Gebieten stammenden Zöglingen der Staatserziehungsanstalten bzw. Stundung des Nachweises über die Erwerbung der österreichischen Staatsbürgerschaft</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0152_top04">Zu TOP 4</ref>: <ref target="#krp-0152_b02">Vortrag des Unterrichtsamtes Zl. 2811/1920 über den Gesetzesbeschluss der Tiroler Landesversammlung zur Abänderung einiger Bestimmungen des Schulaufsichtsgesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0152_top05">Zu TOP 5</ref>: <ref target="#krp-0152_b03">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 7179 über Beschlüsse der Landesversammlungen bzw. Landesräte in Vorarlberg, Kärnten und Steiermark betreffend die Einhebung von Landeszuschlägen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0152_top09">Zu TOP 9</ref>: <ref target="#krp-0152_b04">Vollzugsanweisung des Staatsamtes für soziale Verwaltung zu Zl. 5408/1920 über die Erhaltung des Arbeiterstandes in gewerblichen Betrieben</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0152_top10">Zu TOP 10</ref>: <ref target="#krp-0152_b05">Bericht und Antrag des land- und forstwirtschaftlichen Ausschusses an den Tiroler Landtag über die Zuständigkeit der Agrarbehörde zur Behandlung der nach dem Kaiserlichen Patent von 1853 abzulösenden oder zu regulierenden Rechte</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0152_top10">Zu TOP 10</ref>: <ref target="#krp-0152_b06">Vortrag des Staatsamtes für Land- und Forstwirtschaft Zl. 4057/1920 über den Gesetzesbeschluss des Tiroler Landtages, betreffend die Zuständigkeit der Agrarbehörde zur Behandlung der nach dem Kaiserlichen Patent von 1853 der Ablösung oder Regulierung unterliegenden Rechte samt Gesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0152_top11">Zu TOP 11</ref>: <ref target="#krp-0152_b07">Vortrag des Präsidenten der Staatskommission für Sozialisierung Dr. Ellenbogen über die Errichtung einer gemeinwirtschaftlichen Anstalt unter der Firma „Steirische Fahrzeugwerke, gemeinwirtschaftliche Anstalt“ mit den Satzungen</ref>
-                  </item>
+                  <item><ref target="#krp-0152_top03">Zu TOP 3</ref>: <ref target="#krp-0152_b01">Vortrag des Unterrichtsamtes Zl. 584 über die Belassung von aus den abgetretenen Gebieten stammenden Zöglingen der Staatserziehungsanstalten bzw. Stundung des Nachweises über die Erwerbung der österreichischen Staatsbürgerschaft</ref></item>
+                  <item><ref target="#krp-0152_top04">Zu TOP 4</ref>: <ref target="#krp-0152_b02">Vortrag des Unterrichtsamtes Zl. 2811/1920 über den Gesetzesbeschluss der Tiroler Landesversammlung zur Abänderung einiger Bestimmungen des Schulaufsichtsgesetzes</ref></item>
+                  <item><ref target="#krp-0152_top05">Zu TOP 5</ref>: <ref target="#krp-0152_b03">Vortrag des Staatsamtes für Inneres und Unterricht Zl. 7179 über Beschlüsse der Landesversammlungen bzw. Landesräte in Vorarlberg, Kärnten und Steiermark betreffend die Einhebung von Landeszuschlägen</ref></item>
+                  <item><ref target="#krp-0152_top09">Zu TOP 9</ref>: <ref target="#krp-0152_b04">Vollzugsanweisung des Staatsamtes für soziale Verwaltung zu Zl. 5408/1920 über die Erhaltung des Arbeiterstandes in gewerblichen Betrieben</ref></item>
+                  <item><ref target="#krp-0152_top10">Zu TOP 10</ref>: <ref target="#krp-0152_b05">Bericht und Antrag des land- und forstwirtschaftlichen Ausschusses an den Tiroler Landtag über die Zuständigkeit der Agrarbehörde zur Behandlung der nach dem Kaiserlichen Patent von 1853 abzulösenden oder zu regulierenden Rechte</ref></item>
+                  <item><ref target="#krp-0152_top10">Zu TOP 10</ref>: <ref target="#krp-0152_b06">Vortrag des Staatsamtes für Land- und Forstwirtschaft Zl. 4057/1920 über den Gesetzesbeschluss des Tiroler Landtages, betreffend die Zuständigkeit der Agrarbehörde zur Behandlung der nach dem Kaiserlichen Patent von 1853 der Ablösung oder Regulierung unterliegenden Rechte samt Gesetz</ref></item>
+                  <item><ref target="#krp-0152_top11">Zu TOP 11</ref>: <ref target="#krp-0152_b07">Vortrag des Präsidenten der Staatskommission für Sozialisierung Dr. Ellenbogen über die Errichtung einer gemeinwirtschaftlichen Anstalt unter der Firma „Steirische Fahrzeugwerke, gemeinwirtschaftliche Anstalt“ mit den Satzungen</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -335,8 +320,7 @@
                      <item n="5">5.) über die Errichtung von Kammern für Arbeiter und Angestellte (Arbeiterkammern)</item>
                   </list>
                   <p>keine Vorstellung.</p>
-                  <p>
-                     <pb facs="krp-0152_r-0005"/>Die erwähnten Gesetze sind demgemäß nach Gegenzeichnung durch den Staatskanzler und die zuständigen Staatssekretäre dem Präsidenten der Nationalversammlung zur Unterfertigung vorzulegen.</p>
+                  <p><pb facs="krp-0152_r-0005"/>Die erwähnten Gesetze sind demgemäß nach Gegenzeichnung durch den Staatskanzler und die zuständigen Staatssekretäre dem Präsidenten der Nationalversammlung zur Unterfertigung vorzulegen.</p>
                </div>
                <div type="top" xml:id="krp-0152_top03">
                   <head>
@@ -398,9 +382,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär <hi rend="#letterspaced">Hanusch</hi> erbittet und erhält vom Kabinettsrate die Ermächtigung zur Erlassung einer Vollzugsanweisung, wonach die Bestimmungen der Vollzugsanweisungen des Staatsamtes für soziale Verwaltung über die Unterstützung der arbeitslosen Arbeiter und Angestellten vom 14. Februar 1919, StGBl. Nr. 120 und 121, vom 24. Juni 1919, StGBl. Nr. 327, vom 20. August 1919, StGBl. Nr. 428 und vom 30. Dezember 1919, StGBl. Nr. 12 ex 1920 in ihrer Geltungsdauer bis einschließlich 15. April 1920 erstreckt werden.</p>
-                  <p>
-                     <pb facs="krp-0152_r-0012"/>
-                  </p>
+                  <p><pb facs="krp-0152_r-0012"/></p>
                </div>
                <div type="top" xml:id="krp-0152_top09">
                   <head>
@@ -420,12 +402,9 @@
                   </head>
                   <p>Sektionschef Dr. <hi rend="#letterspaced">Alter</hi> erbittet und erhält vom Kabinettsrate die Ermächtigung, dass von der Erhebung einer Vorstellung gegen nachstehende Gesetzesbeschlüsse des Tiroler Landtages abgesehen werde:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> vom 21. Jänner 1920, betreffend die Sicherstellung des Mehrerfordernisses für die Verbauung des Leonhardsbaches in Roppen, betreffend die Verbauung des Oberlaufes des Höttingerbaches, betreffend die Verbauung des Moratalbaches in Kirchdorf und Waidring und betreffend die Ergänzungs<pb facs="krp-0152_r-0013"/>arbeit am Maukenbache in Radfeld,</item>
-                     <item n="2">
-                        <label>2.)</label> vom 21. Jänner 1920, betreffend die Sicherstellung der Elementarbauten vom Jahre 1912 in der Gemeinde Wildschönau und der Behebung von Elementarschäden aus dem Jahre 1912 und 1916 im oberen Brixentale und</item>
-                     <item n="3">
-                        <label>3.)</label> vom 30. Jänner 1920, betreffend die Zuständigkeit der Agrarbehörden zur Behandlung der nach dem Kaiserlichen Patente vom 5. Juli 1853, RGBl. Nr. 130 der Ablösung oder Regulierung unterliegenden Rechte.</item>
+                     <item n="1"><label>1.)</label> vom 21. Jänner 1920, betreffend die Sicherstellung des Mehrerfordernisses für die Verbauung des Leonhardsbaches in Roppen, betreffend die Verbauung des Oberlaufes des Höttingerbaches, betreffend die Verbauung des Moratalbaches in Kirchdorf und Waidring und betreffend die Ergänzungs<pb facs="krp-0152_r-0013"/>arbeit am Maukenbache in Radfeld,</item>
+                     <item n="2"><label>2.)</label> vom 21. Jänner 1920, betreffend die Sicherstellung der Elementarbauten vom Jahre 1912 in der Gemeinde Wildschönau und der Behebung von Elementarschäden aus dem Jahre 1912 und 1916 im oberen Brixentale und</item>
+                     <item n="3"><label>3.)</label> vom 30. Jänner 1920, betreffend die Zuständigkeit der Agrarbehörden zur Behandlung der nach dem Kaiserlichen Patente vom 5. Juli 1853, RGBl. Nr. 130 der Ablösung oder Regulierung unterliegenden Rechte.</item>
                   </list>
                </div>
                <div type="top" xml:id="krp-0152_top11">

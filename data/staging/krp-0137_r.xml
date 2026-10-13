@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0137.xml">
             <head type="dokument">
-               <title type="num">137.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">137.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0137_r-0001"/>[Mittwoch] 1920-01-14</title>
@@ -281,15 +280,9 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0137_top01">Zu TOP 1</ref>: <ref target="#krp-0137_b01">Telegramm des tschechoslowakischen Ministers Benesch aus Prag an Staatskanzler Dr. Renner über die anstehenden Verhandlungen in Prag</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0137_top02">Zu TOP 2</ref>: <ref target="#krp-0137_b02">Gesetz für Kreditoperationen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0137_top03">Zu TOP 3</ref>: <ref target="#krp-0137_b03">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Verwertung des Blancaspitals in der Staatsfabrik Blumau</ref>
-                  </item>
+                  <item><ref target="#krp-0137_top01">Zu TOP 1</ref>: <ref target="#krp-0137_b01">Telegramm des tschechoslowakischen Ministers Benesch aus Prag an Staatskanzler Dr. Renner über die anstehenden Verhandlungen in Prag</ref></item>
+                  <item><ref target="#krp-0137_top02">Zu TOP 2</ref>: <ref target="#krp-0137_b02">Gesetz für Kreditoperationen</ref></item>
+                  <item><ref target="#krp-0137_top03">Zu TOP 3</ref>: <ref target="#krp-0137_b03">Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten auf Verwertung des Blancaspitals in der Staatsfabrik Blumau</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -303,8 +296,7 @@
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> berichtet, dass die Verhandlungen in Prag in wirtschaftlicher Beziehung nur ein sehr geringes Ergebnis gezeitigt hätten und sogar hinter unseren bescheidenen Erwartungen zurückgeblieben seien. Der Grund hiefür liege nicht im Mangel an gutem Willen auf Seiten der tschechoslowakischen Regierung, sondern in den administrativen und politischen Schwierigkeiten, welche auch dieses Staatswesen, zumal jetzt in der Zeit vor den Wahlen in die Nationalversammlung, zu bestehen habe. Die Delegation kehre mit dem Eindrucke zurück, dass das Erreichte das Äußerste sei, was für den Augenblick erzielt werden konnte, dass aber Ansätze bestehen, die nach Konsolidierung der inneren Verhältnisse in der Tschechoslowakei weitergehende Zugeständnisse erwarten ließen.</p>
                   <p>Bezüglich der Kohle sei nach langwierigen Verhandlungen ein Abkommen auf eine tägliche Belieferungsmenge von 500 Waggons getroffen worden. Österreichischerseits sei zunächst die in dem bisherigen Vertrage bedungene Menge von täglich 883 Waggons und sodann der Tagesdurchschnitt nach den Gesamtlieferungen im Jahre 1919 von 529 Waggons verlangt worden, <pb facs="krp-0137_r-0003"/>wogegen die Tschechen erklärten, über den Belieferungsdurchschnitt der Monate November und Dezember von rund 400 Waggon täglich nicht hinausgehen zu können. Schließlich sei aber doch die Einräumung einer Tagesquote von 500 Waggons erzielt worden. Durch das Ergebnis der Kohlenverhandlungen erscheine wenigstens der Betrieb des Gaswerkes in Wien ohne weitergehende Einschränkungen gesichert, indem dieses Werk den von der Entente allerdings sehr knapp bemessenen Tagesbedarf von 110 Waggon[s] und vom 1. März d. J. an 120 Waggon[s] fortlaufend zugeschoben erhalten werde. Ferner seien jene Kohlenmengen zugestanden worden, welche zur Behebung der jetzigen Stockungen im Eisenbahnverkehre erforderlich sind. Die Tschechen hatten selbst ein Interesse daran, unsere Bahnen in Gang zu bringen, um ihre bei uns stillliegenden 3[.000]–5.000 Waggons zurückzuerhalten und die ihnen von den Italienern verheißenen 2.500 Waggons durchtransportieren zu können. Zur laufenden Regelung der Kohlenlieferungen sei eine Kohlen- und Verkehrskommission eingesetzt worden, von deren Tätigkeit eine allmähliche Verbesserung der Kohlenzuschübe erhofft werden dürfe. </p>
-                  <p>
-                     <pb facs="krp-0137_r-0004"/>Die Verhandlungen über die Belieferung von Zucker seien unter der Einwirkung der Tatsache gestanden, dass die Tschechen den Überschuss aus der letzten Kampagne an die Entente zu einem Preise von 21–22 tschechoslowakischen Kronen verkauft haben und selbst dieser Preis von einem Teil der Presse als im Vergleiche zu den Zuckerpreisen, die Frankreich anderwärts zahlen müsse, zu niedrig angesehen werde. Angesichts dieser Exportpreise sei es schon als großes Entgegenkommen der Tschechen zu werten gewesen, dass sie uns den Zucker gegenüber einem Anbot unsererseits von anfangs 10 und später 12 tschechoslowakischen Kronen um 16 tschechoslowakische Kronen abgeben wollten. Schließlich sei ein Kompromiss auf der Grundlage zustande gekommen, dass die uns als zweieinhalbmonatiger Bedarf zugestandene Zuckermenge von 2.500 Waggons in fünf Teillieferungen zu je 500 Waggons zerlegt wird, wobei die erste, für Humanitätsanstalten bestimmte Teillieferung mit 11 tschechoslowakischen Kronen pro kg, jede weitere um l tschechoslowakische Krone höher – bis 15 tschechoslowakische Kronen bei der letzten Lieferung – berechnet werden wird. Für die Gesamtlieferung ergebe sich also ein durchschnittlicher <pb facs="krp-0137_r-0005"/>Kilopreis von 13 tschechoslowakischen Kronen oder 40 österreichischen K, mit den Steuern etwa 50 österreichischer K; 500 weitere Waggons seien zu einem Preise von 15 tschechoslowakischen Kronen zugesagt worden.</p>
+                  <p><pb facs="krp-0137_r-0004"/>Die Verhandlungen über die Belieferung von Zucker seien unter der Einwirkung der Tatsache gestanden, dass die Tschechen den Überschuss aus der letzten Kampagne an die Entente zu einem Preise von 21–22 tschechoslowakischen Kronen verkauft haben und selbst dieser Preis von einem Teil der Presse als im Vergleiche zu den Zuckerpreisen, die Frankreich anderwärts zahlen müsse, zu niedrig angesehen werde. Angesichts dieser Exportpreise sei es schon als großes Entgegenkommen der Tschechen zu werten gewesen, dass sie uns den Zucker gegenüber einem Anbot unsererseits von anfangs 10 und später 12 tschechoslowakischen Kronen um 16 tschechoslowakische Kronen abgeben wollten. Schließlich sei ein Kompromiss auf der Grundlage zustande gekommen, dass die uns als zweieinhalbmonatiger Bedarf zugestandene Zuckermenge von 2.500 Waggons in fünf Teillieferungen zu je 500 Waggons zerlegt wird, wobei die erste, für Humanitätsanstalten bestimmte Teillieferung mit 11 tschechoslowakischen Kronen pro kg, jede weitere um l tschechoslowakische Krone höher – bis 15 tschechoslowakische Kronen bei der letzten Lieferung – berechnet werden wird. Für die Gesamtlieferung ergebe sich also ein durchschnittlicher <pb facs="krp-0137_r-0005"/>Kilopreis von 13 tschechoslowakischen Kronen oder 40 österreichischen K, mit den Steuern etwa 50 österreichischer K; 500 weitere Waggons seien zu einem Preise von 15 tschechoslowakischen Kronen zugesagt worden.</p>
                   <p>Über die Abmachungen außen- und innerpolitischer Natur werde Redner im Sinne einer mit dem Präsidenten der Nationalversammlung getroffenen Vereinbarung in der Sitzung des Ausschusses für Äußeres am 15. d. M. bzw. in der Sitzung des Finanz- und Budgetausschusses vom 16. d. M. Bericht erstatten. Die Kabinettsmitglieder würden von den Obmännern der beiden Ausschüsse zur Teilnahme an diesen Sitzungen eingeladen werden.</p>
                   <p>Der Kabinettsrat nimmt die Ausführungen des Vorsitzenden zur Kenntnis und erklärt sich mit der Erstattung der weiteren Berichte im Ausschusse für Äußeres bzw. im Finanz- und Budgetausschusse einverstanden. </p>
                </div>

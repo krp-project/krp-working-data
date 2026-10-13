@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0156.xml">
             <head type="dokument">
-               <title type="num">156.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">156.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0156_r-0001"/>[Montag] 1920-03-08</title>
@@ -281,9 +280,7 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0156_top01">Zu TOP 1</ref>: <ref target="#krp-0156_b01">Vorschlag der Staatsregierung gegenüber den Forderungen der öffentlichen Angestellten</ref>
-                  </item>
+                  <item><ref target="#krp-0156_top01">Zu TOP 1</ref>: <ref target="#krp-0156_b01">Vorschlag der Staatsregierung gegenüber den Forderungen der öffentlichen Angestellten</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -297,32 +294,24 @@
                   <p>Nach einer Mitteilung des Staatssekretärs Dr. <hi rend="#letterspaced">Reisch</hi> haben die Vertreter der Staatsangestellten die in der letzten Kabinettsratssitzung beschlossenen Vorschläge der Regierung als nicht entsprechend bezeichnet. Sie hätten insbesondere erklärt, dass sie <pb facs="krp-0156_r-0002"/>auf ihrem ursprünglichen Begehren nach Schaffung eines Existenzminimums beharren müssen und nur über die Höhe dieses Existenzminimums verhandelt werden könne. Auch müssten sie an der gleitenden Skala festhalten.</p>
                   <p>Der sprechende Staatssekretär wäre der Ansicht, dass der Forderung nach Aufrechterhaltung der gleitenden Zulage nicht Folge zu geben wäre, weil diese Zulage durch die anderen Erhöhungen konsumiert sei und der Lohnkampf sonst perpetuiert würde. Äußerstenfalls könnten „Einholungsbeträge“ in der effektiven Höhe der Preisdifferenz der vier rationierten Artikel ab l. März gewährt werden. Er schlage vor, den Staatsangestellten folgende Zugeständnisse zu machen, und zwar:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Erhöhung des Ortszuschlages für Wien auf 100 % des Grundgehaltes für die</item>
+                     <item n="1"><label>1.)</label> Erhöhung des Ortszuschlages für Wien auf 100 % des Grundgehaltes für die</item>
                   </list>
                   <p>II. Bezugsklasse auf „60 %“</p>
                   <p>III. Bezugsklasse auf „40 %“</p>
                   <list>
-                     <item n="1">
-                        <label>2.)</label> Erhöhung der Teuerungszulage um 100 %, d. i.</item>
+                     <item n="1"><label>2.)</label> Erhöhung der Teuerungszulage um 100 %, d. i.</item>
                   </list>
                   <p>für Wien von 4.800 K auf 9.600 K </p>
                   <p>für die</p>
                   <p>II. Bezugsklasse von 4.000 K auf 8.000 K</p>
                   <p>III. Bezugsklasse von 3.200 K auf 6.400 K</p>
                   <list>
-                     <item n="1">
-                        <label>3.)</label> Zwischen Wien und der II. Be<pb facs="krp-0156_r-0003"/>zugsklasse wäre eine Mittelklasse für Orte, welche ganz besondere Teuerungsverhältnisse haben, mit einem Ortszuschlag von 80 % des Grundgehaltes und einer Teuerungszulage von 8.800 K einzuschalten.</item>
-                     <item n="2">
-                        <label>4.)</label> Erhöhung der Kinderzulage um 100 %; d. i. von 1.200 K auf 2.400 K (in allen Bezugsklassen).</item>
-                     <item n="3">
-                        <label>5.)</label> Zulage für die Gattin des Angestellten, (soferne sie nicht selbst im Staats- oder öffentlichen Dienste steht); 1.200 K (in allen Bezugsklassen).</item>
-                     <item n="4">
-                        <label>6.)</label> Einziehung der gleitenden Zulage.</item>
-                     <item n="5">
-                        <label>7.)</label> Erhöhung der Amtszeit auf acht Stunden (zur Vermeidung von Neuaufnahmen).</item>
-                     <item n="6">
-                        <label>8.)</label> Regelung der Fahr- und Frachtbegünstigungen entsprechend den Tariferhöhungen (Neufestsetzung der Regiegebühren).</item>
+                     <item n="1"><label>3.)</label> Zwischen Wien und der II. Be<pb facs="krp-0156_r-0003"/>zugsklasse wäre eine Mittelklasse für Orte, welche ganz besondere Teuerungsverhältnisse haben, mit einem Ortszuschlag von 80 % des Grundgehaltes und einer Teuerungszulage von 8.800 K einzuschalten.</item>
+                     <item n="2"><label>4.)</label> Erhöhung der Kinderzulage um 100 %; d. i. von 1.200 K auf 2.400 K (in allen Bezugsklassen).</item>
+                     <item n="3"><label>5.)</label> Zulage für die Gattin des Angestellten, (soferne sie nicht selbst im Staats- oder öffentlichen Dienste steht); 1.200 K (in allen Bezugsklassen).</item>
+                     <item n="4"><label>6.)</label> Einziehung der gleitenden Zulage.</item>
+                     <item n="5"><label>7.)</label> Erhöhung der Amtszeit auf acht Stunden (zur Vermeidung von Neuaufnahmen).</item>
+                     <item n="6"><label>8.)</label> Regelung der Fahr- und Frachtbegünstigungen entsprechend den Tariferhöhungen (Neufestsetzung der Regiegebühren).</item>
                   </list>
                   <p>Diese Zugeständnisse würden nach den neuerlich vorgenommenen Berechnungen einen jährlichen Mehraufwand von 1 2/3 Milliarden K erfordern.</p>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Deutsch</hi> stellt den Antrag, dass den Militärpersonen der provisorischen und der neu aufzustellenden Wehrmacht die <pb facs="krp-0156_r-0004"/>gleichen Erhöhungen ihrer Bezüge zugebilligt werden, wie den Zivilstaatsangestellten. Die Aufteilung der entsprechenden Summen auf die einzelnen Kategorien und die Art der Durchführung wäre dem Einvernehmen zwischen den Staatsämtern für Heer[es]wesen und für Finanzen vorzubehalten.</p>
@@ -334,8 +323,7 @@
                </div>
             </div>
             <div type="anhaenge">
-               <p>
-                  <pb facs="krp-0156_a01-0002"/>z. Z. 847/St. K.-1920.</p>
+               <p><pb facs="krp-0156_a01-0002"/>z. Z. 847/St. K.-1920.</p>
                <div n="1">
                   <head>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 156 vom 8. März 1920.</head>
                   <div type="a01_protokoll">

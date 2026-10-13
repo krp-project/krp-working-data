@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0105.xml">
             <head type="dokument">
-               <title type="num">105.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">105.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0105_r-0001"/>[Dienstag] 1919-09-09</title>
@@ -281,12 +280,8 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0105_top01">Zu TOP 1</ref>: <ref target="#krp-0105_b01">Gesetzesbeschluss des Vorarlberger Landtages über die Errichtung einer Mädchenbürgerschule in Lustenau</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0105_top10">Zu TOP 10</ref>: <ref target="#krp-0105_b02">Vortrag des Staatssekretärs für Verkehrswesen über die Auflösung der deutschösterreichischen Staatsbahndirektionen Teplitz und Jägerndorf</ref>
-                  </item>
+                  <item><ref target="#krp-0105_top01">Zu TOP 1</ref>: <ref target="#krp-0105_b01">Gesetzesbeschluss des Vorarlberger Landtages über die Errichtung einer Mädchenbürgerschule in Lustenau</ref></item>
+                  <item><ref target="#krp-0105_top10">Zu TOP 10</ref>: <ref target="#krp-0105_b02">Vortrag des Staatssekretärs für Verkehrswesen über die Auflösung der deutschösterreichischen Staatsbahndirektionen Teplitz und Jägerndorf</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -302,9 +297,7 @@
                   <p>Gegen den Inhalt des beschlossenen Gesetzes sei im Allgemeinen keine Einwendung zu erheben, doch stehe die Bestimmung des § 3, dass die Landesregierung anstatt – wie dies bisher in allen Volksschulgesetzen bestimmt war – der Staatssekretär für Inneres und Unterricht mit der Durchführung betraut wird, mit dem Gesetze vom 25. Mai 1868, RGBl. Nr. 48, wonach das Staatsamt für Inneres und Unterricht ausschließlich zur obersten Leitung und Aufsicht über das gesamte Unterrichts- und Erziehungswesen, mithin auch zur Durchführung der Landesschulgesetze berufen erscheint, im Widerspruche.</p>
                   <p>Der sprechende Unterstaatssekretär stelle daher den Antrag, gegen die Bestimmung des § 3 des vorliegenden Gesetzesbeschlusses im Sinne des Art. 14 des Gesetzes vom 14. März 1919, StGBl. Nr. 179, Vorstellung zu erheben und das Staatsamt für Inneres und Unterricht zu ermächtigen, den Landtag hievon im Wege der Landesregierung unter Bekanntgabe der Gründe zu verständigen.</p>
                   <p>Der Kabinettsrat erhebt diesen Antrag zum Beschluss.</p>
-                  <p>
-                     <pb facs="krp-0105_r-0004"/>
-                  </p>
+                  <p><pb facs="krp-0105_r-0004"/></p>
                </div>
                <div type="top" xml:id="krp-0105_top02">
                   <head>
@@ -336,15 +329,11 @@
                   </head>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Waiss</hi> teilt mit, dass die französische Militärmission in Wien den Staatssekretär für Heer[es]wesen um die Beantwortung folgender Fragen ersucht habe:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Hat die „österreichische Regierung“ die Maßnahmen schon ins Auge gefasst, die sie für die Besitznahme der Komitate Westungarn ergreifen wird, sobald der Friedensvertrag ratifiziert ist?</item>
-                     <item n="2">
-                        <label>2.)</label> Rechnet sie damit, dieses Gebiet militärisch zu besetzen, – mit welchen Kräften und in welcher Weise?</item>
-                     <item n="3">
-                        <label>3.)</label> Glaubt sie nicht, Widerstände bei der dortigen Bevölkerung oder bei den magyarischen Truppen zu finden und welche sind in diesem Falle ihre Absichten?</item>
+                     <item n="1"><label>1.)</label> Hat die „österreichische Regierung“ die Maßnahmen schon ins Auge gefasst, die sie für die Besitznahme der Komitate Westungarn ergreifen wird, sobald der Friedensvertrag ratifiziert ist?</item>
+                     <item n="2"><label>2.)</label> Rechnet sie damit, dieses Gebiet militärisch zu besetzen, – mit welchen Kräften und in welcher Weise?</item>
+                     <item n="3"><label>3.)</label> Glaubt sie nicht, Widerstände bei der dortigen Bevölkerung oder bei den magyarischen Truppen zu finden und welche sind in diesem Falle ihre Absichten?</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0105_r-0007"/>Der sprechende Unterstaatssekretär erbitte eine Weisung für die Behandlung dieser Anfragen.</p>
+                  <p><pb facs="krp-0105_r-0007"/>Der sprechende Unterstaatssekretär erbitte eine Weisung für die Behandlung dieser Anfragen.</p>
                   <p>Über Antrag des Staatssekretärs Dr. <hi rend="#letterspaced">Bauer</hi> beschließt der Kabinettsrat, der französischen Militärmission sei durch den Staatssekretär für Heer[es]wesen mitzuteilen, dass ihre Anfragen, da es sich um eine Angelegenheit der auswärtigen Politik handle, an das Staatsamt für Äußeres zur Beantwortung weitergeleitet wurden.</p>
                </div>
                <div type="top" xml:id="krp-0105_top05">
@@ -356,9 +345,7 @@
                   </head>
                   <p>Im Auftrage des abwesenden Staatssekretärs für Inneres und Unterricht erbittet Sektionschef <hi rend="#letterspaced">Wenedikter</hi> die Ermächtigung des Kabinettsrates, dass von der Erhebung einer Vorstellung gegen den vom Landtage in Vorarlberg in seiner Sitzung am 8. Juli l. J. beschlossenen Entwurf eines Gesetzes, betreffend die Ergänzung der Gemeindewahlordnung für die Gemeinden des Landes Vorarlberg, abgesehen und der sofortigen Kundmachung des Landesgesetzes zugestimmt werde.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
-                  <p>
-                     <pb facs="krp-0105_r-0008"/>
-                  </p>
+                  <p><pb facs="krp-0105_r-0008"/></p>
                </div>
                <div type="top" xml:id="krp-0105_top06">
                   <head>

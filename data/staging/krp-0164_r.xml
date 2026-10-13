@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0164.xml">
             <head type="dokument">
-               <title type="num">164.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">164.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0164_r-0001"/>
@@ -282,39 +281,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0164_top04">Zu TOP 4</ref>: <ref target="#krp-0164_b01">Verzeichnis zu Zl. 127/20 St.K./1920 der aufgrund des Kriegswirtschaftlichen Ermächtigungsgesetzes erlassenen Vollzugsanweisungen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top06">Zu TOP 6</ref>: <ref target="#krp-0164_b02">Referat des Staatsamtes für Äußeres Zl. 16.038/1920 über die Vereinbarungen mit Ungarn zur Liquidierung der ehem. Zentralstellen und die Mitwirkung bei Vergleichen über laufende Militärlieferungsverträge</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top07">Zu TOP 7</ref>: <ref target="#krp-0164_b03">Vortrag des Staatsamtes für Äußeres zu Zl. 16.796/1920 über das Regierungsübereinkommen mit Litauen zur Heimbeförderung österreichischer Kriegsgefangener aus Russland über Litauen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top08">Zu TOP 8</ref>: <ref target="#krp-0164_b04">Vortrag des Unterrichtsamtes zu Zl. 4900/20 über den Gesetzesbeschluss der Tiroler Landesversammlung zum Landesschulgesetz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top09">Zu TOP 9</ref>: <ref target="#krp-0164_b05">Antrag auf Erklärung des Kraftwerkbaus am Spullersee als begünstigten Bau</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top10">Zu TOP 10</ref>: <ref target="#krp-0164_b06">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss der Kärntner Landesversammlung zur Gemeindewahlordnung, ausgenommen die Städte mit eigenem Statut</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top11">Zu TOP 11</ref>: <ref target="#krp-0164_b07">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss des Steiermärkischen Landtages zur Einhebung städtischer Verbrauchsabgaben in Graz</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top12">Zu TOP 12</ref>: <ref target="#krp-0164_b08">Vortrag des Staatsamtes für Inneres und Unterricht über Beschlüsse der Landesräte in Niederösterreich und Kärnten sowie der Tiroler und Steiermärkischen Landtage in autonomen Finanzangelegenheiten</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top13">Zu TOP 13</ref>: <ref target="#krp-0164_b09">Vortrag des Staatsamtes für Finanzen über die Erhöhung der Tabakpreise</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top15">Zu TOP 15</ref>: <ref target="#krp-0164_b10">Vortrag des Staatsamtes für Finanzen über den Gesetzesentwurf über die Regelung des Dienstverhältnisses der Steuerexekutoren</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0164_top15">Zu TOP 15</ref>: <ref target="#krp-0164_b11">Gesetzesentwurf über die Regelung des Dienstverhältnisses der Steuerexekutoren mit Begründung</ref>
-                  </item>
+                  <item><ref target="#krp-0164_top04">Zu TOP 4</ref>: <ref target="#krp-0164_b01">Verzeichnis zu Zl. 127/20 St.K./1920 der aufgrund des Kriegswirtschaftlichen Ermächtigungsgesetzes erlassenen Vollzugsanweisungen</ref></item>
+                  <item><ref target="#krp-0164_top06">Zu TOP 6</ref>: <ref target="#krp-0164_b02">Referat des Staatsamtes für Äußeres Zl. 16.038/1920 über die Vereinbarungen mit Ungarn zur Liquidierung der ehem. Zentralstellen und die Mitwirkung bei Vergleichen über laufende Militärlieferungsverträge</ref></item>
+                  <item><ref target="#krp-0164_top07">Zu TOP 7</ref>: <ref target="#krp-0164_b03">Vortrag des Staatsamtes für Äußeres zu Zl. 16.796/1920 über das Regierungsübereinkommen mit Litauen zur Heimbeförderung österreichischer Kriegsgefangener aus Russland über Litauen</ref></item>
+                  <item><ref target="#krp-0164_top08">Zu TOP 8</ref>: <ref target="#krp-0164_b04">Vortrag des Unterrichtsamtes zu Zl. 4900/20 über den Gesetzesbeschluss der Tiroler Landesversammlung zum Landesschulgesetz</ref></item>
+                  <item><ref target="#krp-0164_top09">Zu TOP 9</ref>: <ref target="#krp-0164_b05">Antrag auf Erklärung des Kraftwerkbaus am Spullersee als begünstigten Bau</ref></item>
+                  <item><ref target="#krp-0164_top10">Zu TOP 10</ref>: <ref target="#krp-0164_b06">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss der Kärntner Landesversammlung zur Gemeindewahlordnung, ausgenommen die Städte mit eigenem Statut</ref></item>
+                  <item><ref target="#krp-0164_top11">Zu TOP 11</ref>: <ref target="#krp-0164_b07">Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht über den Gesetzesbeschluss des Steiermärkischen Landtages zur Einhebung städtischer Verbrauchsabgaben in Graz</ref></item>
+                  <item><ref target="#krp-0164_top12">Zu TOP 12</ref>: <ref target="#krp-0164_b08">Vortrag des Staatsamtes für Inneres und Unterricht über Beschlüsse der Landesräte in Niederösterreich und Kärnten sowie der Tiroler und Steiermärkischen Landtage in autonomen Finanzangelegenheiten</ref></item>
+                  <item><ref target="#krp-0164_top13">Zu TOP 13</ref>: <ref target="#krp-0164_b09">Vortrag des Staatsamtes für Finanzen über die Erhöhung der Tabakpreise</ref></item>
+                  <item><ref target="#krp-0164_top15">Zu TOP 15</ref>: <ref target="#krp-0164_b10">Vortrag des Staatsamtes für Finanzen über den Gesetzesentwurf über die Regelung des Dienstverhältnisses der Steuerexekutoren</ref></item>
+                  <item><ref target="#krp-0164_top15">Zu TOP 15</ref>: <ref target="#krp-0164_b11">Gesetzesentwurf über die Regelung des Dienstverhältnisses der Steuerexekutoren mit Begründung</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -327,8 +304,7 @@
                      </label>
                   </head>
                   <p>Der <hi rend="#letterspaced">Vorsitzende</hi> führt aus, dass die Regelung der dienstlichen oder der materiellen Stellung der beamteten Mitglieder des Kabinettes gelegentlich ihrer Wahl oder später nach Maßgabe des Gesetzes vom 26. Februar 1920, StGBl. Nr. 94, Gegenstand der Antragstellung an den Präsidenten der Nationalversammlung werden könne. Da jeder Staatssekretär dem Personalstande seines Ressorts angehöre, hätten derartige Anträge jeweils von ihm selbst auszugehen. Ein solches Hervortreten in eigener Sache wäre aber für jedes Kabinettsmitglied naturgemäß sehr misslich, wie es auch nicht angebracht erschiene, dass der Kabinettsrat Personalfragen seiner Mitglieder erörtere. Aus diesen Erwägungen glaube der Vorsitzende den Vorschlag machen zu sollen, der Kabinettsrat möge die Antragstellung in diesen Fällen, zu welchen nach dem Gesetz die Staatsregierung als solche berufen erscheine, ein für alle Mal an den Staatskanzler, bzw. in den Angelegenheiten, welche diesen betreffen, an den Vizekanzler delegieren und diese ermächtigen, die Unterbreitungen an den Präsidenten der Nationalversammlung selbständig im Namen des Kabinettsrates zu vollziehen.</p>
-                  <p>
-                     <pb facs="krp-0164_r-0004"/>Entsprechend dem Antrage des Vorsitzenden fasst der Kabinettrat folgenden Beschluss: Die Antragstellung in Personalangelegenheiten der Kabinettsmitglieder an den Präsidenten der Nationalversammlung wird dem Staatskanzler übertragen. Wenn eine Personalangelegenheit des Staatskanzlers selbst in Frage kommt, obliegt deren amtliche Behandlung dem Vizekanzler.</p>
+                  <p><pb facs="krp-0164_r-0004"/>Entsprechend dem Antrage des Vorsitzenden fasst der Kabinettrat folgenden Beschluss: Die Antragstellung in Personalangelegenheiten der Kabinettsmitglieder an den Präsidenten der Nationalversammlung wird dem Staatskanzler übertragen. Wenn eine Personalangelegenheit des Staatskanzlers selbst in Frage kommt, obliegt deren amtliche Behandlung dem Vizekanzler.</p>
                </div>
                <div type="top" xml:id="krp-0164_top02">
                   <head>
@@ -464,8 +440,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Ing. <hi rend="#letterspaced">Zerdik</hi> unterbreitet dem Kabinettsrate den mit der polnischen Regierung geschlossenen Vertrag über die Lieferungen von Rohprodukten und Lebensmitteln aus Polen gegen Kompensationen von Österreich in industriellen Artikeln und Sachdemobilisierungsgütern und erbittet die Entscheidung des Kabinettsrates über die Genehmigung dieses Übereinkommens.</p>
-                  <p>Über den Gegenstand entwickelt sich eine längere Debatte, in welcher sich die Staatssekretäre Dr. <hi rend="#letterspaced">Deutsch</hi>, <hi rend="#letterspaced">Eldersch</hi> und Dr. <hi rend="#letterspaced">Ellenbogen</hi>
-                     <pb facs="krp-0164_r-0017"/>aus inner- und außenpolitischen Gründen gegen die Ratifikation, die Staatssekretäre Dr. <hi rend="#letterspaced">Reisch</hi> und Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> im Interesse der Rohstoffversorgung unserer Industrie sowie der Lebensmittelversorgung für die Genehmigung des Vertrages aussprechen.</p>
+                  <p>Über den Gegenstand entwickelt sich eine längere Debatte, in welcher sich die Staatssekretäre Dr. <hi rend="#letterspaced">Deutsch</hi>, <hi rend="#letterspaced">Eldersch</hi> und Dr. <hi rend="#letterspaced">Ellenbogen</hi> <pb facs="krp-0164_r-0017"/>aus inner- und außenpolitischen Gründen gegen die Ratifikation, die Staatssekretäre Dr. <hi rend="#letterspaced">Reisch</hi> und Dr. <hi rend="#letterspaced">Loewenfeld-Russ</hi> im Interesse der Rohstoffversorgung unserer Industrie sowie der Lebensmittelversorgung für die Genehmigung des Vertrages aussprechen.</p>
                   <p>Da der <hi rend="#letterspaced">Vorsitzende</hi> es für wünschenswert bezeichnet, zunächst noch Aufklärungen über die Sach- und Rechtslage einzuziehen, beschließt der Kabinettsrat von der Entscheidung über den Gegenstand vorläufig abzusehen.</p>
                </div>
                <div type="top" xml:id="krp-0164_top15">
@@ -487,8 +462,7 @@
                   <p>Streng vertraulicher Anhang zum Kabinettsprotokoll Nr. 164 vom 23. März 1920.</p>
                   <div type="a01_protokoll">
                      <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Tandler</hi> gibt dem Kabinettsrate bekannt, dass Sektionschef Dr. Kaup gegen die ihm aufgrund des Kabinettsbeschlusses vom 5. März 1. J. angekündigte Beurlaubung mit Wartegebühr, bzw. gegen die Versetzung in den zeitlichen Ruhestand, welche infolge der zwingenden Bestimmungen des § 18 Abs. 1 des Besoldungsübergangsgesetzes an die Stelle der ursprünglich beabsichtigten Maßregel zu treten hätte, Einwendungen erhoben habe, und nimmt zu deren Ausführungen in dem diesem Protokoll beiliegenden Bericht Stellung.</p>
-                     <p>
-                        <pb facs="krp-0164_a01-0002"/>Nach dem Antrage des sprechenden Unterstaatssekretärs ermächtigt der Kabinettsrat den Staatssekretär für soziale Verwaltung, die Einwendungen des Sektionschefs Dr. Kaup zurückzuweisen und den Genannten in den zeitlichen Ruhestand zu versetzen.</p>
+                     <p><pb facs="krp-0164_a01-0002"/>Nach dem Antrage des sprechenden Unterstaatssekretärs ermächtigt der Kabinettsrat den Staatssekretär für soziale Verwaltung, die Einwendungen des Sektionschefs Dr. Kaup zurückzuweisen und den Genannten in den zeitlichen Ruhestand zu versetzen.</p>
                   </div>
                </div>
                <div n="2">

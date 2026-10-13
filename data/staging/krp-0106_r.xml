@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0106.xml">
             <head type="dokument">
-               <title type="num">106.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">106.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0106_r-0001"/>[Freitag] 1919-09-12</title>
@@ -281,15 +280,9 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0106_top01">Zu TOP 1</ref>: <ref target="#krp-0106_b01">Vortrag für den Kabinettsrat zu Abt. 14 Zl. 21.19268/1919 über einen Zuschuss zur Kostaufbesserung der Volkswehr</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0106_top02">Zu TOP 2</ref>: <ref target="#krp-0106_b02">Vortrag für den Kabinettsrat zu Abt. 20 Zl. 4174/1919 über die Erhöhung der Unterhaltsbeiträge für die Angehörigen bzw. Hinterbliebenen von Invaliden und Vermissten bzw. von Gestorbenen und Gefallenen mit beiliegender Tabelle</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0106_top03">Zu TOP 3</ref>: <ref target="#krp-0106_b03">Referat der Staatskanzlei zu Zl. 159/26-St.K. für den Kabinettsrat über den fünften Bericht der Kommission zur Erhebung militärischer Pflichtverletzungen</ref>
-                  </item>
+                  <item><ref target="#krp-0106_top01">Zu TOP 1</ref>: <ref target="#krp-0106_b01">Vortrag für den Kabinettsrat zu Abt. 14 Zl. 21.19268/1919 über einen Zuschuss zur Kostaufbesserung der Volkswehr</ref></item>
+                  <item><ref target="#krp-0106_top02">Zu TOP 2</ref>: <ref target="#krp-0106_b02">Vortrag für den Kabinettsrat zu Abt. 20 Zl. 4174/1919 über die Erhöhung der Unterhaltsbeiträge für die Angehörigen bzw. Hinterbliebenen von Invaliden und Vermissten bzw. von Gestorbenen und Gefallenen mit beiliegender Tabelle</ref></item>
+                  <item><ref target="#krp-0106_top03">Zu TOP 3</ref>: <ref target="#krp-0106_b03">Referat der Staatskanzlei zu Zl. 159/26-St.K. für den Kabinettsrat über den fünften Bericht der Kommission zur Erhebung militärischer Pflichtverletzungen</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -304,8 +297,7 @@
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Waiss</hi> verweist auf den Beschluss des Kabinettsrates vom 13. Mai d. J., wonach die Bewilligung erteilt wurde, dass ab 1. Mai d. J. an Stelle des den Zivilstaatsbediensteten zugestandenen sogenannten Übergangsbeitrages für die Dauer der Gewährung dieses Beitrages dem Landesbefehlshaber in Wien monatlich ein Geldbetrag von höchstens 1.842.360 K für Zwecke der Kostaufbesserung für die Wiener Volkswehr zugewiesen werde.</p>
                   <p>Mit Kabinettsratsbeschluss vom 17. Juni d. J. sei diese Aufbesserung auch für die Gagisten und Mannschaften der Volkswehr außerhalb Wiens und zwar entsprechend den örtlichen Preisverhältnissen abgestuft in der Spannung von 4–2 K mit der Maßgabe genehmigt worden, dass die Aufbesserung erst nach dem länderweise erfolgten 25%igen Abbau einzutreten habe, wobei jedoch als Termin der 1. Juni d. J. als Beginn der Geltungsdauer dieser Aufbesserung festgesetzt wurde. Für diesen Zweck sei ein monatlicher Betrag von ca. 2.600.000 K zugestanden worden.</p>
                   <p>Der bewilligte Gesamtkredit beziffere sich demnach mit rund 4.430.000 K pro Monat.</p>
-                  <p>
-                     <pb facs="krp-0106_r-0003"/>Der Reichsvollzugsausschuss der Soldatenräte habe bereits vor einiger Zeit unter Hinweis darauf, dass sich seit der Bewilligung des Zuschusses zur Kostaufbesserung die Lebensbedingungen noch mehr verschlechtert haben, um eine 25 % Erhöhung dieses Zuschusses ersucht.</p>
+                  <p><pb facs="krp-0106_r-0003"/>Der Reichsvollzugsausschuss der Soldatenräte habe bereits vor einiger Zeit unter Hinweis darauf, dass sich seit der Bewilligung des Zuschusses zur Kostaufbesserung die Lebensbedingungen noch mehr verschlechtert haben, um eine 25 % Erhöhung dieses Zuschusses ersucht.</p>
                   <p>Für den Bereich Wiens und auch für einige auswärtige Standorte, insbesondere in Industriezentren, sei die nachgesuchte Erhöhung des Zuschusses in den daselbst bestehenden Verhältnissen vollauf begründet.</p>
                   <p>Der sprechende Unterstaatssekretär stelle daher den Antrag, der Kabinettsrat wolle das Staatsamt für Heer[es]wesen ermächtigen, den Zuschuss zur Kostaufbesserung für die Volkswehr in jenen Standorten, wo dies erhobenermaßen begründet erscheint, vom 1. September 1919 angefangen bis auf weiteres um 25 % zu erhöhen.</p>
                   <p>Infolge dieser Erhöhung werde bei den derzeitigen Stande der Volkswehr der bisherige Kredit von 4.430.000 K pro Monat, selbst für den Fall nicht überschritten werden, dass der Zuschuss zur Kostaufbesserung durchwegs um 25 % erhöht werden <pb facs="krp-0106_r-0004"/>würde; es könne vielmehr mit einem größeren Ersparnis gerechnet werden, da in allernächster Zeit die außerhalb Wiens befindliche Volkswehr in einige wenige Standorte (ehemalige Garnisonsorte) werde zusammengezogen werden und infolge dieser Verfügung voraussichtlich eine größere Anzahl von Volkswehrmännern austreten werde.</p>

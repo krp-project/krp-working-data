@@ -255,10 +255,10 @@
       <xsl:variable name="front" select="../tei:front"/>
       <xsl:variable name="title-container" select="if ($front)
                 then $front//tei:titlePart[@type='Title']
-                else ($body-content/self::tei:div)[1]/tei:p[@rend='Title']"/><!-- allow for both protcol-title containers present in model DOCXs -->
+                else ($body-content/self::tei:div)[1]/tei:p[@rend='Title']"/><!-- allow for both protocol-title containers present in model DOCXs -->
       <xsl:variable name="subtitle-container" select="if ($front)
                 then $front//tei:titlePart[@type='Subtitle']
-                else ($body-content/self::tei:div)[1]/tei:p[@rend='Subtitle']"/><!-- allow for both protcol-subtitle containers present in model DOCXs -->
+                else ($body-content/self::tei:div)[1]/tei:p[@rend='Subtitle']"/><!-- allow for both protocol-subtitle containers present in model DOCXs -->
       <!-- wrap body content in outermost div from TEI-header document -->
       <xsl:copy select="$header-doc//tei:body/tei:div">
         <xsl:copy-of select="$header-doc//tei:body/tei:div/@*"/>

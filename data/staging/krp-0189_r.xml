@@ -165,9 +165,9 @@
                      <extent/>
                   </monogr>
                   <note>
-                     <idno/>
-                     <ptr/>
-                  </note>
+              <idno/>
+              <ptr/>
+            </note>
                   <citedRange/>
                </biblStruct>
             </relatedItem>
@@ -247,8 +247,7 @@
       <body>
          <div xml:id="doc-krp-0189.xml">
             <head type="dokument">
-               <title type="num">189.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi>
-                  </note>
+               <title type="num">189.<note type="footnote">Das Protokoll trägt den Vermerk <hi rend="#i">Vertraulich!</hi></note>
                </title>
                <title type="desc">
                   <pb facs="krp-0189_r-0001"/>
@@ -282,46 +281,17 @@
             <div type="beilagen">
                <head>Beilagen:</head>
                <list>
-                  <item>
-                     <ref target="#krp-0189_top02">Zu TOP 2</ref>: <ref target="#krp-0189_b01">Information des Unterrichtsamtes über die finanzielle Förderung des Mädchenbildungswesens</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top03">Zu TOP 3</ref>: <ref target="#krp-0189_b02">Vortrag des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten über die Staatsbeteiligung am Gold- und Silberbergbau der Gewerkschaft Rathausberg</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top04">Zu TOP 4</ref>: <ref target="#krp-0189_b03">Vortrag des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten über den Gesetzesbeschluss des Niederösterreichischen Landtages zur Abänderung des niederösterreichischen Straßengesetzes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top05">Zu TOP 5</ref>: <ref target="#krp-0189_b04">Regierungsvorlage des Spielplatzanforderungsgesetzes samt Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top05">Zu TOP 5</ref>: <ref target="#krp-0189_b05">Regierungsvorlage des Spielplatzschutzgesetzes samt Begründung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top06">Zu TOP 6</ref>: <ref target="#krp-0189_b06">Gesetzesvorlage der Staatsregierung über die Krankenversicherung der Staatsbediensteten mit Begründung und beigelegten Abänderungen des Staatsamtes für soziale Verwaltung aufgrund der Stellungnahme des Staatsamtes für Finanzen</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top07">Zu TOP 7</ref>: <ref target="#krp-0189_b07">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 12.643/20 über das Ansuchen des Gemeindeausschusses von Gleisdorf um Erhebung zur Stadt</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top08">Zu TOP 8</ref>: <ref target="#krp-0189_b08">Vortrag des Staatsamtes für Finanzen über die Neuorganisation der Vergleichskommission für laufende Militärlieferungsverträge mit Bericht des Leiters des Militärliquidierungsamtes</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top09">Zu TOP 9</ref>: <ref target="#krp-0189_b09">Vortrag des Staatsamtes für Finanzen über Beihilfen für die aus den Nationalstaaten vertriebenen ehemaligen österreichischen Staats- (bahn-) angestellten deutscher Volkszugehörigkeit anlässlich ihrer Ruhestandsversetzung</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top10">Zu TOP 10</ref>: <ref target="#krp-0189_b10">Antrag des Staatsamtes für Finanzen auf Urlaubsverlängerung für den Unterbeamten und Grazer Gemeinderat Adolf Schönemann</ref>
-                  </item>
-                  <item>
-                     <ref target="#krp-0189_top12">Zu TOP 12</ref>: <ref target="#krp-0189_b11">Vortrag des</ref>
-                     <ref target="#krp-0189_b11">Staatsamtes für</ref>
-                     <ref target="#krp-0189_b11">Land. und Forstwirtschaft über den Beschluss des</ref>
-                     <ref target="#krp-0189_b11">Niederösterreichischen</ref>
-                     <ref target="#krp-0189_b11">Landtages zur Verbauung des Hassbaches in der Gem</ref>
-                     <ref target="#krp-0189_b11">einde</ref>
-                     <ref target="#krp-0189_b11">Kirchau und die Regulierung des Pielachflusses in Loipersdorf und Völlerndorf</ref>
-                     <ref target="#krp-0189_b11"/>
-                  </item>
+                  <item><ref target="#krp-0189_top02">Zu TOP 2</ref>: <ref target="#krp-0189_b01">Information des Unterrichtsamtes über die finanzielle Förderung des Mädchenbildungswesens</ref></item>
+                  <item><ref target="#krp-0189_top03">Zu TOP 3</ref>: <ref target="#krp-0189_b02">Vortrag des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten über die Staatsbeteiligung am Gold- und Silberbergbau der Gewerkschaft Rathausberg</ref></item>
+                  <item><ref target="#krp-0189_top04">Zu TOP 4</ref>: <ref target="#krp-0189_b03">Vortrag des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten über den Gesetzesbeschluss des Niederösterreichischen Landtages zur Abänderung des niederösterreichischen Straßengesetzes</ref></item>
+                  <item><ref target="#krp-0189_top05">Zu TOP 5</ref>: <ref target="#krp-0189_b04">Regierungsvorlage des Spielplatzanforderungsgesetzes samt Begründung</ref></item>
+                  <item><ref target="#krp-0189_top05">Zu TOP 5</ref>: <ref target="#krp-0189_b05">Regierungsvorlage des Spielplatzschutzgesetzes samt Begründung</ref></item>
+                  <item><ref target="#krp-0189_top06">Zu TOP 6</ref>: <ref target="#krp-0189_b06">Gesetzesvorlage der Staatsregierung über die Krankenversicherung der Staatsbediensteten mit Begründung und beigelegten Abänderungen des Staatsamtes für soziale Verwaltung aufgrund der Stellungnahme des Staatsamtes für Finanzen</ref></item>
+                  <item><ref target="#krp-0189_top07">Zu TOP 7</ref>: <ref target="#krp-0189_b07">Vortrag des Staatsamtes für Inneres und Unterricht zu Zl. 12.643/20 über das Ansuchen des Gemeindeausschusses von Gleisdorf um Erhebung zur Stadt</ref></item>
+                  <item><ref target="#krp-0189_top08">Zu TOP 8</ref>: <ref target="#krp-0189_b08">Vortrag des Staatsamtes für Finanzen über die Neuorganisation der Vergleichskommission für laufende Militärlieferungsverträge mit Bericht des Leiters des Militärliquidierungsamtes</ref></item>
+                  <item><ref target="#krp-0189_top09">Zu TOP 9</ref>: <ref target="#krp-0189_b09">Vortrag des Staatsamtes für Finanzen über Beihilfen für die aus den Nationalstaaten vertriebenen ehemaligen österreichischen Staats- (bahn-) angestellten deutscher Volkszugehörigkeit anlässlich ihrer Ruhestandsversetzung</ref></item>
+                  <item><ref target="#krp-0189_top10">Zu TOP 10</ref>: <ref target="#krp-0189_b10">Antrag des Staatsamtes für Finanzen auf Urlaubsverlängerung für den Unterbeamten und Grazer Gemeinderat Adolf Schönemann</ref></item>
+                  <item><ref target="#krp-0189_top12">Zu TOP 12</ref>: <ref target="#krp-0189_b11">Vortrag des Staatsamtes für Land. und Forstwirtschaft über den Beschluss des Niederösterreichischen Landtages zur Verbauung des Hassbaches in der Gemeinde Kirchau und die Regulierung des Pielachflusses in Loipersdorf und Völlerndorf</ref></item>
                </list>
             </div>
             <div type="protokoll">
@@ -346,8 +316,7 @@
                   <p>Unterstaatssekretär <hi rend="#letterspaced">Glöckel</hi> führt anknüpfend an das Ergebnis der Verhandlungen des Kabinettsrates in der Sitzung vom 2. März l. J. über die Ausgestaltung und finanzielle Förderung des Mädchenbildungswesens aus, dass das Staatsamt für Finanzen die Zustimmung gegeben habe, dass den Erhaltern privater Mädchenmittelschulen an Beihilfen für die Lehrpersonen folgende Beträge flüssig gemacht werden:</p>
                   <p>Für alle am 1. Mai 1920 im Hauptfache tätigen, mit mindestens 14 Wochenstunden beschäftigten Lehrpersonen, die nicht schon infolge ihrer lehramtlichen Beschäftigung an staatlichen Unterrichtsanstalten im Genusse der Teuerungszulage stehen, wenn ihre Dienstleistung an öffentlichen Mittelschulen am genannten Tage bereits über sechs Jahre währt, im Betrage von 6.000 K, im Falle kürzerer Verwendungsdauer im Betrage von 3.000 K.</p>
                   <p>Lehrpersonen, die mit weniger als 14, jedoch mit mindestens vier Wochenstunden beschäftigt sind, haben die Hälfte, d. i. also 3.000 K, bzw. 1.500 K zu erhalten.</p>
-                  <p>
-                     <pb facs="krp-0189_r-0005"/>Direktoren und Direktorinnen sind, soferne sie nicht Schulerhalter sind, unter allen Umständen den mit einer minimalen Lehrverpflichtung von 14 Wochenstunden verpflichteten Lehrpersonen gleich zu halten.</p>
+                  <p><pb facs="krp-0189_r-0005"/>Direktoren und Direktorinnen sind, soferne sie nicht Schulerhalter sind, unter allen Umständen den mit einer minimalen Lehrverpflichtung von 14 Wochenstunden verpflichteten Lehrpersonen gleich zu halten.</p>
                   <p>Diese Beihilfen sollen als bloße einmalige Zuwendungen und nur ganz ausnahmsweise lediglich in Anbetracht des Umstandes gegeben werden, dass staatliche Mädchenmittelschulen derzeit noch nicht bestehen. Für das nächste Schuljahr würde diese letztere Voraussetzung, da die Errichtung von fünf staatlichen Mädchenmittelschulen beabsichtigt sei, voraussichtlich nicht mehr zutreffen und daher auch eine Erneuerung der Zuwendung nicht platzgreifen.</p>
                   <p>Redner erbitte die Genehmigung des Kabinettsrates für die vorgeschlagene Regelung.</p>
                   <p>Der Kabinettsrat ermächtigt den sprechenden Unterstaatssekretär, den Erhaltern privater Mädchenmittelschulen eine einmalige Beihilfe für die Lehrpersonen in dem vom Staatsamte für Finanzen zugesagten Ausmaße zu bewilligen, stellt hiebei aber ausdrücklich fest, dass diese Zuwendung den Charakter einer bloß durch den Abgang staatlicher Mädchenmittelschulen bedingten Ausnahmsverfügung trage.</p>
@@ -361,27 +330,18 @@
                   </head>
                   <p>Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> berichtet, dass bei den aufgrund des Ka<pb facs="krp-0189_r-0006"/>binettsratsbeschlusses vom 5. Jänner l. J. geführten Verhandlungen mit der Gewerkschaft Rathausberg über die Beteiligung des Staates am Gold- und Silberbergbau die Gewerkschaft den Abschluss eines Übereinkommens unter den ihr ursprünglich gestellten Bedingungen abgelehnt habe, worauf in weiteren Verhandlungen eine Einigung auf folgender Grundlage erzielt worden sei:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Die Gewerkschaft überlässt dem Staate ein Drittel ihrer Kuxe um den Preis von 2,5 Millionen K. Dagegen übernimmt der Staat die Verpflichtung, die Kosten für die Ausgestaltung des Werkes nach den vorliegenden Plänen zu tragen. Kaufpreis und Aufwendungen für die Ausgestaltung des Werkes dürfen jedoch zusammen den Betrag von 1,8 Millionen Schweizer Franken nicht überschreiten; ferner darf bei Buchung der staatlichen Zahlungen die Umrechnung in Schweizer Franken zu keinem niedrigeren Kronenkurs als dem vom 26. April d. J. erfolgen.</item>
-                     <item n="2">
-                        <label>2.)</label> Auf das dem Staate überlassene Drittel der Kuxe haben ein Drittel der Stimmen auf dem Gewerkentage und nicht mehr als ein Drittel der Gesamtsumme künftig ausgeschriebener Zubußen zu entfallen. Dem Staate wird ein Drittel der Stellen im Gewerkenrate, darunter die Stelle eines der beiden Vizepräsidenten, zur Besetzung überlassen.</item>
-                     <item n="3">
-                        <label>3.)</label> Die Geschäftsführung der Gewerkschaft unter Beteiligung des Staates beginnt am 1. Jän<pb facs="krp-0189_r-0007"/>ner 1920. Mit 31. Dezember 1919 sind alle Schulden der Gewerkschaft glattzustellen, soweit sie den Wert der gewerkschaftlichen Fahrnisse übersteigen.</item>
-                     <item n="4">
-                        <label>4.)</label> Die staatlichen Kuxscheine werden bei einer einvernehmlich zu bestimmenden Bank hinterlegt. Solange der Staat die übernommenen Verpflichtungen nicht vollständig erfüllt hat, kann er nur mit Zustimmung des Gewerkenrates über seine Kuxe verfügen. Diese Zustimmung muss aber nach Maßgabe und im Verhältnisse der vom Staate geleisteten Zahlungen erteilt werden.</item>
-                     <item n="5">
-                        <label>5.)</label> Der Plan zur Ausgestaltung des Werkes kann geändert werden, wenn es zweckmäßig erscheint. Beschließt jedoch der Gewerkenrat Änderungen gegen die Stimmen der Vertreter des Staates, so muss auf deren Verlangen durch ein einvernehmlich zu bestimmendes Schiedsgericht entschieden werden, ob und wie weit die dadurch bedingten Auslagen in den Rahmen der zugesicherten staatlichen Aufwendungen fallen. Dasselbe gilt für den Fall, dass vom Staate beigestellte Geldmittel gegen den Einspruch der staatlichen Vertreter in einer nach deren Ansicht widmungs- oder zweckwidrigen Weise verwendet werden.</item>
-                     <item n="6">
-                        <label>6.)</label> Vom jährlichen Reingewinn sind zunächst mindestens 10 % einem Reservefonds zuzuführen, bis dieser seine statutarische Mindesthöhe erreicht hat. Vom Rest werden 10 % des buchmäßigen Anlagekapitals gleichmäßig auf alle <pb facs="krp-0189_r-0008"/>Kuxe verteilt. Hierauf werden die statutenmäßigen Tantiemen ausgeschieden. Vom etwa verbleibenden Überschuss wird die eine Hälfte und von der anderen Hälfte höchstens ein Betrag in der Höhe der im betreffenden Geschäftsjahre vorgeschriebenen Erwerbsteuer samt Zuschlägen gleichmäßig auf alle Kuxe verteilt, wenn nicht der Gewerkentag eine andere Verwendung beschließt. Übersteigt die Hälfte des Überschusses die Erwerbsteuer samt Zuschlägen, so wird der nach der Verteilung noch verbleibende Rest so lange einer besonderen Steuerreserve zugewiesen, bis diese die Höhe von 20 Millionen K erreicht, dann aber dem Staate ausbezahlt. Ist die Hälfte des Überschusses kleiner als die Erwerbsteuer samt Zuschlägen, so ist der Fehlbetrag der Steuerreserve zu entnehmen und dem verteilungsfähigen Reingewinn zuzuschlagen. Eine Wiederauffüllung der durch solche Entnahmen verbrauchten Steuerreserve findet nicht statt, im Falle der Auflösung der Gewerkschaft fällt sie dem Staate zu.</item>
-                     <item n="7">
-                        <label>7.)</label> Die Gewerkschaft verpflichtet sich, dem Staate die ehemals dem Moritz Bunau-Varilla gehörigen Freischürfe und Grubenmassen samt Zugehör gegen Ersatz der für ihre Erwerbung ausgelegten Kosten zu überlassen, wenn die Reparationskommission verlangen sollte, dass Burnau-Varilla wieder in diesen Besitz eingesetzt werde.</item>
-                     <item n="8">
-                        <label>8.)</label> Mit Rücksicht auf die geänderten Ver<pb facs="krp-0189_r-0009"/>hältnisse werden die Gewerkschaftsstatuten einvernehmlich mit der Staatsverwaltung entsprechend abgeändert und ergänzt.</item>
+                     <item n="1"><label>1.)</label> Die Gewerkschaft überlässt dem Staate ein Drittel ihrer Kuxe um den Preis von 2,5 Millionen K. Dagegen übernimmt der Staat die Verpflichtung, die Kosten für die Ausgestaltung des Werkes nach den vorliegenden Plänen zu tragen. Kaufpreis und Aufwendungen für die Ausgestaltung des Werkes dürfen jedoch zusammen den Betrag von 1,8 Millionen Schweizer Franken nicht überschreiten; ferner darf bei Buchung der staatlichen Zahlungen die Umrechnung in Schweizer Franken zu keinem niedrigeren Kronenkurs als dem vom 26. April d. J. erfolgen.</item>
+                     <item n="2"><label>2.)</label> Auf das dem Staate überlassene Drittel der Kuxe haben ein Drittel der Stimmen auf dem Gewerkentage und nicht mehr als ein Drittel der Gesamtsumme künftig ausgeschriebener Zubußen zu entfallen. Dem Staate wird ein Drittel der Stellen im Gewerkenrate, darunter die Stelle eines der beiden Vizepräsidenten, zur Besetzung überlassen.</item>
+                     <item n="3"><label>3.)</label> Die Geschäftsführung der Gewerkschaft unter Beteiligung des Staates beginnt am 1. Jän<pb facs="krp-0189_r-0007"/>ner 1920. Mit 31. Dezember 1919 sind alle Schulden der Gewerkschaft glattzustellen, soweit sie den Wert der gewerkschaftlichen Fahrnisse übersteigen.</item>
+                     <item n="4"><label>4.)</label> Die staatlichen Kuxscheine werden bei einer einvernehmlich zu bestimmenden Bank hinterlegt. Solange der Staat die übernommenen Verpflichtungen nicht vollständig erfüllt hat, kann er nur mit Zustimmung des Gewerkenrates über seine Kuxe verfügen. Diese Zustimmung muss aber nach Maßgabe und im Verhältnisse der vom Staate geleisteten Zahlungen erteilt werden.</item>
+                     <item n="5"><label>5.)</label> Der Plan zur Ausgestaltung des Werkes kann geändert werden, wenn es zweckmäßig erscheint. Beschließt jedoch der Gewerkenrat Änderungen gegen die Stimmen der Vertreter des Staates, so muss auf deren Verlangen durch ein einvernehmlich zu bestimmendes Schiedsgericht entschieden werden, ob und wie weit die dadurch bedingten Auslagen in den Rahmen der zugesicherten staatlichen Aufwendungen fallen. Dasselbe gilt für den Fall, dass vom Staate beigestellte Geldmittel gegen den Einspruch der staatlichen Vertreter in einer nach deren Ansicht widmungs- oder zweckwidrigen Weise verwendet werden.</item>
+                     <item n="6"><label>6.)</label> Vom jährlichen Reingewinn sind zunächst mindestens 10 % einem Reservefonds zuzuführen, bis dieser seine statutarische Mindesthöhe erreicht hat. Vom Rest werden 10 % des buchmäßigen Anlagekapitals gleichmäßig auf alle <pb facs="krp-0189_r-0008"/>Kuxe verteilt. Hierauf werden die statutenmäßigen Tantiemen ausgeschieden. Vom etwa verbleibenden Überschuss wird die eine Hälfte und von der anderen Hälfte höchstens ein Betrag in der Höhe der im betreffenden Geschäftsjahre vorgeschriebenen Erwerbsteuer samt Zuschlägen gleichmäßig auf alle Kuxe verteilt, wenn nicht der Gewerkentag eine andere Verwendung beschließt. Übersteigt die Hälfte des Überschusses die Erwerbsteuer samt Zuschlägen, so wird der nach der Verteilung noch verbleibende Rest so lange einer besonderen Steuerreserve zugewiesen, bis diese die Höhe von 20 Millionen K erreicht, dann aber dem Staate ausbezahlt. Ist die Hälfte des Überschusses kleiner als die Erwerbsteuer samt Zuschlägen, so ist der Fehlbetrag der Steuerreserve zu entnehmen und dem verteilungsfähigen Reingewinn zuzuschlagen. Eine Wiederauffüllung der durch solche Entnahmen verbrauchten Steuerreserve findet nicht statt, im Falle der Auflösung der Gewerkschaft fällt sie dem Staate zu.</item>
+                     <item n="7"><label>7.)</label> Die Gewerkschaft verpflichtet sich, dem Staate die ehemals dem Moritz Bunau-Varilla gehörigen Freischürfe und Grubenmassen samt Zugehör gegen Ersatz der für ihre Erwerbung ausgelegten Kosten zu überlassen, wenn die Reparationskommission verlangen sollte, dass Burnau-Varilla wieder in diesen Besitz eingesetzt werde.</item>
+                     <item n="8"><label>8.)</label> Mit Rücksicht auf die geänderten Ver<pb facs="krp-0189_r-0009"/>hältnisse werden die Gewerkschaftsstatuten einvernehmlich mit der Staatsverwaltung entsprechend abgeändert und ergänzt.</item>
                   </list>
                   <p>Zur Klarstellung der Bedeutung und der Aussichten des Unternehmens führt Redner an, dass die Gewerkschaft Rathausberg 62 ha verliehene Grubenfelder und 359 Freischürfe besitze, welche den größten Teil der bekannten Goldvorkommen in den Hohen Tauern decken. Durch die Aufschlüsse der Gewerkschaft Rathausberg in den letzten Jahren seien Gänge nachgewiesen worden, die nach vorsichtiger Berechnung und Schätzung auf der Nordseite des Tauernkammes über die Talsohle allein noch mindestens 420.000 t Erze mit einem Goldgehalt von rund 50.000 kg enthalten. Es erscheine somit zweifellos die Grundlage für einen Großbetrieb von jahrzehntelanger Dauer gegeben.</p>
                   <p>Die Pläne zur Ausgestaltung des Betriebes, wie sie den abzuschließenden Übereinkommen zu Grunde liegen, sehen die Errichtung von Anlagen zur täglichen Gewinnung und Verarbeitung von 100 t Hauwerk vor, was einer Jahreserzeugung von 300 kg Gold und 1.500 kg Silber entspricht. Der Wert dieses Ausbringens an Edelmetallen würde bei Annahme eines Goldpreises von 70.000 K (jetziger Marktpreis 137.000 K) und eines Silberpreises von 5.000 K für das kg rund 28 ½ Millionen K betragen. Demgegenüber werden die Gestehungskosten erfahrungsgemäß keinesfalls mehr als die Hälfte des Einlösewertes ausmachen.</p>
-                  <p>
-                     <pb facs="krp-0189_r-0010"/>Das Unternehmen biete demnach günstige Aussichten. Es sei also aus staatswirtschaftlichen Gründen geboten, dass sich der Staat an diesem einzigen hoffnungsvollen Goldbergbau Österreichs beteilige und einen unmittelbaren Einfluss auf seine Leitung und die Verwertung der gewonnenen Edelmetalle sichere; dies umso mehr, weil sonst der Bergbau in ausländischen Besitz übergehen könne und dann nicht nur das gewonnene Gold und Silber selbst, sondern auch die erzielten Betriebsgewinne ins Ausland abfließen würden.</p>
+                  <p><pb facs="krp-0189_r-0010"/>Das Unternehmen biete demnach günstige Aussichten. Es sei also aus staatswirtschaftlichen Gründen geboten, dass sich der Staat an diesem einzigen hoffnungsvollen Goldbergbau Österreichs beteilige und einen unmittelbaren Einfluss auf seine Leitung und die Verwertung der gewonnenen Edelmetalle sichere; dies umso mehr, weil sonst der Bergbau in ausländischen Besitz übergehen könne und dann nicht nur das gewonnene Gold und Silber selbst, sondern auch die erzielten Betriebsgewinne ins Ausland abfließen würden.</p>
                   <p>Redner erbitte sohin einvernehmlich mit dem Staatssekretär für Finanzen die Ermächtigung des Kabinettsrates, die bereits grundsätzlich beschlossene Beteiligung des Staates an den Unternehmen der Gewerkschaft Rathausberg unter den neu vereinbarten Bedingungen durchzuführen.</p>
                   <p>Der Kabinettsrat erteilt die erbetene Ermächtigung.</p>
                </div>
@@ -415,9 +375,7 @@
                   <p>Nach dem Naturalleistungsprinzipe sorge die neue Einrichtung durch entsprechende Maßnahmen (Vereinbarungen mit Ärzten, Apotheken, Krankenhäusern, Heilstätten, Sanatorien, auch durch Errichtung solcher Anstalten) dafür, dass die Leistungen jedem Angestellten im Bedarfsfalle unentgeltlich zur Verfügung stehen. Grundsätzlich soll aber kein Zwang bestehen, von den Heileinrichtungen Gebrauch zu machen, sondern jedem freigegeben sein, den Arzt seiner Wahl zu Rate zu ziehen oder die ihm passende Pflege aufzusuchen. In diesen Fällen und wenn Vertragsärzte oder entsprechende Heilseinrichtungen nicht zur Verfügung stehen, werden die Auslagen nach bestimmten Ansätzen vergütet, die dem bei Inan<pb facs="krp-0189_r-0014"/>spruchnahme der Naturalleistungen wahrscheinlich erwachsenen Aufwand entsprechen. Honorarverträge mit den Ärzten liegen noch nicht vor; es bestehe vielmehr die Absicht, sie erst nach der Erlassung des Gesetzes abzuschließen, da angenommen werden könne, dass sich in diesem Zeitpunkte mit der Ärzteschaft voraussichtlich leichter als jetzt eine Übereinkunft werde erzielen lassen.</p>
                   <p>Um den Wünschen des Staatsamtes für Finanzen Rechnung zu tragen, haben die §§ 3 Abs. 2 Z. 1 und 3, § 4 Abs. 2–4, § 14 Abs. 2, § 16 Abs. 2 und § 33 Abs. 3 nachträglich noch entsprechende Abänderungen erfahren; nur über den § 3 Abs. 2 Z. 1 sei in der Richtung keine Einigung erzielt worden, dass das Staatsamt für Finanzen statt der dort vorgesehenen Frist von sechs Monaten eine solche von zwölf Monaten verlange, damit die mit einem männlichen Versicherten im gemeinsamen Haushalt lebende Person, die ihm ohne Entgelt die Wirtschaft führt, Angehörige der Anstalt werde. Redner schlage als Kompromiss vor, diese Frist mit neun Monaten zu bemessen.</p>
                   <p>Nach einer kurzen Debatte, an welcher sich Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> und Unterstaatssekretär Dr. <hi rend="#letterspaced">Ellenbogen</hi> beteiligen, beschließt der Kabinettsrat, der Einbringung des Gesetzentwurfes in der Nationalversammlung mit der Änderung zuzustimmen, dass die Frist in § 3 Abs. 2 Z. 1 mit acht Monaten festgesetzt werde.</p>
-                  <p>
-                     <pb facs="krp-0189_r-0015"/>
-                  </p>
+                  <p><pb facs="krp-0189_r-0015"/></p>
                </div>
                <div type="top" xml:id="krp-0189_top07">
                   <head>
@@ -431,8 +389,7 @@
                   <p>Diese Reform werde auch Anlass zu der Erwägung bieten, ob die Bezeichnung „Stadt“ – der Titel „Markt“ könnte wohl fallen gelassen werden – in Hinkunft nicht etwa kraft positiver gesetzlicher Vorschrift allen Gemeinden zugestanden werden solle, die ihre Verwaltungsorganisation nach gewissen, für größere oder wirtschaftlich bedeutendere Gemeinden vorzusehenden besonderen Grundsätzen einrichten.</p>
                   <p>Bis zur Durchführung dieser Reform sei allerdings zu erwarten, dass der Wunsch nach Erhebung zum Markte oder zur Stadt von einzelnen Ortschaften immer wieder mit Nachdruck zur Geltung gebracht werden wird.</p>
                   <p>Sollte also der Kabinettsrat der Ansicht sein, dass derartige Ansuchen bis auf weiteres nicht grundsätzlich abzulehnen sind, so stelle der sprechende Staatssekretär den Antrag, der Kabinettsrat wolle die Erhebung des Marktes Gleisdorf zur Stadt beschließen und in der Folge der neuen Stadt über ein allfälliges Ansuchen auch die Führung eines bestimmten Wappens gestatten.</p>
-                  <p>
-                     <pb facs="krp-0189_r-0017"/>Die Kompetenz der Staatsregierung zur Beschlussfassung im Gegenstande gründe sich darauf, dass es sich um die Ausübung eines ehemals dem Kaiser zugestandenen Rechtes handle, das nicht unter die dem Präsidenten der Nationalversammlung vorbehaltenen Rechte subsumiert werden könne.</p>
+                  <p><pb facs="krp-0189_r-0017"/>Die Kompetenz der Staatsregierung zur Beschlussfassung im Gegenstande gründe sich darauf, dass es sich um die Ausübung eines ehemals dem Kaiser zugestandenen Rechtes handle, das nicht unter die dem Präsidenten der Nationalversammlung vorbehaltenen Rechte subsumiert werden könne.</p>
                   <p>Nach kurzen Bemerkungen des <hi rend="#letterspaced">Vorsitzenden</hi> über die Notwendigkeit einer Reform der Gemeindeverfassung und -verwaltung beschließt der Kabinettsrat, vorderhand die Möglichkeit der Erhebung von Märkten zu Städten noch offen zu halten und genehmigt sohin den Antrag des Staatssekretärs für Inneres und Unterricht.</p>
                </div>
                <div type="top" xml:id="krp-0189_top08">
@@ -445,25 +402,16 @@
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> verweist darauf, dass infolge der Austrifizierung der Liquidierung die bestandene Vergleichskommission für laufende Militärlieferungsverträge außer Tätigkeit gesetzt wurde. Die damit verbundene Einstellung der Auszahlungen auf die Forderungen an den bestandenen gemeinsamen Heeresetat habe zahlreiche an den Militärlieferungen beteiligt gewesene Industrien in eine schwierige Lage gebracht, sodass sich der Leiter des Militärliquidierungsamtes zu Bemühungen veranlasst gesehen habe, durch Vereinbarungen mit Ungarn zu einer Neuorganisation der Vergleichskommission für laufende Militärlieferungsver<pb facs="krp-0189_r-0018"/>träge, die sich im Wesen durchaus bewährt habe, zu gelangen. Nach diesen Vereinbarungen hätte an die Stelle des Pkt. VII der vom Kabinettsrate mit Beschluss vom 23. März l. J. genehmigten provisorischen Vereinbarung zwischen Österreich und Ungarn bezüglich der Liquidierung der militärischen Zentralstellen folgende Bestimmungen zu treffen:</p>
                   <p>Hinsichtlich der Vergleichskommission für laufende Militärlieferungsverträge kommen die österreichische und die ungarische Regierung über nachstehende Grundzüge der Organisation überein:</p>
                   <list>
-                     <item n="1">
-                        <label>1.)</label> Es werden drei Senate geschaffen, mit je einem österreichischen Vorsitzenden und je einem ungarischen und einem österreichischen Beisitzer. Diese Senate sind kompetent zur Vermittlung der Vergleiche mit Heereslieferanten, die ihren Sitz und Betrieb in dem heutigen Österreich oder dem heutigen Ungarn haben. Kommt ein Vergleich mit einer Firma, die Sitz und Betrieb in einem anderen Nationalstaat hat, zur Verhandlung, so ergänzt sich der betreffende Dreiersenat durch Beziehung eines vom betreffenden Nationalstaat zu designierenden Beisitzers; in diesem Falle hat der österreichische Vorsitzende kein Stimmrecht, sondern fungiert nur als Verhandlungsleiter. In allen Fällen ist Einstimmigkeit der Votanten erforderlich.</item>
+                     <item n="1"><label>1.)</label> Es werden drei Senate geschaffen, mit je einem österreichischen Vorsitzenden und je einem ungarischen und einem österreichischen Beisitzer. Diese Senate sind kompetent zur Vermittlung der Vergleiche mit Heereslieferanten, die ihren Sitz und Betrieb in dem heutigen Österreich oder dem heutigen Ungarn haben. Kommt ein Vergleich mit einer Firma, die Sitz und Betrieb in einem anderen Nationalstaat hat, zur Verhandlung, so ergänzt sich der betreffende Dreiersenat durch Beziehung eines vom betreffenden Nationalstaat zu designierenden Beisitzers; in diesem Falle hat der österreichische Vorsitzende kein Stimmrecht, sondern fungiert nur als Verhandlungsleiter. In allen Fällen ist Einstimmigkeit der Votanten erforderlich.</item>
                   </list>
-                  <p>
-                     <pb facs="krp-0189_r-0019"/>
-                  </p>
+                  <p><pb facs="krp-0189_r-0019"/></p>
                   <list>
-                     <item n="1">
-                        <label>2.)</label> Im erstangeführten Falle (nur österreichische und ungarische Beisitzer) kann gegen das Votum des ungarischen Beisitzers eine Vergleichsproposition und ein Vergleich nur zu alleinigen Lasten des österreichischen Staates zustandekommen.</item>
-                     <item n="2">
-                        <label>3.)</label> Dem österreichischen Leiter des Büros der Vergleichskommission wird ein ungarischer Stellvertreter beigegeben.</item>
-                     <item n="3">
-                        <label>4.)</label> Die feststellenden Kommissionen des Büros der Vergleichskommission bestehen immer mindestens aus zwei Mitgliedern, doch wird nach der Wichtigkeit des Falles die Kommission entsprechend erweitert.</item>
-                     <item n="4">
-                        <label>5.)</label> Das Büro der Vergleichskommission wird Kommissionierungen in Ungarn tunlichst im Zusammenarbeiten mit den dort amtierenden Kommissionen der ungarischen Zentralstellen vornehmen.</item>
-                     <item n="5">
-                        <label>6.)</label> Im Falle der Notwendigkeit einer selbstständigen Kommissionierung haben sich die Organe des Büros der Vergleichskommission hinsichtlich etwaiger gegenüber den Feststellungen der ungarischen Kommission sich ergebenden Divergenzen mit dieser Kommission auseinanderzusetzen. Dem ungarischen Liquidierungsamte in Wien steht es frei, an den Kommissionierungen Österreichs sowie in den übrigen Nationalstaaten durch amtliche Fachorgane teilzunehmen.</item>
-                     <item n="6">
-                        <label>7.)</label> Eine Abschrift des für die Verhandlung vor dem Senate bestimmten Referates <pb facs="krp-0189_r-0020"/>ist dem ungarischen Liquidierungsamte in Wien in der Regel 14 Tage vor dem Verhandlungstermin zuzustellen.</item>
+                     <item n="1"><label>2.)</label> Im erstangeführten Falle (nur österreichische und ungarische Beisitzer) kann gegen das Votum des ungarischen Beisitzers eine Vergleichsproposition und ein Vergleich nur zu alleinigen Lasten des österreichischen Staates zustandekommen.</item>
+                     <item n="2"><label>3.)</label> Dem österreichischen Leiter des Büros der Vergleichskommission wird ein ungarischer Stellvertreter beigegeben.</item>
+                     <item n="3"><label>4.)</label> Die feststellenden Kommissionen des Büros der Vergleichskommission bestehen immer mindestens aus zwei Mitgliedern, doch wird nach der Wichtigkeit des Falles die Kommission entsprechend erweitert.</item>
+                     <item n="4"><label>5.)</label> Das Büro der Vergleichskommission wird Kommissionierungen in Ungarn tunlichst im Zusammenarbeiten mit den dort amtierenden Kommissionen der ungarischen Zentralstellen vornehmen.</item>
+                     <item n="5"><label>6.)</label> Im Falle der Notwendigkeit einer selbstständigen Kommissionierung haben sich die Organe des Büros der Vergleichskommission hinsichtlich etwaiger gegenüber den Feststellungen der ungarischen Kommission sich ergebenden Divergenzen mit dieser Kommission auseinanderzusetzen. Dem ungarischen Liquidierungsamte in Wien steht es frei, an den Kommissionierungen Österreichs sowie in den übrigen Nationalstaaten durch amtliche Fachorgane teilzunehmen.</item>
+                     <item n="6"><label>7.)</label> Eine Abschrift des für die Verhandlung vor dem Senate bestimmten Referates <pb facs="krp-0189_r-0020"/>ist dem ungarischen Liquidierungsamte in Wien in der Regel 14 Tage vor dem Verhandlungstermin zuzustellen.</item>
                   </list>
                   <p>Für diese Grundzüge der Neuorganisation würde das ungarische Liquidierungsamt auch die Zustimmung der ungarischen Regierung erwirken, worauf dann die formelle Festlegung dieser Abänderung des provisorischen Übereinkommens im diplomatischen Wege zu erfolgen hätte.</p>
                   <p>Die gewählte Konstruktion biete den Vorteil, dass im Interesse der durch die Sistierung der Verhandlungen der Vergleichskommission schwer in Mitleidenschaft gezogenen österreichischen und ungarischen Industrie die Verhandlungen der für österreichische und ungarische Forderungen zuständigen Senate sofort in wenigen Tagen aufgenommen werden könnten, ohne dass erst äußerst langwierige und zum Teil wohl hoffnungslose Verhandlungen mit sämtlichen Nationalstaaten gepflogen werden müssten. Überdies werde die Mitwirkung des nach dem Territorialprinzip der Passivliquidierung meist interessierten Nationalstaates bei Vergleichen andersnationaler Gläubiger nicht unmöglich gemacht und damit auch einem diesbezüglichen Wunsche der tschechoslowakischen Regierung Rechnung getragen. Verweigere einer der anderen Nationalstaaten die Beteiligung eines eigenen Vertreters bei den Verhandlungen von Vergleichen seiner Konna<pb facs="krp-0189_r-0021"/>tionalen, so mache er die Erledigung dieser Vergleichsfälle einfach unmöglich oder müsse sie im eigenen Wirkungskreise durchführen, in welchem Falle sich sowohl Österreich als auch Ungarn völlig freie Hand hinsichtlich der eventuellen künftigen Anrechnung der Vergleichssumme aus Reparationskonto wahren.</p>
@@ -503,7 +451,7 @@
                      </label>
                   </head>
                   <p>Staatssekretär Dr. <hi rend="#letterspaced">Reisch</hi> führt aus, dass im Oktober 1919 dem zum Gemeinderat der Landeshauptstadt Graz gewählten Amtsdiener (später Unterbeamten) Adolf Schönemann mit Rücksicht, darauf, dass er in mehreren Ausschüssen des Gemeinderates im öffentlichen Interesse gelegene Agenden zu besorgen habe, aufgrund des § 175 Abs. 1 Dienstpragmatik ein Urlaub von sechs Monaten bei Belassung der vollen Bezüge und Anrechnung der Urlaubszeit für die Vorrückung in höhere Bezüge und für die Bemessung des Ruhegenusses bewilligt wurde.</p>
-                  <p>Über ein weiteres Ansuchen Schönemanns um Urlaubsverlängerung sei ihm in Würdigung derselben Gründe eine Urlaubsverlängerung in der Dauer von sechs Monaten gewährt, diese jedoch gemäß der imperativen Anordnung des § 175 Abs. 2 Dienstpragmatik an die Bedingung geknüpft worden, dass für den Zeitraum des über<pb facs="krp-0189_r-0028"/>die ersten sechs Monate verlängertem Urlaubes die Bezüge entfallen, und die Anrechnung dieses Zeitraumes für die Vorrückung in höhere Bezüge und für die Bemessung des Ruhegenusses nicht stattfinde.</p>
+                  <p>Über ein weiteres Ansuchen Schönemanns um Urlaubsverlängerung sei ihm in Würdigung derselben Gründe eine Urlaubsverlängerung in der Dauer von sechs Monaten gewährt, diese jedoch gemäß der imperativen Anordnung des § 175 Abs. 2 Dienstpragmatik an die Bedingung geknüpft worden, dass für den Zeitraum des über <pb facs="krp-0189_r-0028"/>die ersten sechs Monate verlängertem Urlaubes die Bezüge entfallen, und die Anrechnung dieses Zeitraumes für die Vorrückung in höhere Bezüge und für die Bemessung des Ruhegenusses nicht stattfinde.</p>
                   <p>Der Bürgermeister der Landeshauptstadt Graz habe nun bei dem sprechenden Staatssekretär eine Abänderung dieser Entscheidung in dem Sinne befürwortet, dass Schönemann der erbetene Urlaub unter Belassung seiner Gebühren bewilligt werde, da es sich nicht um die Ausübung eines bloßen Gemeinderatsmandates, sondern um eine weitergehende, mit diesen zusammenhängende, Zeit und Arbeitskraft vollauf in Anspruch nehmende amtliche Tätigkeit im öffentlichen Interesse handle. Schönemann gehöre nämlich als Vertreter der Christlichsozialen Partei dem dreigliedrigen Arbeitsausschusse des gemeinderätlichen Wohnungsfürsorgeausschusses an, der zur Beschlussfähigkeit bei seinen täglichen Sitzungen die Anwesenheit aller drei Mitglieder erfordere, sodass Schönemann täglich durch Sitzungen, Abwicklung des Parteienverkehres und Teilnahme an Kommissionen von den Geschäften des Wohnungsamtes in Anspruch genommen sei. Infolge der katastrophalen Wohnungsnot und des Ansturmes der durch den Zuzug vertriebener Deutscher aus dem Süden noch vergrößerten Zahl der Wohnungssuchenden gehöre das Wohnungsamt <pb facs="krp-0189_r-0029"/>in Graz gegenwärtig zu den am stärksten belasteten Ämtern, und würde im Falle eines Wechsels in der Person des schon eingearbeiteten Schönemanns eine empfindliche Schädigung des Dienstbetriebes erleiden. Auch lege die Christlichsoziale Partei Wert darauf, dass Schönemann im Arbeitsausschusse verbleibe. Das demokratische Prinzip erfordere, dass Gemeinderäte, und zwar solche aller Parteien, im Wohnungsamte ständig mitwirken. Schönemann könne aber auf seinen Gehalt als Staatsbediensteter nicht verzichten und die Gemeinde sei nicht in der Lage, ihm den auf die Dauer des Urlaubes entfallenden Gehalt zu ersetzen.</p>
                   <p>Redner bemerkt hiezu, dass bereits in einzelnen Fällen staatlichen Arbeitern Urlaube unter Belastung der vollen Bezüge behufs Ausübung der Funktion eines Bürgermeisters oder Gemeindeausschusses bewilligt wurden, wenn die betreffenden Normativbestimmungen eine längere Beurlaubung gegen Fortbezug dar Entlohnung zuließen. Auch bei Beamten erscheine eine längere Beurlaubung ohne Einstellung der Dienstbezüge nach § 44 Dienstpragmatik zulässig, wenn sie aus öffentlichen Rücksichten wünschenswert sei. Bei Unterbeamten und Dienern dagegen fehle für die Belassung der Bezüge während eines sechs Monate übersteigenden Urlaubes die <pb facs="krp-0189_r-0030"/>gesetzliche Basis, da eine dem § 44 Dienstpragmatik analoge Bestimmung in den für Diener und Unterbeamte geltenden § 175 Dienstpragmatik fehle.</p>
                   <p>Die Frage der Behandlung von Staatsangestellten, die zu Funktionären einer Gemeinde gewählt wurden, habe den Kabinettsrat bereits in den Sitzungen vom 15. Juli 1919 und vom 28. Oktober 1919 beschäftigt, jedoch noch keine prinzipielle Regelung erfahren.</p>
@@ -522,8 +470,7 @@
                      </label>
                   </head>
                   <p>Ministerialrat Dr. <hi rend="#letterspaced">Wilfling</hi> berichtet, dass die öffentlichen Angestellten in Vöslau-Gainfarn wegen der besonderen Teuerung am Dienstorte die Forderung nach Gleichstellung in der Orts- und Teuerungszulage mit Wien, sowie die Gewährung einer besonderen Kurortezulage in der Form einer Verdopplung der gleitenden Zulage erhoben haben. Ein ähnliches Begehren liege auch von Seite der Angestellten an der Südbahnstrecke bis Semmering, einschließlich Berndorf, und an der Wiener Lokalbahn bezüglich der Dienstorte des ganzen Wiener Neustädter Feldes vor. Für den Fall einer Ablehnung werde die Anwendung der schärfsten Mittel zur Durchsetzung der Wünsche angekündigt.</p>
-                  <p>
-                     <pb facs="krp-0189_r-0033"/>Redner fügt bei, dass die Einreihung von Dienstorten in die Ortszulagenklasse Wien nach dem Besoldungsübergangsgesetze unmöglich sei und die Nationalversammlung diese Möglichkeit auch in den beiden Nachträgen zum Besoldungsübergangsgesetze mit bewusster Absicht ausgeschaltet habe. Den durch die Teuerungsverhältnisse an der Südbahn gewiss berechtigten Forderungen könnte daher nur in der Form besonderer Zulagen Rechnung getragen werden; dabei müssten jedoch entsprechende Abstufungen gemacht und Sicherungen geschaffen werden, um Beispielsfolgerungen anderer Orte, namentlich von Kurorten in anderen Gegenden auszuschließen und den Abbau bei Wiederkehr günstigerer Lebensbedingungen offen zu halten.</p>
+                  <p><pb facs="krp-0189_r-0033"/>Redner fügt bei, dass die Einreihung von Dienstorten in die Ortszulagenklasse Wien nach dem Besoldungsübergangsgesetze unmöglich sei und die Nationalversammlung diese Möglichkeit auch in den beiden Nachträgen zum Besoldungsübergangsgesetze mit bewusster Absicht ausgeschaltet habe. Den durch die Teuerungsverhältnisse an der Südbahn gewiss berechtigten Forderungen könnte daher nur in der Form besonderer Zulagen Rechnung getragen werden; dabei müssten jedoch entsprechende Abstufungen gemacht und Sicherungen geschaffen werden, um Beispielsfolgerungen anderer Orte, namentlich von Kurorten in anderen Gegenden auszuschließen und den Abbau bei Wiederkehr günstigerer Lebensbedingungen offen zu halten.</p>
                   <p>Nach dem Vorschlage des <hi rend="#letterspaced">Vorsitzenden</hi> spricht der Kabinettsrat die grundsätzliche Bereitwilligkeit aus, für die Dienstorte an der Südbahnstrecke und deren Umgebung besondere Teuerungszuwendungen zu gewähren; die Entscheidung über die Einzelheiten wird jedoch einer genaueren Prüfung der Verhältnisse vorbehalten und der Referent des Staatsamtes für Finanzen zunächst beauftragt, mit den Abgeordneten des in Betracht kommenden Gebietes über <pb facs="krp-0189_r-0034"/>Ausmaß und Zeitdauer der Begünstigungen Rücksprache zu pflegen.</p>
                </div>
                <div type="top" xml:id="krp-0189_top12">
@@ -540,8 +487,7 @@
             <div type="stenogramme">
                <div n="1">
                   <head>[KRP, 189, 8. Juni 1920, Stenogramm]</head>
-                  <p>
-                     <pb facs="krp-0189_s01-0001"/>Kabinettsprotokoll Nr. 189 vom 8. Juni 1920</p>
+                  <p><pb facs="krp-0189_s01-0001"/>Kabinettsprotokoll Nr. 189 vom 8. Juni 1920</p>
                   <p>1) </p>
                   <p>Reisch: </p>
                   <p>Ich muss demnächst ein Budgetprovisorium einbringen, weil neues Verwaltungsjahr beginnt. </p>
@@ -576,11 +522,9 @@
                   <p>zur Sprache zu bringen. Finanzamt hat erklärt staatliche Beihilfe im beantragten Ausmaß gewähren zu wollen. Kabinettsrat hat beschlossen, </p>
                   <p>im Kultusamt Aussprache zu veranlassen. Aussprache hat stattgefunden und Ausschuss für Erziehung und Unterricht hat dann einstimmig beschlossen </p>
                   <p>Aushilfen an die Schulerhalter für die Lehrkräfte in nachfolgender Höhe zu verlangen. Dieser Antrag sollte schon heute ins Parlament kommen. </p>
-                  <p>
-                     <pb facs="krp-0189_s01-0002"/>Eigentlich geht aus dem Kabinettsprotokoll hervor, dass der Kabinettsrat diesem Teil der Ausführungen schon zugestimmt hätte. Ich wollte nicht auf </p>
+                  <p><pb facs="krp-0189_s01-0002"/>Eigentlich geht aus dem Kabinettsprotokoll hervor, dass der Kabinettsrat diesem Teil der Ausführungen schon zugestimmt hätte. Ich wollte nicht auf </p>
                   <p>ungefähr eine Erklärung haben. Das Finanzamt hat endgültig bereit erklärt, Beihilfe zuhanden der Schulerhalter flüssig </p>
-                  <p>zu machen. … Bitte auf Ermächtigung nur mit Rücksicht darauf, dass bisher solche Mittelschulen nicht bestehen.<lb/>
-                  </p>
+                  <p>zu machen. … Bitte auf Ermächtigung nur mit Rücksicht darauf, dass bisher solche Mittelschulen nicht bestehen.<lb/></p>
                   <p>Ich lege Wert darauf, dass nur darum diese Aushilfe gegeben wird, weil keine solche Mittelschulen bestehen. Sollten nächstes </p>
                   <p>Jahr solche errichtet werden, dann wäre die Vorbedingung für eine weitere Unterstützung weggefallen und sie würde nicht mehr gegeben werden. </p>
                   <p>Ich bitte um Zustimmung zu der vorgeschlagenen Regelung.</p>
@@ -591,8 +535,7 @@
                   <p>Ellenbogen: </p>
                   <p>Es ist ein gutes Geschäft und die Bedeutung nach anderer Rücksicht erübrigt sich zu erläutern. Kabinettsrat möge beschließen, </p>
                   <p>dass Handel und Finanz, die einvernehmlich den Antrag stellen, ermächtigt werden die grundsätzlich beschlossene Beteiligung unter den vereinbarten Bedingungen </p>
-                  <p>durchzuführen.<lb/>
-                  </p>
+                  <p>durchzuführen.<lb/></p>
                   <p>Genehmigt.</p>
                   <p>4) </p>
                   <p>Ellenbogen: </p>
@@ -612,8 +555,7 @@
                   <p>Die Anforderung entscheidet die Landesregierung, über die Zulässigkeit und über die Höhe der Erhaltung. Ebenso über die </p>
                   <p>Rückforderung.</p>
                   <p>Genehmigt.</p>
-                  <p>
-                     <pb facs="krp-0189_s01-0003"/>6) </p>
+                  <p><pb facs="krp-0189_s01-0003"/>6) </p>
                   <p>Hanusch: </p>
                   <p>Kabinett hatte prinzipiell die Einbringung einer Vorlage beschlossen. Vorlage ist soweit reif und ich </p>
                   <p>unterbreite sie dem Kabinettsrat. Den Bedenken des Finanzamtes wurde Rechnung getragen in der Vorlage bis auf 1 Punkt betreffend. </p>
@@ -639,14 +581,12 @@
                   <p>Reisch: </p>
                   <p>Es ist keine so große Frage, ich stimme 9 Monaten zu.</p>
                   <p>Ellenbogen: </p>
-                  <p>8 Monate – auch in Z.3.<lb/>
-                  </p>
+                  <p>8 Monate – auch in Z.3.<lb/></p>
                   <p>Mit Abänderung ist die Vorlage zur Einbringung genehmigt.</p>
                   <p>7) </p>
                   <p>Eldersch: </p>
                   <p>Gleisdorf</p>
-                  <p>
-                     <pb facs="krp-0189_s01-0004"/>Renner: </p>
+                  <p><pb facs="krp-0189_s01-0004"/>Renner: </p>
                   <p>Es ist wahr, dass mit der Erreichung des Titels einer Stadt nichts geschieht. Unsere Gemeindeordnung ist unverändert geblieben </p>
                   <p>seit dem Jahr 1863. Unsere Gemeindeeinrichtungen sind nicht so sorgfältig wie etwa in Ungarn. </p>
                   <p>Zunächst einmal unterscheiden die Ungarn genau zwischen großen und kleinen Gemeinden und haben für letztere ein einfaches System. Die kleinen </p>
@@ -664,8 +604,7 @@
                   <p>auch gewährt werden müssen, wenn entsprechende Begründung gegeben wird. Für das Wahlverfahren hat es keine Bedeutung mehr.</p>
                   <p>Fink: </p>
                   <p>Bei solcher Bewilligung müsste man vorsorgen, dass nicht neue Forderungen an den Staat herantreten. Die Statutarstädte würden </p>
-                  <p>bei den Überweisungen besonders berücksichtigt werden.<lb/>
-                  </p>
+                  <p>bei den Überweisungen besonders berücksichtigt werden.<lb/></p>
                   <p>Dem Antrag ist stattgegeben.</p>
                   <p>8) </p>
                   <p>Reisch: </p>
@@ -677,11 +616,9 @@
                   <p>und hat dabei durchzusetzen vermögen, dass sie österreichische Funktionäre als Vorstand bekommen, was ein ansehnlicher Erfolg ist. Alle </p>
                   <p>Vergleiche gehen durchs Büro des liquidierenden Militäramtes, so dass hier gegen schädliche Vergleiche eingegriffen werden kann. Ich habe </p>
                   <p>den Herren Vereinbarung mit Ungarn vorzulegen, ich glaube, dass eine Verlesung überflüssig ist. Ich beantrage, dass dieses Übereinkommen </p>
-                  <p>mit Ungarn abgeschlossen werden darf.<lb/>
-                  </p>
+                  <p>mit Ungarn abgeschlossen werden darf.<lb/></p>
                   <p>Ermächtigt, ein Übereinkommen dieser Art mit Ungarn abzuschließen.</p>
-                  <p>
-                     <pb facs="krp-0189_s01-0005"/>9) </p>
+                  <p><pb facs="krp-0189_s01-0005"/>9) </p>
                   <p>Reisch: </p>
                   <p>Beihilfen </p>
                   <p>Wilfling</p>
@@ -716,8 +653,7 @@
                   <p>nationale Momente würden dafür sprechen. Die Justiz hat solchen Bedarf, dass die Leute andernfalls übernommen worden wären.</p>
                   <p>Eldersch: </p>
                   <p>Es wäre ein gefährliches Präjudiz. Wenn jetzt einer pensioniert wird und er die neue Pension behält, so verpflichtet man </p>
-                  <p>
-                     <pb facs="krp-0189_s01-0006"/>sich zur Übernahme der anderen. Es ist das die Anerkennung des Verpflichtungsrechtes zur Weiterzahlung.</p>
+                  <p><pb facs="krp-0189_s01-0006"/>sich zur Übernahme der anderen. Es ist das die Anerkennung des Verpflichtungsrechtes zur Weiterzahlung.</p>
                   <p>Renner: </p>
                   <p>[…]</p>
                   <p>[Ramek:]</p>
@@ -749,8 +685,7 @@
                   <p>Reisch: </p>
                   <p>Die Frage ist von grundsätzlicher Bedeutung, die Frage ist noch offen. Aber es schadet nichts, wenn man aus der </p>
                   <p>Praxis konkreten Fall summiert. Die Sache kann keinen großen Umfang annehmen wenn dann festgehalten wird, dass nur besondere </p>
-                  <p>
-                     <pb facs="krp-0189_s01-0007"/>Funktionen, welche ein dauerndes Amt bedingen, die Weiterzahlung begründet.</p>
+                  <p><pb facs="krp-0189_s01-0007"/>Funktionen, welche ein dauerndes Amt bedingen, die Weiterzahlung begründet.</p>
                   <p>Renner: </p>
                   <p>Es ist die verschiedene Behandlung der Beamten und Diener aufgekommen. Das Gemeinderatsmandat </p>
                   <p>erfordert ja nicht die ganze Arbeitskraft. Hier liegt aber ein besonderer Ausnahmefall vor. Er ist in dieser Verwendung unersetzlich, </p>
@@ -782,8 +717,7 @@
                   <p>Wilfling: </p>
                   <p>Diese Forderung ist im Juni in einer Versammlung in Baden gestellt worden und übermittelt durch eine </p>
                   <p>Abordnung. Bei Nichterfüllung für Mittwoch, den 9. Juni Vollzugsausschusssitzung die schärfsten Mittel zur Durchsetzung vorgeschlagen ist. </p>
-                  <p>
-                     <pb facs="krp-0189_s01-0008"/>Das Bedenkliche an dieser Forderung ist das absolute Verlangen, dass Angestellte an der Südbahnstrecke ausnahmslos, </p>
+                  <p><pb facs="krp-0189_s01-0008"/>Das Bedenkliche an dieser Forderung ist das absolute Verlangen, dass Angestellte an der Südbahnstrecke ausnahmslos, </p>
                   <p>wie aus den Unterschriften ersichtlich ist, nicht nur für die Orte selbst, sondern auch die Umgebung und dass auch Berndorf genannt wird. </p>
                   <p>Eine Gleichstellung dieser Orte mit Wien ist aus den Gründen wie ausgeführt wurde, unmöglich. Da lässt sich nichts machen, </p>
                   <p>das Gesetz ist mit Bewusstsein so gemacht worden, trotz Kenntnis von dem Bestreben anderer Orte. Die Gewährung der </p>
