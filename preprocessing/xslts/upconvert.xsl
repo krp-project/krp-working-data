@@ -124,16 +124,22 @@
   </xsl:template>
 
   <!-- handle underlines and strikethroughs, either individual or combined -->
-  <xsl:template match="tei:hi[contains(@rend, 'underline') and not(contains(@rend, 'strikethrough'))]">
+  <xsl:template match="(tei:hi | tei:seg)[contains(@rend, 'underline') and not(contains(@rend, 'strikethrough'))]">
     <hi rend="#u"><xsl:apply-templates/></hi>
   </xsl:template>
   
-  <xsl:template match="tei:hi[contains(@rend, 'strikethrough') and not(contains(@rend, 'underline'))]">
+  <xsl:template match="(tei:hi | tei:seg)[contains(@rend, 'strikethrough') and not(contains(@rend, 'underline'))]">
     <hi rend="#s"><xsl:apply-templates/></hi>
   </xsl:template>
   
-  <xsl:template match="tei:hi[contains(@rend, 'underline') and contains(@rend, 'strikethrough')]">
+  <xsl:template match="(tei:hi | tei:seg)[contains(@rend, 'underline') and contains(@rend, 'strikethrough')]">
     <hi rend="#u"><hi rend="#s"><xsl:apply-templates/></hi></hi>
+  </xsl:template>
+
+  <!-- transform "superscript" <seg>s into <hi rend="superscript">;
+       loud failure is expected and accepted to draw editors' attention -->
+  <xsl:template match="tei:seg[contains(@rend, 'superscript')]">
+    <hi rend="superscript"><xsl:apply-templates/></hi>
   </xsl:template>
   
   <!-- strip all subscript and small-caps formatting, but preserve content; set to low priority for the benefit of other formatting -->
@@ -153,9 +159,9 @@
   </xsl:template>
   
   <!-- strip seg wrapper inside character-style hi wrapper;
-       leave page markers and transcribers' notes intact -->
+       leave page markers, transcribers' notes, underlines, strikethroughs, superscript intact -->
   <xsl:template match="tei:hi[starts-with(@rend, 'Char_Style_')]/tei:seg
-    [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)')) and not(contains(@rend, 'background(red)'))]">
+    [not(contains(@rend, 'background(green)')) and not(contains(@rend, 'background(yellow)')) and not(contains(@rend, 'background(red)')) and not(contains(@rend, 'underline')) and not(contains(@rend, 'strikethrough')) and not(contains(@rend, 'superscript'))]">
     <xsl:apply-templates/>
   </xsl:template>
   
