@@ -651,6 +651,10 @@
     </list>
   </xsl:template>
 
+  <!-- note: paragraphs that continue a list item in Word (indented to item text,
+       but no list numbering of their own) never become <item>s: TEIGarage outputs them as <p>
+       outside <list>, before starting new <list> (with @n restarting at 1);
+       this template cannot reach them; currently fixed manually in the output XML -->
   <xsl:template match="tei:list[@rend]/tei:item">
     <!-- process item content before looking for tab (so that wrappers get stripped and pagemarkers resolved) -->
     <xsl:variable name="content">
